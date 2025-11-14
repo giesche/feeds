@@ -15,6 +15,6 @@ linkSelector = "h2 a"
 [chesscomNews]
 title = "Chess.com Aktualności"
 url = "https://www.chess.com/pl/news"
-entrySelector = "article.post-preview-component.post-preview-headline"
+entrySelector = "article.post-preview-component"
 titleSelector = "h2 > a.post-preview-title"
 linkSelector = "a.post-preview-title"
