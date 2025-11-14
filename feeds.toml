@@ -1,17 +1,3 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
-
 [chesscomNews]
 title = "Chess.com Aktualności"
 url = "https://www.chess.com/pl/news"
@@ -19,4 +5,5 @@ entrySelector = "article.post-preview-component"
 titleSelector = "h2 > a.post-preview-title"
 linkSelector = "a.post-preview-title"
 dateSelector = "time"
+dateFormat = "yyyy-MM-dd HH:mm"
 dateAttribute = "datetime"
