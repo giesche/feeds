@@ -28,6 +28,7 @@ jobs:
         git config user.email $GITHUB_ACTOR@users.noreply.github.com
         git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
         git fetch --no-recurse-submodules
+        git worktree prune
         git worktree add ./gh-pages gh-pages
         cd gh-pages
         git rm -r .
