@@ -7,3 +7,13 @@ linkSelector = "a.post-preview-title"
 dateSelector = "time"
 dateFormat = "yyyy-MM-dd HH:mm"
 dateAttribute = "datetime"
+
+[certPolska]
+title = "CERT POLSKA"
+url = "https://cert.pl/"
+entrySelector = "li.grid-x"
+titleSelector = "a.post-outer-container > h4"
+linkSelector = "a.post-outer-container"
+dateSelector = "div.top > span:first-child"
+dateFormat = "dd MMMM yyyy"
+dateAttribute = "datetime"
