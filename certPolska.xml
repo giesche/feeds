@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2025-11-14T15:37:07.236Z</updated>
+    <updated>2025-11-14T17:40:10.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Analiza kampanii złośliwego oprogramowania NGate (NFC relay)]]></title>
         <id>https://cert.pl/posts/2025/11/analiza-ngate/</id>
         <link href="https://cert.pl/posts/2025/11/analiza-ngate/"/>
-        <updated>2025-11-03T15:37:06.529Z</updated>
+        <updated>2025-11-14T15:37:06.529Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>03 listopada 2025</span>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[Dawka informacji o cyberzagrożeniach – premiera raportów miesięcznych CERT Polska]]></title>
         <id>https://cert.pl/posts/2025/10/raport-miesieczny-09/</id>
         <link href="https://cert.pl/posts/2025/10/raport-miesieczny-09/"/>
-        <updated>2025-10-15T15:37:06.529Z</updated>
+        <updated>2025-11-14T15:37:06.529Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>15 października 2025</span>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[Jak rozpoznać fałszywe strony internetowe i uniknąć phishingu]]></title>
         <id>https://cert.pl/posts/2025/09/analiza-adresow-stron/</id>
         <link href="https://cert.pl/posts/2025/09/analiza-adresow-stron/"/>
-        <updated>2025-09-17T15:37:06.530Z</updated>
+        <updated>2025-11-14T15:37:06.530Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>17 września 2025</span>
@@ -102,7 +102,7 @@
         <title type="html"><![CDATA[Rekomendacje dla ustanawiania zespołów CSIRT]]></title>
         <id>https://cert.pl/posts/2025/08/rekomendacje-csirt/</id>
         <link href="https://cert.pl/posts/2025/08/rekomendacje-csirt/"/>
-        <updated>2025-08-07T15:37:06.531Z</updated>
+        <updated>2025-11-14T15:37:06.531Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>07 sierpnia 2025</span>
@@ -132,7 +132,7 @@
         <title type="html"><![CDATA[Kampania UNC1151 wykorzystująca podatność w oprogramowaniu Roundcube do kradzieży poświadczeń]]></title>
         <id>https://cert.pl/posts/2025/06/unc1151-kampania-roundcube/</id>
         <link href="https://cert.pl/posts/2025/06/unc1151-kampania-roundcube/"/>
-        <updated>2025-06-05T15:37:06.532Z</updated>
+        <updated>2025-11-14T15:37:06.532Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>05 czerwca 2025</span>
@@ -164,7 +164,7 @@
         <title type="html"><![CDATA[Rozwijamy moje.cert.pl - nowa funkcja już dostępna!]]></title>
         <id>https://cert.pl/posts/2025/05/moje.cert.pl-powiadomienia/</id>
         <link href="https://cert.pl/posts/2025/05/moje.cert.pl-powiadomienia/"/>
-        <updated>2025-05-22T15:37:06.533Z</updated>
+        <updated>2025-11-14T15:37:06.533Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>22 maja 2025</span>
@@ -195,7 +195,7 @@
         <title type="html"><![CDATA[Raport roczny z działalności CERT Polska w 2024 roku]]></title>
         <id>https://cert.pl/posts/2025/04/raport-roczny-2024/</id>
         <link href="https://cert.pl/posts/2025/04/raport-roczny-2024/"/>
-        <updated>2025-04-03T15:37:06.534Z</updated>
+        <updated>2025-11-14T15:37:06.534Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>03 kwietnia 2025</span>
@@ -225,7 +225,7 @@
         <title type="html"><![CDATA[Przegląd kampanii phishingowych z 2024 roku]]></title>
         <id>https://cert.pl/posts/2025/04/przeglad-kampanii-2024/</id>
         <link href="https://cert.pl/posts/2025/04/przeglad-kampanii-2024/"/>
-        <updated>2025-02-04T15:37:06.537Z</updated>
+        <updated>2025-11-14T15:37:06.537Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>02 kwietnia 2025</span>
@@ -256,7 +256,7 @@
         <title type="html"><![CDATA[Meta niedostatecznie realizuje postulaty CERT Polska]]></title>
         <id>https://cert.pl/posts/2025/03/ewaluacja-oczekiwan-wobec-meta/</id>
         <link href="https://cert.pl/posts/2025/03/ewaluacja-oczekiwan-wobec-meta/"/>
-        <updated>2025-03-31T15:37:06.538Z</updated>
+        <updated>2025-11-14T15:37:06.538Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>31 marca 2025</span>
@@ -288,7 +288,7 @@
         <title type="html"><![CDATA[Krytyczne podatności w kontrolerze Ingress-Nginx w Kubernetes]]></title>
         <id>https://cert.pl/posts/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/</id>
         <link href="https://cert.pl/posts/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/"/>
-        <updated>2025-03-25T15:37:06.539Z</updated>
+        <updated>2025-11-14T15:37:06.539Z</updated>
         <content type="html"><![CDATA[<div class="post-top-wrapper">
             <div class="top">
                 <span>25 marca 2025</span>
