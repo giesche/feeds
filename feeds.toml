@@ -50,3 +50,21 @@ titleSelector = "h3.wpPFxnOUGc"
 linkSelector = "a.portal-entry-card"
 dateSelector = "div.jxnowhmyOZ > p:nth-child(2)"
 dateFormat = "dd.MM.yyyy, HH:mm"
+
+[dobreProgramy]
+title = "Dobreprogramy"
+url = "https://www.dobreprogramy.pl/"
+entrySelector = "div.ILap"
+titleSelector = "h2.ILr3 > a"
+linkSelector = "h2.ILr3 > a"
+dateSelector = "div.ILy5 > time"
+dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSX"
+
+[wladcysieci]
+title = "Władcy sieci"
+url = "https://wladcysieci.pl/"
+entrySelector = "article.article-post"
+titleSelector = "h2.post-title > a"
+linkSelector = "h2.post-title > a"
+dateSelector = "time.entry-date.published"
+dateFormat = "yyyy-MM-dd'T'HH:mm:ssXXX"
