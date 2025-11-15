@@ -16,4 +16,37 @@ titleSelector = "a.post-outer-container > h4"
 linkSelector = "a.post-outer-container"
 dateSelector = "div.top > span:first-child"
 dateFormat = "dd MMMM yyyy"
-dateAttribute = "datetime"
+
+[oazapl]
+title = "OAZA PL - aktualności"
+url = "https://www.oaza.pl/aktualnosci/"
+entrySelector = "div.latest-featured-post-small"
+titleSelector = "h3.entry-title > a"
+linkSelector = "h3.entry-title > a"
+
+[katowiceOaza]
+title = "Katowice Oaza"
+url = "https://katowiceoaza.pl/"
+entrySelector = "li.wp-block-post"
+titleSelector = "h2.wp-block-post-title > a"
+linkSelector = "h2.wp-block-post-title > a"
+dateSelector = "div.wp-block-post-date time"
+dateFormat = "yyyy-MM-dd'T'HH:mm:ssXXX"
+
+[archidiecezja]
+title = "Archidiecezja Katowicka"
+url = "https://archidiecezjakatowicka.pl/"
+entrySelector = "div.nspArt.nspCol2 > div"
+titleSelector = "h4.nspHeader > a"
+linkSelector = "h4.nspHeader > a"
+dateSelector = "p.nspInfo1"
+dateFormat = "dd-MM-yyyy"
+
+[centrumXP]
+title = "CentrumXP"
+url = "https://www.centrumxp.pl/aktualnosci/"
+entrySelector = "a.portal-entry-card"
+titleSelector = "h3.wpPFxnOUGc"
+linkSelector = "a.portal-entry-card"
+dateSelector = "div.jxnowhmyOZ > p:nth-child(2)"
+dateFormat = "dd.MM.yyyy, HH:mm"
