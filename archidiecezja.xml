@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-11-15T17:35:47.998Z</updated>
+    <updated>2025-11-16T05:40:10.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[W gmachu Sejmu Śląskiego otwarto wystawę „Pojednanie dla Europy”]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3825-w-gmachu-sejmu-slaskiego-otwarto-wystawe-pojednanie-dla-europy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3825-w-gmachu-sejmu-slaskiego-otwarto-wystawe-pojednanie-dla-europy"/>
+        <updated>2025-11-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-11-2025</p><a href="/o-diecezji/aktualnosci/3825-w-gmachu-sejmu-slaskiego-otwarto-wystawe-pojednanie-dla-europy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-15_plniemnsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3825-w-gmachu-sejmu-slaskiego-otwarto-wystawe-pojednanie-dla-europy" title="W gmachu Sejmu Śląskiego otwarto wystawę „Pojednanie dla Europy”" target="_self">W gmachu Sejmu Śląskiego otwarto wystawę „Pojednanie dla Europy”</a></h4><p class="nspText tleft fnull">W tym roku przypada 60. rocznica tego wyjątkowego w skali światowej gestu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30-lecie Akcji Katolickiej w archidiecezji katowickiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3824-abp-senior-wiktor-skworc-jestescie-piekna-twarza-kosciola</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3818-w-trosce-o-ubogich-spotkanie-organizacji-i-grup-podejmujacych-posluge-wobec-potrzebujacych"/>
         <updated>2025-11-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-11-2025</p><a href="/o-diecezji/aktualnosci/3818-w-trosce-o-ubogich-spotkanie-organizacji-i-grup-podejmujacych-posluge-wobec-potrzebujacych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-09_sdu.nsp-94jpeg" alt="Fot. Rafał Bogacki /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3818-w-trosce-o-ubogich-spotkanie-organizacji-i-grup-podejmujacych-posluge-wobec-potrzebujacych" title="W trosce o ubogich. Spotkanie organizacji i grup podejmujących posługę wobec potrzebujących" target="_self">W trosce o ubogich. Spotkanie organizacji i grup podejmujących posługę wobec potrzebujących</a></h4><p class="nspText tleft fnull">Osoby podejmujące działalność charytatywną spotkały się w niedzielę 9 listopada w Wyższym Śląskim Seminarium Duchownym w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Olszowski: Podejmujmy trud uświęcenia, duchowego odnowienia]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3817-bp-olszowski-podejmujmy-trud-uswiecenia-duchowego-odnowienia</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3817-bp-olszowski-podejmujmy-trud-uswiecenia-duchowego-odnowienia"/>
-        <updated>2025-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">08-11-2025</p><a href="/o-diecezji/aktualnosci/3817-bp-olszowski-podejmujmy-trud-uswiecenia-duchowego-odnowienia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-08_nsp-94.jpg" alt="Fot. Rafał Bogacki /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3817-bp-olszowski-podejmujmy-trud-uswiecenia-duchowego-odnowienia" title="Bp Olszowski: Podejmujmy trud uświęcenia, duchowego odnowienia" target="_self">Bp Olszowski: Podejmujmy trud uświęcenia, duchowego odnowienia</a></h4><p class="nspText tleft fnull">Mieszkańcy dekanatów: Rybnik, Boguszowice, Niedobczyce, Golejów wzięli udział w jubileuszowym spotkaniu w katedrze Chrystusa Króla.
 </p>]]></content>
     </entry>
 </feed>
