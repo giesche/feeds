@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-11-23T05:40:27.024Z</updated>
+    <updated>2025-11-23T17:37:39.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Katowice. Rozpoczęła się międzynarodowa konferencja "Evangelium Vitae"]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae"/>
+        <updated>2025-11-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-11-2025</p><a href="/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-20_apchornsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae" title="Katowice. Rozpoczęła się międzynarodowa konferencja &quot;Evangelium Vitae&quot;" target="_self">Katowice. Rozpoczęła się międzynarodowa konferencja "Evangelium Vitae"</a></h4><p class="nspText tleft fnull">W&nbsp;czwartek 20 listopada rozpoczęła się konferencja z okazji 100-lecia Apostolstwa Chorych.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urodziny abp. Andrzeja Przybylskiego [zapowiedź]]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3830-urodziny-abp-andrzeja-przybylskiego-zapowiedz</id>
@@ -60,13 +68,5 @@
         <updated>2025-11-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-11-2025</p><a href="/o-diecezji/aktualnosci/3824-abp-senior-wiktor-skworc-jestescie-piekna-twarza-kosciola" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-15_ak2nsp-94.png" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3824-abp-senior-wiktor-skworc-jestescie-piekna-twarza-kosciola" title="30-lecie Akcji Katolickiej w archidiecezji katowickiej" target="_self">30-lecie Akcji Katolickiej w archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">W sobotę 15 listopada w kościele pw. Świętych Apostołów Piotra i Pawła w Katowicach Mszy św. przewodniczył abp senior Wiktor Skworc.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-10-2025</p><a href="/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zapowiedzi.2025-10-24_katedraBaner_1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada" title="Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)" target="_self">Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)</a></h4><p class="nspText tleft fnull">Widowisko „Katedra” powstaje jako symboliczne zwieńczenie jubileuszu 100-lecia Archidiecezji Katowickiej
-...</p>]]></content>
     </entry>
 </feed>
