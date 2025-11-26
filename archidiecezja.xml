@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-11-26T05:41:58.400Z</updated>
+    <updated>2025-11-26T17:40:56.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Urodziny abp. Andrzeja Przybylskiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3830-urodziny-abp-andrzeja-przybylskiego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3830-urodziny-abp-andrzeja-przybylskiego"/>
+        <updated>2025-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-11-2025</p><a href="/o-diecezji/aktualnosci/3830-urodziny-abp-andrzeja-przybylskiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-21_zapurabpnsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3830-urodziny-abp-andrzeja-przybylskiego" title="Urodziny abp. Andrzeja Przybylskiego" target="_self">Urodziny abp. Andrzeja Przybylskiego</a></h4><p class="nspText tleft fnull">W środę 26 listopada 61. urodziny obchodzi abp Andrzej Przybylski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zmiany w Instytucie Gość Media]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media</id>
@@ -60,13 +68,5 @@
         <updated>2025-11-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-11-2025</p><a href="/o-diecezji/aktualnosci/3826-katowice-9-swiatowy-dzien-ubogich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025-11-16_sdunsp-94.jpg" alt="Fot. Rafał Bogacki /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3826-katowice-9-swiatowy-dzien-ubogich" title="Katowice. 9. Światowy Dzień Ubogich" target="_self">Katowice. 9. Światowy Dzień Ubogich</a></h4><p class="nspText tleft fnull">W niedzielny poranek wspólnoty i instytucje, które na terenie archidiecezji katowickiej działają na rzecz potrzebujących, spotkały się przed dworcem kolejowym w Katowicach.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Jan Henczel]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3828-sp-ks-jan-henczel</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3828-sp-ks-jan-henczel"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-11-2025</p><a href="/o-diecezji/aktualnosci/3828-sp-ks-jan-henczel" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_Jan_Henczelnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3828-sp-ks-jan-henczel" title="Śp. ks. Jan Henczel" target="_self">Śp. ks. Jan Henczel</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 84 lat oraz w 59. roku kapłaństwa, zmarł śp. ks. Jan Henczel, emerytowany proboszcz parafii Świętego Mikołaja w Łące.
-...</p>]]></content>
     </entry>
 </feed>
