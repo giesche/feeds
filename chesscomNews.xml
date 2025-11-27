@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2025-11-27T05:42:56.340Z</updated>
+    <updated>2025-11-27T17:39:12.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2025-11-26T04:01:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/2025-fide-world-cup-final-dogrywki">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1829970.1d15a4fa.630x354o.4a1e9251e685.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1829970.1d15a4fa.630x354o.4a1e9251e685@2x.png" alt="Javokhir Sindarov najmłodszym zwycięzcą Pucharu Świata FIDE w historii">
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1830624.0d98c159.630x354o.863a7113e5b3.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1830624.0d98c159.630x354o.863a7113e5b3@2x.png" alt="Javokhir Sindarov najmłodszym zwycięzcą Pucharu Świata FIDE w historii">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -52,7 +52,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 26 lis 2025">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025">
       26 lis 2025
     </time>
   
