@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-11-29T05:41:30.240Z</updated>
+    <updated>2025-11-29T17:38:07.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dyspensa w piątek, 5 grudnia]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3841-dyspensa-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3841-dyspensa-2"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-11-2025</p><a href="/o-diecezji/aktualnosci/3841-dyspensa-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/head.abp_przybylski_dyspensansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3841-dyspensa-2" title="Dyspensa w piątek, 5 grudnia" target="_self">Dyspensa w piątek, 5 grudnia</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski udzielił dyspensy od obowiązku zachowania wstrzemięźliwości&nbsp;od pokarmów mięsnych.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kamień Śl. Spotkanie biskupów metropolii górnośląskiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3839-kamien-sl-spotkanie-biskupow-metropolii-gornoslaskiej</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3833-abp-przybylski-byloby-wielkim-smutkiem-chrystusa-krola-gdybysmy-pod-pozorami-jego-krolowania-pielegnowali-podzialy"/>
         <updated>2025-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-11-2025</p><a href="/o-diecezji/aktualnosci/3833-abp-przybylski-byloby-wielkim-smutkiem-chrystusa-krola-gdybysmy-pod-pozorami-jego-krolowania-pielegnowali-podzialy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/904947_ncKG_IMG_0491_83nsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3833-abp-przybylski-byloby-wielkim-smutkiem-chrystusa-krola-gdybysmy-pod-pozorami-jego-krolowania-pielegnowali-podzialy" title="Abp Przybylski: Byłoby wielkim smutkiem Chrystusa Króla, gdybyśmy pod pozorami Jego królowania pielęgnowali podziały" target="_self">Abp Przybylski: Byłoby wielkim smutkiem Chrystusa Króla, gdybyśmy pod pozorami Jego królowania pielęgnowali podziały</a></h4><p class="nspText tleft fnull">Msza św. sprawowana w uroczystość Chrystusa Króla w katowickiej katedrze zwieńczyła obchody Roku Jubileuszowego Archidiecezji Katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katowice. Międzynarodowa konferencja "Evangelium Vitae"]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae"/>
-        <updated>2025-11-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-11-2025</p><a href="/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-20_apchornsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3831-katowice-rozpoczela-sie-miedzynarodowa-konferencja-evangelium-vitae" title="Katowice. Międzynarodowa konferencja &quot;Evangelium Vitae&quot;" target="_self">Katowice. Międzynarodowa konferencja "Evangelium Vitae"</a></h4><p class="nspText tleft fnull">W dniach&nbsp;20-21 listopada odbyła&nbsp;się konferencja z okazji 100-lecia Apostolstwa Chorych.
 </p>]]></content>
     </entry>
 </feed>
