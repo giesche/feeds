@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-03T05:42:16.662Z</updated>
+    <updated>2025-12-03T17:44:24.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[List pasterski Arcybiskupa Metropolity Katowickiego na Adwent 2025]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3842-list-pasterski-arcybiskupa-metropolity-katowickiego-na-adwent-2025</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3842-list-pasterski-arcybiskupa-metropolity-katowickiego-na-adwent-2025"/>
+        <updated>2025-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-11-2025</p><a href="/o-diecezji/aktualnosci/3842-list-pasterski-arcybiskupa-metropolity-katowickiego-na-adwent-2025" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/head.abp_przybylski_list_pasterskinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3842-list-pasterski-arcybiskupa-metropolity-katowickiego-na-adwent-2025" title="List pasterski Arcybiskupa Metropolity Katowickiego na Adwent 2025" target="_self">List pasterski Arcybiskupa Metropolity Katowickiego na Adwent 2025</a></h4><p class="nspText tleft fnull"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arcybiskup Andrzej Przybylski odwiedził już 27 dekanatów archidiecezji katowickiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3840-arcybiskup-andrzej-przybylski-odwiedzil-juz-27-dekanatow-archidiecezji-katowickiej</id>
@@ -60,13 +67,5 @@
         <updated>2025-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-11-2025</p><a href="/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025-11_mariamagdalenansp-94.jpg" alt="Fot. ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej" title="Kościół pw. św. Marii Magdaleny Bazyliką Mniejszą" target="_self">Kościół pw. św. Marii Magdaleny Bazyliką Mniejszą</a></h4><p class="nspText tleft fnull">Dekret podnoszący kościół do rangi Bazyliki Mniejszej&nbsp;podpisał prefekt Dykasterii ds. Kultu Bożego i Dyscypliny Sakramentów.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-10-2025</p><a href="/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zapowiedzi.0000000Baner_mniejszynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3800-widowisko-z-okazji-100-lecia-archidiecezji-katowickiej-katowicki-spodek-26-listopada" title="Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)" target="_self">Widowisko z okazji 100-lecia Archidiecezji Katowickiej Katowicki Spodek (26 listopada)</a></h4><p class="nspText tleft fnull">Widowisko „Katedra” powstaje jako symboliczne zwieńczenie jubileuszu 100-lecia Archidiecezji Katowickiej
-...</p>]]></content>
     </entry>
 </feed>
