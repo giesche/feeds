@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-03T17:44:24.524Z</updated>
+    <updated>2025-12-04T05:42:49.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Roraty z wprowadzeniem relikwii bł. ks. Jana Machy w Woli]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3844-roraty-z-wprowadzeniem-relikwii-bl-ks-jana-machy-w-woli</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3844-roraty-z-wprowadzeniem-relikwii-bl-ks-jana-machy-w-woli"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-12-2025</p><a href="/o-diecezji/aktualnosci/3844-roraty-z-wprowadzeniem-relikwii-bl-ks-jana-machy-w-woli" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.abp_wolansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3844-roraty-z-wprowadzeniem-relikwii-bl-ks-jana-machy-w-woli" title="Roraty z wprowadzeniem relikwii bł. ks. Jana Machy w Woli" target="_self">Roraty z wprowadzeniem relikwii bł. ks. Jana Machy w Woli</a></h4><p class="nspText tleft fnull">Abp Przybylski zachęcił uczestników rorat, aby naśladując bł. ks. Jana Machę, byli gotowi odpowiadać na Boże natchnienia.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[List pasterski Arcybiskupa Metropolity Katowickiego na Adwent 2025]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3842-list-pasterski-arcybiskupa-metropolity-katowickiego-na-adwent-2025</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media"/>
         <updated>2025-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-11-2025</p><a href="/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/head.1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media" title="Zmiany w Instytucie Gość Media" target="_self">Zmiany w Instytucie Gość Media</a></h4><p class="nspText tleft fnull">Arcybiskup Andrzej Przybylski mianował ks. Marka Gancarczyka dyrektorem Instytutu Gość Media oraz redaktorem naczelnym tygodnika katolickiego "Gość Niedzielny".
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kościół pw. św. Marii Magdaleny Bazyliką Mniejszą]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-11-2025</p><a href="/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025-11_mariamagdalenansp-94.jpg" alt="Fot. ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3835-kosciol-pw-sw-marii-magdaleny-zostal-podniesiony-do-rangi-bazyliki-mniejszej" title="Kościół pw. św. Marii Magdaleny Bazyliką Mniejszą" target="_self">Kościół pw. św. Marii Magdaleny Bazyliką Mniejszą</a></h4><p class="nspText tleft fnull">Dekret podnoszący kościół do rangi Bazyliki Mniejszej&nbsp;podpisał prefekt Dykasterii ds. Kultu Bożego i Dyscypliny Sakramentów.
 </p>]]></content>
     </entry>
 </feed>
