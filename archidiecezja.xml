@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-04T05:42:49.779Z</updated>
+    <updated>2025-12-04T17:45:14.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Życzenia Arcybiskupa Andrzeja Przybylskiego dla górników]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3845-zyczenia-arcybiskupa-andrzeja-przybylskiego-dla-gornikow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3845-zyczenia-arcybiskupa-andrzeja-przybylskiego-dla-gornikow"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-12-2025</p><a href="/o-diecezji/aktualnosci/3845-zyczenia-arcybiskupa-andrzeja-przybylskiego-dla-gornikow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.barborka25nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3845-zyczenia-arcybiskupa-andrzeja-przybylskiego-dla-gornikow" title="Życzenia Arcybiskupa Andrzeja Przybylskiego dla górników" target="_self">Życzenia Arcybiskupa Andrzeja Przybylskiego dla górników</a></h4><p class="nspText tleft fnull">Modlę się, by Bóg umacniał Was swoją łaską, dodawał odwagi i prowadził w chwilach trudnych.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roraty z wprowadzeniem relikwii bł. ks. Jana Machy w Woli]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3844-roraty-z-wprowadzeniem-relikwii-bl-ks-jana-machy-w-woli</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra"/>
         <updated>2025-11-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-11-2025</p><a href="/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-26nsp-94.jpg" alt="Fot. Vatican News"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra" title="Papieskie pozdrowienie dla uczestników spektaklu &quot;Katedra&quot;" target="_self">Papieskie pozdrowienie dla uczestników spektaklu "Katedra"</a></h4><p class="nspText tleft fnull">Ojciec święty Leon XIV&nbsp;skierował przesłanie do wiernych archidiecezji z okazji megawidowiska w katowickim spodku.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zmiany w Instytucie Gość Media]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media"/>
-        <updated>2025-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-11-2025</p><a href="/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/head.1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3834-zmiany-w-instytucie-gosc-media" title="Zmiany w Instytucie Gość Media" target="_self">Zmiany w Instytucie Gość Media</a></h4><p class="nspText tleft fnull">Arcybiskup Andrzej Przybylski mianował ks. Marka Gancarczyka dyrektorem Instytutu Gość Media oraz redaktorem naczelnym tygodnika katolickiego "Gość Niedzielny".
 </p>]]></content>
     </entry>
 </feed>
