@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-07T05:39:59.218Z</updated>
+    <updated>2025-12-07T17:37:58.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski do górników: Jesteście ludźmi prawdziwej nadziei]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3846-abp-przybylski-do-gornikow-jestescie-ludzmi-prawdziwej-nadziei</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3846-abp-przybylski-do-gornikow-jestescie-ludzmi-prawdziwej-nadziei"/>
+        <updated>2025-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-12-2025</p><a href="/o-diecezji/aktualnosci/3846-abp-przybylski-do-gornikow-jestescie-ludzmi-prawdziwej-nadziei" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/wesola_babrborkansp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3846-abp-przybylski-do-gornikow-jestescie-ludzmi-prawdziwej-nadziei" title="Abp Przybylski do górników: Jesteście ludźmi prawdziwej nadziei" target="_self">Abp Przybylski do górników: Jesteście ludźmi prawdziwej nadziei</a></h4><p class="nspText tleft fnull">We wspomnienie św. Barbary abp Andrzej Przybylski sprawował Mszę św. w intencji górników i ich rodzin na terenie KWK "Wesoła" w Mysłowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Życzenia Arcybiskupa Andrzeja Przybylskiego dla górników]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3845-zyczenia-arcybiskupa-andrzeja-przybylskiego-dla-gornikow</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3838-widowisko-katedra-symbolicznie-zakonczylo-jubileusz-100-lecia"/>
         <updated>2025-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-11-2025</p><a href="/o-diecezji/aktualnosci/3838-widowisko-katedra-symbolicznie-zakonczylo-jubileusz-100-lecia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/PHOTO-2025-11-27-18-50-36nsp-94.jpg" alt="Fot. ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3838-widowisko-katedra-symbolicznie-zakonczylo-jubileusz-100-lecia" title="Widowisko &quot;Katedra&quot; symbolicznie zakończyło jubileusz 100-lecia" target="_self">Widowisko "Katedra" symbolicznie zakończyło jubileusz 100-lecia</a></h4><p class="nspText tleft fnull">Wydarzenie&nbsp;odbyło się 26 listopada&nbsp;w katowickim Spodku.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papieskie pozdrowienie dla uczestników spektaklu "Katedra"]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra"/>
-        <updated>2025-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-11-2025</p><a href="/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025.2025-11-26nsp-94.jpg" alt="Fot. Vatican News"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3837-papieskie-pozdrowienie-dla-uczestnikow-spektaklu-katedra" title="Papieskie pozdrowienie dla uczestników spektaklu &quot;Katedra&quot;" target="_self">Papieskie pozdrowienie dla uczestników spektaklu "Katedra"</a></h4><p class="nspText tleft fnull">Ojciec święty Leon XIV&nbsp;skierował przesłanie do wiernych archidiecezji z okazji megawidowiska w katowickim spodku.
 </p>]]></content>
     </entry>
 </feed>
