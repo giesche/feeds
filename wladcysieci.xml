@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2025-12-08T05:44:56.191Z</updated>
+    <updated>2025-12-08T17:42:59.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
@@ -20,9 +20,9 @@
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/sieci/"><span class="category-square" style="background: #2537aa"></span><span class="category-name">Sieci</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/12/03/zero-trust-networking-dlaczego-zasada-braku-zaufania-jest-kluczowa/" rel="bookmark">Zero Trust Networking – dlaczego zasada braku zaufania jest kluczowa?</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/12/03/zero-trust-networking-dlaczego-zasada-braku-zaufania-jest-kluczowa/" rel="bookmark"><i class="icon-pencil"></i>Zero Trust Networking – dlaczego zasada braku zaufania jest kluczowa?</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="3 grudnia 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-12-03T09:13:42+01:00">3 grudnia 2025</time></span>			<span class="post-views">
-				129&nbsp;<i class="icon-eye"></i>			</span>
+				137&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -51,9 +51,9 @@
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: "></span><span class="category-name">Sieciówka</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/28/sieciowka-listopad-cybersecurity-day-awaria-cloudflare-cyberweek/" rel="bookmark">Sieciówka – listopad: Cybersecurity Day, awaria...</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/28/sieciowka-listopad-cybersecurity-day-awaria-cloudflare-cyberweek/" rel="bookmark"><i class="icon-pencil"></i>Sieciówka – listopad: Cybersecurity Day, awaria...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">admin</span><span class="post-date" itemprop="dateCreated" datetime="28 listopada 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-11-28T12:29:11+01:00">28 listopada 2025</time></span>			<span class="post-views">
-				148&nbsp;<i class="icon-eye"></i>			</span>
+				159&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -82,9 +82,9 @@
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/branza/"><span class="category-square" style="background: #237bdf"></span><span class="category-name">Branża</span></a>			<a href="https://wladcysieci.pl/category/zarzadzanie-it/"><span class="category-square" style="background: #2121d3"></span><span class="category-name">Zarządzanie IT</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/26/standardy-infrastruktury-sieci-i-administrowania-nist-sp-800-53-dora-oraz-iso-27001/" rel="bookmark">Standardy infrastruktury sieci i&nbsp;administrowania: NIST...</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/26/standardy-infrastruktury-sieci-i-administrowania-nist-sp-800-53-dora-oraz-iso-27001/" rel="bookmark"><i class="icon-pencil"></i>Standardy infrastruktury sieci i&nbsp;administrowania: NIST...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="26 listopada 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-11-26T08:46:29+01:00">26 listopada 2025</time></span>			<span class="post-views">
-				166&nbsp;<i class="icon-eye"></i>			</span>
+				169&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -115,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/18/wejscie-do-branzy-it-to-mission-impossible-czyli-jak-skutecznie-wyroznic-sie-na-rynku-pracy/" rel="bookmark">Wejście do&nbsp;branży IT to mission impossible? Czyli jak...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Krzysztof Kempiński</span><span class="post-date" itemprop="dateCreated" datetime="18 listopada 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-11-18T13:32:38+01:00">18 listopada 2025</time></span>			<span class="post-views">
-				242&nbsp;<i class="icon-eye"></i>			</span>
+				246&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
