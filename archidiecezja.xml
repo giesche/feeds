@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-09T05:42:55.273Z</updated>
+    <updated>2025-12-09T17:43:03.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Andrzej spotkał się z najmłodszymi pacjentami]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3850-abp-andrzej-spotkal-sie-z-malymi-pacjentami</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3850-abp-andrzej-spotkal-sie-z-malymi-pacjentami"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">08-12-2025</p><a href="/o-diecezji/aktualnosci/3850-abp-andrzej-spotkal-sie-z-malymi-pacjentami" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/aapszpital.nsp-94jpeg" alt="Fot. ks. B. Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3850-abp-andrzej-spotkal-sie-z-malymi-pacjentami" title="Abp Andrzej spotkał się z najmłodszymi pacjentami" target="_self">Abp Andrzej spotkał się z najmłodszymi pacjentami</a></h4><p class="nspText tleft fnull">Z okazji wspomnienia św. Mikołaja abp&nbsp;Andrzej Przybylski odwiedził Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wigilia II niedzieli Adwentu w WŚSD]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3848-wigilia-ii-niedzieli-adwentu-w-wssd-2</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3841-dyspensa-2"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-11-2025</p><a href="/o-diecezji/aktualnosci/3841-dyspensa-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/head.abp_przybylski_dyspensansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3841-dyspensa-2" title="Dyspensa w piątek, 5 grudnia" target="_self">Dyspensa w piątek, 5 grudnia</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski udzielił dyspensy od obowiązku zachowania wstrzemięźliwości&nbsp;od pokarmów mięsnych.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamień Śl. Spotkanie biskupów metropolii górnośląskiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3839-kamien-sl-spotkanie-biskupow-metropolii-gornoslaskiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3839-kamien-sl-spotkanie-biskupow-metropolii-gornoslaskiej"/>
-        <updated>2025-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-11-2025</p><a href="/o-diecezji/aktualnosci/3839-kamien-sl-spotkanie-biskupow-metropolii-gornoslaskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2025-11-27_ssnsp-94.jpg" alt="Fot. Monika Chrzanowska /Diecezja Opolska"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3839-kamien-sl-spotkanie-biskupow-metropolii-gornoslaskiej" title="Kamień Śl. Spotkanie biskupów metropolii górnośląskiej" target="_self">Kamień Śl. Spotkanie biskupów metropolii górnośląskiej</a></h4><p class="nspText tleft fnull">Spotkanie stanowiło okazję do omówienia kluczowych zagadnień związanych z życiem duszpasterskim i organizacyjnym Kościoła lokalnego.
 </p>]]></content>
     </entry>
 </feed>
