@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2025-12-10T05:44:19.491Z</updated>
+    <updated>2025-12-10T17:45:47.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-1">
       26 lis 2025
     </time>
   
@@ -113,7 +113,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025">
+    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-2">
       25 lis 2025
     </time>
   
@@ -175,7 +175,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025">
+    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-3">
       21 lis 2025
     </time>
   
@@ -236,7 +236,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025">
+    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-4">
       12 lis 2025
     </time>
   
@@ -297,7 +297,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025">
+    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-5">
       10 lis 2025
     </time>
   
@@ -358,7 +358,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025">
+    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-6">
       20 paź 2025
     </time>
   
@@ -419,7 +419,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025">
+    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025" data-tooltip-id="static-tooltip-7">
       9 paź 2025
     </time>
   
@@ -480,7 +480,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025">
+    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025" data-tooltip-id="static-tooltip-8">
       2 paź 2025
     </time>
   
@@ -541,7 +541,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-09-30 13:22" v-tooltip="Aktualizacja: 30 wrz 2025">
+    <time datetime="2025-09-30 13:22" v-tooltip="Aktualizacja: 30 wrz 2025" data-tooltip-id="static-tooltip-9">
       30 wrz 2025
     </time>
   
@@ -603,7 +603,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-27 23:01" v-tooltip="Aktualizacja: 28 sie 2025">
+    <time datetime="2025-08-27 23:01" v-tooltip="Aktualizacja: 28 sie 2025" data-tooltip-id="static-tooltip-10">
       27 sie 2025
     </time>
   
@@ -665,7 +665,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-26 18:31" v-tooltip="Aktualizacja: 27 sie 2025">
+    <time datetime="2025-08-26 18:31" v-tooltip="Aktualizacja: 27 sie 2025" data-tooltip-id="static-tooltip-11">
       26 sie 2025
     </time>
   
@@ -726,7 +726,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-26 07:00" v-tooltip="Aktualizacja: 26 sie 2025">
+    <time datetime="2025-08-26 07:00" v-tooltip="Aktualizacja: 26 sie 2025" data-tooltip-id="static-tooltip-12">
       26 sie 2025
     </time>
   
@@ -788,7 +788,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-25 21:08" v-tooltip="Aktualizacja: 26 sie 2025">
+    <time datetime="2025-08-25 21:08" v-tooltip="Aktualizacja: 26 sie 2025" data-tooltip-id="static-tooltip-13">
       25 sie 2025
     </time>
   
@@ -850,7 +850,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-24 16:53" v-tooltip="Aktualizacja: 25 sie 2025">
+    <time datetime="2025-08-24 16:53" v-tooltip="Aktualizacja: 25 sie 2025" data-tooltip-id="static-tooltip-14">
       24 sie 2025
     </time>
   
@@ -912,7 +912,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-22 16:20" v-tooltip="Aktualizacja: 24 sie 2025">
+    <time datetime="2025-08-22 16:20" v-tooltip="Aktualizacja: 24 sie 2025" data-tooltip-id="static-tooltip-15">
       22 sie 2025
     </time>
   
@@ -974,7 +974,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-21 15:14" v-tooltip="Aktualizacja: 23 sie 2025">
+    <time datetime="2025-08-21 15:14" v-tooltip="Aktualizacja: 23 sie 2025" data-tooltip-id="static-tooltip-16">
       21 sie 2025
     </time>
   
@@ -1035,7 +1035,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-21 09:30" v-tooltip="Aktualizacja: 26 sie 2025">
+    <time datetime="2025-08-21 09:30" v-tooltip="Aktualizacja: 26 sie 2025" data-tooltip-id="static-tooltip-17">
       21 sie 2025
     </time>
   
@@ -1098,7 +1098,7 @@ W tym roku...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-20 22:18" v-tooltip="Aktualizacja: 21 sie 2025">
+    <time datetime="2025-08-20 22:18" v-tooltip="Aktualizacja: 21 sie 2025" data-tooltip-id="static-tooltip-18">
       20 sie 2025
     </time>
   
@@ -1159,7 +1159,7 @@ W tym roku...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-08-01 12:39" v-tooltip="Aktualizacja: 2 sie 2025">
+    <time datetime="2025-08-01 12:39" v-tooltip="Aktualizacja: 2 sie 2025" data-tooltip-id="static-tooltip-19">
       1 sie 2025
     </time>
   
@@ -1220,7 +1220,7 @@ W tym roku...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-31 13:11" v-tooltip="Aktualizacja: 31 lip 2025">
+    <time datetime="2025-07-31 13:11" v-tooltip="Aktualizacja: 31 lip 2025" data-tooltip-id="static-tooltip-20">
       31 lip 2025
     </time>
   
@@ -1282,7 +1282,7 @@ W tym roku...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-30 12:50" v-tooltip="Aktualizacja: 31 lip 2025">
+    <time datetime="2025-07-30 12:50" v-tooltip="Aktualizacja: 31 lip 2025" data-tooltip-id="static-tooltip-21">
       30 lip 2025
     </time>
   
@@ -1344,7 +1344,7 @@ W tym roku...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-29 11:42" v-tooltip="Aktualizacja: 30 lip 2025">
+    <time datetime="2025-07-29 11:42" v-tooltip="Aktualizacja: 30 lip 2025" data-tooltip-id="static-tooltip-22">
       29 lip 2025
     </time>
   
@@ -1407,7 +1407,7 @@ O przetrwanie w dra...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-22 10:57" v-tooltip="Aktualizacja: 23 lip 2025">
+    <time datetime="2025-07-22 10:57" v-tooltip="Aktualizacja: 23 lip 2025" data-tooltip-id="static-tooltip-23">
       22 lip 2025
     </time>
   
@@ -1468,7 +1468,7 @@ O przetrwanie w dra...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-09 08:00" v-tooltip="Aktualizacja: 16 lip 2025">
+    <time datetime="2025-07-09 08:00" v-tooltip="Aktualizacja: 16 lip 2025" data-tooltip-id="static-tooltip-24">
       9 lip 2025
     </time>
   
@@ -1529,7 +1529,7 @@ O przetrwanie w dra...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-07-06 14:30" v-tooltip="Aktualizacja: 7 lip 2025">
+    <time datetime="2025-07-06 14:30" v-tooltip="Aktualizacja: 7 lip 2025" data-tooltip-id="static-tooltip-25">
       6 lip 2025
     </time>
   
