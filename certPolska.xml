@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2025-12-13T05:42:51.337Z</updated>
+    <updated>2025-12-13T17:38:11.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Publiczne sieci Wi-Fi – czy jest się czego bać?]]></title>
+        <id>https://cert.pl/posts/2025/12/publiczne-sieci-wifi/</id>
+        <link href="https://cert.pl/posts/2025/12/publiczne-sieci-wifi/"/>
+        <updated>2025-12-13T17:37:42.903Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>13 grudnia 2025</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/informacja/">#informacja</a></span>
+                <span><a href="./tag/zagrozenie/">#zagrożenie</a></span>
+            </div>
+        </div>
+        <a href="./posts/2025/12/publiczne-sieci-wifi/" class="post-outer-container">
+            <h4>Publiczne sieci Wi-Fi – czy jest się czego bać?</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2025/12/publiczne-sieci-wifi/thumbnail.jpeg" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Jak to jest z tym publicznym Wi-Fi? W internecie wciąż możecie trafić na informacje, że korzystanie z takiej otwartej sieci w kawiarni, hotelu lub na lotnisku, to proszenie się o kłopoty, bo hakerzy mogą w ten sposób wykraść hasła i dane. I owszem tak BYŁO. Sprawdźmy dlaczego publiczne sieci nie niosą już dziś takich zagrożeń.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analiza kampanii złośliwego oprogramowania NGate (NFC relay)]]></title>
         <id>https://cert.pl/posts/2025/11/analiza-ngate/</id>
@@ -278,44 +308,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Problem oszustów działających za pośrednictwem platform społecznościowych jest wciąż aktualny. Firma Meta nie zrealizowała wszystkich przedstawionych w ubiegłym roku przez ekspertów z działającego w NASK zespołu CERT Polska postulatów, które miały zwiększyć bezpieczeństwo Polaków korzystających z serwisów społecznościowych.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krytyczne podatności w kontrolerze Ingress-Nginx w Kubernetes]]></title>
-        <id>https://cert.pl/posts/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/</id>
-        <link href="https://cert.pl/posts/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/"/>
-        <updated>2025-11-14T15:37:06.539Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>25 marca 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/ostrzezenie/">#ostrzeżenie</a></span>
-                <span><a href="./tag/podatnosc/">#podatność</a></span>
-                <span><a href="./tag/cve-2025-1097/">#CVE-2025-1097</a></span>
-                <span><a href="./tag/cve-2025-1098/">#CVE-2025-1098</a></span>
-                <span><a href="./tag/cve-2025-24513/">#CVE-2025-24513</a></span>
-                <span><a href="./tag/cve-2025-24514/">#CVE-2025-24514</a></span>
-                <span><a href="./tag/cve-2025-1974/">#CVE-2025-1974</a></span>
-                <span><a href="./tag/kubernetes/">#kubernetes</a></span>
-                <span><a href="./tag/ingress-nginx/">#ingress-nginx</a></span>
-                <span><a href="./tag/ingressnightmare/">#IngressNightmare</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/" class="post-outer-container">
-            <h4>Krytyczne podatności w kontrolerze Ingress-Nginx w Kubernetes</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/03/krytyczne-podatnosci-w-kontrolerze-ingress-nginx-kubernetes/kubernetes-nginx.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>W popularnym kontrolerze Ingress-Nginx w wersjach do 1.12.0 i 1.11.4 włącznie znaleziono krytyczne podatności umożliwiające zdalne wykonanie kodu bez konieczności uwierzytelnienia. Ingress-Nginx Ingress-Nginx jest domyślnym kontrolerem zarządzania ruchem sieciowym oferującym funkcje reverse-proxy oraz load balancingu w klastrach Kubernetes.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
