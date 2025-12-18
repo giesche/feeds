@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2025-12-18T05:45:11.713Z</updated>
+    <updated>2025-12-18T17:45:58.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
@@ -18,11 +18,11 @@
                                         <header class="article-header">
                     
                         <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: "></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/technical/"><span class="category-square" style="background: #211194"></span><span class="category-name">Technical</span></a>                        </div>
+                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/technical/"><span class="category-square" style="background: #211194"></span><span class="category-name">Technical</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/12/16/lokalne-ai-w-firmie-na-co-zwrocic-uwage-przed-wdrozeniem/" rel="bookmark">Lokalne AI w&nbsp;firmie – na&nbsp;co zwrócić uwagę przed wdrożeniem</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="16 grudnia 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-12-16T12:39:35+01:00">16 grudnia 2025</time></span>			<span class="post-views">
-				67&nbsp;<i class="icon-eye"></i>			</span>
+				118&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +53,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/12/11/historia-inspekcji-ruchu-sieciowego/" rel="bookmark">Historia inspekcji ruchu sieciowego</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="11 grudnia 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-12-11T10:21:06+01:00">11 grudnia 2025</time></span>			<span class="post-views">
-				98&nbsp;<i class="icon-eye"></i>			</span>
+				104&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/12/03/zero-trust-networking-dlaczego-zasada-braku-zaufania-jest-kluczowa/" rel="bookmark"><i class="icon-pencil"></i>Zero Trust Networking – dlaczego zasada braku...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="3 grudnia 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-12-03T09:13:42+01:00">3 grudnia 2025</time></span>			<span class="post-views">
-				229&nbsp;<i class="icon-eye"></i>			</span>
+				233&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -111,11 +111,11 @@
                                         <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: "></span><span class="category-name">Sieciówka</span></a>                        </div>
+                            			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2025/11/28/sieciowka-listopad-cybersecurity-day-awaria-cloudflare-cyberweek/" rel="bookmark"><i class="icon-pencil"></i>Sieciówka – listopad: Cybersecurity Day, awaria...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">admin</span><span class="post-date" itemprop="dateCreated" datetime="28 listopada 2025"><span class="date-separator"></span> <time class="entry-date published" datetime="2025-11-28T12:29:11+01:00">28 listopada 2025</time></span>			<span class="post-views">
-				220&nbsp;<i class="icon-eye"></i>			</span>
+				221&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
