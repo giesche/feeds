@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-19T05:43:50.124Z</updated>
+    <updated>2025-12-19T17:38:15.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji"/>
+        <updated>2025-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-12-2025</p><a href="/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPglowne.nsp-94jpeg" alt="Fot. ks. B. Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji" title="Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji" target="_self">Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji</a></h4><p class="nspText tleft fnull">Z tej okazji metropolita katowicki skierował do kapłanów słowa podziękowania.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego"/>
         <updated>2025-12-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-12-2025</p><a href="/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/aapakadem.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego" title="Adwentowe spotkanie świata akademickiego" target="_self">Adwentowe spotkanie świata akademickiego</a></h4><p class="nspText tleft fnull">&nbsp;Wykładowcy i profesorowie śląskich uczelni spotkali się z metropolitą katowickim 13 grudnia.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Stanisław Szeja]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3856-sp-ks-stanislaw-szeja</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3856-sp-ks-stanislaw-szeja"/>
-        <updated>2025-12-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-12-2025</p><a href="/o-diecezji/aktualnosci/3856-sp-ks-stanislaw-szeja" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_stanisaw_szejansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3856-sp-ks-stanislaw-szeja" title="Śp. ks. Stanisław Szeja" target="_self">Śp. ks. Stanisław Szeja</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 73 lat, w 47. roku kapłaństwa, zmarł śp. ks. Stanisław Szeja, emerytowany proboszcz parafii Świętego Antoniego z Padwy w Mikołowie-Recie.
 </p>]]></content>
     </entry>
 </feed>
