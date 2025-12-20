@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-19T17:38:15.390Z</updated>
+    <updated>2025-12-20T05:42:27.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dyspensa w piątek 26 grudnia]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3868-dyspensa-w-piatek-26-grudnia</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3868-dyspensa-w-piatek-26-grudnia"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">19-12-2025</p><a href="/o-diecezji/aktualnosci/3868-dyspensa-w-piatek-26-grudnia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/abp_przybylski_dyspensansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3868-dyspensa-w-piatek-26-grudnia" title="Dyspensa w piątek 26 grudnia" target="_self">Dyspensa w piątek 26 grudnia</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski udzielił dyspensy&nbsp;od obowiązku zachowania wstrzemięźliwości od pokarmów mięsnych.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-12-2025</p><a href="/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/XRB00073nsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych" title="Spotkanie świąteczne pracowników mediów diecezjalnych" target="_self">Spotkanie świąteczne pracowników mediów diecezjalnych</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski spotkał się z dziennikarzami w siedzibie Instytutu Gość Media.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adwentowe spotkanie świata akademickiego]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego"/>
-        <updated>2025-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-12-2025</p><a href="/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/aapakadem.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3858-adwentowe-spotkanie-swiata-akademickiego" title="Adwentowe spotkanie świata akademickiego" target="_self">Adwentowe spotkanie świata akademickiego</a></h4><p class="nspText tleft fnull">&nbsp;Wykładowcy i profesorowie śląskich uczelni spotkali się z metropolitą katowickim 13 grudnia.
 </p>]]></content>
     </entry>
 </feed>
