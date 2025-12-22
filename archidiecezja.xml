@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-21T17:39:29.362Z</updated>
+    <updated>2025-12-22T05:46:21.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Parafie stażowe akolitów i diakonów]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3869-parafie-stazowe-akolitow-i-diakonow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3869-parafie-stazowe-akolitow-i-diakonow"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">19-12-2025</p><a href="/o-diecezji/aktualnosci/3869-parafie-stazowe-akolitow-i-diakonow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/PHOTO-2025-12-19-20-55-42nsp-94.jpg" alt="Fot. WŚSD"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3869-parafie-stazowe-akolitow-i-diakonow" title="Parafie stażowe akolitów i diakonów" target="_self">Parafie stażowe akolitów i diakonów</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski wręczył dwunastu alumnom dekrety kierujące na parafie stażowe.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dyspensa w piątek 26 grudnia]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3868-dyspensa-w-piatek-26-grudnia</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3863-powolanie-archidiecezjalnej-rady-duszpasterskiej"/>
         <updated>2025-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-12-2025</p><a href="/o-diecezji/aktualnosci/3863-powolanie-archidiecezjalnej-rady-duszpasterskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AapRadansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3863-powolanie-archidiecezjalnej-rady-duszpasterskiej" title="Powołanie Archidiecezjalnej Rady Duszpasterskiej" target="_self">Powołanie Archidiecezjalnej Rady Duszpasterskiej</a></h4><p class="nspText tleft fnull">Pierwsze posiedzenie gremium odbyło się 16 grudnia.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie świąteczne pracowników mediów diecezjalnych]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych"/>
-        <updated>2025-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-12-2025</p><a href="/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/XRB00073nsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3861-spotkanie-swiateczne-pracownikow-mediow-diecezjalnych" title="Spotkanie świąteczne pracowników mediów diecezjalnych" target="_self">Spotkanie świąteczne pracowników mediów diecezjalnych</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski spotkał się z dziennikarzami w siedzibie Instytutu Gość Media.
 </p>]]></content>
     </entry>
 </feed>
