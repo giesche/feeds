@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-23T05:46:41.828Z</updated>
+    <updated>2025-12-23T17:42:49.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Świąteczne spotkanie w Kurii Metropolitalnej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej"/>
+        <updated>2025-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">22-12-2025</p><a href="/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPoplateknsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej" title="Świąteczne spotkanie w Kurii Metropolitalnej" target="_self">Świąteczne spotkanie w Kurii Metropolitalnej</a></h4><p class="nspText tleft fnull">Biskupi spotkali się z przedstawicielami władz, służb mundurowych, ruchów, wspólnot i stowarzyszeń oraz wiernych archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pasterki z Pasterzami]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3872-pasterki-z-pasterzami-3</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow"/>
         <updated>2025-12-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-12-2025</p><a href="/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AapRKKKnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow" title="Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów" target="_self">Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów</a></h4><p class="nspText tleft fnull">Wręczenie nominacji odbyło się 17 grudnia w Kurii Metropolitalnej w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Przedświąteczne spotkanie opłatkowe w Kurii Metropolitalnej (zapowiedź)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3864-przedswiateczne-spotkanie-oplatkowe-w-kurii-metropolitalnej-zapowiedz-2</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3864-przedswiateczne-spotkanie-oplatkowe-w-kurii-metropolitalnej-zapowiedz-2"/>
-        <updated>2025-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-12-2025</p><a href="/o-diecezji/aktualnosci/3864-przedswiateczne-spotkanie-oplatkowe-w-kurii-metropolitalnej-zapowiedz-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/kuria_katowicensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3864-przedswiateczne-spotkanie-oplatkowe-w-kurii-metropolitalnej-zapowiedz-2" title="Przedświąteczne spotkanie opłatkowe w Kurii Metropolitalnej (zapowiedź)" target="_self">Przedświąteczne spotkanie opłatkowe w Kurii Metropolitalnej (zapowiedź)</a></h4><p class="nspText tleft fnull">Odbędzie się ono w poniedziałek 22 grudnia br.
 </p>]]></content>
     </entry>
 </feed>
