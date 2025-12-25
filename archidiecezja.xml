@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-24T17:40:32.392Z</updated>
+    <updated>2025-12-25T05:46:09.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wyrazy współczucia po śmierci górników]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-12-2025</p><a href="/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/1K8A3398_1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow" title="Wyrazy współczucia po śmierci górników" target="_self">Wyrazy współczucia po śmierci górników</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zapewnia o swojej modlitwie po wypadku w KWK Pniówek.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Świąteczne spotkanie w Kurii Metropolitalnej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji"/>
         <updated>2025-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-12-2025</p><a href="/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPglowne.nsp-94jpeg" alt="Fot. ks. B. Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3866-zakonczenie-wizyt-abp-andrzeja-w-dekanatach-archidiecezji" title="Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji" target="_self">Zakończenie wizyt abp. Andrzeja w dekanatach archidiecezji</a></h4><p class="nspText tleft fnull">Z tej okazji metropolita katowicki skierował do kapłanów słowa podziękowania.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow"/>
-        <updated>2025-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-12-2025</p><a href="/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AapRKKKnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3865-abp-przybylski-powolal-rade-kaplanska-oraz-kolegium-konsultorow" title="Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów" target="_self">Abp Przybylski powołał Radę Kapłańską oraz Kolegium Konsultorów</a></h4><p class="nspText tleft fnull">Wręczenie nominacji odbyło się 17 grudnia w Kurii Metropolitalnej w Katowicach.
 </p>]]></content>
     </entry>
 </feed>
