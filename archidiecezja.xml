@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2025-12-26T05:43:53.555Z</updated>
+    <updated>2025-12-26T17:40:00.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa"/>
+        <updated>2025-12-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPUNP.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" title="Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa" target="_self">Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa</a></h4><p class="nspText tleft fnull">Metropolita katowicki przewodniczył Eucharystii w katowickiej katedrze Chrystusa Króla w uroczystość Narodzenia Pańskiego.&nbsp;
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3874-msza-sw-w-intencji-gornikow-w-jastrzebiu-zdroju"/>
         <updated>2025-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-12-2025</p><a href="/o-diecezji/aktualnosci/3874-msza-sw-w-intencji-gornikow-w-jastrzebiu-zdroju" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/1K8A3302nsp-94.jpg" alt="Fot. ks. P. Kiełbasa"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3874-msza-sw-w-intencji-gornikow-w-jastrzebiu-zdroju" title="Msza św. w intencji górników w Jastrzębiu-Zdroju" target="_self">Msza św. w intencji górników w Jastrzębiu-Zdroju</a></h4><p class="nspText tleft fnull">Eucharystia sprawowana była w kościele pw. NMP Matki Kościoła.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kościół pw. św. Marii Magdaleny w Tychach bazyliką mniejszą]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3871-kosciol-pw-sw-marii-magdaleny-w-tychach-bazylika-mniejsza-2</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3871-kosciol-pw-sw-marii-magdaleny-w-tychach-bazylika-mniejsza-2"/>
-        <updated>2025-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-12-2025</p><a href="/o-diecezji/aktualnosci/3871-kosciol-pw-sw-marii-magdaleny-w-tychach-bazylika-mniejsza-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPTychynsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3871-kosciol-pw-sw-marii-magdaleny-w-tychach-bazylika-mniejsza-2" title="Kościół pw. św. Marii Magdaleny w Tychach bazyliką mniejszą" target="_self">Kościół pw. św. Marii Magdaleny w Tychach bazyliką mniejszą</a></h4><p class="nspText tleft fnull">21 grudnia dziękczynnej Eucharystii przewodniczył abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
