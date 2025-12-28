@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2025-12-28T05:46:10.827Z</updated>
+    <updated>2025-12-28T17:40:46.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Wyśmienita forma GM-a Jakuba Kosakowskiego. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet]]></title>
+        <title type="html"><![CDATA[Duda wycofał się z turnieju szachów szybkich. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet]]></title>
         <id>https://www.chess.com/pl/news/view/mistrzostwa-swiata-fide-w-szachach-szybkich-2025-dzien-2</id>
         <link href="https://www.chess.com/pl/news/view/mistrzostwa-swiata-fide-w-szachach-szybkich-2025-dzien-2"/>
         <updated>2025-12-27T09:45:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/mistrzostwa-swiata-fide-w-szachach-szybkich-2025-dzien-2">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1858318.77b92de3.630x354o.07b0c6af6ab2.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1858318.77b92de3.630x354o.07b0c6af6ab2@2x.png" alt="Wyśmienita forma GM-a Jakuba Kosakowskiego. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet">
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1858318.3ed696eb.630x354o.0eb414dfa426.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1858318.3ed696eb.630x354o.0eb414dfa426@2x.png" alt="Duda wycofał się z turnieju szachów szybkich. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -20,7 +20,7 @@
                   
                   <a class="post-preview-title" href="https://www.chess.com/pl/news/view/mistrzostwa-swiata-fide-w-szachach-szybkich-2025-dzien-2">
 
-                    Wyśmienita forma GM-a Jakuba Kosakowskiego. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet
+                    Duda wycofał się z turnieju szachów szybkich. Artemiev i Niemann prowadzą w sekcji Open, Humpy i Zhu w sekcji kobiet
                   </a>
                 </h2>
 
@@ -53,7 +53,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 27 gru 2025">
+    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025">
       27 gru 2025
     </time>
   
