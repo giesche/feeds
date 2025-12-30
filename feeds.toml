@@ -71,7 +71,7 @@ dateFormat = "yyyy-MM-dd'T'HH:mm:ssXXX"
 
 [dziejesiewzabrzu]
 title = "Dzieje się w Zabrzu"
-url = "https://wladcysieci.pl/"
+url = "https://www.facebook.com/groups/dziejesiewzabrzu"
 entrySelector = "div[data-ad-rendering-role='storymessage']"
 titleSelector = "div.x1yx25j4"
 linkSelector = "a[href*='/posts/']"
