@@ -68,3 +68,12 @@ titleSelector = "h2.post-title > a"
 linkSelector = "h2.post-title > a"
 dateSelector = "time.entry-date.published"
 dateFormat = "yyyy-MM-dd'T'HH:mm:ssXXX"
+
+[dziejesiewzabrzu]
+title = "Dzieje się w Zabrzu"
+url = "https://wladcysieci.pl/"
+entrySelector = "div[data-ad-rendering-role='storymessage']"
+titleSelector = "div.x1yx25j4"
+linkSelector = "a[href*='/posts/']"
+dateSelector = "span[data-testid='post_timestamp']"
+dateFormat = "yyyy-MM-dd'T'HH:mm:ssXXX"
