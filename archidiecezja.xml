@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-01T05:48:44.887Z</updated>
+    <updated>2026-01-01T17:42:05.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski do młodych w Paryżu: w czasach podejrzliwości i nieufności bądźcie zaczynem budowania wzajemnego zaufania w Kościele i świecie]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-12-2025</p><a href="/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPTAIZe.nsp-94jpeg" alt="Fot. archiwum prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie" title="Abp Przybylski do młodych w Paryżu: w czasach podejrzliwości i nieufności bądźcie zaczynem budowania wzajemnego zaufania w Kościele i świecie" target="_self">Abp Przybylski do młodych w Paryżu: w czasach podejrzliwości i nieufności bądźcie zaczynem budowania wzajemnego zaufania w Kościele i świecie</a></h4><p class="nspText tleft fnull">Metropolita katowicki bierze udział w 48. Europejskich Spotkaniach Młodych w Paryżu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zakończenie Roku Świętego 2025]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3883-zakonczenie-roku-swietego-2025</id>
@@ -60,14 +68,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow"/>
         <updated>2025-12-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-12-2025</p><a href="/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/1K8A3398_1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3875-wyrazy-wspolczucia-po-smierci-gornikow" title="Wyrazy współczucia po śmierci górników" target="_self">Wyrazy współczucia po śmierci górników</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zapewnia o swojej modlitwie po wypadku w KWK Pniówek.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Świąteczne spotkanie w Kurii Metropolitalnej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">22-12-2025</p><a href="/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPoplateknsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3873-swiateczne-spotkanie-w-kurii-metropolitalnej" title="Świąteczne spotkanie w Kurii Metropolitalnej" target="_self">Świąteczne spotkanie w Kurii Metropolitalnej</a></h4><p class="nspText tleft fnull">Biskupi spotkali się z przedstawicielami władz, służb mundurowych, ruchów, wspólnot i stowarzyszeń oraz wiernych archidiecezji katowickiej.
 </p>]]></content>
     </entry>
 </feed>
