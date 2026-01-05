@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-04T17:40:32.782Z</updated>
+    <updated>2026-01-05T05:55:36.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Urodziny bp. Adama Wodarczyka]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2"/>
+        <updated>2026-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-01-2026</p><a href="/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2" title="Urodziny bp. Adama Wodarczyka" target="_self">Urodziny bp. Adama Wodarczyka</a></h4><p class="nspText tleft fnull">Księdza Biskupa polecamy modlitwie wiernych Archidiecezji Katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pomiędzy ziemią a niebem – Nowy Rok na Groniu Jana Pawła II]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3886-pomiedzy-ziemia-a-niebem-nowy-rok-na-groniu-jana-pawla-ii</id>
@@ -60,14 +68,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny"/>
         <updated>2025-12-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPPasterkansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny" title="Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny" target="_self">Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny</a></h4><p class="nspText tleft fnull">Metropolita katowicki odprawił Pasterkę w bazylice ojców franciszkanów w Katowicach-Panewnikach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Skworc podczas Pasterki: Od czasu Jego przyjścia mamy wspólny człowieczy los i wspólną przyszłość]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3879-abp-skworc-podczas-pasterki-od-czasu-jego-przyjscia-mamy-wspolny-czlowieczy-los-i-wspolna-przyszlosc</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3879-abp-skworc-podczas-pasterki-od-czasu-jego-przyjscia-mamy-wspolny-czlowieczy-los-i-wspolna-przyszlosc"/>
-        <updated>2025-12-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3879-abp-skworc-podczas-pasterki-od-czasu-jego-przyjscia-mamy-wspolny-czlowieczy-los-i-wspolna-przyszlosc" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AWSPasterka.nsp-94jpeg" alt="Fot. Agnieszka Seweryn"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3879-abp-skworc-podczas-pasterki-od-czasu-jego-przyjscia-mamy-wspolny-czlowieczy-los-i-wspolna-przyszlosc" title="Abp Skworc podczas Pasterki: Od czasu Jego przyjścia mamy wspólny człowieczy los i wspólną przyszłość" target="_self">Abp Skworc podczas Pasterki: Od czasu Jego przyjścia mamy wspólny człowieczy los i wspólną przyszłość</a></h4><p class="nspText tleft fnull">W bazylice św. Marii Magdaleny w Tychach Pasterce przewodniczył abp Wiktor Skworc, emerytowany metropolita katowicki.
 </p>]]></content>
     </entry>
 </feed>
