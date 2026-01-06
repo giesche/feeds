@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-06T05:47:35.579Z</updated>
+    <updated>2026-01-06T17:46:30.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo"/>
+        <updated>2026-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-01-2026</p><a href="/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rocznica_ingresunsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo" title="Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo" target="_self">Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo</a></h4><p class="nspText tleft fnull">Ks. August Hlond, sto lat temu oficjalnie stanął na czele nowej diecezji.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urodziny bp. Adama Wodarczyka]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2</id>
@@ -60,14 +68,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa"/>
         <updated>2025-12-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPUNP.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" title="Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa" target="_self">Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa</a></h4><p class="nspText tleft fnull">Metropolita katowicki przewodniczył Eucharystii w katowickiej katedrze Chrystusa Króla w uroczystość Narodzenia Pańskiego.&nbsp;
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny"/>
-        <updated>2025-12-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPPasterkansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3878-abp-przybylski-na-pasterce-dla-boga-nie-jestes-beznadziejny" title="Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny" target="_self">Abp Przybylski na Pasterce: Dla Boga nie jesteś beznadziejny</a></h4><p class="nspText tleft fnull">Metropolita katowicki odprawił Pasterkę w bazylice ojców franciszkanów w Katowicach-Panewnikach.
 </p>]]></content>
     </entry>
 </feed>
