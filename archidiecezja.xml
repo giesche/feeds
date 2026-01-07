@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-06T17:46:30.278Z</updated>
+    <updated>2026-01-07T05:47:41.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rocznica święceń biskupich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich"/>
+        <updated>2026-01-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-01-2026</p><a href="/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.diesnsp-94.jpg" alt="Fot. Przemysław Kucharczak / Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich" title="Rocznica święceń biskupich" target="_self">Rocznica święceń biskupich</a></h4><p class="nspText tleft fnull">Życzymy im obfitości Bożych łask, oraz wszelkich potrzebnych darów w dalszej posłudze Kościołowi.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo</id>
@@ -60,14 +68,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3882-slowo-dyrektora-instytutu-gosc-media"/>
         <updated>2025-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-12-2025</p><a href="/o-diecezji/aktualnosci/3882-slowo-dyrektora-instytutu-gosc-media" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/150114_instytut_02nsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3882-slowo-dyrektora-instytutu-gosc-media" title="Słowo Dyrektora Instytutu Gość Media" target="_self">Słowo Dyrektora Instytutu Gość Media</a></h4><p class="nspText tleft fnull">26 grudnia w kościołach archidiecezji czytany jest list ks. Marka Gancarczyka.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa"/>
-        <updated>2025-12-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-12-2025</p><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPUNP.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3880-abp-przybylski-dajmy-pierwszenstwo-nie-naszym-slowom-ale-slowom-jezusa" title="Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa" target="_self">Abp Przybylski: Dajmy pierwszeństwo nie naszym słowom, ale słowom Jezusa</a></h4><p class="nspText tleft fnull">Metropolita katowicki przewodniczył Eucharystii w katowickiej katedrze Chrystusa Króla w uroczystość Narodzenia Pańskiego.&nbsp;
 </p>]]></content>
     </entry>
 </feed>
