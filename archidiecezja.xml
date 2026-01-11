@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-10T17:40:15.912Z</updated>
+    <updated>2026-01-11T05:46:55.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Delegacja diecezji Viviers w Archidiecezji Katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3893-delegacja-diecezji-viviers-w-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3893-delegacja-diecezji-viviers-w-archidiecezji-katowickiej"/>
+        <updated>2026-01-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">08-01-2026</p><a href="/o-diecezji/aktualnosci/3893-delegacja-diecezji-viviers-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.viviers1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3893-delegacja-diecezji-viviers-w-archidiecezji-katowickiej" title="Delegacja diecezji Viviers w Archidiecezji Katowickiej" target="_self">Delegacja diecezji Viviers w Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wizyta była okazją do spotkania z nowym metropolitą katowickim oraz rozmów o dalszej współpracy między Kościołami.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Całe Katowice idą za Królami]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3891-cale-katowice-ida-za-krolami</id>
@@ -59,15 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie"/>
         <updated>2025-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-12-2025</p><a href="/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPTAIZe.nsp-94jpeg" alt="Fot. archiwum prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3884-abp-przybylski-do-mlodych-w-paryzu-w-czasach-podejrzliwosci-i-nieufnosci-badzcie-zaczynem-budowania-wzajemnego-zaufania-w-kosciele-i-swiecie" title="Abp Przybylski do młodych w Paryżu: w czasach podejrzliwości i nieufności bądźcie zaczynem budowania wzajemnego zaufania w Kościele i świecie" target="_self">Abp Przybylski do młodych w Paryżu: w czasach podejrzliwości i nieufności bądźcie zaczynem budowania wzajemnego zaufania w Kościele i świecie</a></h4><p class="nspText tleft fnull">Metropolita katowicki bierze udział w 48. Europejskich Spotkaniach Młodych w Paryżu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zakończenie Roku Świętego 2025]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3883-zakonczenie-roku-swietego-2025</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3883-zakonczenie-roku-swietego-2025"/>
-        <updated>2025-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-12-2025</p><a href="/o-diecezji/aktualnosci/3883-zakonczenie-roku-swietego-2025" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPRok25.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3883-zakonczenie-roku-swietego-2025" title="Zakończenie Roku Świętego 2025" target="_self">Zakończenie Roku Świętego 2025</a></h4><p class="nspText tleft fnull">
-- Bardzo dziękuję za wspólną modlitwę i cały ten Rok Święty w naszej archidiecezji - powiedział w katowickiej Katedrze Chrystusa Króla abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
