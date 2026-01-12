@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-11T17:40:31.172Z</updated>
+    <updated>2026-01-12T05:51:21.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adoracja żłóbka osób konsekrowanych w Katowicach-Panewnikach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3894-adoracja-zlobka-osob-konsekrowanych-w-katowicach-panewnikach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3894-adoracja-zlobka-osob-konsekrowanych-w-katowicach-panewnikach"/>
+        <updated>2026-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-01-2026</p><a href="/o-diecezji/aktualnosci/3894-adoracja-zlobka-osob-konsekrowanych-w-katowicach-panewnikach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPAdornsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3894-adoracja-zlobka-osob-konsekrowanych-w-katowicach-panewnikach" title="Adoracja żłóbka osób konsekrowanych w Katowicach-Panewnikach" target="_self">Adoracja żłóbka osób konsekrowanych w Katowicach-Panewnikach</a></h4><p class="nspText tleft fnull">Osoby konsekrowane naszej archidiecezji wysłuchały słowa abp. Andrzeja Przybylskiego, modliły się przed Najświętszym Sakramentem i uczestniczyły w Eucharystii pod przewodnictwem bp. Adama Wodarczyka.
+...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Śp. ks. Władysław Nieszporek]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3896-sp-ks-wladyslaw-nieszporek</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2"/>
         <updated>2026-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-01-2026</p><a href="/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3888-urodziny-bp-adama-wodarczyka-2" title="Urodziny bp. Adama Wodarczyka" target="_self">Urodziny bp. Adama Wodarczyka</a></h4><p class="nspText tleft fnull">Księdza Biskupa polecamy modlitwie wiernych Archidiecezji Katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pomiędzy ziemią a niebem – Nowy Rok na Groniu Jana Pawła II]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3886-pomiedzy-ziemia-a-niebem-nowy-rok-na-groniu-jana-pawla-ii</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3886-pomiedzy-ziemia-a-niebem-nowy-rok-na-groniu-jana-pawla-ii"/>
-        <updated>2026-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-01-2026</p><a href="/o-diecezji/aktualnosci/3886-pomiedzy-ziemia-a-niebem-nowy-rok-na-groniu-jana-pawla-ii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.gronnsp-94.jpg" alt="Fot. Maria Jakubowska-Szczotka"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3886-pomiedzy-ziemia-a-niebem-nowy-rok-na-groniu-jana-pawla-ii" title="Pomiędzy ziemią a niebem – Nowy Rok na Groniu Jana Pawła II" target="_self">Pomiędzy ziemią a niebem – Nowy Rok na Groniu Jana Pawła II</a></h4><p class="nspText tleft fnull">1 stycznia na Groniu Jana Pawła II Eucharystii noworocznej przewodniczył abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
