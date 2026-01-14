@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-14T05:47:53.239Z</updated>
+    <updated>2026-01-14T17:50:48.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[84. rocznica śmierci bł. ks. Emila Szramka]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka"/>
+        <updated>2026-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-01-2026</p><a href="/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Foto_1.nsp-94jpeg" alt="Fot. Arch. prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka" title="84. rocznica śmierci bł. ks. Emila Szramka" target="_self">84. rocznica śmierci bł. ks. Emila Szramka</a></h4><p class="nspText tleft fnull">Ks. Emil Szramek zginął w KL Dachau 13 stycznia 1942 roku.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotkanie w ramach roku duszpasterskiej troski o dzieci]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3898-spotkanie-w-ramach-roku-duszpasterskiej-troski-o-dzieci</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich"/>
         <updated>2026-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-01-2026</p><a href="/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.diesnsp-94.jpg" alt="Fot. Przemysław Kucharczak / Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3890-rocznica-swiecen-biskupich" title="Rocznica święceń biskupich" target="_self">Rocznica święceń biskupich</a></h4><p class="nspText tleft fnull">Życzymy im obfitości Bożych łask, oraz wszelkich potrzebnych darów w dalszej posłudze Kościołowi.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo"/>
-        <updated>2026-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-01-2026</p><a href="/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rocznica_ingresunsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3887-abp-przybylski-pojdzmy-sladami-kard-hlonda-przyjmijmy-boze-slowo" title="Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo" target="_self">Abp Przybylski: Pójdźmy śladami kard. Hlonda, przyjmijmy Boże Słowo</a></h4><p class="nspText tleft fnull">Ks. August Hlond, sto lat temu oficjalnie stanął na czele nowej diecezji.
 </p>]]></content>
     </entry>
 </feed>
