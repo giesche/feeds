@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-19T05:53:25.797Z</updated>
+    <updated>2026-01-19T17:46:43.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski do członków Apostolstwa Chorych: Modląc się o zdrowie ciała, nie zapominajmy o zdrowiu duszy]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3910-abp-przybylski-do-czlonkow-apostolstwa-chorych-modlac-sie-o-zdrowie-ciala-nie-zapominajmy-o-zdrowiu-duszy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3910-abp-przybylski-do-czlonkow-apostolstwa-chorych-modlac-sie-o-zdrowie-ciala-nie-zapominajmy-o-zdrowiu-duszy"/>
+        <updated>2026-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-01-2026</p><a href="/o-diecezji/aktualnosci/3910-abp-przybylski-do-czlonkow-apostolstwa-chorych-modlac-sie-o-zdrowie-ciala-nie-zapominajmy-o-zdrowiu-duszy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPchorynsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3910-abp-przybylski-do-czlonkow-apostolstwa-chorych-modlac-sie-o-zdrowie-ciala-nie-zapominajmy-o-zdrowiu-duszy" title="Abp Przybylski do członków Apostolstwa Chorych: Modląc się o zdrowie ciała, nie zapominajmy o zdrowiu duszy" target="_self">Abp Przybylski do członków Apostolstwa Chorych: Modląc się o zdrowie ciała, nie zapominajmy o zdrowiu duszy</a></h4><p class="nspText tleft fnull">Na wspólnej Eucharystii oraz nabożeństwie lurdzkim spotkali się chorzy oraz ich opiekunowie w niedzielę 18 stycznia.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski do bożogrobców: Kościół, który nie świadczy o Bogu starzeje się i umiera]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3909-abp-przybylski-do-bozogrobcow-kosciol-ktory-nie-swiadczy-o-bogu-starzeje-sie-i-umiera</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka"/>
         <updated>2026-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-01-2026</p><a href="/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Foto_1.nsp-94jpeg" alt="Fot. Arch. prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3903-84-rocznica-smierci-bl-ks-emila-szramka" title="84. rocznica śmierci bł. ks. Emila Szramka" target="_self">84. rocznica śmierci bł. ks. Emila Szramka</a></h4><p class="nspText tleft fnull">Ks. Emil Szramek zginął w KL Dachau 13 stycznia 1942 roku.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie w ramach roku duszpasterskiej troski o dzieci]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3898-spotkanie-w-ramach-roku-duszpasterskiej-troski-o-dzieci</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3898-spotkanie-w-ramach-roku-duszpasterskiej-troski-o-dzieci"/>
-        <updated>2026-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-01-2026</p><a href="/o-diecezji/aktualnosci/3898-spotkanie-w-ramach-roku-duszpasterskiej-troski-o-dzieci" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPokno.nsp-94jpeg" alt="Fot. Arch. prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3898-spotkanie-w-ramach-roku-duszpasterskiej-troski-o-dzieci" title="Spotkanie w ramach roku duszpasterskiej troski o dzieci" target="_self">Spotkanie w ramach roku duszpasterskiej troski o dzieci</a></h4><p class="nspText tleft fnull">W niedzielę 11 stycznia abp Andrzej Przybylski odwiedził Zgromadzenie Sióstr Świętej Jadwigi w Katowicach-Bogucicach.
 </p>]]></content>
     </entry>
 </feed>
