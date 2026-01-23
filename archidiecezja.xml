@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-01-23T05:49:57.747Z</updated>
+    <updated>2026-01-23T17:46:33.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Odwiedziny kolędowe u osób bezdomnych]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3914-odwiedziny-koledowe-u-osob-bezdomnych</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3914-odwiedziny-koledowe-u-osob-bezdomnych"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-01-2026</p><a href="/o-diecezji/aktualnosci/3914-odwiedziny-koledowe-u-osob-bezdomnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPkoleda.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3914-odwiedziny-koledowe-u-osob-bezdomnych" title="Odwiedziny kolędowe u osób bezdomnych" target="_self">Odwiedziny kolędowe u osób bezdomnych</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski udał się z błogosławieństwem kolędowym do osób w kryzysie bezdomności we wtorek 20 stycznia.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inauguracja Tygodnia Modlitw o Jedność Chrześcijan]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3911-inauguracja-tygodnia-modlitw-o-jednosc-chrzescijan</id>
@@ -43,14 +51,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3907-noworoczne-spotkanie-gornoslasko-zaglebiowskiej-metropolii"/>
         <updated>2026-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-01-2026</p><a href="/o-diecezji/aktualnosci/3907-noworoczne-spotkanie-gornoslasko-zaglebiowskiej-metropolii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.APPgzmnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3907-noworoczne-spotkanie-gornoslasko-zaglebiowskiej-metropolii" title="Noworoczne spotkanie Górnośląsko-Zagłębiowskiej Metropolii" target="_self">Noworoczne spotkanie Górnośląsko-Zagłębiowskiej Metropolii</a></h4><p class="nspText tleft fnull">W wydarzeniu wziął udział abp Andrzej Przybylski, metropolita katowicki.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etap diecezjalny XXXVI Olimpiady Teologii Katolickiej rozstrzygnięty]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3906-etap-diecezjalny-xxxvi-olimpiady-teologii-katolickiej-rozstrzygniety</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3906-etap-diecezjalny-xxxvi-olimpiady-teologii-katolickiej-rozstrzygniety"/>
-        <updated>2026-01-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-01-2026</p><a href="/o-diecezji/aktualnosci/3906-etap-diecezjalny-xxxvi-olimpiady-teologii-katolickiej-rozstrzygniety" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AWSotk.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3906-etap-diecezjalny-xxxvi-olimpiady-teologii-katolickiej-rozstrzygniety" title="Etap diecezjalny XXXVI Olimpiady Teologii Katolickiej rozstrzygnięty" target="_self">Etap diecezjalny XXXVI Olimpiady Teologii Katolickiej rozstrzygnięty</a></h4><p class="nspText tleft fnull">W tym roku temat zmagań brzmiał: „Chrzest i misja św. Ottona z Bambergu”.
 </p>]]></content>
     </entry>
 </feed>
