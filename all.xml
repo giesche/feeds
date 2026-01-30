@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-30T06:06:26.266Z</updated>
+    <updated>2026-01-30T17:58:22.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jan Krzysztof-Duda wygrywa Chess Challenge Poland 2026 (Chess.com Aktualności)]]></title>
@@ -1541,6 +1541,37 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
                 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raport z incydentu w sektorze energii z 29 grudnia 2025 roku (CERT POLSKA)]]></title>
+        <id>https://cert.pl/posts/2026/01/raport-incydent-sektor-energii-2025/</id>
+        <link href="https://cert.pl/posts/2026/01/raport-incydent-sektor-energii-2025/"/>
+        <updated>2026-01-30T17:57:56.269Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>30 stycznia 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/raport/">#raport</a></span>
+                <span><a href="./tag/incydent/">#incydent</a></span>
+                <span><a href="./tag/energia/">#energia</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/01/raport-incydent-sektor-energii-2025/" class="post-outer-container">
+            <h4>Raport z incydentu w sektorze energii z 29 grudnia 2025 roku</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/docs/covers/CERT_Polska_Raport_Incydent_Sektor_Energii_2025.pdf.jpg" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Zespół CERT Polska przedstawia raport z analizy incydentu w sektorze energii, do którego doszło 29 grudnia 2025 roku. Ataki miały charakter destrukcyjny i były wymierzone w farmy wiatrowe i fotowoltaiczne, dużą elektrociepłownię oraz przedsiębiorstwo z sektora produkcyjnego. Publikacja ma na celu podniesienie świadomości na temat ryzyka związanego z dywersją w cyberprzestrzeni.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Publiczne sieci Wi-Fi – czy jest się czego bać? (CERT POLSKA)]]></title>
         <id>https://cert.pl/posts/2025/12/publiczne-sieci-wifi/</id>
         <link href="https://cert.pl/posts/2025/12/publiczne-sieci-wifi/"/>
@@ -1811,38 +1842,6 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Krajobraz zagrożeń występujących w polskiej cyberprzestrzeni ulega ewolucji. Z jednej strony obserwujemy dobrze znane z ostatnich lat kampanie phishingowe, których celem jest wyłudzenie loginów i haseł do popularnych usług e-mail lub serwisów społecznościowych, czy strony z fałszywymi ogłoszeniami imitujące serwisy, takie jak OLX bądź Allegro. Z drugiej strony pojawiają się nowe, interesujące z punktu widzenia cyberbezpieczeństwa kampanie.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta niedostatecznie realizuje postulaty CERT Polska (CERT POLSKA)]]></title>
-        <id>https://cert.pl/posts/2025/03/ewaluacja-oczekiwan-wobec-meta/</id>
-        <link href="https://cert.pl/posts/2025/03/ewaluacja-oczekiwan-wobec-meta/"/>
-        <updated>2025-11-14T15:37:06.538Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>31 marca 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/facebook/">#facebook</a></span>
-                <span><a href="./tag/meta/">#meta</a></span>
-                <span><a href="./tag/reklamy/">#reklamy</a></span>
-                <span><a href="./tag/oszustwo/">#oszustwo</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/03/ewaluacja-oczekiwan-wobec-meta/" class="post-outer-container">
-            <h4>Meta niedostatecznie realizuje postulaty CERT Polska</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2024/12/oczekiwania-thumb.jpeg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Problem oszustów działających za pośrednictwem platform społecznościowych jest wciąż aktualny. Firma Meta nie zrealizowała wszystkich przedstawionych w ubiegłym roku przez ekspertów z działającego w NASK zespołu CERT Polska postulatów, które miały zwiększyć bezpieczeństwo Polaków korzystających z serwisów społecznościowych.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
@@ -2282,84 +2281,115 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tryb agenta w Excelu ogólnodostępny na Windows i Mac (CentrumXP)]]></title>
+        <id>https://giesche.github.io/feeds/all.xml</id>
+        <link href="https://giesche.github.io/feeds/all.xml"/>
+        <updated>2026-01-30T17:58:12.249Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tryb agenta w Excelu ogólnodostępny na Windows i Mac</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>137</p></div><p class="hyNtP12Spf">Dzięki nowemu trybowi agenta środowisko Excela staje się jeszcze potężniejszym narzędziem - również w rękach osób, które nie są ekspertami.</p></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2 (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.406Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.01.2026, 20:00</p><p><strong>Liczba odsłon: </strong>104</p></div><p class="hyNtP12Spf">Prism to nowe środowisko AI zaprojektowane z myślą o usprawnieniu pracy badawczej i pisaniu tekstów naukowych. OpenAI udostępnia je za darmo</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.250Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.01.2026, 20:00</p><p><strong>Liczba odsłon: </strong>172</p></div><p class="hyNtP12Spf">Prism to nowe środowisko AI zaprojektowane z myślą o usprawnieniu pracy badawczej i pisaniu tekstów naukowych. OpenAI udostępnia je za darmo</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Power Query już w pełni dostępne w Excelu w przeglądarce (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.409Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Power Query już w pełni dostępne w Excelu w przeglądarce</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>206</p></div><p class="hyNtP12Spf">Pełna obsługa Power Query w Excelu dla sieci Web pozwala wykorzystać jego pełny potencjał w pracy z danymi bezpośrednio w chmurze</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.252Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Power Query już w pełni dostępne w Excelu w przeglądarce</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>228</p></div><p class="hyNtP12Spf">Pełna obsługa Power Query w Excelu dla sieci Web pozwala wykorzystać jego pełny potencjał w pracy z danymi bezpośrednio w chmurze</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.412Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.01.2026, 15:00</p><p><strong>Liczba odsłon: </strong>221</p></div><p class="hyNtP12Spf">Maia 200 to potężne narzędzie, które staje się obecnie najwydajniejszym autorskim akceleratorem AI dostępnym wśród dostawców usług chmurowych.</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.253Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.01.2026, 15:00</p><p><strong>Liczba odsłon: </strong>231</p></div><p class="hyNtP12Spf">Maia 200 to potężne narzędzie, które staje się obecnie najwydajniejszym autorskim akceleratorem AI dostępnym wśród dostawców usług chmurowych.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowe funkcje importowania tekstu do Excela (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.413Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje importowania tekstu do Excela</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>271</p></div><p class="hyNtP12Spf">Import danych z pliku .txt, .csv lub .tsv do Excela jest teraz prosty i wygodny dzięki dwóm nowym funkcjom.</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.255Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje importowania tekstu do Excela</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>281</p></div><p class="hyNtP12Spf">Import danych z pliku .txt, .csv lub .tsv do Excela jest teraz prosty i wygodny dzięki dwóm nowym funkcjom.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ile jest Copilotów w portfolio Microsoftu? Teraz je rozróżnisz (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.416Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ile jest Copilotów w portfolio Microsoftu? Teraz je rozróżnisz</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.01.2026, 12:00</p><p><strong>Liczba odsłon: </strong>337</p></div><p class="hyNtP12Spf">Większość osób kojarzy Microsoft 365 Copilot i Microsoft Copilot. Aplikacji o tym imieniu jest jednak dużo więcej. Teraz łatwo je rozróżnisz!</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.266Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ile jest Copilotów w portfolio Microsoftu? Teraz je rozróżnisz</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.01.2026, 12:00</p><p><strong>Liczba odsłon: </strong>342</p></div><p class="hyNtP12Spf">Większość osób kojarzy Microsoft 365 Copilot i Microsoft Copilot. Aplikacji o tym imieniu jest jednak dużo więcej. Teraz łatwo je rozróżnisz!</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Codex działa teraz w środowiskach IDE JetBrains (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.417Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI Codex działa teraz w środowiskach IDE JetBrains</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.01.2026, 19:00</p><p><strong>Liczba odsłon: </strong>645</p></div><p class="hyNtP12Spf">OpenAI rozszerza swoją ofertę dla programistów. Codex działa teraz w edytorach Rider, IntelliJ IDEA, PyCharm czy WebStorm.</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.274Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI Codex działa teraz w środowiskach IDE JetBrains</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.01.2026, 19:00</p><p><strong>Liczba odsłon: </strong>672</p></div><p class="hyNtP12Spf">OpenAI rozszerza swoją ofertę dla programistów. Codex działa teraz w edytorach Rider, IntelliJ IDEA, PyCharm czy WebStorm.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Free i Go z reklamami. OpenAI w końcu zarobi na AGI? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.418Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">ChatGPT Free i Go z reklamami. OpenAI w końcu zarobi na AGI?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>678</p></div><p class="hyNtP12Spf">Rozwój i utrzymanie sztucznej inteligencji pochłania ogromne środki. Reklamy w ChatGPT pozwolą OpenAI w końcu zarabiać i sfinansować rozwój AGI?</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.274Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">ChatGPT Free i Go z reklamami. OpenAI w końcu zarobi na AGI?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>705</p></div><p class="hyNtP12Spf">Rozwój i utrzymanie sztucznej inteligencji pochłania ogromne środki. Reklamy w ChatGPT pozwolą OpenAI w końcu zarabiać i sfinansować rozwój AGI?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI rzuca rękawicę Google. Nowy translator w ChatGPT (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.419Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI rzuca rękawicę Google. Nowy translator w ChatGPT</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.01.2026, 16:40</p><p><strong>Liczba odsłon: </strong>1199</p></div><p class="hyNtP12Spf">Tłumacz Google prawdopodobnie zyskał największego jak dotąd rywala. OpenAI po cichu wprowadził funkcję ChatGPT Translate</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.275Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI rzuca rękawicę Google. Nowy translator w ChatGPT</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.01.2026, 16:40</p><p><strong>Liczba odsłon: </strong>1268</p></div><p class="hyNtP12Spf">Tłumacz Google prawdopodobnie zyskał największego jak dotąd rywala. OpenAI po cichu wprowadził funkcję ChatGPT Translate</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Administratorzy mogą odinstalować Copilota użytkownikom w firmie. Tylko po co? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.420Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Administratorzy mogą odinstalować Copilota użytkownikom w firmie. Tylko po co?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>12.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>557</p></div><p class="hyNtP12Spf">Copilot znacząco wspomaga wydajność pracowników, o czym świadczą twarde dane z badań. Czy jest sens go odinstalowywać? Pewnie nie, ale można.</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.276Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Administratorzy mogą odinstalować Copilota użytkownikom w firmie. Tylko po co?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>12.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>559</p></div><p class="hyNtP12Spf">Copilot znacząco wspomaga wydajność pracowników, o czym świadczą twarde dane z badań. Czy jest sens go odinstalowywać? Pewnie nie, ale można.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowa funkcja AI w Windows 11. Nie wymaga specjalnego sprzętu (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.422Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowa funkcja AI w Windows 11. Nie wymaga specjalnego sprzętu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>11.01.2026, 12:00</p><p><strong>Liczba odsłon: </strong>666</p></div><p class="hyNtP12Spf">Microsoft wypuścił pierwszą kompilację Windows 11 Insider Preview w tym roku. Gości w niej przydatna funkcja AI</p></div></div>]]></content>
+        <updated>2026-01-30T17:58:12.277Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowa funkcja AI w Windows 11. Nie wymaga specjalnego sprzętu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>11.01.2026, 12:00</p><p><strong>Liczba odsłon: </strong>673</p></div><p class="hyNtP12Spf">Microsoft wypuścił pierwszą kompilację Windows 11 Insider Preview w tym roku. Gości w niej przydatna funkcja AI</p></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI for Healthcare. Specjalna wersja ChatGPT dla lekarzy (CentrumXP)]]></title>
-        <id>https://giesche.github.io/feeds/all.xml</id>
-        <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-01-30T06:06:12.424Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI for Healthcare. Specjalna wersja ChatGPT dla lekarzy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>10.01.2026, 19:00</p><p><strong>Liczba odsłon: </strong>995</p></div><p class="hyNtP12Spf">Sztuczna inteligencja w medycynie wkracza na kolejny poziom. Specjalistyczna wersja ChatGPT dla lekarzy jest już dostępna w pakiecie OpenAI for Healthcare</p></div></div>]]></content>
+        <title type="html"><![CDATA[Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar (Władcy sieci)]]></title>
+        <id>https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/</id>
+        <link href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/"/>
+        <updated>2026-01-30T07:56:48.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" title="Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar" rel="bookmark" class="post-img-link">
+	<img alt="Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/01/sieciowka_styczen-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" rel="bookmark">Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="30 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-30T08:56:48+01:00">30 stycznia 2026</time></span>			<span class="post-views">
+				40&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Czołem Władcy! Witamy w&nbsp;Nowym ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" rel="bookmark" title="Czytaj Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa (Władcy sieci)]]></title>
+        <title type="html"><![CDATA[Sejm uchwalił nowelizację ustawy o KSC – wdrożenie... (Władcy sieci)]]></title>
         <id>https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/</id>
         <link href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/"/>
         <updated>2026-01-28T10:13:47.000Z</updated>
@@ -2368,14 +2398,14 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 			<a href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" title="Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa" rel="bookmark" class="post-img-link">
 	<img alt="Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/01/Sejm-uchwalil-nowelizacje-ustawy-o-KSC-–-wdrozenie-dyrektywy-NIS2-i-nowe-ramy-cyberbezpieczenstwa-270x180.jpg">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/branza/"><span class="category-square" style="background: #237bdf"></span><span class="category-name">Branża</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" rel="bookmark">Sejm uchwalił nowelizację ustawy o&nbsp;KSC – wdrożenie dyrektywy NIS2 i&nbsp;nowe ramy cyberbezpieczeństwa</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" rel="bookmark">Sejm uchwalił nowelizację ustawy o&nbsp;KSC – wdrożenie...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="28 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-28T11:13:47+01:00">28 stycznia 2026</time></span>			<span class="post-views">
-				165&nbsp;<i class="icon-eye"></i>			</span>
+				199&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2406,7 +2436,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/26/admin-days-2026-powracaja/" rel="bookmark"><i class="icon-pencil"></i>Admin Days 2026 powracają!</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="26 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-26T10:18:45+01:00">26 stycznia 2026</time></span>			<span class="post-views">
-				80&nbsp;<i class="icon-eye"></i>			</span>
+				85&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2437,7 +2467,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/09/zaawansowane-funkcje-firewalli-w-praktyce-zapraszamy-na-webinar-wladcow-sieci/" rel="bookmark"><i class="icon-pencil"></i>Zaawansowane funkcje firewalli w&nbsp;praktyce – zapraszamy...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">admin</span><span class="post-date" itemprop="dateCreated" datetime="9 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-09T11:50:17+01:00">9 stycznia 2026</time></span>			<span class="post-views">
-				245&nbsp;<i class="icon-eye"></i>			</span>
+				251&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2447,37 +2477,6 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/01/09/zaawansowane-funkcje-firewalli-w-praktyce-zapraszamy-na-webinar-wladcow-sieci/" rel="bookmark" title="Czytaj Zaawansowane funkcje firewalli w praktyce – zapraszamy na webinar Władców Sieci">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sieciówka – grudzień: Cyberatak, luka w NASA,... (Władcy sieci)]]></title>
-        <id>https://wladcysieci.pl/2026/01/08/sieciowka-grudzien-cyberatak-luka-w-nasa-cybersecurity-day/</id>
-        <link href="https://wladcysieci.pl/2026/01/08/sieciowka-grudzien-cyberatak-luka-w-nasa-cybersecurity-day/"/>
-        <updated>2026-01-08T10:47:55.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/01/08/sieciowka-grudzien-cyberatak-luka-w-nasa-cybersecurity-day/" title="Sieciówka – grudzień: Cyberatak, luka w NASA, Cybersecurity Day" rel="bookmark" class="post-img-link">
-	<img alt="Sieciówka – grudzień: Cyberatak, luka w NASA, Cybersecurity Day" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/01/sieciowka_grudzien-1-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/08/sieciowka-grudzien-cyberatak-luka-w-nasa-cybersecurity-day/" rel="bookmark"><i class="icon-pencil"></i>Sieciówka – grudzień: Cyberatak, luka w&nbsp;NASA,...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="8 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-08T11:47:55+01:00">8 stycznia 2026</time></span>			<span class="post-views">
-				266&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Cześć Władcy! Witamy się w&nbsp;...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/01/08/sieciowka-grudzien-cyberatak-luka-w-nasa-cybersecurity-day/" rel="bookmark" title="Czytaj Sieciówka – grudzień: Cyberatak, luka w NASA, Cybersecurity Day">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
