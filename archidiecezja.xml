@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-02T18:03:27.427Z</updated>
+    <updated>2026-02-03T06:10:32.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100. rocznica sakry biskupiej ks. dr. Teodora Kubiny]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">01-02-2026</p><a href="/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPkubinansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny" title="100. rocznica sakry biskupiej ks. dr. Teodora Kubiny" target="_self">100. rocznica sakry biskupiej ks. dr. Teodora Kubiny</a></h4><p class="nspText tleft fnull">W niedzielę 1 lutego abp Andrzej Przybylski sprawował Mszę św. z okazji 100. rocznicy sakry biskupiej pochodzącego ze Świętochłowic pierwszego biskupa częstochowskiego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kościół katowicki troszczy się o młodych ludzi]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi</id>
@@ -42,14 +50,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf"/>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-01-2026</p><a href="/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.KMksef.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf" title="Szkolenie finansowe w związku z wprowadzeniem KSeF" target="_self">Szkolenie finansowe w związku z wprowadzeniem KSeF</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się w auli Wydziału Teologicznego UŚ.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stała formacja kapłanów archidiecezji katowickiej w 2026 roku]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3919-stala-formacja-kaplanow-archidiecezji-katowickiej-w-2026-roku</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3919-stala-formacja-kaplanow-archidiecezji-katowickiej-w-2026-roku"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-01-2026</p><a href="/o-diecezji/aktualnosci/3919-stala-formacja-kaplanow-archidiecezji-katowickiej-w-2026-roku" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.KATO06042023_HP25nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3919-stala-formacja-kaplanow-archidiecezji-katowickiej-w-2026-roku" title="Stała formacja kapłanów archidiecezji katowickiej w 2026 roku" target="_self">Stała formacja kapłanów archidiecezji katowickiej w 2026 roku</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zachęca kapłanów do wspólnej formacji duchowej, duszpasterskiej i intelektualnej.
 </p>]]></content>
     </entry>
 </feed>
