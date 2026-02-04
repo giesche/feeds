@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-04T06:08:42.976Z</updated>
+    <updated>2026-02-04T18:07:50.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dzień Życia Konsekrowanego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-02-2026</p><a href="/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/batch_DSC_0026nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego" title=" Dzień Życia Konsekrowanego" target="_self"> Dzień Życia Konsekrowanego</a></h4><p class="nspText tleft fnull">Osoby konsekrowane w poniedziałek 2 lutego modliły się podczas Eucharystii pod przewodnictwem abp. Andrzeja Przybylskiego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100. rocznica sakry biskupiej ks. dr. Teodora Kubiny]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny</id>
@@ -42,14 +50,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie"/>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-01-2026</p><a href="/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ka06s08_album.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie" title="Album &quot;100 pereł Archidiecezji Katowickiej&quot; w Watykanie" target="_self">Album "100 pereł Archidiecezji Katowickiej" w Watykanie</a></h4><p class="nspText tleft fnull">Jubileuszowa publikacja wydana nakładem Księgarni św. Jacka trafiła do Stolicy Apostolskiej dzięki pracownikom Archiwum Archidiecezjalnego w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Szkolenie finansowe w związku z wprowadzeniem KSeF]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-01-2026</p><a href="/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.KMksef.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3920-szkolenie-finansowe-w-zwiazku-z-wprowadzeniem-kesf" title="Szkolenie finansowe w związku z wprowadzeniem KSeF" target="_self">Szkolenie finansowe w związku z wprowadzeniem KSeF</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się w auli Wydziału Teologicznego UŚ.
 </p>]]></content>
     </entry>
 </feed>
