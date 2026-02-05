@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-05T06:14:35.921Z</updated>
+    <updated>2026-02-05T18:08:55.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[O Bogu, który jest miłosierdziem w czasie modlitwy Taizé]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3932-o-bogu-ktory-jest-milosierdziem-w-czasie-modlitwy-taize</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3932-o-bogu-ktory-jest-milosierdziem-w-czasie-modlitwy-taize"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-02-2026</p><a href="/o-diecezji/aktualnosci/3932-o-bogu-ktory-jest-milosierdziem-w-czasie-modlitwy-taize" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPtaizensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3932-o-bogu-ktory-jest-milosierdziem-w-czasie-modlitwy-taize" title="O Bogu, który jest miłosierdziem w czasie modlitwy Taizé" target="_self">O Bogu, który jest miłosierdziem w czasie modlitwy Taizé</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się 3 lutego w parafii Mariackiej w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dzień Życia Konsekrowanego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego</id>
@@ -42,14 +50,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach"/>
         <updated>2026-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AWSmisjensp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach" title="Spotkanie Przyjaciół Misji w Katowicach-Panewnikach" target="_self">Spotkanie Przyjaciół Misji w Katowicach-Panewnikach</a></h4><p class="nspText tleft fnull">Mszę św. dla uczestników wydarzenia sprawował abp senior Wiktor Skworc, który przez dekadę przewodniczył Komisji Misyjnej KEP.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Album "100 pereł Archidiecezji Katowickiej" w Watykanie]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-01-2026</p><a href="/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ka06s08_album.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3921-album-100-perel-archidiecezji-katowickiej-w-watykanie" title="Album &quot;100 pereł Archidiecezji Katowickiej&quot; w Watykanie" target="_self">Album "100 pereł Archidiecezji Katowickiej" w Watykanie</a></h4><p class="nspText tleft fnull">Jubileuszowa publikacja wydana nakładem Księgarni św. Jacka trafiła do Stolicy Apostolskiej dzięki pracownikom Archiwum Archidiecezjalnego w Katowicach.
 </p>]]></content>
     </entry>
 </feed>
