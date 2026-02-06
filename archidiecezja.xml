@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-06T06:12:11.572Z</updated>
+    <updated>2026-02-06T18:05:06.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rekolekcje kandydatów do święceń diakonatu stałego w Kokoszycach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-02-2026</p><a href="/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdiakoninsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach" title="Rekolekcje kandydatów do święceń diakonatu stałego w Kokoszycach" target="_self">Rekolekcje kandydatów do święceń diakonatu stałego w Kokoszycach</a></h4><p class="nspText tleft fnull">&nbsp;W środę 4 lutego rekolektantów odwiedził abp Andrzej Przybylski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O Bogu, który jest miłosierdziem w czasie modlitwy Taizé]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3932-o-bogu-ktory-jest-milosierdziem-w-czasie-modlitwy-taize</id>
@@ -42,14 +50,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej"/>
         <updated>2026-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAWministrancinsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" title="Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej" target="_self">Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wraz z ministrantami modlił się bp Adam Wodarczyk.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie Przyjaciół Misji w Katowicach-Panewnikach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach"/>
-        <updated>2026-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AWSmisjensp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3924-spotkanie-przyjaciol-misji-w-katowicach-panewnikach" title="Spotkanie Przyjaciół Misji w Katowicach-Panewnikach" target="_self">Spotkanie Przyjaciół Misji w Katowicach-Panewnikach</a></h4><p class="nspText tleft fnull">Mszę św. dla uczestników wydarzenia sprawował abp senior Wiktor Skworc, który przez dekadę przewodniczył Komisji Misyjnej KEP.
 </p>]]></content>
     </entry>
 </feed>
