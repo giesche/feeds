@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-02-07T17:50:21.796Z</updated>
+    <updated>2026-02-08T06:12:09.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -112,7 +112,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-1">
       16 sty 2026
     </time>
   
@@ -173,7 +173,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-2">
       7 sty 2026
     </time>
   
@@ -235,7 +235,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-3">
       6 sty 2026
     </time>
   
@@ -297,7 +297,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025">
+    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-4">
       30 gru 2025
     </time>
   
@@ -359,7 +359,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025">
+    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025" data-tooltip-id="static-tooltip-5">
       29 gru 2025
     </time>
   
@@ -421,7 +421,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025">
+    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-6">
       28 gru 2025
     </time>
   
@@ -483,7 +483,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025">
+    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025" data-tooltip-id="static-tooltip-7">
       27 gru 2025
     </time>
   
@@ -545,7 +545,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025">
+    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025" data-tooltip-id="static-tooltip-8">
       26 gru 2025
     </time>
   
@@ -606,7 +606,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025">
+    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025" data-tooltip-id="static-tooltip-9">
       23 gru 2025
     </time>
   
@@ -667,7 +667,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025">
+    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025" data-tooltip-id="static-tooltip-10">
       15 gru 2025
     </time>
   
@@ -730,7 +730,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025">
+    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025" data-tooltip-id="static-tooltip-11">
       11 gru 2025
     </time>
   
@@ -791,7 +791,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-12">
       26 lis 2025
     </time>
   
@@ -852,7 +852,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025">
+    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-13">
       25 lis 2025
     </time>
   
@@ -914,7 +914,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025">
+    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-14">
       21 lis 2025
     </time>
   
@@ -975,7 +975,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025">
+    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-15">
       12 lis 2025
     </time>
   
@@ -1036,7 +1036,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025">
+    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-16">
       10 lis 2025
     </time>
   
@@ -1097,7 +1097,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025">
+    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-17">
       20 paź 2025
     </time>
   

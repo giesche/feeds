@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-07T17:50:21.800Z</updated>
+    <updated>2026-02-08T06:12:09.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-02-2026</p><a href="/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/CHWALOWICE100506_HP25nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy" title="Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy " target="_self">Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy </a></h4><p class="nspText tleft fnull">Zbiórka przed kościołami w naszej archidiecezji odbędzie się w niedzielę 15 lutego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekolekcje kandydatów do święceń diakonatu stałego w Kokoszycach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach</id>
@@ -43,13 +51,5 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi"/>
         <updated>2026-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPstypendnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi" title="Kościół katowicki troszczy się o młodych ludzi" target="_self">Kościół katowicki troszczy się o młodych ludzi</a></h4><p class="nspText tleft fnull">31 stycznia, we wspomnienie św. Jana Bosko, ojca i wychowawcy młodzieży, abp Andrzej Przybylski spotkał się ze stypendystami Funduszu Stypendialnego im. bł. ks. Emila Szramka oraz Fundacji "Dzieło Nowego Tysiąc...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej"/>
-        <updated>2026-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAWministrancinsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" title="Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej" target="_self">Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wraz z ministrantami modlił się bp Adam Wodarczyk.
-</p>]]></content>
     </entry>
 </feed>

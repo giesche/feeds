@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-07T17:50:21.805Z</updated>
+    <updated>2026-02-08T06:12:09.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jan Krzysztof-Duda wygrywa Chess Challenge Poland 2026 (Chess.com Aktualności)]]></title>
@@ -111,7 +111,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-1">
       16 sty 2026
     </time>
   
@@ -172,7 +172,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-2">
       7 sty 2026
     </time>
   
@@ -234,7 +234,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-3">
       6 sty 2026
     </time>
   
@@ -296,7 +296,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025">
+    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-4">
       30 gru 2025
     </time>
   
@@ -358,7 +358,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025">
+    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025" data-tooltip-id="static-tooltip-5">
       29 gru 2025
     </time>
   
@@ -420,7 +420,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025">
+    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-6">
       28 gru 2025
     </time>
   
@@ -482,7 +482,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025">
+    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025" data-tooltip-id="static-tooltip-7">
       27 gru 2025
     </time>
   
@@ -544,7 +544,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025">
+    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025" data-tooltip-id="static-tooltip-8">
       26 gru 2025
     </time>
   
@@ -605,7 +605,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025">
+    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025" data-tooltip-id="static-tooltip-9">
       23 gru 2025
     </time>
   
@@ -666,7 +666,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025">
+    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025" data-tooltip-id="static-tooltip-10">
       15 gru 2025
     </time>
   
@@ -729,7 +729,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025">
+    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025" data-tooltip-id="static-tooltip-11">
       11 gru 2025
     </time>
   
@@ -790,7 +790,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-12">
       26 lis 2025
     </time>
   
@@ -851,7 +851,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025">
+    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-13">
       25 lis 2025
     </time>
   
@@ -913,7 +913,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025">
+    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-14">
       21 lis 2025
     </time>
   
@@ -974,7 +974,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025">
+    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-15">
       12 lis 2025
     </time>
   
@@ -1035,7 +1035,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025">
+    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-16">
       10 lis 2025
     </time>
   
@@ -1096,7 +1096,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025">
+    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-17">
       20 paź 2025
     </time>
   
@@ -2233,6 +2233,14 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-02-2026</p><a href="/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/CHWALOWICE100506_HP25nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3935-abp-andrzej-przybylski-prosi-o-wsparcie-dla-mieszkancow-ukrainy" title="Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy " target="_self">Abp Andrzej Przybylski prosi o wsparcie dla mieszkańców Ukrainy </a></h4><p class="nspText tleft fnull">Zbiórka przed kościołami w naszej archidiecezji odbędzie się w niedzielę 15 lutego.
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rekolekcje kandydatów do święceń diakonatu stałego w Kokoszycach (Archidiecezja Katowicka)]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach</id>
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3933-rekolekcje-kandydatow-do-swiecen-diakonatu-stalego-w-kokoszycach"/>
@@ -2272,89 +2280,81 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPstypendnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3927-kosciol-katowicki-troszczy-sie-o-mlodych-ludzi" title="Kościół katowicki troszczy się o młodych ludzi" target="_self">Kościół katowicki troszczy się o młodych ludzi</a></h4><p class="nspText tleft fnull">31 stycznia, we wspomnienie św. Jana Bosko, ojca i wychowawcy młodzieży, abp Andrzej Przybylski spotkał się ze stypendystami Funduszu Stypendialnego im. bł. ks. Emila Szramka oraz Fundacji "Dzieło Nowego Tysiąc...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej"/>
-        <updated>2026-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-01-2026</p><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAWministrancinsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3925-adoracja-zlobka-duszpasterstwa-ministrantow-archidiecezji-katowickiej" title="Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej" target="_self">Adoracja żłóbka Duszpasterstwa Ministrantów Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wraz z ministrantami modlił się bp Adam Wodarczyk.
-</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex od OpenAI ustanowił nowy rekord wydajności i szybkości (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.325Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.3-Codex od OpenAI ustanowił nowy rekord wydajności i szybkości</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>7.02.2026, 12:00</p><p><strong>Liczba odsłon: </strong>101</p></div><p class="hyNtP12Spf">GPT-5.3-Codex to najzdolniejszy jak dotąd agentowy model kodujący. Wzrosła nie tylko jego skuteczność, ale także szybkość</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.138Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.3-Codex od OpenAI ustanowił nowy rekord wydajności i szybkości</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>7.02.2026, 12:00</p><p><strong>Liczba odsłon: </strong>118</p></div><p class="hyNtP12Spf">GPT-5.3-Codex to najzdolniejszy jak dotąd agentowy model kodujący. Wzrosła nie tylko jego skuteczność, ale także szybkość</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stwórz własnego asystenta AI. Agenty w OneDrive już ogólnodostępne (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.328Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Stwórz własnego asystenta AI. Agenty w OneDrive już ogólnodostępne</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>6.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>134</p></div><p class="hyNtP12Spf">Wsparcie agenta znającego twoje pliki rozszerza możliwości Copilota w OneDrive. Czym on jest, jak go utworzyć i gdzie sprawdza się najlepiej?</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.139Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Stwórz własnego asystenta AI. Agenty w OneDrive już ogólnodostępne</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>6.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>143</p></div><p class="hyNtP12Spf">Wsparcie agenta znającego twoje pliki rozszerza możliwości Copilota w OneDrive. Czym on jest, jak go utworzyć i gdzie sprawdza się najlepiej?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Frontier. Nowa platforma do budowania i wdrażania agentów AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.329Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI Frontier. Nowa platforma do budowania i wdrażania agentów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.02.2026, 20:00</p><p><strong>Liczba odsłon: </strong>113</p></div><p class="hyNtP12Spf">OpenAI uruchomił nową platformę Frontier, służącą do budowania, wdrażania i zarządzania agentami AI przez firmy.</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.141Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI Frontier. Nowa platforma do budowania i wdrażania agentów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.02.2026, 20:00</p><p><strong>Liczba odsłon: </strong>122</p></div><p class="hyNtP12Spf">OpenAI uruchomił nową platformę Frontier, służącą do budowania, wdrażania i zarządzania agentami AI przez firmy.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jakie obowiązują zasady prywatności w Microsoft 365 Copilot? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.330Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Jakie obowiązują zasady prywatności w Microsoft 365 Copilot?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>3.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>262</p></div><p class="hyNtP12Spf">Microsoft objaśnił swoje podejście do prywatności w dobie AI. Co to oznacza dla twoich danych i plików w Microsoft 365 Copilot?</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.142Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Jakie obowiązują zasady prywatności w Microsoft 365 Copilot?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>3.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>271</p></div><p class="hyNtP12Spf">Microsoft objaśnił swoje podejście do prywatności w dobie AI. Co to oznacza dla twoich danych i plików w Microsoft 365 Copilot?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowy raport ujawnia, ilu użytkowników ma Microsoft 365 Copilot (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.331Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy raport ujawnia, ilu użytkowników ma Microsoft 365 Copilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.02.2026, 14:00</p><p><strong>Liczba odsłon: </strong>423</p></div><p class="hyNtP12Spf">Nowy raport kwartalny Microsoftu ujawnia, ilu użytkowników ma Microsoft 365 Copilot, ilu ich przybyło i co się zmieniło w jego statystykach w ciągu roku.</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.144Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy raport ujawnia, ilu użytkowników ma Microsoft 365 Copilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.02.2026, 14:00</p><p><strong>Liczba odsłon: </strong>434</p></div><p class="hyNtP12Spf">Nowy raport kwartalny Microsoftu ujawnia, ilu użytkowników ma Microsoft 365 Copilot, ilu ich przybyło i co się zmieniło w jego statystykach w ciągu roku.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.2-Codex szerzej dostępny w GitHub Copilot i Visual Studio (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.332Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.2-Codex szerzej dostępny w GitHub Copilot i Visual Studio</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>400</p></div><p class="hyNtP12Spf">Dzięki szerszej dostępności GPT-5.2-Codex mogą z niego korzystać programiści w Visual Studio i innych środowiskach IDE poprzez GitHub Copilot</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.147Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.2-Codex szerzej dostępny w GitHub Copilot i Visual Studio</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>415</p></div><p class="hyNtP12Spf">Dzięki szerszej dostępności GPT-5.2-Codex mogą z niego korzystać programiści w Visual Studio i innych środowiskach IDE poprzez GitHub Copilot</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tryb agenta w Excelu ogólnodostępny na Windows i Mac (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.334Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tryb agenta w Excelu ogólnodostępny na Windows i Mac</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>372</p></div><p class="hyNtP12Spf">Dzięki nowemu trybowi agenta środowisko Excela staje się jeszcze potężniejszym narzędziem - również w rękach osób, które nie są ekspertami.</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.148Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tryb agenta w Excelu ogólnodostępny na Windows i Mac</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>377</p></div><p class="hyNtP12Spf">Dzięki nowemu trybowi agenta środowisko Excela staje się jeszcze potężniejszym narzędziem - również w rękach osób, które nie są ekspertami.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2 (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.335Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.01.2026, 20:00</p><p><strong>Liczba odsłon: </strong>445</p></div><p class="hyNtP12Spf">Prism to nowe środowisko AI zaprojektowane z myślą o usprawnieniu pracy badawczej i pisaniu tekstów naukowych. OpenAI udostępnia je za darmo</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.149Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI uruchamia Prism, środowisko pracy dla naukowców z GPT-5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.01.2026, 20:00</p><p><strong>Liczba odsłon: </strong>450</p></div><p class="hyNtP12Spf">Prism to nowe środowisko AI zaprojektowane z myślą o usprawnieniu pracy badawczej i pisaniu tekstów naukowych. OpenAI udostępnia je za darmo</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Power Query już w pełni dostępne w Excelu w przeglądarce (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.336Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Power Query już w pełni dostępne w Excelu w przeglądarce</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>365</p></div><p class="hyNtP12Spf">Pełna obsługa Power Query w Excelu dla sieci Web pozwala wykorzystać jego pełny potencjał w pracy z danymi bezpośrednio w chmurze</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.151Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Power Query już w pełni dostępne w Excelu w przeglądarce</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>370</p></div><p class="hyNtP12Spf">Pełna obsługa Power Query w Excelu dla sieci Web pozwala wykorzystać jego pełny potencjał w pracy z danymi bezpośrednio w chmurze</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.338Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.01.2026, 15:00</p><p><strong>Liczba odsłon: </strong>338</p></div><p class="hyNtP12Spf">Maia 200 to potężne narzędzie, które staje się obecnie najwydajniejszym autorskim akceleratorem AI dostępnym wśród dostawców usług chmurowych.</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.152Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza autorski akcelerator AI. Maia 200 kosi konkurencję</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.01.2026, 15:00</p><p><strong>Liczba odsłon: </strong>341</p></div><p class="hyNtP12Spf">Maia 200 to potężne narzędzie, które staje się obecnie najwydajniejszym autorskim akceleratorem AI dostępnym wśród dostawców usług chmurowych.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowe funkcje importowania tekstu do Excela (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-02-07T17:50:08.339Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje importowania tekstu do Excela</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>387</p></div><p class="hyNtP12Spf">Import danych z pliku .txt, .csv lub .tsv do Excela jest teraz prosty i wygodny dzięki dwóm nowym funkcjom.</p></div></div>]]></content>
+        <updated>2026-02-08T06:11:59.153Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje importowania tekstu do Excela</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.01.2026, 08:00</p><p><strong>Liczba odsłon: </strong>393</p></div><p class="hyNtP12Spf">Import danych z pliku .txt, .csv lub .tsv do Excela jest teraz prosty i wygodny dzięki dwóm nowym funkcjom.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jakie są najważniejsze zmiany do krajowego systemu cyberbezpieczeństwa? (Władcy sieci)]]></title>
@@ -2373,7 +2373,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/02/jakie-sa-najwazniejsze-zmiany-do-krajowego-systemu-cyberbezpieczenstwa/" rel="bookmark">Jakie są najważniejsze zmiany do&nbsp;krajowego systemu cyberbezpieczeństwa?</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="2 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-02T08:11:18+01:00">2 lutego 2026</time></span>			<span class="post-views">
-				330&nbsp;<i class="icon-eye"></i>			</span>
+				340&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2404,7 +2404,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" rel="bookmark">Sieciówka – styczeń: Admin Days 2026, Knowledge...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="30 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-30T08:56:48+01:00">30 stycznia 2026</time></span>			<span class="post-views">
-				99&nbsp;<i class="icon-eye"></i>			</span>
+				101&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2435,7 +2435,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" rel="bookmark">Sejm uchwalił nowelizację ustawy o&nbsp;KSC – wdrożenie...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="28 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-28T11:13:47+01:00">28 stycznia 2026</time></span>			<span class="post-views">
-				521&nbsp;<i class="icon-eye"></i>			</span>
+				527&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2466,7 +2466,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/26/admin-days-2026-powracaja/" rel="bookmark"><i class="icon-pencil"></i>Admin Days 2026 powracają!</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="26 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-26T10:18:45+01:00">26 stycznia 2026</time></span>			<span class="post-views">
-				182&nbsp;<i class="icon-eye"></i>			</span>
+				187&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
