@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-02-09T18:10:13.831Z</updated>
+    <updated>2026-02-10T06:42:02.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Carlsen z piątym tytułem SCC, Lazavik sensacyjnie pokonuje Nakamurę]]></title>
+        <title type="html"><![CDATA[Carlsen z piątym tytułem mistrza Speed Chess Championship, Lazavik sensacyjnie pokonuje Nakamurę]]></title>
         <id>https://www.chess.com/pl/news/view/carlsen-wygrywa-speed-chess-championship-2025</id>
         <link href="https://www.chess.com/pl/news/view/carlsen-wygrywa-speed-chess-championship-2025"/>
         <updated>2026-02-08T16:59:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/carlsen-wygrywa-speed-chess-championship-2025">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1906714.5cb24dd6.630x354o.55934bff5ad5.jpg" srcset="https://images.chesscomfiles.com/uploads/v1/news/1906714.5cb24dd6.630x354o.55934bff5ad5@2x.jpg" alt="Carlsen z piątym tytułem SCC, Lazavik sensacyjnie pokonuje Nakamurę">
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1906714.5cb24dd6.630x354o.55934bff5ad5.jpg" srcset="https://images.chesscomfiles.com/uploads/v1/news/1906714.5cb24dd6.630x354o.55934bff5ad5@2x.jpg" alt="Carlsen z piątym tytułem mistrza Speed Chess Championship, Lazavik sensacyjnie pokonuje Nakamurę">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -20,7 +20,7 @@
                   
                   <a class="post-preview-title" href="https://www.chess.com/pl/news/view/carlsen-wygrywa-speed-chess-championship-2025">
 
-                    Carlsen z piątym tytułem SCC, Lazavik sensacyjnie pokonuje Nakamurę
+                    Carlsen z piątym tytułem mistrza Speed Chess Championship, Lazavik sensacyjnie pokonuje Nakamurę
                   </a>
                 </h2>
 
@@ -53,7 +53,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 8 lut 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-1">
       8 lut 2026
     </time>
   

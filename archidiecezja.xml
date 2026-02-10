@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-09T18:10:13.826Z</updated>
+    <updated>2026-02-10T06:42:02.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spotkanie dziekanów archidiecezji katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3938-spotkanie-dziekanow-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3938-spotkanie-dziekanow-archidiecezji-katowickiej"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-02-2026</p><a href="/o-diecezji/aktualnosci/3938-spotkanie-dziekanow-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPdziekni.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3938-spotkanie-dziekanow-archidiecezji-katowickiej" title="Spotkanie dziekanów archidiecezji katowickiej" target="_self">Spotkanie dziekanów archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">Księża dziekani poszczególnych dekanatów spotkali się z abp. Andrzejem Przybylskim w poniedziałek 9 lutego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotkanie diecezjalnych duszpasterzy nauczycieli i wychowawców]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3936-spotkanie-diecezjalnych-duszpasterzy-nauczycieli-i-wychowawcow</id>
@@ -43,14 +51,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego"/>
         <updated>2026-02-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-02-2026</p><a href="/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/batch_DSC_0026nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3931-dzien-zycia-konsekrowanego" title=" Dzień Życia Konsekrowanego" target="_self"> Dzień Życia Konsekrowanego</a></h4><p class="nspText tleft fnull">Osoby konsekrowane w poniedziałek 2 lutego modliły się podczas Eucharystii pod przewodnictwem abp. Andrzeja Przybylskiego.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100. rocznica sakry biskupiej ks. dr. Teodora Kubiny]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny"/>
-        <updated>2026-02-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">01-02-2026</p><a href="/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPkubinansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3928-100-rocznica-sakry-biskupiej-ks-dr-teodora-kubiny" title="100. rocznica sakry biskupiej ks. dr. Teodora Kubiny" target="_self">100. rocznica sakry biskupiej ks. dr. Teodora Kubiny</a></h4><p class="nspText tleft fnull">W niedzielę 1 lutego abp Andrzej Przybylski sprawował Mszę św. z okazji 100. rocznicy sakry biskupiej pochodzącego ze Świętochłowic pierwszego biskupa częstochowskiego.
 </p>]]></content>
     </entry>
 </feed>
