@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-02-13T06:36:33.486Z</updated>
+    <updated>2026-02-13T18:02:35.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
-        <title type="html"><![CDATA[AI w cyberbezpieczeństwie: co każdy administrator sieci powinien wiedzieć]]></title>
+        <title type="html"><![CDATA[Inwentaryzacja zasobów IT w świetle nowelizacji ustawy o KSC]]></title>
+        <id>https://wladcysieci.pl/2026/02/13/inwentaryzacja-zasobow-it-w-swietle-nowelizacji-ustawy-o-ksc/</id>
+        <link href="https://wladcysieci.pl/2026/02/13/inwentaryzacja-zasobow-it-w-swietle-nowelizacji-ustawy-o-ksc/"/>
+        <updated>2026-02-13T12:10:56.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/02/13/inwentaryzacja-zasobow-it-w-swietle-nowelizacji-ustawy-o-ksc/" title="Inwentaryzacja zasobów IT w świetle nowelizacji ustawy o KSC&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="Inwentaryzacja zasobów IT w świetle nowelizacji ustawy o KSC&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/02/ChatGPT-Image-13-lut-2026-12_41_45-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/branza/"><span class="category-square" style="background: #237bdf"></span><span class="category-name">Branża</span></a>			<a href="https://wladcysieci.pl/category/technical/"><span class="category-square" style="background: #211194"></span><span class="category-name">Technical</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/13/inwentaryzacja-zasobow-it-w-swietle-nowelizacji-ustawy-o-ksc/" rel="bookmark">Inwentaryzacja zasobów IT w&nbsp;świetle nowelizacji ustawy o&nbsp;KSC&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="13 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-13T13:10:56+01:00">13 lutego 2026</time></span>			<span class="post-views">
+				41&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Ustawa o&nbsp;krajowym systemie cyberbezpieczeństwa (KSC), ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/02/13/inwentaryzacja-zasobow-it-w-swietle-nowelizacji-ustawy-o-ksc/" rel="bookmark" title="Czytaj Inwentaryzacja zasobów IT w świetle nowelizacji ustawy o KSC&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI w cyberbezpieczeństwie: co każdy administrator sieci...]]></title>
         <id>https://wladcysieci.pl/2026/02/09/ai-w-cyberbezpieczenstwie-co-kazdy-administrator-sieci-powinien-wiedziec/</id>
         <link href="https://wladcysieci.pl/2026/02/09/ai-w-cyberbezpieczenstwie-co-kazdy-administrator-sieci-powinien-wiedziec/"/>
         <updated>2026-02-09T08:35:00.000Z</updated>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/02/09/ai-w-cyberbezpieczenstwie-co-kazdy-administrator-sieci-powinien-wiedziec/" title="AI w cyberbezpieczeństwie: co każdy administrator sieci powinien wiedzieć&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="AI w cyberbezpieczeństwie: co każdy administrator sieci powinien wiedzieć&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/02/ChatGPT-Image-6-lut-2026-09_08_11-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/09/ai-w-cyberbezpieczenstwie-co-kazdy-administrator-sieci-powinien-wiedziec/" rel="bookmark">AI w&nbsp;cyberbezpieczeństwie: co każdy administrator sieci powinien wiedzieć&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/09/ai-w-cyberbezpieczenstwie-co-kazdy-administrator-sieci-powinien-wiedziec/" rel="bookmark">AI w&nbsp;cyberbezpieczeństwie: co każdy administrator sieci...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Rafał Gołębiowski</span><span class="post-date" itemprop="dateCreated" datetime="9 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-09T09:35:00+01:00">9 lutego 2026</time></span>			<span class="post-views">
-				120&nbsp;<i class="icon-eye"></i>			</span>
+				126&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/02/jakie-sa-najwazniejsze-zmiany-do-krajowego-systemu-cyberbezpieczenstwa/" rel="bookmark">Jakie są najważniejsze zmiany do&nbsp;krajowego systemu...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="2 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-02T08:11:18+01:00">2 lutego 2026</time></span>			<span class="post-views">
-				501&nbsp;<i class="icon-eye"></i>			</span>
+				518&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" rel="bookmark">Sieciówka – styczeń: Admin Days 2026, Knowledge...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="30 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-30T08:56:48+01:00">30 stycznia 2026</time></span>			<span class="post-views">
-				141&nbsp;<i class="icon-eye"></i>			</span>
+				144&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/01/30/sieciowka-styczen-admin-days-2026-knowledge-zone-cyberatak-webinar/" rel="bookmark" title="Czytaj Sieciówka – styczeń: Admin Days 2026, Knowledge Zone, Cyberatak, Webinar">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sejm uchwalił nowelizację ustawy o KSC – wdrożenie...]]></title>
-        <id>https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/</id>
-        <link href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/"/>
-        <updated>2026-01-28T10:13:47.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" title="Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa" rel="bookmark" class="post-img-link">
-	<img alt="Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/01/Sejm-uchwalil-nowelizacje-ustawy-o-KSC-–-wdrozenie-dyrektywy-NIS2-i-nowe-ramy-cyberbezpieczenstwa-270x180.jpg">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/branza/"><span class="category-square" style="background: #237bdf"></span><span class="category-name">Branża</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" rel="bookmark">Sejm uchwalił nowelizację ustawy o&nbsp;KSC – wdrożenie...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="28 stycznia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-01-28T11:13:47+01:00">28 stycznia 2026</time></span>			<span class="post-views">
-				687&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Sejm Rzeczypospolitej Polskiej uchwalił nowelizację ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/01/28/sejm-uchwalil-nowelizacje-ustawy-o-ksc-wdrozenie-dyrektywy-nis2-i-nowe-ramy-cyberbezpieczenstwa/" rel="bookmark" title="Czytaj Sejm uchwalił nowelizację ustawy o KSC – wdrożenie dyrektywy NIS2 i nowe ramy cyberbezpieczeństwa">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
