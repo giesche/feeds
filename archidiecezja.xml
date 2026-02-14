@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-13T18:02:35.844Z</updated>
+    <updated>2026-02-14T06:04:17.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dzień Chorego 2026. Abp Andrzej Przybylski odwiedził chorych w Katowicach-Ochojcu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3952-dzien-chorego-2026-abp-andrzej-przybylski-odwiedzil-chorych-w-katowicach-ochojcu</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3952-dzien-chorego-2026-abp-andrzej-przybylski-odwiedzil-chorych-w-katowicach-ochojcu"/>
+        <updated>2026-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-02-2026</p><a href="/o-diecezji/aktualnosci/3952-dzien-chorego-2026-abp-andrzej-przybylski-odwiedzil-chorych-w-katowicach-ochojcu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPochojecnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3952-dzien-chorego-2026-abp-andrzej-przybylski-odwiedzil-chorych-w-katowicach-ochojcu" title="Dzień Chorego 2026. Abp Andrzej Przybylski odwiedził chorych w Katowicach-Ochojcu" target="_self">Dzień Chorego 2026. Abp Andrzej Przybylski odwiedził chorych w Katowicach-Ochojcu</a></h4><p class="nspText tleft fnull">- Chcę bardzo Bogu podziękować za wszystkich ludzi, którzy pracują i posługują w tym miejscu - mówił metropolita katowicki do zebranych w kaplicy Górnośląskiego Centrum Medycznego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dzień Chorego w parafii Trójcy Przenajświętszej w Rudzie Śląskiej-Kochłowicach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3950-dzien-chorego-w-parafii-trojcy-przenajswietszej-w-rudzie-slaskiej-kochlowicach</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3946-dzien-chorego-w-archidiecezjalnym-domu-hospicyjnym-w-katowicach"/>
         <updated>2026-02-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3946-dzien-chorego-w-archidiecezjalnym-domu-hospicyjnym-w-katowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.BMSdc26.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3946-dzien-chorego-w-archidiecezjalnym-domu-hospicyjnym-w-katowicach" title="Dzień Chorego w Archidiecezjalnym Domu Hospicyjnym w Katowicach" target="_self">Dzień Chorego w Archidiecezjalnym Domu Hospicyjnym w Katowicach</a></h4><p class="nspText tleft fnull">Mszę św. w Archidiecezjalnym Domu Hospicyjnym w Katowicach sprawował bp Marek Szkudło.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dzień Chorego w Domu św. Józefa w Katowicach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3945-dzien-chorego-w-domu-sw-jozefa-w-katowicach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3945-dzien-chorego-w-domu-sw-jozefa-w-katowicach"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3945-dzien-chorego-w-domu-sw-jozefa-w-katowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AWSdc26.nsp-94jpeg" alt="Fot. ks. K. Biela"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3945-dzien-chorego-w-domu-sw-jozefa-w-katowicach" title="Dzień Chorego w Domu św. Józefa w Katowicach" target="_self">Dzień Chorego w Domu św. Józefa w Katowicach</a></h4><p class="nspText tleft fnull">Mszy św. w Domu św. Józefa przewodniczył abp senior Wiktor Skworc.
 </p>]]></content>
     </entry>
 </feed>
