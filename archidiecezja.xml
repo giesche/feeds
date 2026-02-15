@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-15T06:12:53.610Z</updated>
+    <updated>2026-02-15T17:50:33.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Urodziny biskupa Grzegorza]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza"/>
+        <updated>2026-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-02-2026</p><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/bp_go204nsp-94.jpg" alt="Fot. ks. T. Wojtal"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" title="Urodziny biskupa Grzegorza" target="_self">Urodziny biskupa Grzegorza</a></h4><p class="nspText tleft fnull">W niedzielę 15 lutego bp Grzegorz Olszowski obchodzi kolejną rocznicę urodzin.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3948-dzien-chorego-w-parafii-sw-jadwigi-w-chorzowie"/>
         <updated>2026-02-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3948-dzien-chorego-w-parafii-sw-jadwigi-w-chorzowie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BAWch26nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3948-dzien-chorego-w-parafii-sw-jadwigi-w-chorzowie" title="Dzień Chorego w parafii św. Jadwigi w Chorzowie" target="_self">Dzień Chorego w parafii św. Jadwigi w Chorzowie</a></h4><p class="nspText tleft fnull">Mszę św. w Kościele pw.&nbsp;św. Jadwigi w Chorzowie celebrował bp Adam Wodarczyk.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Stanisław Moś]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos"/>
-        <updated>2026-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-02-2026</p><a href="/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_stanislaw_mosnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos" title="Śp. ks. Stanisław Moś" target="_self">Śp. ks. Stanisław Moś</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 70 lat oraz w 44. roku kapłaństwa, zmarł śp. ks. Stanisław Moś, emerytowany proboszcz parafii Świętego Antoniego z Padwy w Siemianowicach Śląskich.
 </p>]]></content>
     </entry>
 </feed>
