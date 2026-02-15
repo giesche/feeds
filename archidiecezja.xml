@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-14T17:49:32.113Z</updated>
+    <updated>2026-02-15T06:12:53.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym"/>
+        <updated>2026-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-02-2026</p><a href="/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.APPbierun.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym" title="Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu" target="_self">Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu</a></h4><p class="nspText tleft fnull">Sumie odpustowej w bieruńskim sanktuarium przewodniczył&nbsp;abp Andrzej Przybylski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Szkudło: Prośmy za wstawiennictwem św. Walentego, abyśmy potrafili kochać miłością bezinteresowną]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3953-bp-szkudlo-prosmy-za-wstawiennictwem-sw-walentego-abysmy-potrafili-kochac-miloscia-bezinteresowna</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos"/>
         <updated>2026-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-02-2026</p><a href="/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_stanislaw_mosnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3944-sp-ks-stanislaw-mos" title="Śp. ks. Stanisław Moś" target="_self">Śp. ks. Stanisław Moś</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 70 lat oraz w 44. roku kapłaństwa, zmarł śp. ks. Stanisław Moś, emerytowany proboszcz parafii Świętego Antoniego z Padwy w Siemianowicach Śląskich.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dzień Chorego w Hospicjum im. św. Jana Pawła II w Żorach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3947-dzien-chorego-w-hospicjum-im-sw-jana-pawla-ii-w-zorach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3947-dzien-chorego-w-hospicjum-im-sw-jana-pawla-ii-w-zorach"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3947-dzien-chorego-w-hospicjum-im-sw-jana-pawla-ii-w-zorach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPch26nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3947-dzien-chorego-w-hospicjum-im-sw-jana-pawla-ii-w-zorach" title="Dzień Chorego w Hospicjum im. św. Jana Pawła II w Żorach" target="_self">Dzień Chorego w Hospicjum im. św. Jana Pawła II w Żorach</a></h4><p class="nspText tleft fnull">Chorych w Hospicjum im. św. Jana Pawła II w Żorach odwiedził i Mszę św. odprawił abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
