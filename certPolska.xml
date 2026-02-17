@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-02-17T06:15:48.491Z</updated>
+    <updated>2026-02-17T18:11:59.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ClickFix w akcji: jak fake captcha może zaszyfrować całą firmę]]></title>
+        <id>https://cert.pl/posts/2026/02/fake-captcha-in-action/</id>
+        <link href="https://cert.pl/posts/2026/02/fake-captcha-in-action/"/>
+        <updated>2026-02-17T18:11:29.792Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>17 lutego 2026</span>
+                <span>
+                    <a href="./author/jaroslaw-jedynak/">Jarosław Jedynak</a>
+                </span>
+                <span><a href="./tag/malware/">#malware</a></span>
+                <span><a href="./tag/analysis/">#analysis</a></span>
+                <span><a href="./tag/dfir/">#dfir</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/02/fake-captcha-in-action/" class="post-outer-container">
+            <h4>ClickFix w akcji: jak fake captcha może zaszyfrować całą firmę</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2025/10/fakecaptcha-thumb.jpg" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Pomogliśmy dużej organizacji w analizie infekcji malware spowodowanej przez Fake CAPTCHA. W tym raporcie podsumowujemy nasze obserwacje oraz publikujemy szczegółową analizę znalezionego złośliwego oprogramowania.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rok moje.cert.pl i nowe narzędzie – infrastruktura organizacji]]></title>
         <id>https://cert.pl/posts/2026/02/rok-moje-infrastruktura-organizacji/</id>
@@ -276,36 +307,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Na początku roku uruchomiliśmy serwis moje.cert.pl, podnoszący i rozwijający cyberbezpieczeństwo dzięki szeregowi usług i narzędzi. Od startu w serwisie zarejestrowało się ponad 11 tysięcy użytkowników. To dla nich włączamy dziś nową funkcję – komunikaty o zagrożeniach.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raport roczny z działalności CERT Polska w 2024 roku]]></title>
-        <id>https://cert.pl/posts/2025/04/raport-roczny-2024/</id>
-        <link href="https://cert.pl/posts/2025/04/raport-roczny-2024/"/>
-        <updated>2025-11-14T15:37:06.534Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>03 kwietnia 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/raport-roczny/">#raport roczny</a></span>
-                <span><a href="./tag/raport/">#raport</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/04/raport-roczny-2024/" class="post-outer-container">
-            <h4>Raport roczny z działalności CERT Polska w 2024 roku</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/04/raport-roczny-2024/thumbnail.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Za nami kolejny rok działania zespołu CERT Polska. Rok absolutnie rekordowy, jeśli weźmiemy pod uwagę praktycznie wszystkie statystyki przytaczane w naszych dotychczasowych raportach. Za tymi liczbami stoi codzienna praca ekspertów, którzy każdego dnia dbają o bezpieczeństwo Polaków w sieci. O tej pracy, kluczowych wyzwaniach, z którymi się mierzymy, oraz o analizowanych zagrożeniach jest tegoroczny raport.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
