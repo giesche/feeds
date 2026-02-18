@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-17T18:11:59.439Z</updated>
+    <updated>2026-02-18T06:37:47.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych"/>
+        <updated>2026-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-02-2026</p><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.w_k_s_2026nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" title="Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych" target="_self">Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych</a></h4><p class="nspText tleft fnull">Zapraszamy na wielkopostną pielgrzymkę po kościołach dekanatów:&nbsp;Piekary Śląskie, Świętochłowice, Siemianowice Śląskie i Chorzów.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2"/>
         <updated>2026-02-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/kuria_katowicensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2" title="Zmiany personalne w archidiecezji" target="_self">Zmiany personalne w archidiecezji</a></h4><p class="nspText tleft fnull">Publikujemy listę aktualnych zmian personalnych w archidiecezji katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dzień Chorego w Szpitalu Zakonu Bonifratrów pw. Aniołów Stróżów w Katowicach-Bogucicach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3949-dzien-chorego-2026-bp-grzegorz-olszowski-celebrowal-msze-sw-w-kaplicy-szpitala-zakonu-bonifratrow-pw-aniolow-strozow-w-katowicach-bogucicach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3949-dzien-chorego-2026-bp-grzegorz-olszowski-celebrowal-msze-sw-w-kaplicy-szpitala-zakonu-bonifratrow-pw-aniolow-strozow-w-katowicach-bogucicach"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3949-dzien-chorego-2026-bp-grzegorz-olszowski-celebrowal-msze-sw-w-kaplicy-szpitala-zakonu-bonifratrow-pw-aniolow-strozow-w-katowicach-bogucicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOch26nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3949-dzien-chorego-2026-bp-grzegorz-olszowski-celebrowal-msze-sw-w-kaplicy-szpitala-zakonu-bonifratrow-pw-aniolow-strozow-w-katowicach-bogucicach" title="Dzień Chorego w Szpitalu Zakonu Bonifratrów pw. Aniołów Stróżów w Katowicach-Bogucicach" target="_self">Dzień Chorego w Szpitalu Zakonu Bonifratrów pw. Aniołów Stróżów w Katowicach-Bogucicach</a></h4><p class="nspText tleft fnull">Mszę św. z udzieleniem sakramentu namaszczenia chorych sprawował bp Grzegorz Olszowski.
 </p>]]></content>
     </entry>
 </feed>
