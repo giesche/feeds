@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-18T18:07:19.076Z</updated>
+    <updated>2026-02-19T06:35:48.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spotkanie abp. Andrzeja Przybylskiego z kapłanami pracującymi w Polskiej Misji Katolickiej w Anglii i Walii]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii"/>
+        <updated>2026-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-02-2026</p><a href="/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPangliaiwalia.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii" title="Spotkanie abp. Andrzeja Przybylskiego z kapłanami pracującymi w Polskiej Misji Katolickiej w Anglii i Walii" target="_self">Spotkanie abp. Andrzeja Przybylskiego z kapłanami pracującymi w Polskiej Misji Katolickiej w Anglii i Walii</a></h4><p class="nspText tleft fnull">Wśród posługujących tam duszpasterzy pracuje 12 duchownych z archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3950-dzien-chorego-w-parafii-trojcy-przenajswietszej-w-rudzie-slaskiej-kochlowicach"/>
         <updated>2026-02-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3950-dzien-chorego-w-parafii-trojcy-przenajswietszej-w-rudzie-slaskiej-kochlowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdch26kochnsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3950-dzien-chorego-w-parafii-trojcy-przenajswietszej-w-rudzie-slaskiej-kochlowicach" title="Dzień Chorego w parafii Trójcy Przenajświętszej w Rudzie Śląskiej-Kochłowicach" target="_self">Dzień Chorego w parafii Trójcy Przenajświętszej w Rudzie Śląskiej-Kochłowicach</a></h4><p class="nspText tleft fnull">Mszy św. połączonej z udzieleniem sakramentu namaszczenia chorych przewodniczył abp Andrzej Przybylski.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zmiany personalne w archidiecezji]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2"/>
-        <updated>2026-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-02-2026</p><a href="/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/kuria_katowicensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3951-zmiany-personalne-w-archidiecezji-2" title="Zmiany personalne w archidiecezji" target="_self">Zmiany personalne w archidiecezji</a></h4><p class="nspText tleft fnull">Publikujemy listę aktualnych zmian personalnych w archidiecezji katowickiej.
 </p>]]></content>
     </entry>
 </feed>
