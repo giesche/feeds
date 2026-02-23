@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-23T06:40:24.604Z</updated>
+    <updated>2026-02-23T18:34:43.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[List abp. Andrzeja Przybylskiego na Wielki Post 2026]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026"/>
+        <updated>2026-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-02-2026</p><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_list_pasterskinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" title="List abp. Andrzeja Przybylskiego na Wielki Post 2026" target="_self">List abp. Andrzeja Przybylskiego na Wielki Post 2026</a></h4><p class="nspText tleft fnull">Słowo metropolity katowickiego odczytane zostanie w kościołach archidiecezji w niedzielę 22 lutego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Święcenia diakonatu [zapowiedź]]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3962-swiecenia-diakonatu-zapowiedz</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza"/>
         <updated>2026-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-02-2026</p><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/bp_go204nsp-94.jpg" alt="Fot. ks. T. Wojtal"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" title="Urodziny biskupa Grzegorza" target="_self">Urodziny biskupa Grzegorza</a></h4><p class="nspText tleft fnull">W niedzielę 15 lutego bp Grzegorz Olszowski obchodzi kolejną rocznicę urodzin.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym"/>
-        <updated>2026-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-02-2026</p><a href="/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.APPbierun.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3954-uroczystosci-odpustowe-w-sanktuarium-sw-walentego-w-bieruniu-starym" title="Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu" target="_self">Uroczystości odpustowe w Sanktuarium św. Walentego w Bieruniu</a></h4><p class="nspText tleft fnull">Sumie odpustowej w bieruńskim sanktuarium przewodniczył&nbsp;abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
