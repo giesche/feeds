@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-25T06:38:38.587Z</updated>
+    <updated>2026-02-25T18:35:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Obrzęd wybrania katechumenów]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow"/>
+        <updated>2026-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-02-2026</p><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPKatechumeni.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" title="Obrzęd wybrania katechumenów" target="_self">Obrzęd wybrania katechumenów</a></h4><p class="nspText tleft fnull">- Zostaliście wybrani, aby w najbliższą Wigilię Paschalną przyjąć sakramenty chrześcijańskiego wtajemniczenia - mówił do czworga katechumenów w I Niedzielę Wielkiego Postu abp Andrzej Przybylski.
+...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[List abp. Andrzeja Przybylskiego na Wielki Post 2026]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich"/>
         <updated>2026-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-02-2026</p><a href="/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPkongregcjansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich" title="Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich" target="_self">Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich</a></h4><p class="nspText tleft fnull">Spotkanie odpowiedzialnych za powołania w Polsce przebiegło pod hasłem: "Rodzina miejscem powołania".
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urodziny biskupa Grzegorza]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza"/>
-        <updated>2026-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-02-2026</p><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/bp_go204nsp-94.jpg" alt="Fot. ks. T. Wojtal"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3955-urodziny-biskupa-grzegorza" title="Urodziny biskupa Grzegorza" target="_self">Urodziny biskupa Grzegorza</a></h4><p class="nspText tleft fnull">W niedzielę 15 lutego bp Grzegorz Olszowski obchodzi kolejną rocznicę urodzin.
 </p>]]></content>
     </entry>
 </feed>
