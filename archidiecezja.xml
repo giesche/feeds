@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-27T06:10:41.092Z</updated>
+    <updated>2026-02-27T17:59:33.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[70-lecie Jasnogórskich Ślubów Narodu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu"/>
+        <updated>2026-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-02-2026</p><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPslubynrofunsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" title="70-lecie Jasnogórskich Ślubów Narodu" target="_self">70-lecie Jasnogórskich Ślubów Narodu</a></h4><p class="nspText tleft fnull">24 lutego w Sekretariacie Konferencja Episkopatu Polski odbyło się spotkanie z okazji 70-lecia Jasnogórskich Ślubów Narodu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Obrzęd wybrania katechumenów]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych"/>
         <updated>2026-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-02-2026</p><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.w_k_s_2026nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" title="Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych" target="_self">Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych</a></h4><p class="nspText tleft fnull">Zapraszamy na wielkopostną pielgrzymkę po kościołach dekanatów:&nbsp;Piekary Śląskie, Świętochłowice, Siemianowice Śląskie i Chorzów.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich"/>
-        <updated>2026-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-02-2026</p><a href="/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPkongregcjansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3956-ogolnopolska-kongregacja-duszpasterstwa-powolan-w-piekarach-slaskich" title="Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich" target="_self">Ogólnopolska Kongregacja Duszpasterstwa Powołań w Piekarach Śląskich</a></h4><p class="nspText tleft fnull">Spotkanie odpowiedzialnych za powołania w Polsce przebiegło pod hasłem: "Rodzina miejscem powołania".
 </p>]]></content>
     </entry>
 </feed>
