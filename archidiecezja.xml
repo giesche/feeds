@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-02-27T17:59:33.971Z</updated>
+    <updated>2026-02-28T05:54:43.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rekolekcje biskupów i prezbiterów "Tożsamość pasterza" w Krakowie]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie"/>
+        <updated>2026-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-02-2026</p><a href="/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zdjcie_gwne.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie" title="Rekolekcje biskupów i prezbiterów &quot;Tożsamość pasterza&quot; w Krakowie" target="_self">Rekolekcje biskupów i prezbiterów "Tożsamość pasterza" w Krakowie</a></h4><p class="nspText tleft fnull">W dniach 25-27 lutego w Centrum Formacji Duchowej w Krakowie odbywają się rekolekcje zatytułowane "Tożsamość pasterza".
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[70-lecie Jasnogórskich Ślubów Narodu]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii"/>
         <updated>2026-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-02-2026</p><a href="/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPangliaiwalia.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3958-spotkanie-abp-andrzeja-przybylskiego-z-kaplanami-pracujacymi-w-polskiej-misji-katolickiej-w-anglii-i-walii" title="Spotkanie abp. Andrzeja Przybylskiego z kapłanami pracującymi w Polskiej Misji Katolickiej w Anglii i Walii" target="_self">Spotkanie abp. Andrzeja Przybylskiego z kapłanami pracującymi w Polskiej Misji Katolickiej w Anglii i Walii</a></h4><p class="nspText tleft fnull">Wśród posługujących tam duszpasterzy pracuje 12 duchownych z archidiecezji katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych"/>
-        <updated>2026-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-02-2026</p><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.w_k_s_2026nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3957-pielgrzymujmy-do-wielkopostnych-kosciolow-stacyjnych" title="Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych" target="_self">Pielgrzymujmy do Wielkopostnych Kościołów Stacyjnych</a></h4><p class="nspText tleft fnull">Zapraszamy na wielkopostną pielgrzymkę po kościołach dekanatów:&nbsp;Piekary Śląskie, Świętochłowice, Siemianowice Śląskie i Chorzów.
 </p>]]></content>
     </entry>
 </feed>
