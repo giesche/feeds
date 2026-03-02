@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-02T06:10:50.471Z</updated>
+    <updated>2026-03-02T18:03:28.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowi diakoni w archidiecezji katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3"/>
+        <updated>2026-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-02-2026</p><a href="/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Diakoni2026nsp-94.jpg" alt="Fot. Marta Sudnik-Paluch i Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3" title="Nowi diakoni w archidiecezji katowickiej" target="_self">Nowi diakoni w archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">Kamil Brożek i Karol Skowronek, akolici WŚSD, przyjęli w sobotę 28 lutego święcenia diakonatu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urodziny biskupa Marka]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026"/>
         <updated>2026-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-02-2026</p><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_list_pasterskinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" title="List abp. Andrzeja Przybylskiego na Wielki Post 2026" target="_self">List abp. Andrzeja Przybylskiego na Wielki Post 2026</a></h4><p class="nspText tleft fnull">Słowo metropolity katowickiego odczytane zostanie w kościołach archidiecezji w niedzielę 22 lutego.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Święcenia diakonatu [zapowiedź]]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3962-swiecenia-diakonatu-zapowiedz</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3962-swiecenia-diakonatu-zapowiedz"/>
-        <updated>2026-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-02-2026</p><a href="/o-diecezji/aktualnosci/3962-swiecenia-diakonatu-zapowiedz" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/diakoni26nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3962-swiecenia-diakonatu-zapowiedz" title="Święcenia diakonatu [zapowiedź]" target="_self">Święcenia diakonatu [zapowiedź]</a></h4><p class="nspText tleft fnull">Alumni WŚSD przyjmą święcenia diakonatu w sobotę 28 lutego.
 </p>]]></content>
     </entry>
 </feed>
