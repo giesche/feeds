@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-03T06:08:11.537Z</updated>
+    <updated>2026-03-03T18:04:17.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wielkopostny dzień skupienia księży]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-03-2026</p><a href="/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdzienskupienia.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy" title="Wielkopostny dzień skupienia księży" target="_self">Wielkopostny dzień skupienia księży</a></h4><p class="nspText tleft fnull">Spotkania zaplanowano w trzech miejscach naszej archidiecezji: Rybniku, Katowicach i Tychach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narodowy Dzień Pamięci Żołnierzy Wyklętych]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3975-narodowy-dzien-pamieci-zolnierzy-wykletych</id>
@@ -60,13 +68,5 @@
         <updated>2026-02-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-02-2026</p><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPslubynrofunsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" title="70-lecie Jasnogórskich Ślubów Narodu" target="_self">70-lecie Jasnogórskich Ślubów Narodu</a></h4><p class="nspText tleft fnull">24 lutego w Sekretariacie Konferencja Episkopatu Polski odbyło się spotkanie z okazji 70-lecia Jasnogórskich Ślubów Narodu.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obrzęd wybrania katechumenów]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow"/>
-        <updated>2026-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-02-2026</p><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPKatechumeni.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" title="Obrzęd wybrania katechumenów" target="_self">Obrzęd wybrania katechumenów</a></h4><p class="nspText tleft fnull">- Zostaliście wybrani, aby w najbliższą Wigilię Paschalną przyjąć sakramenty chrześcijańskiego wtajemniczenia - mówił do czworga katechumenów w I Niedzielę Wielkiego Postu abp Andrzej Przybylski.
-...</p>]]></content>
     </entry>
 </feed>
