@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-02T18:03:28.541Z</updated>
+    <updated>2026-03-03T06:08:11.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Narodowy Dzień Pamięci Żołnierzy Wyklętych]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3975-narodowy-dzien-pamieci-zolnierzy-wykletych</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3975-narodowy-dzien-pamieci-zolnierzy-wykletych"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-03-2026</p><a href="/o-diecezji/aktualnosci/3975-narodowy-dzien-pamieci-zolnierzy-wykletych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPipnnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3975-narodowy-dzien-pamieci-zolnierzy-wykletych" title="Narodowy Dzień Pamięci Żołnierzy Wyklętych" target="_self">Narodowy Dzień Pamięci Żołnierzy Wyklętych</a></h4><p class="nspText tleft fnull">W Kościele Mariackim w Katowicach w poniedziałek 2 marca odbyły się uroczystości z okazji Narodowego Dnia Pamięci Żołnierzy Wyklętych.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nowi diakoni w archidiecezji katowickiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3</id>
@@ -60,13 +68,5 @@
         <updated>2026-02-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-02-2026</p><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPKatechumeni.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3964-obrzed-wybrania-katechumenow" title="Obrzęd wybrania katechumenów" target="_self">Obrzęd wybrania katechumenów</a></h4><p class="nspText tleft fnull">- Zostaliście wybrani, aby w najbliższą Wigilię Paschalną przyjąć sakramenty chrześcijańskiego wtajemniczenia - mówił do czworga katechumenów w I Niedzielę Wielkiego Postu abp Andrzej Przybylski.
 ...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List abp. Andrzeja Przybylskiego na Wielki Post 2026]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026"/>
-        <updated>2026-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-02-2026</p><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_list_pasterskinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3963-list-abp-andrzeja-przybylskiego-na-wielki-post-2026" title="List abp. Andrzeja Przybylskiego na Wielki Post 2026" target="_self">List abp. Andrzeja Przybylskiego na Wielki Post 2026</a></h4><p class="nspText tleft fnull">Słowo metropolity katowickiego odczytane zostanie w kościołach archidiecezji w niedzielę 22 lutego.
-</p>]]></content>
     </entry>
 </feed>
