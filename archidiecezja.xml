@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-04T06:04:31.180Z</updated>
+    <updated>2026-03-04T18:03:08.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Posiedzenie Rady Kapłańskiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-03-2026</p><a href="/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Rada303.nsp-94jpeg" alt="Fot. Tomasz Nocoń"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej" title="Posiedzenie Rady Kapłańskiej" target="_self">Posiedzenie Rady Kapłańskiej</a></h4><p class="nspText tleft fnull">3 marca w Kurii Metropolitalnej w Katowicach odbyło się drugie zwyczajne posiedzenie Rady Kapłańskiej Archidiecezji Katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wielkopostny dzień skupienia księży]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-02-2026</p><a href="/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zdjcie_gwne.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3968-rekolekcje-biskupow-i-prezbiterow-tozsamosc-pasterza-w-krakowie" title="Rekolekcje biskupów i prezbiterów &quot;Tożsamość pasterza&quot; w Krakowie" target="_self">Rekolekcje biskupów i prezbiterów "Tożsamość pasterza" w Krakowie</a></h4><p class="nspText tleft fnull">W dniach 25-27 lutego w Centrum Formacji Duchowej w Krakowie odbywają się rekolekcje zatytułowane "Tożsamość pasterza".
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70-lecie Jasnogórskich Ślubów Narodu]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu"/>
-        <updated>2026-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-02-2026</p><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPslubynrofunsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3966-70-lecie-jasnogorskich-slubow-narodu" title="70-lecie Jasnogórskich Ślubów Narodu" target="_self">70-lecie Jasnogórskich Ślubów Narodu</a></h4><p class="nspText tleft fnull">24 lutego w Sekretariacie Konferencja Episkopatu Polski odbyło się spotkanie z okazji 70-lecia Jasnogórskich Ślubów Narodu.
 </p>]]></content>
     </entry>
 </feed>
