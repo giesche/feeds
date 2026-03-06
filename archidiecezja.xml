@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-06T06:04:32.385Z</updated>
+    <updated>2026-03-06T17:58:36.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Życzenia imieninowe dla Księdza Arcybiskupa Adriana Galbasa]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3981-zyczenia-imieninowe-dla-ksiedza-arcybiskupa-adriana-galbasa</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3981-zyczenia-imieninowe-dla-ksiedza-arcybiskupa-adriana-galbasa"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-03-2026</p><a href="/o-diecezji/aktualnosci/3981-zyczenia-imieninowe-dla-ksiedza-arcybiskupa-adriana-galbasa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_galbas_portretnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3981-zyczenia-imieninowe-dla-ksiedza-arcybiskupa-adriana-galbasa" title="Życzenia imieninowe dla Księdza Arcybiskupa Adriana Galbasa" target="_self">Życzenia imieninowe dla Księdza Arcybiskupa Adriana Galbasa</a></h4><p class="nspText tleft fnull">We wspomnienie św. Adriana składamy najserdeczniejsze życzenia Księdzu Arcybiskupowi Adrianowi Galbasowi, metropolicie warszawskiemu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotkanie formacyjne z młodszymi kapłanami archidiecezji]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3980-spotkanie-formacyjne-z-mlodszymi-kaplanami-archidiecezji</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2"/>
         <updated>2026-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-02-2026</p><a href="/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.PIEKARY190818_HP272nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2" title="Urodziny biskupa Marka" target="_self">Urodziny biskupa Marka</a></h4><p class="nspText tleft fnull">W sobotę 28 lutego bp Marek Szkudło obchodzi kolejną rocznicę urodzin.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Bronisław Matysek]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3972-sp-ks-bronislaw-matysek</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3972-sp-ks-bronislaw-matysek"/>
-        <updated>2026-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-02-2026</p><a href="/o-diecezji/aktualnosci/3972-sp-ks-bronislaw-matysek" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_matysek_bronislawnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3972-sp-ks-bronislaw-matysek" title="Śp. ks. Bronisław Matysek" target="_self">Śp. ks. Bronisław Matysek</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 74 lat oraz w 50. roku kapłaństwa, zmarł śp. ks. Bronisław Matysek, emerytowany proboszcz parafii Świętego Wawrzyńca w Rybniku-Ligockiej Kuźni.
 </p>]]></content>
     </entry>
 </feed>
