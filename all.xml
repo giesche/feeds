@@ -2,8 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-06T17:58:36.794Z</updated>
+    <updated>2026-03-07T05:57:51.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Druga wygrana Dudy w turnieju z serii Freestyle Friday (Chess.com Aktualności)]]></title>
+        <id>https://www.chess.com/pl/news/view/duda-wygrywa-freestyle-friday-6-marca-2026</id>
+        <link href="https://www.chess.com/pl/news/view/duda-wygrywa-freestyle-friday-6-marca-2026"/>
+        <updated>2026-03-06T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/duda-wygrywa-freestyle-friday-6-marca-2026">
+
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1932764.d08e1af8.630x354o.05bf692311ca.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1932764.d08e1af8.630x354o.05bf692311ca@2x.png" alt="Druga wygrana Dudy w turnieju z serii Freestyle Friday">
+                </a>
+
+                <h2 class="post-preview-titlecontainer">
+                  
+                  
+                  <a class="post-preview-title" href="https://www.chess.com/pl/news/view/duda-wygrywa-freestyle-friday-6-marca-2026">
+
+                    Druga wygrana Dudy w turnieju z serii Freestyle Friday
+                  </a>
+                </h2>
+
+                <div class="post-preview-meta">
+                  <div class="post-preview-meta-component">
+                    
+                                                              
+                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/nathanielgreen" title="NathanielGreen">
+                      NathanielGreen
+                    </a>
+
+                    <div class="post-preview-meta-time">
+                      <span class="post-preview-meta-separator">|</span>
+
+                        
+  
+  
+    
+  
+    
+    
+    
+              
+    <span class="cc-icon-glyph cc-icon-size-12 post-preview-meta-icon">
+
+                    <svg width="12" height="12" viewBox="0 0 24 24" data-glyph="time-calendar-fill-week" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M6.06999 8.50007H5.93999C4.90999 8.50007 4.50999 8.90007 4.50999 9.93007V10.0601C4.50999 11.0901 4.90999 11.4901 5.93999 11.4901H6.06999C7.09999 11.4901 7.49999 11.0901 7.49999 10.0601V9.93007C7.49999 8.90007 7.09999 8.50007 6.06999 8.50007ZM10.07 8.50007H9.93999C8.90999 8.50007 8.50999 8.90007 8.50999 9.93007V10.0601C8.50999 11.0901 8.90999 11.4901 9.93999 11.4901H10.07C11.1 11.4901 11.5 11.0901 11.5 10.0601V9.93007C11.5 8.90007 11.1 8.50007 10.07 8.50007ZM14.07 8.50007H13.94C12.91 8.50007 12.51 8.90007 12.51 9.93007V10.0601C12.51 11.0901 12.91 11.4901 13.94 11.4901H14.07C15.1 11.4901 15.5 11.0901 15.5 10.0601V9.93007C15.5 8.90007 15.1 8.50007 14.07 8.50007ZM18.07 8.50007H17.94C16.91 8.50007 16.51 8.90007 16.51 9.93007V10.0601C16.51 11.0901 16.91 11.4901 17.94 11.4901H18.07C19.1 11.4901 19.5 11.0901 19.5 10.0601V9.93007C19.5 8.90007 19.1 8.50007 18.07 8.50007ZM6.06999 12.5001H5.93999C4.90999 12.5001 4.50999 12.9001 4.50999 13.9301V14.0601C4.50999 15.0901 4.90999 15.4901 5.93999 15.4901H6.06999C7.09999 15.4901 7.49999 15.0901 7.49999 14.0601V13.9301C7.49999 12.9001 7.09999 12.5001 6.06999 12.5001ZM10.07 12.5001H9.93999C8.90999 12.5001 8.50999 12.9001 8.50999 13.9301V14.0601C8.50999 15.0901 8.90999 15.4901 9.93999 15.4901H10.07C11.1 15.4901 11.5 15.0901 11.5 14.0601V13.9301C11.5 12.9001 11.1 12.5001 10.07 12.5001ZM14.07 12.5001H13.94C12.91 12.5001 12.51 12.9001 12.51 13.9301V14.0601C12.51 15.0901 12.91 15.4901 13.94 15.4901H14.07C15.1 15.4901 15.5 15.0901 15.5 14.0601V13.9301C15.5 12.9001 15.1 12.5001 14.07 12.5001ZM18.07 12.5001H17.94C16.91 12.5001 16.51 12.9001 16.51 13.9301V14.0601C16.51 15.0901 16.91 15.4901 17.94 15.4901H18.07C19.1 15.4901 19.5 15.0901 19.5 14.0601V13.9301C19.5 12.9001 19.1 12.5001 18.07 12.5001ZM6.06999 16.5001H5.93999C4.90999 16.5001 4.50999 16.9001 4.50999 17.9301V18.0601C4.50999 19.0901 4.90999 19.4901 5.93999 19.4901H6.06999C7.09999 19.4901 7.49999 19.0901 7.49999 18.0601V17.9301C7.49999 16.9001 7.09999 16.5001 6.06999 16.5001ZM10.07 16.5001H9.93999C8.90999 16.5001 8.50999 16.9001 8.50999 17.9301V18.0601C8.50999 19.0901 8.90999 19.4901 9.93999 19.4901H10.07C11.1 19.4901 11.5 19.0901 11.5 18.0601V17.9301C11.5 16.9001 11.1 16.5001 10.07 16.5001ZM14.07 16.5001H13.94C12.91 16.5001 12.51 16.9001 12.51 17.9301V18.0601C12.51 19.0901 12.91 19.4901 13.94 19.4901H14.07C15.1 19.4901 15.5 19.0901 15.5 18.0601V17.9301C15.5 16.9001 15.1 16.5001 14.07 16.5001ZM17.03 22.0001H6.95999C3.28999 22.0001 1.98999 20.7001 1.98999 17.0301V6.96007C1.98999 3.29007 2.95999 1.99007 5.71999 1.99007H5.98999V1.32007C5.98999 0.690068 6.55999 0.320068 7.48999 0.320068C8.45999 0.320068 8.98999 0.690068 8.98999 1.32007V1.99007H14.99V1.32007C14.99 0.690068 15.56 0.320068 16.49 0.320068C17.46 0.320068 17.99 0.690068 17.99 1.32007V1.99007H18.26C21.03 1.99007 21.99 3.29007 21.99 6.96007V17.0301C21.99 20.7001 20.69 22.0001 17.02 22.0001H17.03ZM7.49999 5.00007C8.42999 5.00007 8.99999 4.63007 8.99999 4.00007V3.00007H5.99999V4.00007C5.99999 4.63007 6.52999 5.00007 7.49999 5.00007ZM16.5 5.00007C17.43 5.00007 18 4.63007 18 4.00007V3.00007H15V4.00007C15 4.63007 15.53 5.00007 16.5 5.00007Z"></path></svg>    
+          </span>
+  
+
+                      <span class="post-preview-meta-content">
+                                
+    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 6 mar 2026" data-tooltip-id="static-tooltip-1">
+      6 mar 2026
+    </time>
+  
+                      </span>
+                    </div>
+
+                                      </div>
+                </div>
+
+                <p class="post-preview-excerpt">
+                  6 marca GM Jan-Krzysztof Duda sięgnął po swoje drugie w karierze zwycięstwo w turnieju Freestyle Friday, zdobywając 9,5 punktu (pierwsze zwycięstwo w tych rozgrywkach odniósł ponad rok temu). Za Dudą uplasowali się GM Martyn Kravtsiv, IM Al...
+                </p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[250 milionów użytkowników na Chess.com! (Chess.com Aktualności)]]></title>
         <id>https://www.chess.com/pl/news/view/250-milionow-uzytkownikow-na-chesscom</id>
@@ -11,7 +72,7 @@
         <updated>2026-02-27T07:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/250-milionow-uzytkownikow-na-chesscom">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1930178.f5302195.630x354o.07f95d01c6bf.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1930178.f5302195.630x354o.07f95d01c6bf@2x.png" alt="250 milionów użytkowników na Chess.com!">
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1930178.f5302195.300x169o.fb35109e2d95.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1930178.f5302195.300x169o.fb35109e2d95@2x.png" alt="250 milionów użytkowników na Chess.com!">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -51,7 +112,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-2">
       27 lut 2026
     </time>
   
@@ -113,7 +174,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-2">
+    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-3">
       8 lut 2026
     </time>
   
@@ -175,7 +236,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026" data-tooltip-id="static-tooltip-3">
+    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026" data-tooltip-id="static-tooltip-4">
       7 lut 2026
     </time>
   
@@ -256,7 +317,7 @@
         <updated>2026-01-16T03:39:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/chess-challenge-poland-2026-zapowiedz">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1876936.9dec140f.300x169o.ed645d636856.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1876936.9dec140f.300x169o.ed645d636856@2x.png" alt="Chess Challenge Poland 2026 już od 17 stycznia!">
+                  <img class="post-preview-thumbnail img-defer" data-src="https://images.chesscomfiles.com/uploads/v1/news/1876936.9dec140f.300x169o.ed645d636856.png" data-srcset="https://images.chesscomfiles.com/uploads/v1/news/1876936.9dec140f.300x169o.ed645d636856@2x.png" src="https://www.chess.com/bundles/web/images/image-default.445cb543.svg" alt="Chess Challenge Poland 2026 już od 17 stycznia!">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -296,7 +357,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-4">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-5">
       16 sty 2026
     </time>
   
@@ -357,7 +418,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-5">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-6">
       7 sty 2026
     </time>
   
@@ -419,7 +480,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-6">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-7">
       6 sty 2026
     </time>
   
@@ -481,7 +542,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-7">
+    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-8">
       30 gru 2025
     </time>
   
@@ -543,7 +604,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025" data-tooltip-id="static-tooltip-8">
+    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025" data-tooltip-id="static-tooltip-9">
       29 gru 2025
     </time>
   
@@ -605,7 +666,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-9">
+    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-10">
       28 gru 2025
     </time>
   
@@ -667,7 +728,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025" data-tooltip-id="static-tooltip-10">
+    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025" data-tooltip-id="static-tooltip-11">
       27 gru 2025
     </time>
   
@@ -729,7 +790,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025" data-tooltip-id="static-tooltip-11">
+    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025" data-tooltip-id="static-tooltip-12">
       26 gru 2025
     </time>
   
@@ -790,7 +851,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025" data-tooltip-id="static-tooltip-12">
+    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025" data-tooltip-id="static-tooltip-13">
       23 gru 2025
     </time>
   
@@ -851,7 +912,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025" data-tooltip-id="static-tooltip-13">
+    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025" data-tooltip-id="static-tooltip-14">
       15 gru 2025
     </time>
   
@@ -914,7 +975,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025" data-tooltip-id="static-tooltip-14">
+    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025" data-tooltip-id="static-tooltip-15">
       11 gru 2025
     </time>
   
@@ -975,7 +1036,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-15">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-16">
       26 lis 2025
     </time>
   
@@ -1036,7 +1097,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-16">
+    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-17">
       25 lis 2025
     </time>
   
@@ -1098,7 +1159,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-17">
+    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-18">
       21 lis 2025
     </time>
   
@@ -1159,7 +1220,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-18">
+    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-19">
       12 lis 2025
     </time>
   
@@ -1220,7 +1281,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-19">
+    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-20">
       10 lis 2025
     </time>
   
@@ -1281,7 +1342,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-20">
+    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-21">
       20 paź 2025
     </time>
   
@@ -1342,7 +1403,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025" data-tooltip-id="static-tooltip-21">
+    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025" data-tooltip-id="static-tooltip-22">
       9 paź 2025
     </time>
   
@@ -1403,7 +1464,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025" data-tooltip-id="static-tooltip-22">
+    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025" data-tooltip-id="static-tooltip-23">
       2 paź 2025
     </time>
   
@@ -1464,7 +1525,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-09-30 13:22" v-tooltip="Aktualizacja: 30 wrz 2025" data-tooltip-id="static-tooltip-23">
+    <time datetime="2025-09-30 13:22" v-tooltip="Aktualizacja: 30 wrz 2025" data-tooltip-id="static-tooltip-24">
       30 wrz 2025
     </time>
   
@@ -1476,68 +1537,6 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                 <p class="post-preview-excerpt">
                   GM Magnus Carlsen, uznawany za jednego z najwybitniejszych szachistów wszech czasów, po raz pierwszy został ojcem. W dniu 27 września pięciokrotny mistrz świata i jego żona Ella Victoria Carlsen powitali na świecie swoje pierwsze dzi...
-                </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wesley So wygrywa Sinquefield Cup po dogrywkach (Chess.com Aktualności)]]></title>
-        <id>https://www.chess.com/pl/news/view/wesley-so-wygrywa-sinquefield-cup-2025</id>
-        <link href="https://www.chess.com/pl/news/view/wesley-so-wygrywa-sinquefield-cup-2025"/>
-        <updated>2025-11-14T13:32:42.750Z</updated>
-        <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/wesley-so-wygrywa-sinquefield-cup-2025">
-
-                  <img class="post-preview-thumbnail img-defer" data-src="https://images.chesscomfiles.com/uploads/v1/news/1751480.84dcd08a.300x169o.06f40720aa94.png" data-srcset="https://images.chesscomfiles.com/uploads/v1/news/1751480.84dcd08a.300x169o.06f40720aa94@2x.png" src="https://www.chess.com/bundles/web/images/image-default.445cb543.svg" alt="Wesley So wygrywa Sinquefield Cup po dogrywkach">
-                </a>
-
-                <h2 class="post-preview-titlecontainer">
-                  
-                  
-                  <a class="post-preview-title" href="https://www.chess.com/pl/news/view/wesley-so-wygrywa-sinquefield-cup-2025">
-
-                    Wesley So wygrywa Sinquefield Cup po dogrywkach
-                  </a>
-                </h2>
-
-                <div class="post-preview-meta">
-                  <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
-                                                              
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
-                        
-  
-  
-    
-  
-    
-    
-    
-              
-    <span class="cc-icon-glyph cc-icon-size-12 post-preview-meta-icon">
-
-                    <svg width="12" height="12" viewBox="0 0 24 24" data-glyph="time-calendar-fill-week" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M6.06999 8.50007H5.93999C4.90999 8.50007 4.50999 8.90007 4.50999 9.93007V10.0601C4.50999 11.0901 4.90999 11.4901 5.93999 11.4901H6.06999C7.09999 11.4901 7.49999 11.0901 7.49999 10.0601V9.93007C7.49999 8.90007 7.09999 8.50007 6.06999 8.50007ZM10.07 8.50007H9.93999C8.90999 8.50007 8.50999 8.90007 8.50999 9.93007V10.0601C8.50999 11.0901 8.90999 11.4901 9.93999 11.4901H10.07C11.1 11.4901 11.5 11.0901 11.5 10.0601V9.93007C11.5 8.90007 11.1 8.50007 10.07 8.50007ZM14.07 8.50007H13.94C12.91 8.50007 12.51 8.90007 12.51 9.93007V10.0601C12.51 11.0901 12.91 11.4901 13.94 11.4901H14.07C15.1 11.4901 15.5 11.0901 15.5 10.0601V9.93007C15.5 8.90007 15.1 8.50007 14.07 8.50007ZM18.07 8.50007H17.94C16.91 8.50007 16.51 8.90007 16.51 9.93007V10.0601C16.51 11.0901 16.91 11.4901 17.94 11.4901H18.07C19.1 11.4901 19.5 11.0901 19.5 10.0601V9.93007C19.5 8.90007 19.1 8.50007 18.07 8.50007ZM6.06999 12.5001H5.93999C4.90999 12.5001 4.50999 12.9001 4.50999 13.9301V14.0601C4.50999 15.0901 4.90999 15.4901 5.93999 15.4901H6.06999C7.09999 15.4901 7.49999 15.0901 7.49999 14.0601V13.9301C7.49999 12.9001 7.09999 12.5001 6.06999 12.5001ZM10.07 12.5001H9.93999C8.90999 12.5001 8.50999 12.9001 8.50999 13.9301V14.0601C8.50999 15.0901 8.90999 15.4901 9.93999 15.4901H10.07C11.1 15.4901 11.5 15.0901 11.5 14.0601V13.9301C11.5 12.9001 11.1 12.5001 10.07 12.5001ZM14.07 12.5001H13.94C12.91 12.5001 12.51 12.9001 12.51 13.9301V14.0601C12.51 15.0901 12.91 15.4901 13.94 15.4901H14.07C15.1 15.4901 15.5 15.0901 15.5 14.0601V13.9301C15.5 12.9001 15.1 12.5001 14.07 12.5001ZM18.07 12.5001H17.94C16.91 12.5001 16.51 12.9001 16.51 13.9301V14.0601C16.51 15.0901 16.91 15.4901 17.94 15.4901H18.07C19.1 15.4901 19.5 15.0901 19.5 14.0601V13.9301C19.5 12.9001 19.1 12.5001 18.07 12.5001ZM6.06999 16.5001H5.93999C4.90999 16.5001 4.50999 16.9001 4.50999 17.9301V18.0601C4.50999 19.0901 4.90999 19.4901 5.93999 19.4901H6.06999C7.09999 19.4901 7.49999 19.0901 7.49999 18.0601V17.9301C7.49999 16.9001 7.09999 16.5001 6.06999 16.5001ZM10.07 16.5001H9.93999C8.90999 16.5001 8.50999 16.9001 8.50999 17.9301V18.0601C8.50999 19.0901 8.90999 19.4901 9.93999 19.4901H10.07C11.1 19.4901 11.5 19.0901 11.5 18.0601V17.9301C11.5 16.9001 11.1 16.5001 10.07 16.5001ZM14.07 16.5001H13.94C12.91 16.5001 12.51 16.9001 12.51 17.9301V18.0601C12.51 19.0901 12.91 19.4901 13.94 19.4901H14.07C15.1 19.4901 15.5 19.0901 15.5 18.0601V17.9301C15.5 16.9001 15.1 16.5001 14.07 16.5001ZM17.03 22.0001H6.95999C3.28999 22.0001 1.98999 20.7001 1.98999 17.0301V6.96007C1.98999 3.29007 2.95999 1.99007 5.71999 1.99007H5.98999V1.32007C5.98999 0.690068 6.55999 0.320068 7.48999 0.320068C8.45999 0.320068 8.98999 0.690068 8.98999 1.32007V1.99007H14.99V1.32007C14.99 0.690068 15.56 0.320068 16.49 0.320068C17.46 0.320068 17.99 0.690068 17.99 1.32007V1.99007H18.26C21.03 1.99007 21.99 3.29007 21.99 6.96007V17.0301C21.99 20.7001 20.69 22.0001 17.02 22.0001H17.03ZM7.49999 5.00007C8.42999 5.00007 8.99999 4.63007 8.99999 4.00007V3.00007H5.99999V4.00007C5.99999 4.63007 6.52999 5.00007 7.49999 5.00007ZM16.5 5.00007C17.43 5.00007 18 4.63007 18 4.00007V3.00007H15V4.00007C15 4.63007 15.53 5.00007 16.5 5.00007Z"></path></svg>    
-          </span>
-  
-
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2025-08-27 23:01" v-tooltip="Aktualizacja: 28 sie 2025" data-tooltip-id="static-tooltip-24">
-      27 sie 2025
-    </time>
-  
-                      </span>
-                    </div>
-
-                                      </div>
-                </div>
-
-                <p class="post-preview-excerpt">
-                  Turniej Sinquefield Cup 2025 zakończył się zwycięstwem GM-a Wesleya So, dla którego jest to drugi triumf w tej prestiżowej imprezie na przestrzeni dziewięciu lat (po raz pierwszy wygrał w 2016 roku). W ostatniej rundzie So pokonał GM-a Nodi...
                 </p>]]></content>
     </entry>
     <entry>
@@ -2000,78 +1999,78 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
         <title type="html"><![CDATA[Copilot na Windows z nowym sposobem przeglądania treści (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.527Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot na Windows z nowym sposobem przeglądania treści</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>6.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>114</p></div><p class="hyNtP12Spf">Copilot przechodzi na zupełnie nowe podejście do interakcji z łączami internetowymi. Zobacz, co się teraz stanie po kliknięciu linka</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.444Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot na Windows z nowym sposobem przeglądania treści</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>6.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>135</p></div><p class="hyNtP12Spf">Copilot przechodzi na zupełnie nowe podejście do interakcji z łączami internetowymi. Zobacz, co się teraz stanie po kliknięciu linka</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nadeszła wyczekiwana nowość. OpenAI wprowadza Codex na Windows (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.529Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nadeszła wyczekiwana nowość. OpenAI wprowadza Codex na Windows</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.03.2026, 18:00</p><p><strong>Liczba odsłon: </strong>175</p></div><p class="hyNtP12Spf">To duży krok w ułatwianiu programistom zarządzania wieloma agentami AI jednocześnie. Nowa aplikacja dostępna jest już w Microsoft Store</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.444Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nadeszła wyczekiwana nowość. OpenAI wprowadza Codex na Windows</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.03.2026, 18:00</p><p><strong>Liczba odsłon: </strong>201</p></div><p class="hyNtP12Spf">To duży krok w ułatwianiu programistom zarządzania wieloma agentami AI jednocześnie. Nowa aplikacja dostępna jest już w Microsoft Store</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI kończy prawić kazania. GPT‑5.3 Instant już w Microsoft 365 Copilot (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.531Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI kończy prawić kazania. GPT‑5.3 Instant już w Microsoft 365 Copilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>488</p></div><p class="hyNtP12Spf">Nowa wersja GPT eliminuje irytujące nawyki starszych modeli oraz poprawia rzetelności przekazywanych informacji</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.446Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI kończy prawić kazania. GPT‑5.3 Instant już w Microsoft 365 Copilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>5.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>512</p></div><p class="hyNtP12Spf">Nowa wersja GPT eliminuje irytujące nawyki starszych modeli oraz poprawia rzetelności przekazywanych informacji</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sztuczna inteligencja w SharePoint. Wyszła potężna aktualizacja (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.533Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Sztuczna inteligencja w SharePoint. Wyszła potężna aktualizacja</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>4.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>276</p></div><p class="hyNtP12Spf">AI każdym kroku wspomaga teraz tworzenie rozwiązań, publikowanie treści i organizowanie informacji w SharePoint. Aplikacja zyskała też nowy wygląd</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.447Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Sztuczna inteligencja w SharePoint. Wyszła potężna aktualizacja</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>4.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>287</p></div><p class="hyNtP12Spf">AI każdym kroku wspomaga teraz tworzenie rozwiązań, publikowanie treści i organizowanie informacji w SharePoint. Aplikacja zyskała też nowy wygląd</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copilot zajmie się konfliktami w kalendarzu Outlook (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.534Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot zajmie się konfliktami w kalendarzu Outlook</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>2.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>523</p></div><p class="hyNtP12Spf">Konflikty w kalendarzu to często zmora współczesnej pracy. Copilot w Outlooku może teraz je automatycznie rozwiązywać</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.449Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot zajmie się konfliktami w kalendarzu Outlook</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>2.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>531</p></div><p class="hyNtP12Spf">Konflikty w kalendarzu to często zmora współczesnej pracy. Copilot w Outlooku może teraz je automatycznie rozwiązywać</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Tasks. Nowe podejście do produktywności z AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.536Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot Tasks. Nowe podejście do produktywności z AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.02.2026, 16:00</p><p><strong>Liczba odsłon: </strong>409</p></div><p class="hyNtP12Spf">AI przestaje być tylko rozmówcą, a staje się agentem - aktywnym wykonawcą zadań w prawdziwym świecie. Jak to robi Copilot?</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.450Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot Tasks. Nowe podejście do produktywności z AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.02.2026, 16:00</p><p><strong>Liczba odsłon: </strong>418</p></div><p class="hyNtP12Spf">AI przestaje być tylko rozmówcą, a staje się agentem - aktywnym wykonawcą zadań w prawdziwym świecie. Jak to robi Copilot?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft i OpenAI wydali wspólne oświadczenie. Wyjaśnili, co dalej (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.538Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft i OpenAI wydali wspólne oświadczenie. Wyjaśnili, co dalej</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.02.2026, 10:00</p><p><strong>Liczba odsłon: </strong>533</p></div><p class="hyNtP12Spf">W obliczu partnerstwa z Amazonem i spekulacji o ochłodzeniu relacji obie firmy wydały oświadczenie, w którym wyjaśniają, co dalej ze współpracą.</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.451Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft i OpenAI wydali wspólne oświadczenie. Wyjaśnili, co dalej</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.02.2026, 10:00</p><p><strong>Liczba odsłon: </strong>543</p></div><p class="hyNtP12Spf">W obliczu partnerstwa z Amazonem i spekulacji o ochłodzeniu relacji obie firmy wydały oświadczenie, w którym wyjaśniają, co dalej ze współpracą.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI ogłosił partnerstwo z Amazonem. Co dalej z Microsoftem? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.539Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI ogłosił partnerstwo z Amazonem. Co dalej z Microsoftem?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.02.2026, 20:46</p><p><strong>Liczba odsłon: </strong>880</p></div><p class="hyNtP12Spf">OpenAI zawarł gigantyczną umowę infrastrukturalną z Amazonem, opiewającą na 50 miliardów dolarów. Co ze współpracą z Microsoftem?</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.453Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI ogłosił partnerstwo z Amazonem. Co dalej z Microsoftem?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.02.2026, 20:46</p><p><strong>Liczba odsłon: </strong>889</p></div><p class="hyNtP12Spf">OpenAI zawarł gigantyczną umowę infrastrukturalną z Amazonem, opiewającą na 50 miliardów dolarów. Co ze współpracą z Microsoftem?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.3-Codex i najnowsze modele dźwiękowe w Microsoft Foundry (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.541Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.3-Codex i najnowsze modele dźwiękowe w Microsoft Foundry</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>1004</p></div><p class="hyNtP12Spf">Programiści zyskują dostęp do narzędzia, które osiąga niespotykaną dotąd precyzję w rozwiązywaniu rzeczywistych problemów inżynieryjnych</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.454Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.3-Codex i najnowsze modele dźwiękowe w Microsoft Foundry</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.02.2026, 08:00</p><p><strong>Liczba odsłon: </strong>1013</p></div><p class="hyNtP12Spf">Programiści zyskują dostęp do narzędzia, które osiąga niespotykaną dotąd precyzję w rozwiązywaniu rzeczywistych problemów inżynieryjnych</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Koniec z App Skills. Copilot w Excelu z jednolitym ekosystemem AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.542Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Koniec z App Skills. Copilot w Excelu z jednolitym ekosystemem AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.02.2026, 18:20</p><p><strong>Liczba odsłon: </strong>551</p></div><p class="hyNtP12Spf">Funkcja Copilota znana jako App Skills jest wycofywana, a jej możliwości zostają przejęte przez nowsze i bardziej zaawansowane tryby pracy.</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.456Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Koniec z App Skills. Copilot w Excelu z jednolitym ekosystemem AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.02.2026, 18:20</p><p><strong>Liczba odsłon: </strong>559</p></div><p class="hyNtP12Spf">Funkcja Copilota znana jako App Skills jest wycofywana, a jej możliwości zostają przejęte przez nowsze i bardziej zaawansowane tryby pracy.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twoje linki z Outlooka trafią automatycznie do Copilota w Edge (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-06T17:58:25.545Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Twoje linki z Outlooka trafią automatycznie do Copilota w Edge</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.02.2026, 18:30</p><p><strong>Liczba odsłon: </strong>270</p></div><p class="hyNtP12Spf">Microsoft wprowadzi nowe zachowanie Edge przy otwieraniu linków z Outlooka. Copilot automatycznie przeczyta i przetworzy twoje wiadomości</p></div></div>]]></content>
+        <updated>2026-03-07T05:57:38.457Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Twoje linki z Outlooka trafią automatycznie do Copilota w Edge</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.02.2026, 18:30</p><p><strong>Liczba odsłon: </strong>276</p></div><p class="hyNtP12Spf">Microsoft wprowadzi nowe zachowanie Edge przy otwieraniu linków z Outlooka. Copilot automatycznie przeczyta i przetworzy twoje wiadomości</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wnioski z raportu IBM X-Force Threat Intelligence Index 2026 (Władcy sieci)]]></title>
@@ -2121,7 +2120,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/02/sieciowka-luty-admin-days-2026-nis2-wyciek-danych-nowosci-w-axence-secureteam/" rel="bookmark">Sieciówka – luty: Admin Days 2026, NIS2, Wyciek...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="2 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-02T11:19:29+01:00">2 marca 2026</time></span>			<span class="post-views">
-				180&nbsp;<i class="icon-eye"></i>			</span>
+				183&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2152,7 +2151,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/25/ai-w-praktyce-dla-zaawansowanego-administratora-pipeline-dane-i-architektura/" rel="bookmark">AI w&nbsp;praktyce dla zaawansowanego administratora –...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Rafał Gołębiowski</span><span class="post-date" itemprop="dateCreated" datetime="25 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-25T10:16:05+01:00">25 lutego 2026</time></span>			<span class="post-views">
-				174&nbsp;<i class="icon-eye"></i>			</span>
+				178&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2183,7 +2182,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/02/18/wep-wpa-czy-wpa2-a-moze-lepiej-wybrac-wpa3/" rel="bookmark">WEP, WPA czy WPA2? A&nbsp;może lepiej wybrać WPA3?</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="18 lutego 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-02-18T13:43:51+01:00">18 lutego 2026</time></span>			<span class="post-views">
-				360&nbsp;<i class="icon-eye"></i>			</span>
+				361&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
