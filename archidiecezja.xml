@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-08T06:02:25.195Z</updated>
+    <updated>2026-03-08T17:46:21.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zbliża się 19. edycja Metropolitalnego Święta Rodziny]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-03-2026</p><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/ka11s04.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" title="Zbliża się 19. edycja Metropolitalnego Święta Rodziny" target="_self">Zbliża się 19. edycja Metropolitalnego Święta Rodziny</a></h4><p class="nspText tleft fnull">W tym roku wydarzeniu towarzyszyć będzie hasło "Rodzina siłą dzieci".
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Życzenia imieninowe dla Księdza Arcybiskupa Adriana Galbasa]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3981-zyczenia-imieninowe-dla-ksiedza-arcybiskupa-adriana-galbasa</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3"/>
         <updated>2026-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-02-2026</p><a href="/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Diakoni2026nsp-94.jpg" alt="Fot. Marta Sudnik-Paluch i Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3973-nowi-diakoni-w-archidiecezji-katowickiej-3" title="Nowi diakoni w archidiecezji katowickiej" target="_self">Nowi diakoni w archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">Kamil Brożek i Karol Skowronek, akolici WŚSD, przyjęli w sobotę 28 lutego święcenia diakonatu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urodziny biskupa Marka]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2"/>
-        <updated>2026-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-02-2026</p><a href="/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.PIEKARY190818_HP272nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3969-urodziny-biskupa-marka-2" title="Urodziny biskupa Marka" target="_self">Urodziny biskupa Marka</a></h4><p class="nspText tleft fnull">W sobotę 28 lutego bp Marek Szkudło obchodzi kolejną rocznicę urodzin.
 </p>]]></content>
     </entry>
 </feed>
