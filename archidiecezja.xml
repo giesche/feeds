@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-09T18:06:05.848Z</updated>
+    <updated>2026-03-10T18:06:31.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej"/>
+        <updated>2026-03-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-03-2026</p><a href="/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.o_d1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej" title="Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej" target="_self">Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wydarzenie miało charakter formacyjny i było okazją do refleksji nad duchowością oraz rolą ojców duchownych w posłudze kapłanów.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kościoły jubileuszowe w Archidiecezji Katowickiej w Roku św. Franciszka]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3983-koscioly-jubileuszowe-w-archidiecezji-katowickiej-w-roku-sw-franciszka</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej"/>
         <updated>2026-03-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-03-2026</p><a href="/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Rada303.nsp-94jpeg" alt="Fot. Tomasz Nocoń"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3978-posiedzenie-rady-kaplanskiej" title="Posiedzenie Rady Kapłańskiej" target="_self">Posiedzenie Rady Kapłańskiej</a></h4><p class="nspText tleft fnull">3 marca w Kurii Metropolitalnej w Katowicach odbyło się drugie zwyczajne posiedzenie Rady Kapłańskiej Archidiecezji Katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wielkopostny dzień skupienia księży]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-03-2026</p><a href="/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdzienskupienia.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3976-wielkopostny-dzien-skupienia-ksiezy" title="Wielkopostny dzień skupienia księży" target="_self">Wielkopostny dzień skupienia księży</a></h4><p class="nspText tleft fnull">Spotkania zaplanowano w trzech miejscach naszej archidiecezji: Rybniku, Katowicach i Tychach.
 </p>]]></content>
     </entry>
 </feed>
