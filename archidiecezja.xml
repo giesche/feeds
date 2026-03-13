@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-13T06:08:20.463Z</updated>
+    <updated>2026-03-13T17:58:20.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Archidiecezjalny Młodzieżowy Turniej Piłkarski]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3988-archidiecezjalny-mlodziezowy-turniej-pilkarski</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3988-archidiecezjalny-mlodziezowy-turniej-pilkarski"/>
+        <updated>2026-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-03-2026</p><a href="/o-diecezji/aktualnosci/3988-archidiecezjalny-mlodziezowy-turniej-pilkarski" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.apb_turniej_pilka_noznansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3988-archidiecezjalny-mlodziezowy-turniej-pilkarski" title="Archidiecezjalny Młodzieżowy Turniej Piłkarski" target="_self">Archidiecezjalny Młodzieżowy Turniej Piłkarski</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zaprasza młodych piłkarzy do udziału w turnieju.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[List, który prowadzi do Pana Boga]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3987-list-ktory-prowadzi-do-pana-boga</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3980-spotkanie-formacyjne-z-mlodszymi-kaplanami-archidiecezji"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-03-2026</p><a href="/o-diecezji/aktualnosci/3980-spotkanie-formacyjne-z-mlodszymi-kaplanami-archidiecezji" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPmlodsi.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3980-spotkanie-formacyjne-z-mlodszymi-kaplanami-archidiecezji" title="Spotkanie formacyjne z młodszymi kapłanami archidiecezji" target="_self">Spotkanie formacyjne z młodszymi kapłanami archidiecezji</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się w środę 4 marca w Wyższym Śląskim Seminarium Duchownym w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archidiecezja katowicka przekazała kościół wspólnocie greckokatolickiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3979-archidiecezja-katowicka-przekazala-kosciol-wspolnocie-greckokatolickiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3979-archidiecezja-katowicka-przekazala-kosciol-wspolnocie-greckokatolickiej"/>
-        <updated>2026-03-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-03-2026</p><a href="/o-diecezji/aktualnosci/3979-archidiecezja-katowicka-przekazala-kosciol-wspolnocie-greckokatolickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.DSC_0008nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3979-archidiecezja-katowicka-przekazala-kosciol-wspolnocie-greckokatolickiej" title="Archidiecezja katowicka przekazała kościół wspólnocie greckokatolickiej" target="_self">Archidiecezja katowicka przekazała kościół wspólnocie greckokatolickiej</a></h4><p class="nspText tleft fnull">Decyzję w tej sprawie podjął arcybiskup metropolita katowicki Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
