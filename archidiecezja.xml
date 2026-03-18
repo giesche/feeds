@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-18T06:38:52.427Z</updated>
+    <updated>2026-03-18T18:15:12.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rekolekcje uczniów katowickich szkół średnich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-03-2026</p><a href="/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.DSC_0139nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich" title="Rekolekcje uczniów katowickich szkół średnich" target="_self">Rekolekcje uczniów katowickich szkół średnich</a></h4><p class="nspText tleft fnull">W Archikatedrze Chrystusa Króla trwają rekolekcje wielkopostne dla uczniów szkół średnich z terenu miasta.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski: Rozważaj mękę Jezusa szczególnie wtedy, kiedy czujesz, że boisz się samotności]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3991-abp-przybylski-rozwazaj-meke-jezusa-szczegolnie-wtedy-kiedy-czujesz-ze-boisz-sie-samotnosci</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny"/>
         <updated>2026-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-03-2026</p><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/ka11s04.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" title="Zbliża się 19. edycja Metropolitalnego Święta Rodziny" target="_self">Zbliża się 19. edycja Metropolitalnego Święta Rodziny</a></h4><p class="nspText tleft fnull">W tym roku wydarzeniu towarzyszyć będzie hasło "Rodzina siłą dzieci".
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Andrzej Przybylski: „Wojny zaczynają się dużo wcześniej – w ludzkich sercach”]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3984-abp-andrzej-przybylski-wojny-zaczynaja-sie-duzo-wczesniej-w-ludzkich-sercach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3984-abp-andrzej-przybylski-wojny-zaczynaja-sie-duzo-wczesniej-w-ludzkich-sercach"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-03-2026</p><a href="/o-diecezji/aktualnosci/3984-abp-andrzej-przybylski-wojny-zaczynaja-sie-duzo-wczesniej-w-ludzkich-sercach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_radioemnsp-94.jpg" alt="Fot. radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3984-abp-andrzej-przybylski-wojny-zaczynaja-sie-duzo-wczesniej-w-ludzkich-sercach" title="Abp Andrzej Przybylski: „Wojny zaczynają się dużo wcześniej – w ludzkich sercach”" target="_self">Abp Andrzej Przybylski: „Wojny zaczynają się dużo wcześniej – w ludzkich sercach”</a></h4><p class="nspText tleft fnull">W porannej rozmowie abp Przybylski podkreślił, że odpowiedzią Kościoła na współczesne konflikty są modlitwa, dialog i wychowanie do pokoju.
 </p>]]></content>
     </entry>
 </feed>
