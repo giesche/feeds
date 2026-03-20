@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-19T18:08:22.804Z</updated>
+    <updated>2026-03-20T06:10:55.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r.]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-03-2026</p><a href="/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Zdjcie_gwne.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r" title="Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r." target="_self">Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r.</a></h4><p class="nspText tleft fnull">17 marca abp Andrzej Przybylski odwiedził Ogólnopolskie Stowarzyszenie Rodzina Policyjna 1939 r. z siedzibą w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekolekcje uczniów katowickich szkół średnich]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3983-koscioly-jubileuszowe-w-archidiecezji-katowickiej-w-roku-sw-franciszka"/>
         <updated>2026-03-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">08-03-2026</p><a href="/o-diecezji/aktualnosci/3983-koscioly-jubileuszowe-w-archidiecezji-katowickiej-w-roku-sw-franciszka" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.jubileusz_sw_franciszkansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3983-koscioly-jubileuszowe-w-archidiecezji-katowickiej-w-roku-sw-franciszka" title="Kościoły jubileuszowe w Archidiecezji Katowickiej w Roku św. Franciszka" target="_self">Kościoły jubileuszowe w Archidiecezji Katowickiej w Roku św. Franciszka</a></h4><p class="nspText tleft fnull">W niedzielę 8 marca arcybiskup Andrzej Przybylski ogłosił kościoły jubileuszowe w związku z obchodami Roku Świętego Franciszka z Asyżu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zbliża się 19. edycja Metropolitalnego Święta Rodziny]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-03-2026</p><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/ka11s04.nsp-94jpeg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3982-zbliza-sie-19-edycja-metropolitalnego-swieta-rodziny" title="Zbliża się 19. edycja Metropolitalnego Święta Rodziny" target="_self">Zbliża się 19. edycja Metropolitalnego Święta Rodziny</a></h4><p class="nspText tleft fnull">W tym roku wydarzeniu towarzyszyć będzie hasło "Rodzina siłą dzieci".
 </p>]]></content>
     </entry>
 </feed>
