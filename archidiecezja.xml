@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-22T06:10:55.203Z</updated>
+    <updated>2026-03-22T17:49:30.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Godzina, która trwa więcej niż 60 minut]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3994-godzina-ktora-trwa-wiecej-niz-60-minut</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3994-godzina-ktora-trwa-wiecej-niz-60-minut"/>
+        <updated>2026-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-03-2026</p><a href="/o-diecezji/aktualnosci/3994-godzina-ktora-trwa-wiecej-niz-60-minut" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPsilesia.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3994-godzina-ktora-trwa-wiecej-niz-60-minut" title="Godzina, która trwa więcej niż 60 minut" target="_self">Godzina, która trwa więcej niż 60 minut</a></h4><p class="nspText tleft fnull">W piątek 20 marca o godzinie 21.30 w kaplicy pw. św. Barbary przy centrum handlowym Silesia City Center w Katowicach ksiądz arcybiskup Andrzej Przybylski odprawił Mszę św., która zgromadziła licznych wiernych o...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski poświęcił kaplicę w Centrum Rodziny im. św. Józefa w Katowicach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3993-abp-przybylski-poswiecil-kaplice-w-centrum-rodziny-im-sw-jozefa-w-katowicach</id>
@@ -59,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3987-list-ktory-prowadzi-do-pana-boga"/>
         <updated>2026-03-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-03-2026</p><a href="/o-diecezji/aktualnosci/3987-list-ktory-prowadzi-do-pana-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_do_dziecinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3987-list-ktory-prowadzi-do-pana-boga" title="List, który prowadzi do Pana Boga" target="_self">List, który prowadzi do Pana Boga</a></h4><p class="nspText tleft fnull">Rok 2026 w archidiecezji katowickiej będzie poświęcony dzieciom. Z tej okazji abp Andrzej Przybylski przygotował wyjątkowy list do najmłodszych.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej"/>
-        <updated>2026-03-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-03-2026</p><a href="/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.o_d1nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3985-spotkanie-dekanalnych-ojcow-duchownych-archidiecezji-katowickiej" title="Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej" target="_self">Spotkanie dekanalnych ojców duchownych Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Wydarzenie miało charakter formacyjny i było okazją do refleksji nad duchowością oraz rolą ojców duchownych w posłudze kapłanów.
 </p>]]></content>
     </entry>
 </feed>
