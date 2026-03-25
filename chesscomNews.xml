@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-03-25T06:38:15.840Z</updated>
+    <updated>2026-03-25T18:13:52.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2026-03-20T14:01:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-preview-image" href="https://www.chess.com/pl/news/view/3-0-thursday-wygrana-dudy-19-3-2026">
 
-                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1946710.bea2ed85.630x354o.cb6c2a17372b.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1946710.bea2ed85.630x354o.cb6c2a17372b@2x.png" alt="Wygrana Dudy w turnieju z cyklu 3 0 Thursday">
+                  <img class="post-preview-thumbnail" src="https://images.chesscomfiles.com/uploads/v1/news/1946874.1458c733.630x354o.53c416e98ea1.png" srcset="https://images.chesscomfiles.com/uploads/v1/news/1946874.1458c733.630x354o.53c416e98ea1@2x.png" alt="Wygrana Dudy w turnieju z cyklu 3 0 Thursday">
                 </a>
 
                 <h2 class="post-preview-titlecontainer">
@@ -53,7 +53,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 20 mar 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-1">
       20 mar 2026
     </time>
   
