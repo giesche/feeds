@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://katowiceoaza.pl/</id>
     <title>Katowice Oaza</title>
-    <updated>2026-03-24T18:13:13.522Z</updated>
+    <updated>2026-03-25T06:38:15.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://katowiceoaza.pl/wp-content/uploads/2022/06/logo_icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mission (im)Possible – kilka słów od Diakonii Misyjnej]]></title>
+        <id>https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej-2/</id>
+        <link href="https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej-2/"/>
+        <updated>2026-03-24T19:09:06.000Z</updated>
+        <content type="html"><![CDATA[<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">
+
+
+<figure class="wp-block-post-featured-image"><img width="1920" height="2560" src="https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-scaled.jpg 1920w, https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-225x300.jpg 225w, https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-768x1024.jpg 768w, https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-1152x1536.jpg 1152w, https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-1536x2048.jpg 1536w, https://katowiceoaza.pl/wp-content/uploads/2026/03/20230711_173200-1320x1760.jpg 1320w" sizes="auto, (max-width: 1920px) 100vw, 1920px"></figure>
+
+<h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej-2/" target="_self">Mission (im)Possible – kilka słów od Diakonii Misyjnej</a></h2>
+
+<div style="font-size:0.8rem;" class="wp-block-post-date"><time datetime="2026-03-24T20:09:06+01:00">24 marca 2026</time></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ważny człowiek, ważne dzieło!]]></title>
         <id>https://katowiceoaza.pl/wazny-czlowiek-wazne-dzielo/</id>
@@ -252,7 +266,7 @@
 <hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
+        <title type="html"><![CDATA[10]]></title>
         <id>https://katowiceoaza.pl/</id>
         <link href="https://katowiceoaza.pl/"/>
         <updated>2021-10-01T09:25:45.000Z</updated>
@@ -270,7 +284,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
+        <title type="html"><![CDATA[11]]></title>
         <id>https://katowiceoaza.pl/</id>
         <link href="https://katowiceoaza.pl/"/>
         <updated>2020-11-04T10:54:21.000Z</updated>
@@ -288,7 +302,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[12]]></title>
         <id>https://katowiceoaza.pl/</id>
         <link href="https://katowiceoaza.pl/"/>
         <updated>2020-09-17T09:51:18.000Z</updated>
