@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-27T06:44:17.583Z</updated>
+    <updated>2026-03-27T18:10:01.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wygrana Dudy w turnieju z cyklu 3 0 Thursday (Chess.com Aktualności)]]></title>
@@ -52,7 +52,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026">
       20 mar 2026
     </time>
   
@@ -113,7 +113,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026" data-tooltip-id="static-tooltip-2">
+    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026">
       6 mar 2026
     </time>
   
@@ -174,7 +174,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-3">
+    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026">
       27 lut 2026
     </time>
   
@@ -236,7 +236,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-4">
+    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026">
       8 lut 2026
     </time>
   
@@ -298,7 +298,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026" data-tooltip-id="static-tooltip-5">
+    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026">
       7 lut 2026
     </time>
   
@@ -419,7 +419,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-6">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026">
       16 sty 2026
     </time>
   
@@ -480,7 +480,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-7">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026">
       7 sty 2026
     </time>
   
@@ -542,7 +542,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-8">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026">
       6 sty 2026
     </time>
   
@@ -604,7 +604,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-9">
+    <time datetime="2025-12-30 12:30" v-tooltip="Aktualizacja: 31 gru 2025">
       30 gru 2025
     </time>
   
@@ -666,7 +666,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025" data-tooltip-id="static-tooltip-10">
+    <time datetime="2025-12-29 10:05" v-tooltip="Aktualizacja: 29 gru 2025">
       29 gru 2025
     </time>
   
@@ -728,7 +728,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025" data-tooltip-id="static-tooltip-11">
+    <time datetime="2025-12-28 08:58" v-tooltip="Aktualizacja: 31 gru 2025">
       28 gru 2025
     </time>
   
@@ -790,7 +790,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025" data-tooltip-id="static-tooltip-12">
+    <time datetime="2025-12-27 09:45" v-tooltip="Aktualizacja: 28 gru 2025">
       27 gru 2025
     </time>
   
@@ -852,7 +852,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025" data-tooltip-id="static-tooltip-13">
+    <time datetime="2025-12-26 10:54" v-tooltip="Aktualizacja: 27 gru 2025">
       26 gru 2025
     </time>
   
@@ -913,7 +913,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025" data-tooltip-id="static-tooltip-14">
+    <time datetime="2025-12-23 11:41" v-tooltip="Aktualizacja: 24 gru 2025">
       23 gru 2025
     </time>
   
@@ -974,7 +974,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025" data-tooltip-id="static-tooltip-15">
+    <time datetime="2025-12-15 03:46" v-tooltip="Aktualizacja: 15 gru 2025">
       15 gru 2025
     </time>
   
@@ -1037,7 +1037,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025" data-tooltip-id="static-tooltip-16">
+    <time datetime="2025-12-11 07:29" v-tooltip="Aktualizacja: 12 gru 2025">
       11 gru 2025
     </time>
   
@@ -1098,7 +1098,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025" data-tooltip-id="static-tooltip-17">
+    <time datetime="2025-11-26 04:01" v-tooltip="Aktualizacja: 27 lis 2025">
       26 lis 2025
     </time>
   
@@ -1159,7 +1159,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025" data-tooltip-id="static-tooltip-18">
+    <time datetime="2025-11-25 08:00" v-tooltip="Aktualizacja: 26 lis 2025">
       25 lis 2025
     </time>
   
@@ -1221,7 +1221,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025" data-tooltip-id="static-tooltip-19">
+    <time datetime="2025-11-21 10:59" v-tooltip="Aktualizacja: 21 lis 2025">
       21 lis 2025
     </time>
   
@@ -1282,7 +1282,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025" data-tooltip-id="static-tooltip-20">
+    <time datetime="2025-11-12 06:00" v-tooltip="Aktualizacja: 13 lis 2025">
       12 lis 2025
     </time>
   
@@ -1343,7 +1343,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025" data-tooltip-id="static-tooltip-21">
+    <time datetime="2025-11-10 08:00" v-tooltip="Aktualizacja: 10 lis 2025">
       10 lis 2025
     </time>
   
@@ -1404,7 +1404,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025" data-tooltip-id="static-tooltip-22">
+    <time datetime="2025-10-20 11:30" v-tooltip="Aktualizacja: 18 lis 2025">
       20 paź 2025
     </time>
   
@@ -1465,7 +1465,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025" data-tooltip-id="static-tooltip-23">
+    <time datetime="2025-10-09 08:00" v-tooltip="Aktualizacja: 12 paź 2025">
       9 paź 2025
     </time>
   
@@ -1526,7 +1526,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025" data-tooltip-id="static-tooltip-24">
+    <time datetime="2025-10-02 11:01" v-tooltip="Aktualizacja: 10 paź 2025">
       2 paź 2025
     </time>
   
@@ -2244,6 +2244,31 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Konsekracja ołtarza w Rybniku (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-03-2026</p><a href="/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPoltarzryb.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku" title="Konsekracja ołtarza w Rybniku" target="_self">Konsekracja ołtarza w Rybniku</a></h4><p class="nspText tleft fnull">
+27 marca abp Andrzej Przybylski dokonał uroczystej konsekracji ołtarza w parafii Matki Bożej Bolesnej w Rybniku.&nbsp;
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abp Andrzej Przybylski: Krzyż niesie wszystko, czego dziś potrzebujemy (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4003-abp-andrzej-przybylski-krzyz-niesie-wszystko-czego-dzis-potrzebujemy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4003-abp-andrzej-przybylski-krzyz-niesie-wszystko-czego-dzis-potrzebujemy"/>
+        <updated>2026-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-03-2026</p><a href="/o-diecezji/aktualnosci/4003-abp-andrzej-przybylski-krzyz-niesie-wszystko-czego-dzis-potrzebujemy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_radioemnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4003-abp-andrzej-przybylski-krzyz-niesie-wszystko-czego-dzis-potrzebujemy" title="Abp Andrzej Przybylski: Krzyż niesie wszystko, czego dziś potrzebujemy" target="_self">Abp Andrzej Przybylski: Krzyż niesie wszystko, czego dziś potrzebujemy</a></h4><p class="nspText tleft fnull">Przed Kościołem najważniejsze dni roku liturgicznego mówił w „Rozmowie Poranka” abp Przybylski.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wielkopostny dzień skupienia nauczycieli (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4002-wielkopostny-dzien-skupienia-nauczycieli</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4002-wielkopostny-dzien-skupienia-nauczycieli"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-03-2026</p><a href="/o-diecezji/aktualnosci/4002-wielkopostny-dzien-skupienia-nauczycieli" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPwpnauczynsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4002-wielkopostny-dzien-skupienia-nauczycieli" title="Wielkopostny dzień skupienia nauczycieli" target="_self">Wielkopostny dzień skupienia nauczycieli</a></h4><p class="nspText tleft fnull">26 marca w Wyższym Śląskim Seminarium Duchownym nauczyciele, wychowawcy i pedagodzy spotkali się, aby przeżyć tradycyjny dzień skupienia.
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spotkanie biskupów metropolii górnośląskiej (Archidiecezja Katowicka)]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3997-spotkanie-biskupow-metropolii-gornoslaskiej</id>
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3997-spotkanie-biskupow-metropolii-gornoslaskiej"/>
@@ -2283,105 +2308,81 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r. (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r"/>
-        <updated>2026-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-03-2026</p><a href="/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Zdjcie_gwne.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3992-wizyta-abp-andrzeja-przybylskiego-w-ogolnopolskim-stowarzyszeniu-rodzina-policyjna-1939-r" title="Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r." target="_self">Wizyta abp. Andrzeja Przybylskiego w Ogólnopolskim Stowarzyszeniu Rodzina Policyjna 1939 r.</a></h4><p class="nspText tleft fnull">17 marca abp Andrzej Przybylski odwiedził Ogólnopolskie Stowarzyszenie Rodzina Policyjna 1939 r. z siedzibą w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekolekcje uczniów katowickich szkół średnich (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-03-2026</p><a href="/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.DSC_0139nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3990-rekolekcje-uczniow-katowickich-szkol-srednich" title="Rekolekcje uczniów katowickich szkół średnich" target="_self">Rekolekcje uczniów katowickich szkół średnich</a></h4><p class="nspText tleft fnull">W Archikatedrze Chrystusa Króla trwają rekolekcje wielkopostne dla uczniów szkół średnich z terenu miasta.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski: Rozważaj mękę Jezusa szczególnie wtedy, kiedy czujesz, że boisz się samotności (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3991-abp-przybylski-rozwazaj-meke-jezusa-szczegolnie-wtedy-kiedy-czujesz-ze-boisz-sie-samotnosci</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/3991-abp-przybylski-rozwazaj-meke-jezusa-szczegolnie-wtedy-kiedy-czujesz-ze-boisz-sie-samotnosci"/>
-        <updated>2026-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-03-2026</p><a href="/o-diecezji/aktualnosci/3991-abp-przybylski-rozwazaj-meke-jezusa-szczegolnie-wtedy-kiedy-czujesz-ze-boisz-sie-samotnosci" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.526207_Ob3B_IMG_3050_83nsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/3991-abp-przybylski-rozwazaj-meke-jezusa-szczegolnie-wtedy-kiedy-czujesz-ze-boisz-sie-samotnosci" title="Abp Przybylski: Rozważaj mękę Jezusa szczególnie wtedy, kiedy czujesz, że boisz się samotności" target="_self">Abp Przybylski: Rozważaj mękę Jezusa szczególnie wtedy, kiedy czujesz, że boisz się samotności</a></h4><p class="nspText tleft fnull">W sobotni wieczór mieszkańcy Chorzowa i okolic uczestniczyli w niezwykłym nabożeństwie Gorzkich Żali sprawowanym w parafii ojców franciszkanów.
-</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI zamyka Sorę. Koniec generatora filmów AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.936Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI zamyka Sorę. Koniec generatora filmów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.03.2026, 17:30</p><p><strong>Liczba odsłon: </strong>546</p></div><p class="hyNtP12Spf">OpenAI niespodziewanie zapowiedział wyłączenie swojego flagowego generatora wideo. Co się stanie z Sorą i jej zawartością?</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.051Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI zamyka Sorę. Koniec generatora filmów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.03.2026, 17:30</p><p><strong>Liczba odsłon: </strong>682</p></div><p class="hyNtP12Spf">OpenAI niespodziewanie zapowiedział wyłączenie swojego flagowego generatora wideo. Co się stanie z Sorą i jej zawartością?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI tworzy jedną superaplikację desktopową. Po co właściwie? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.937Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI tworzy jedną superaplikację desktopową. Po co właściwie?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>693</p></div><p class="hyNtP12Spf">OpenAI planuje skonsolidować swoje rozproszone dotąd narzędzia. Zostało to oficjalnie potwierdzone</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.054Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI tworzy jedną superaplikację desktopową. Po co właściwie?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>702</p></div><p class="hyNtP12Spf">OpenAI planuje skonsolidować swoje rozproszone dotąd narzędzia. Zostało to oficjalnie potwierdzone</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.937Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>341</p></div><p class="hyNtP12Spf">Pierwotna strategia zakładała, że każdy użytkownik pakietu Microsoft 365 będzie miał automatycznie instalowaną aplikację Copilot. Co się zmieniło?</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.056Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>352</p></div><p class="hyNtP12Spf">Pierwotna strategia zakładała, że każdy użytkownik pakietu Microsoft 365 będzie miał automatycznie instalowaną aplikację Copilot. Co się zmieniło?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowy generator obrazów AI od Microsoft zadebiutował na podium (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.939Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy generator obrazów AI od Microsoft zadebiutował na podium</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>983</p></div><p class="hyNtP12Spf">MAI-Image-2 zadebiutował na podium prestiżowego benchmarka Text-to-Image Arena. Co potrafi nowy generator obrazów AI?</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.057Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy generator obrazów AI od Microsoft zadebiutował na podium</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>1002</p></div><p class="hyNtP12Spf">MAI-Image-2 zadebiutował na podium prestiżowego benchmarka Text-to-Image Arena. Co potrafi nowy generator obrazów AI?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tańsze modele OpenAI. GPT-5.4 Mini oraz Nano już dostępne (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.940Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tańsze modele OpenAI. GPT-5.4 Mini oraz Nano już dostępne</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>780</p></div><p class="hyNtP12Spf">OpenAI rozszerza swoją ofertę, prezentując dwa nowe modele zaprojektowane z myślą o szybkości i efektywności przy pracy na dużą skalę</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.059Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tańsze modele OpenAI. GPT-5.4 Mini oraz Nano już dostępne</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>803</p></div><p class="hyNtP12Spf">OpenAI rozszerza swoją ofertę, prezentując dwa nowe modele zaprojektowane z myślą o szybkości i efektywności przy pracy na dużą skalę</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft może pozwać OpenAI. Chodzi o deal z Amazonem (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.942Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft może pozwać OpenAI. Chodzi o deal z Amazonem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>1444</p></div><p class="hyNtP12Spf">Umowa OpenAI i Amazona może w rażący sposób naruszać klauzulę wyłączności na usługi chmurowe, którą ten pierwszy zawarł z Microsoftem. Sprawa trafi do sądu?</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.060Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft może pozwać OpenAI. Chodzi o deal z Amazonem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>1455</p></div><p class="hyNtP12Spf">Umowa OpenAI i Amazona może w rażący sposób naruszać klauzulę wyłączności na usługi chmurowe, którą ten pierwszy zawarł z Microsoftem. Sprawa trafi do sądu?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft rezygnuje z zapowiadanej funkcji Copilota w Windows 11. Co go zniechęciło? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.943Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft rezygnuje z zapowiadanej funkcji Copilota w Windows 11. Co go zniechęciło?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>597</p></div><p class="hyNtP12Spf">Jak wynika z raportu Windows Central, Microsoft zdecydował się skasować funkcję Copilota w powiadomieniach Windows 11 po serii problemów</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.065Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft rezygnuje z zapowiadanej funkcji Copilota w Windows 11. Co go zniechęciło?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>607</p></div><p class="hyNtP12Spf">Jak wynika z raportu Windows Central, Microsoft zdecydował się skasować funkcję Copilota w powiadomieniach Windows 11 po serii problemów</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Szybsze wyszukiwanie plików Worda, Excela i PowerPointa online (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.944Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Szybsze wyszukiwanie plików Worda, Excela i PowerPointa online</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>17.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>367</p></div><p class="hyNtP12Spf">Nowe rozwiązanie ma na celu wyeliminowanie problemu czasochłonnego przeglądania stron głównych aplikacji w poszukiwaniu konkretnych plików.</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.065Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Szybsze wyszukiwanie plików Worda, Excela i PowerPointa online</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>17.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>376</p></div><p class="hyNtP12Spf">Nowe rozwiązanie ma na celu wyeliminowanie problemu czasochłonnego przeglądania stron głównych aplikacji w poszukiwaniu konkretnych plików.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 E7. Nadchodzi nowa era transformacji AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.946Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft 365 E7. Nadchodzi nowa era transformacji AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>16.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>517</p></div><p class="hyNtP12Spf">Odpowiedzią na potrzeby biznesu w erze AI jest nowo zapowiedziany pakiet Microsoft 365 E7. Stanowi połączenie dwóch filarów: inteligencji i zaufania</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.068Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft 365 E7. Nadchodzi nowa era transformacji AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>16.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>526</p></div><p class="hyNtP12Spf">Odpowiedzią na potrzeby biznesu w erze AI jest nowo zapowiedziany pakiet Microsoft 365 E7. Stanowi połączenie dwóch filarów: inteligencji i zaufania</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowa wersja Notesów Copilota już dostępna dla firm (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.947Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowa wersja Notesów Copilota już dostępna dla firm</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>15.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>442</p></div><p class="hyNtP12Spf">Potężne, oparte na AI środowisko pracy doczekało się odświeżonego designu oraz nowych funkcji. Sprawdźmy najważniejsze zmiany</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.070Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowa wersja Notesów Copilota już dostępna dla firm</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>15.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>451</p></div><p class="hyNtP12Spf">Potężne, oparte na AI środowisko pracy doczekało się odświeżonego designu oraz nowych funkcji. Sprawdźmy najważniejsze zmiany</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI zajmie się twoim zdrowiem. Microsoft wprowadza Copilot Health (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-03-27T06:44:04.949Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">AI zajmie się twoim zdrowiem. Microsoft wprowadza Copilot Health</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>14.03.2026, 12:00</p><p><strong>Liczba odsłon: </strong>1062</p></div><p class="hyNtP12Spf">Copilot Health to specjalistyczna wersja asystenta, która ma pomóc użytkownikom w interpretacji ogromnej ilości danych medycznych z urządzeń</p></div></div>]]></content>
+        <updated>2026-03-27T18:09:50.071Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">AI zajmie się twoim zdrowiem. Microsoft wprowadza Copilot Health</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>14.03.2026, 12:00</p><p><strong>Liczba odsłon: </strong>1067</p></div><p class="hyNtP12Spf">Copilot Health to specjalistyczna wersja asystenta, która ma pomóc użytkownikom w interpretacji ogromnej ilości danych medycznych z urządzeń</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cisco XDR (Władcy sieci)]]></title>
@@ -2400,7 +2401,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/26/cisco-xdr/" rel="bookmark">Cisco XDR</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="26 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-26T10:45:51+01:00">26 marca 2026</time></span>			<span class="post-views">
-				126&nbsp;<i class="icon-eye"></i>			</span>
+				145&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2431,7 +2432,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/18/odpowiedzialnosci-za-zasoby-it-i-zarzadzanie-dostepem-w-swietle-nowej-ustawy-o-krajowym-systemie-cyberbezpieczenstwa/" rel="bookmark">Odpowiedzialności za&nbsp;zasoby IT i&nbsp;zarządzanie dostępem...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="18 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-18T11:11:45+01:00">18 marca 2026</time></span>			<span class="post-views">
-				692&nbsp;<i class="icon-eye"></i>			</span>
+				710&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2462,7 +2463,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/12/bezpieczenstwo-iot-dlaczego-warto-na-nie-zwrocic-uwage/" rel="bookmark">Bezpieczeństwo IoT – dlaczego warto na&nbsp;nie...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="12 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-12T07:49:52+01:00">12 marca 2026</time></span>			<span class="post-views">
-				205&nbsp;<i class="icon-eye"></i>			</span>
+				209&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2493,7 +2494,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/05/wnioski-z-raportu-ibm-x-force-threat-intelligence-index-2026/" rel="bookmark">Wnioski z&nbsp;raportu IBM X-Force Threat Intelligence Index...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="5 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-05T09:50:56+01:00">5 marca 2026</time></span>			<span class="post-views">
-				210&nbsp;<i class="icon-eye"></i>			</span>
+				216&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
