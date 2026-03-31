@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-03-31T06:47:51.776Z</updated>
+    <updated>2026-03-31T18:12:10.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Świąteczne spotkanie w Kurii Metropolitalnej [zapowiedź]]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4015-swiateczne-spotkanie-w-kurii-metropolitalnej-zapowiedz</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4015-swiateczne-spotkanie-w-kurii-metropolitalnej-zapowiedz"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-03-2026</p><a href="/o-diecezji/aktualnosci/4015-swiateczne-spotkanie-w-kurii-metropolitalnej-zapowiedz" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/kuria_katowicensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4015-swiateczne-spotkanie-w-kurii-metropolitalnej-zapowiedz" title="Świąteczne spotkanie w Kurii Metropolitalnej [zapowiedź]" target="_self">Świąteczne spotkanie w Kurii Metropolitalnej [zapowiedź]</a></h4><p class="nspText tleft fnull">Odbędzie się ono w czwartek&nbsp;9 kwietnia&nbsp;br.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niedziela Palmowa z młodymi w katowickiej archikatedrze]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4013-niedziela-palmowa-z-mlodymi-w-katowickiej-archikatedrze</id>
@@ -59,15 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow"/>
         <updated>2026-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-03-2026</p><a href="/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.batch_BMSrekolnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow" title="Bp Szkudło do młodzieży: Jezus nie szuka followersów, ale uczniów" target="_self">Bp Szkudło do młodzieży: Jezus nie szuka followersów, ale uczniów</a></h4><p class="nspText tleft fnull">Ponad 1000 uczniów uczestniczyło w rekolekcjach szkolnych w Jastrzębiu-Zdroju.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konsekracja ołtarza w Rybniku]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-03-2026</p><a href="/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPoltarzryb.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4005-konsekracja-oltarza-w-rybniku" title="Konsekracja ołtarza w Rybniku" target="_self">Konsekracja ołtarza w Rybniku</a></h4><p class="nspText tleft fnull">
-27 marca abp Andrzej Przybylski dokonał uroczystej konsekracji ołtarza w parafii Matki Bożej Bolesnej w Rybniku.&nbsp;
 </p>]]></content>
     </entry>
 </feed>
