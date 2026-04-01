@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-01T06:58:49.643Z</updated>
+    <updated>2026-04-01T18:08:36.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wielki Tydzień w Archidiecezji Katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4014-wielki-tydzien-w-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4014-wielki-tydzien-w-archidiecezji-katowickiej"/>
+        <updated>2026-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-03-2026</p><a href="/o-diecezji/aktualnosci/4014-wielki-tydzien-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.katedra_trduumnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4014-wielki-tydzien-w-archidiecezji-katowickiej" title="Wielki Tydzień w Archidiecezji Katowickiej" target="_self">Wielki Tydzień w Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Program celebracji pod przewodnictwem naszych biskupów.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Świąteczne spotkanie w Kurii Metropolitalnej [zapowiedź]]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4015-swiateczne-spotkanie-w-kurii-metropolitalnej-zapowiedz</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4007-tlumy-wiernych-wziely-udzial-w-nabozenstwie-drogi-krzyzowej-ulicami-miasta"/>
         <updated>2026-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-03-2026</p><a href="/o-diecezji/aktualnosci/4007-tlumy-wiernych-wziely-udzial-w-nabozenstwie-drogi-krzyzowej-ulicami-miasta" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dk_katowicensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4007-tlumy-wiernych-wziely-udzial-w-nabozenstwie-drogi-krzyzowej-ulicami-miasta" title="Tłumy wiernych wzięły udział w nabożeństwie Drogi Krzyżowej ulicami miasta" target="_self">Tłumy wiernych wzięły udział w nabożeństwie Drogi Krzyżowej ulicami miasta</a></h4><p class="nspText tleft fnull">Zgodnie z wieloletnią tradycją wspólna modlitwa rozpoczęła się przy krzyżu przy kopalni "Wujek".
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Szkudło do młodzieży: Jezus nie szuka followersów, ale uczniów]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow"/>
-        <updated>2026-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-03-2026</p><a href="/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.batch_BMSrekolnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4006-bp-szkudlo-do-mlodziezy-jezus-nie-szuka-followersow-ale-uczniow" title="Bp Szkudło do młodzieży: Jezus nie szuka followersów, ale uczniów" target="_self">Bp Szkudło do młodzieży: Jezus nie szuka followersów, ale uczniów</a></h4><p class="nspText tleft fnull">Ponad 1000 uczniów uczestniczyło w rekolekcjach szkolnych w Jastrzębiu-Zdroju.
 </p>]]></content>
     </entry>
 </feed>
