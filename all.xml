@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-03T06:44:00.575Z</updated>
+    <updated>2026-04-03T17:59:03.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dzień remisów, Vaishali i Lagno wychodzą z opresji dzięki poświęceniom (Chess.com Aktualności)]]></title>
@@ -1542,6 +1542,39 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
                 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Analiza cifrat: czy to ewolucja mobilnego RATa? (CERT POLSKA)]]></title>
+        <id>https://cert.pl/posts/2026/04/analiza-cifrat/</id>
+        <link href="https://cert.pl/posts/2026/04/analiza-cifrat/"/>
+        <updated>2026-04-03T17:58:33.618Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>03 kwietnia 2026</span>
+                <span>
+                    <a href="./author/kacper-ratajczak/">Kacper Ratajczak</a>
+                </span>
+                <span><a href="./tag/android/">#android</a></span>
+                <span><a href="./tag/analiza/">#analiza</a></span>
+                <span><a href="./tag/booking/">#booking</a></span>
+                <span><a href="./tag/banker/">#banker</a></span>
+                <span><a href="./tag/rat/">#rat</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/04/analiza-cifrat/" class="post-outer-container">
+            <h4>Analiza cifrat: czy to ewolucja mobilnego RATa?</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/04/cifrat_miniatura.jpg" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>CERT Polska przeanalizował wieloetapowy łańcuch złośliwego oprogramowania na Androida, dystrybuowany z wykorzystaniem infrastruktury podszywającej się pod Booking. Opisana próbka pełni rolę droppera, który instaluje RAT oparty na usługach ułatwień dostępu i komunikujący się z serwerem C2 przez WebSocket.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Analiza kampanii FvncBot (CERT POLSKA)]]></title>
         <id>https://cert.pl/posts/2026/03/analiza-fvncbot/</id>
         <link href="https://cert.pl/posts/2026/03/analiza-fvncbot/"/>
@@ -1809,36 +1842,6 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Współczesne ataki phishingowe wykorzystują dokładne kopie wizualne znanych serwisów, co uniemożliwia rozpoznanie oszustwa na podstawie wyglądu strony. Przedstawiamy metodę analizy adresów URL jako jedyną niezawodną technikę weryfikacji autentyczności witryn. Omawiamy również funkcje bezpieczeństwa przeglądarek wspierające użytkowników w&nbsp;identyfikacji prawdziwych domen.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekomendacje dla ustanawiania zespołów CSIRT (CERT POLSKA)]]></title>
-        <id>https://cert.pl/posts/2025/08/rekomendacje-csirt/</id>
-        <link href="https://cert.pl/posts/2025/08/rekomendacje-csirt/"/>
-        <updated>2025-11-14T15:37:06.531Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>07 sierpnia 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/rekomendacje/">#rekomendacje</a></span>
-                <span><a href="./tag/csirt/">#csirt</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/08/rekomendacje-csirt/" class="post-outer-container">
-            <h4>Rekomendacje dla ustanawiania zespołów CSIRT</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/08/rekomendacje-csirt/thumbnail.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Oddajemy w Państwa ręce dokument, którego podstawowym celem jest wsparcie w procesie ustanawiania CSIRT-ów oraz rozwijania ich zdolności operacyjnych. Chcemy, żeby proces tworzenia zespołów cyberbezpieczeństwa przebiegał w sposób uporządkowany, a same zespoły działały spójnie i porównywalnie.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
@@ -2244,6 +2247,14 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abp Przybylski w Wielki Czwartek: Pozwól umyć to, co brudne w sobie Jezusowi (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4019-abp-przybylski-w-wielki-czwartek-pozwol-umyc-to-co-brudne-w-sobie-jezusowi</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4019-abp-przybylski-w-wielki-czwartek-pozwol-umyc-to-co-brudne-w-sobie-jezusowi"/>
+        <updated>2026-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-04-2026</p><a href="/o-diecezji/aktualnosci/4019-abp-przybylski-w-wielki-czwartek-pozwol-umyc-to-co-brudne-w-sobie-jezusowi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPnoginsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4019-abp-przybylski-w-wielki-czwartek-pozwol-umyc-to-co-brudne-w-sobie-jezusowi" title="Abp Przybylski w Wielki Czwartek: Pozwól umyć to, co brudne w sobie Jezusowi" target="_self">Abp Przybylski w Wielki Czwartek: Pozwól umyć to, co brudne w sobie Jezusowi</a></h4><p class="nspText tleft fnull">Mszy św. Wieczerzy Pańskiej w Kościele pw. Niepokalanego Poczęcia NMP w Katowicach przewodniczył abp Andrzej&nbsp;Przybylski.
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bp Wodarczyk w Wielki Czwartek: Niech udział w tej świętej liturgii przemienia nasze serce (Archidiecezja Katowicka)]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4018-bp-wodarczyk-w-wielki-czwartek-niech-udzial-w-tej-swietej-liturgii-przemienia-nasze-serce</id>
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4018-bp-wodarczyk-w-wielki-czwartek-niech-udzial-w-tej-swietej-liturgii-przemienia-nasze-serce"/>
@@ -2300,89 +2311,81 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wielkopostny dzień skupienia nauczycieli akademickich (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4012-wielkopostny-dzien-skupienia-nauczycieli-akademickich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4012-wielkopostny-dzien-skupienia-nauczycieli-akademickich"/>
-        <updated>2026-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-03-2026</p><a href="/o-diecezji/aktualnosci/4012-wielkopostny-dzien-skupienia-nauczycieli-akademickich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BMSpalmowansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4012-wielkopostny-dzien-skupienia-nauczycieli-akademickich" title="Wielkopostny dzień skupienia nauczycieli akademickich" target="_self">Wielkopostny dzień skupienia nauczycieli akademickich</a></h4><p class="nspText tleft fnull">28 marca w Wyższym Śląskim Seminarium Duchownym środowisko śląskich wykładowców i pracowników naukowych lokalnych uczelni wyższych spotkało się, aby przeżyć tradycyjny dzień skupienia.
-</p>]]></content>
+        <title type="html"><![CDATA[Najlepsza AI do transkrypcji mowy. Potężny model Microsoftu (CentrumXP)]]></title>
+        <id>https://giesche.github.io/feeds/all.xml</id>
+        <link href="https://giesche.github.io/feeds/all.xml"/>
+        <updated>2026-04-03T17:58:50.833Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Najlepsza AI do transkrypcji mowy. Potężny model Microsoftu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>3.04.2026, 18:16</p><p><strong>Liczba odsłon: </strong>77</p></div><p class="hyNtP12Spf">MAI-Transcribe-1 jest obecnie najdokładniejszym na świecie oprogramowaniem do transkrypcji w obrębie 25 obsługiwanych języków</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Masa nowości w Microsoft 365 Copilot. Podsumowanie marca 2026 (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.219Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Masa nowości w Microsoft 365 Copilot. Podsumowanie marca 2026</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>189</p></div><p class="hyNtP12Spf">Marzec już za nami. Miesiąc ten przyniósł sporo przydatnych nowości w Microsoft 365 Copilot. Sprawdźmy szczegóły</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.834Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Masa nowości w Microsoft 365 Copilot. Podsumowanie marca 2026</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>217</p></div><p class="hyNtP12Spf">Marzec już za nami. Miesiąc ten przyniósł sporo przydatnych nowości w Microsoft 365 Copilot. Sprawdźmy szczegóły</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowe funkcje Researchera. Agent Copilota jeszcze potężniejszy (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.221Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje Researchera. Agent Copilota jeszcze potężniejszy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>603</p></div><p class="hyNtP12Spf">Researcher otrzymał dwie innowacyjne, wielomodelowe funkcjonalności – Critique oraz Council – które podnoszą poprzeczkę w zakresie możliwości agenta AI</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.862Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowe funkcje Researchera. Agent Copilota jeszcze potężniejszy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>622</p></div><p class="hyNtP12Spf">Researcher otrzymał dwie innowacyjne, wielomodelowe funkcjonalności – Critique oraz Council – które podnoszą poprzeczkę w zakresie możliwości agenta AI</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot zmienia zasady prywatności. Chodzi o trenowanie AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.222Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GitHub Copilot zmienia zasady prywatności. Chodzi o trenowanie AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>303</p></div><p class="hyNtP12Spf">Dane z interakcji programistów w GitHub Copilot będą domyślnie wykorzystywane do trenowania i ulepszania modeli sztucznej inteligencji</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.863Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GitHub Copilot zmienia zasady prywatności. Chodzi o trenowanie AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>324</p></div><p class="hyNtP12Spf">Dane z interakcji programistów w GitHub Copilot będą domyślnie wykorzystywane do trenowania i ulepszania modeli sztucznej inteligencji</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Agenty Copilota w Microsoft 365 stają się potężniejsze dzięki GPT‑5.2 (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.224Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Agenty Copilota w Microsoft 365 stają się potężniejsze dzięki GPT‑5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.03.2026, 12:00</p><p><strong>Liczba odsłon: </strong>817</p></div><p class="hyNtP12Spf">Agenty Copilota zyskują wyższą jakość odpowiedzi oraz sprawniejszą obsługę skomplikowanych scenariuszy biznesowych dzięki aktualizacji do GPT-5.2.</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.864Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Agenty Copilota w Microsoft 365 stają się potężniejsze dzięki GPT‑5.2</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.03.2026, 12:00</p><p><strong>Liczba odsłon: </strong>849</p></div><p class="hyNtP12Spf">Agenty Copilota zyskują wyższą jakość odpowiedzi oraz sprawniejszą obsługę skomplikowanych scenariuszy biznesowych dzięki aktualizacji do GPT-5.2.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wyczekiwana nowość w OpenAI Codex. Programiści skorzystają z wtyczek (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.225Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Wyczekiwana nowość w OpenAI Codex. Programiści skorzystają z wtyczek</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.03.2026, 18:00</p><p><strong>Liczba odsłon: </strong>360</p></div><p class="hyNtP12Spf">W odpowiedzi na rosnące potrzeby społeczności OpenAI ogłosił wprowadzenie wtyczek do platformy Codex. Co one potrafią?</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.865Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Wyczekiwana nowość w OpenAI Codex. Programiści skorzystają z wtyczek</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.03.2026, 18:00</p><p><strong>Liczba odsłon: </strong>379</p></div><p class="hyNtP12Spf">W odpowiedzi na rosnące potrzeby społeczności OpenAI ogłosił wprowadzenie wtyczek do platformy Codex. Co one potrafią?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI dla energii jądrowej. Microsoft i NVIDIA z potężnym projektem (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.226Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">AI dla energii jądrowej. Microsoft i NVIDIA z potężnym projektem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.03.2026, 10:00</p><p><strong>Liczba odsłon: </strong>393</p></div><p class="hyNtP12Spf">Microsoft i NVIDIA łączą siły, by dzięki AI i cyfrowym bliźniakom przełamać "wąskie gardło" w sektorze energetyki jądrowej</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.867Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">AI dla energii jądrowej. Microsoft i NVIDIA z potężnym projektem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.03.2026, 10:00</p><p><strong>Liczba odsłon: </strong>402</p></div><p class="hyNtP12Spf">Microsoft i NVIDIA łączą siły, by dzięki AI i cyfrowym bliźniakom przełamać "wąskie gardło" w sektorze energetyki jądrowej</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI zamyka Sorę. Koniec generatora filmów AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.227Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI zamyka Sorę. Koniec generatora filmów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.03.2026, 17:30</p><p><strong>Liczba odsłon: </strong>893</p></div><p class="hyNtP12Spf">OpenAI niespodziewanie zapowiedział wyłączenie swojego flagowego generatora wideo. Co się stanie z Sorą i jej zawartością?</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.868Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI zamyka Sorę. Koniec generatora filmów AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.03.2026, 17:30</p><p><strong>Liczba odsłon: </strong>905</p></div><p class="hyNtP12Spf">OpenAI niespodziewanie zapowiedział wyłączenie swojego flagowego generatora wideo. Co się stanie z Sorą i jej zawartością?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI tworzy jedną superaplikację desktopową. Po co właściwie? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.230Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI tworzy jedną superaplikację desktopową. Po co właściwie?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>853</p></div><p class="hyNtP12Spf">OpenAI planuje skonsolidować swoje rozproszone dotąd narzędzia. Zostało to oficjalnie potwierdzone</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.882Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI tworzy jedną superaplikację desktopową. Po co właściwie?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>862</p></div><p class="hyNtP12Spf">OpenAI planuje skonsolidować swoje rozproszone dotąd narzędzia. Zostało to oficjalnie potwierdzone</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.231Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>501</p></div><p class="hyNtP12Spf">Pierwotna strategia zakładała, że każdy użytkownik pakietu Microsoft 365 będzie miał automatycznie instalowaną aplikację Copilot. Co się zmieniło?</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.883Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Zmiany w Microsoft 365. Chodzi o sposób instalacji Copilota poza Europą</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>510</p></div><p class="hyNtP12Spf">Pierwotna strategia zakładała, że każdy użytkownik pakietu Microsoft 365 będzie miał automatycznie instalowaną aplikację Copilot. Co się zmieniło?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowy generator obrazów AI od Microsoft zadebiutował na podium (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.232Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy generator obrazów AI od Microsoft zadebiutował na podium</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>1147</p></div><p class="hyNtP12Spf">MAI-Image-2 zadebiutował na podium prestiżowego benchmarka Text-to-Image Arena. Co potrafi nowy generator obrazów AI?</p></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tańsze modele OpenAI. GPT-5.4 Mini oraz Nano już dostępne (CentrumXP)]]></title>
-        <id>https://giesche.github.io/feeds/all.xml</id>
-        <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-03T06:43:49.233Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Tańsze modele OpenAI. GPT-5.4 Mini oraz Nano już dostępne</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 08:00</p><p><strong>Liczba odsłon: </strong>952</p></div><p class="hyNtP12Spf">OpenAI rozszerza swoją ofertę, prezentując dwa nowe modele zaprojektowane z myślą o szybkości i efektywności przy pracy na dużą skalę</p></div></div>]]></content>
+        <updated>2026-04-03T17:58:50.885Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy generator obrazów AI od Microsoft zadebiutował na podium</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.03.2026, 19:00</p><p><strong>Liczba odsłon: </strong>1155</p></div><p class="hyNtP12Spf">MAI-Image-2 zadebiutował na podium prestiżowego benchmarka Text-to-Image Arena. Co potrafi nowy generator obrazów AI?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sieciówka – marzec 2026: Admin Days 2026, NIS2, Cyberatak na Urząd Miasta (Władcy sieci)]]></title>
@@ -2401,7 +2404,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/02/sieciowka-marzec-2026-admin-days-2026-nis2-cyberatak-na-urzad-miasta/" rel="bookmark">Sieciówka – marzec 2026: Admin Days 2026, NIS2, Cyberatak na&nbsp;Urząd Miasta</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="2 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-02T11:33:12+02:00">2 kwietnia 2026</time></span>			<span class="post-views">
-				78&nbsp;<i class="icon-eye"></i>			</span>
+				88&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2432,7 +2435,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/30/krajowy-system-cyberbezpieczenstwa-na-gruncie-nis2-posluchaj-rozmowy-z-zastepca-prezesa-uodo/" rel="bookmark">Krajowy system cyberbezpieczeństwa na&nbsp;gruncie NIS2...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="30 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-30T10:39:28+02:00">30 marca 2026</time></span>			<span class="post-views">
-				334&nbsp;<i class="icon-eye"></i>			</span>
+				346&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2463,7 +2466,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/26/cisco-xdr/" rel="bookmark">Cisco XDR</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="26 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-26T10:45:51+01:00">26 marca 2026</time></span>			<span class="post-views">
-				206&nbsp;<i class="icon-eye"></i>			</span>
+				209&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2494,7 +2497,7 @@ O tym, że para spodziewa się dziecka, było wiadomo od lipca, kiedy Naka...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/03/18/odpowiedzialnosci-za-zasoby-it-i-zarzadzanie-dostepem-w-swietle-nowej-ustawy-o-krajowym-systemie-cyberbezpieczenstwa/" rel="bookmark">Odpowiedzialności za&nbsp;zasoby IT i&nbsp;zarządzanie dostępem...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="18 marca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-03-18T11:11:45+01:00">18 marca 2026</time></span>			<span class="post-views">
-				854&nbsp;<i class="icon-eye"></i>			</span>
+				879&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
