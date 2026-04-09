@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-08T06:59:00.728Z</updated>
+    <updated>2026-04-09T06:54:09.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[List Rektora WŚSD na Poniedziałek w oktawie Wielkanocy]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4027-list-rektora-wssd-na-poniedzialek-w-oktawie-wielkanocy</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4027-list-rektora-wssd-na-poniedzialek-w-oktawie-wielkanocy"/>
+        <updated>2026-04-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-04-2026</p><a href="/o-diecezji/aktualnosci/4027-list-rektora-wssd-na-poniedzialek-w-oktawie-wielkanocy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/DJI_0649nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4027-list-rektora-wssd-na-poniedzialek-w-oktawie-wielkanocy" title="List Rektora WŚSD na Poniedziałek w oktawie Wielkanocy" target="_self">List Rektora WŚSD na Poniedziałek w oktawie Wielkanocy</a></h4><p class="nspText tleft fnull">"Nie wszystko, co jest możliwe, jest konieczne. Nie wszystko, co dostępne, prowadzi do głębi" - pisze ks.&nbsp;Matuszewski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Szkudło: W miejscu, gdzie śmierć miała postawić ostatnią kropkę, Bóg postawił radosny wykrzyknik]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4026-bp-szkudlo-w-miejscu-gdzie-smierc-miala-postawic-ostatnia-kropke-bog-postawil-radosny-wykrzyknik</id>
@@ -76,14 +84,6 @@ Liturgii Męki Pańskiej w Kościele pw. NSPJ w Mysłowicach przewodniczył abp 
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4017-abp-skworc-w-wielki-czwartek-sila-kosciola-plynie-z-eucharystii"/>
         <updated>2026-04-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-04-2026</p><a href="/o-diecezji/aktualnosci/4017-abp-skworc-w-wielki-czwartek-sila-kosciola-plynie-z-eucharystii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/diakonat2008_jw011nsp-94.jpg" alt="Fot. Józef Wolny /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4017-abp-skworc-w-wielki-czwartek-sila-kosciola-plynie-z-eucharystii" title="Abp Skworc w Wielki Czwartek: Siła Kościoła płynie z Eucharystii" target="_self">Abp Skworc w Wielki Czwartek: Siła Kościoła płynie z Eucharystii</a></h4><p class="nspText tleft fnull">Mszy św. Wieczerzy Pańskiej w Kościele pw. św. Herberta w Wodzisławiu Śląskim przewodniczył abp senior Wiktor Skworc.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Msza Krzyżma w katowickiej archikatedrze]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4016-msza-krzyzma-w-katowickiej-archikatedrze</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4016-msza-krzyzma-w-katowickiej-archikatedrze"/>
-        <updated>2026-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-04-2026</p><a href="/o-diecezji/aktualnosci/4016-msza-krzyzma-w-katowickiej-archikatedrze" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.961A4935nsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4016-msza-krzyzma-w-katowickiej-archikatedrze" title="Msza Krzyżma w katowickiej archikatedrze" target="_self">Msza Krzyżma w katowickiej archikatedrze</a></h4><p class="nspText tleft fnull">Eucharystii przewodniczył abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>

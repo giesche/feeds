@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-04-08T06:59:00.736Z</updated>
+    <updated>2026-04-09T06:54:08.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Raport roczny z działalności CERT Polska w 2025 roku]]></title>
+        <id>https://cert.pl/posts/2026/04/raport-roczny-2025/</id>
+        <link href="https://cert.pl/posts/2026/04/raport-roczny-2025/"/>
+        <updated>2026-04-09T06:53:39.519Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>08 kwietnia 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/raport-roczny/">#raport roczny</a></span>
+                <span><a href="./tag/raport/">#raport</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/04/raport-roczny-2025/" class="post-outer-container">
+            <h4>Raport roczny z działalności CERT Polska w 2025 roku</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/04/raport-roczny-2025/thumbnail.jpg" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Za nami kolejny rok działania zespołu CERT Polska. Był on wyjątkowy, ponieważ wieńczył trzecią dekadę naszej działalności – świętujemy właśnie 30. urodziny! Rok 2025 to czas pełen wyzwań, rozwoju i kształtowania cyberbezpieczeństwa w&nbsp;kompleksowy sposób – od proaktywnych działań na rzecz wykrywania zagrożeń, poprzez obsługę zgłoszeń i reagowanie na incydenty aż po dzielenie się wiedzą i&nbsp;budowanie świadomości społecznej.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analiza cifrat: czy to ewolucja mobilnego RATa?]]></title>
         <id>https://cert.pl/posts/2026/04/analiza-cifrat/</id>
@@ -276,36 +306,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Opublikowaliśmy właśnie pierwszy raport miesięczny, podsumowujący nasze działania i obserwacje za wrzesień 2025. To początek nowej formuły komunikacji – chcemy regularnie informować o najważniejszych incydentach, trendach i aktywnościach zespołu.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak rozpoznać fałszywe strony internetowe i uniknąć phishingu]]></title>
-        <id>https://cert.pl/posts/2025/09/analiza-adresow-stron/</id>
-        <link href="https://cert.pl/posts/2025/09/analiza-adresow-stron/"/>
-        <updated>2025-11-14T15:37:06.530Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>17 września 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/zagrozenia/">#zagrożenia</a></span>
-                <span><a href="./tag/phishing/">#phishing</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/09/analiza-adresow-stron/" class="post-outer-container">
-            <h4>Jak rozpoznać fałszywe strony internetowe i uniknąć phishingu</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/09/analiza-adresow-stron/thumbnail.jpeg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Współczesne ataki phishingowe wykorzystują dokładne kopie wizualne znanych serwisów, co uniemożliwia rozpoznanie oszustwa na podstawie wyglądu strony. Przedstawiamy metodę analizy adresów URL jako jedyną niezawodną technikę weryfikacji autentyczności witryn. Omawiamy również funkcje bezpieczeństwa przeglądarek wspierające użytkowników w&nbsp;identyfikacji prawdziwych domen.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
