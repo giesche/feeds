@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-11T06:37:09.733Z</updated>
+    <updated>2026-04-11T17:56:01.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Obchody 86. rocznicy Zbrodni Katyńskiej w Katowicach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4037-obchody-86-rocznicy-zbrodni-katynskiej-w-katowicach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4037-obchody-86-rocznicy-zbrodni-katynskiej-w-katowicach"/>
+        <updated>2026-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-04-2026</p><a href="/o-diecezji/aktualnosci/4037-obchody-86-rocznicy-zbrodni-katynskiej-w-katowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/ka16s03nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4037-obchody-86-rocznicy-zbrodni-katynskiej-w-katowicach" title="Obchody 86. rocznicy Zbrodni Katyńskiej w Katowicach" target="_self">Obchody 86. rocznicy Zbrodni Katyńskiej w Katowicach</a></h4><p class="nspText tleft fnull">Uroczystą Mszą św. pod przewodnictwem abp. Andrzeja Przybylskiego rozpoczeły się tegoroczne obchody upamiętniające jedną z największych katastrof w dziejach Polski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Święcenia diakonatu w Jankowicach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4036-swiecenia-diakonatu-w-jankowicach</id>
@@ -76,14 +84,6 @@
         <updated>2026-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-04-2026</p><a href="/o-diecezji/aktualnosci/4023-abp-przybylski-w-wielki-piatek-nie-uciekajmy-od-naszych-krzyzy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/IMG_3567.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4023-abp-przybylski-w-wielki-piatek-nie-uciekajmy-od-naszych-krzyzy" title="Abp Przybylski w Wielki Piątek: Nie uciekajmy od naszych krzyży" target="_self">Abp Przybylski w Wielki Piątek: Nie uciekajmy od naszych krzyży</a></h4><p class="nspText tleft fnull">
 Liturgii Męki Pańskiej w Kościele pw. NSPJ w Mysłowicach przewodniczył abp Andrzej Przybylski.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Olszowski w Wielki Piątek: Moje cierpienie, krzyż, podejmowany ze względu na drugiego człowieka ma ogromne znaczenie]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4022-bp-olszowski-w-wielki-piatek-moje-cierpienie-krzyz-podejmowany-ze-wzgledu-na-drugiego-czlowieka-ma-ogromne-znaczenie</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4022-bp-olszowski-w-wielki-piatek-moje-cierpienie-krzyz-podejmowany-ze-wzgledu-na-drugiego-czlowieka-ma-ogromne-znaczenie"/>
-        <updated>2026-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-04-2026</p><a href="/o-diecezji/aktualnosci/4022-bp-olszowski-w-wielki-piatek-moje-cierpienie-krzyz-podejmowany-ze-wzgledu-na-drugiego-czlowieka-ma-ogromne-znaczenie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOpiateknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4022-bp-olszowski-w-wielki-piatek-moje-cierpienie-krzyz-podejmowany-ze-wzgledu-na-drugiego-czlowieka-ma-ogromne-znaczenie" title="Bp Olszowski w Wielki Piątek: Moje cierpienie, krzyż, podejmowany ze względu na drugiego człowieka ma ogromne znaczenie" target="_self">Bp Olszowski w Wielki Piątek: Moje cierpienie, krzyż, podejmowany ze względu na drugiego człowieka ma ogromne znaczenie</a></h4><p class="nspText tleft fnull">Liturgii Męki Pańskiej w Archikatedrze&nbsp;Chrystusa Króla w Katowicach przewodniczył bp Grzegorz Olszowski.
 </p>]]></content>
     </entry>
 </feed>
