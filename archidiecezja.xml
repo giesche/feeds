@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-15T18:40:36.718Z</updated>
+    <updated>2026-04-16T07:09:23.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40 lat po święceniach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4045-40-lat-po-swieceniach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4045-40-lat-po-swieceniach"/>
+        <updated>2026-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-04-2026</p><a href="/o-diecezji/aktualnosci/4045-40-lat-po-swieceniach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPrudy40.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4045-40-lat-po-swieceniach" title="40 lat po święceniach" target="_self">40 lat po święceniach</a></h4><p class="nspText tleft fnull">Kapłani rocznika święceń 1986 przeżywają rekolekcje w Opactwie Cystersów w Rudach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Najpiękniejsze jest jeszcze przed wami" - złoty jubileusz kapłaństwa w Kokoszycach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4042-najpiekniejsze-jest-jeszcze-przed-wami-zloty-jubileusz-kaplanstwa-w-kokoszycach</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-04-2026</p><a href="/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAParesztwielkano.nsp-94jpeg" alt="Fot. por. Paweł Czajka"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach" title="Wielkanocna Msza św. w Areszcie Śledczym w Katowicach" target="_self">Wielkanocna Msza św. w Areszcie Śledczym w Katowicach</a></h4><p class="nspText tleft fnull">9 kwietnia w kaplicy Aresztu Śledczego w Katowicach odbyła się Msza św. z okazji świąt Wielkiej Nocy, której przewodniczył arcybiskup metropolita katowicki Andrzej Przybylski.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie wielkanocne w Kurii Metropolitalnej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4034-spotkanie-wielkanocne-w-kurii-metropolitalnej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4034-spotkanie-wielkanocne-w-kurii-metropolitalnej"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-04-2026</p><a href="/o-diecezji/aktualnosci/4034-spotkanie-wielkanocne-w-kurii-metropolitalnej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/APPwielkanocgmachnsp-94.jpg" alt="Fot. Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4034-spotkanie-wielkanocne-w-kurii-metropolitalnej" title="Spotkanie wielkanocne w Kurii Metropolitalnej" target="_self">Spotkanie wielkanocne w Kurii Metropolitalnej</a></h4><p class="nspText tleft fnull">W czwartek 9 kwietnia odbyło się spotkanie biskupów archidiecezji z przedstawicielami władz, służb mundurowych oraz instytucji diecezjalnych.
 </p>]]></content>
     </entry>
 </feed>
