@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-16T07:09:23.567Z</updated>
+    <updated>2026-04-16T18:42:03.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[45 lat po święcenia - kapłańskie jubileusze w Kamieniu Śląskim]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4047-45-lat-po-swiecenia-kaplanskie-jubileusze-w-kamieniu-slaskim</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4047-45-lat-po-swiecenia-kaplanskie-jubileusze-w-kamieniu-slaskim"/>
+        <updated>2026-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-04-2026</p><a href="/o-diecezji/aktualnosci/4047-45-lat-po-swiecenia-kaplanskie-jubileusze-w-kamieniu-slaskim" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAP45la.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4047-45-lat-po-swiecenia-kaplanskie-jubileusze-w-kamieniu-slaskim" title="45 lat po święcenia - kapłańskie jubileusze w Kamieniu Śląskim" target="_self">45 lat po święcenia - kapłańskie jubileusze w Kamieniu Śląskim</a></h4><p class="nspText tleft fnull">W dniach od 13 do 16 kwietnia kapłani obchodzący 45. rocznicę święceń kapłańskich uczestniczą w rekolekcjach jubileuszowych w Kamieniu Śląskim.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40 lat po święceniach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4045-40-lat-po-swieceniach</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4036-swiecenia-diakonatu-w-jankowicach"/>
         <updated>2026-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-04-2026</p><a href="/o-diecezji/aktualnosci/4036-swiecenia-diakonatu-w-jankowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdkjankownsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4036-swiecenia-diakonatu-w-jankowicach" title="Święcenia diakonatu w Jankowicach" target="_self">Święcenia diakonatu w Jankowicach</a></h4><p class="nspText tleft fnull">W parafii św. Izydora abp Andrzej Przybylski wyświęcił na diakona stałego Łukasza Marcinkiewicza.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wielkanocna Msza św. w Areszcie Śledczym w Katowicach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-04-2026</p><a href="/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAParesztwielkano.nsp-94jpeg" alt="Fot. por. Paweł Czajka"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4035-wielkanocna-msza-sw-w-areszcie-sledczym-w-katowicach" title="Wielkanocna Msza św. w Areszcie Śledczym w Katowicach" target="_self">Wielkanocna Msza św. w Areszcie Śledczym w Katowicach</a></h4><p class="nspText tleft fnull">9 kwietnia w kaplicy Aresztu Śledczego w Katowicach odbyła się Msza św. z okazji świąt Wielkiej Nocy, której przewodniczył arcybiskup metropolita katowicki Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
