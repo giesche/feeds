@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-18T06:44:10.820Z</updated>
+    <updated>2026-04-19T06:56:55.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski: To, co czasem wydaje się klęską, jest zwycięstwem]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem"/>
+        <updated>2026-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAProdzinansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem" title="Abp Przybylski: To, co czasem wydaje się klęską, jest zwycięstwem" target="_self">Abp Przybylski: To, co czasem wydaje się klęską, jest zwycięstwem</a></h4><p class="nspText tleft fnull">W Katowicach modlono się za funkcjonariuszy Policji II Rzeczypospolitej, którzy 86 lat temu stracili życie w czasie zbrodni katyńskiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Śp. ks. Roman Przybyłek]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4041-niedziela-milosierdzia-w-domu-siostr-misjonarek-milosci"/>
         <updated>2026-04-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-04-2026</p><a href="/o-diecezji/aktualnosci/4041-niedziela-milosierdzia-w-domu-siostr-misjonarek-milosci" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPNMB.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4041-niedziela-milosierdzia-w-domu-siostr-misjonarek-milosci" title="Niedziela Miłosierdzia w Domu Sióstr Misjonarek Miłości" target="_self">Niedziela Miłosierdzia w Domu Sióstr Misjonarek Miłości</a></h4><p class="nspText tleft fnull">W Niedzielę Miłosierdzia Bożego 12 kwietnia abp Andrzej Przybylski spotkał się z osobami w kryzysie bezdomności żyjącymi na ulicach Katowic.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Święto patronalne Caritas]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4039-swieto-patronalne-caritas</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4039-swieto-patronalne-caritas"/>
-        <updated>2026-04-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-04-2026</p><a href="/o-diecezji/aktualnosci/4039-swieto-patronalne-caritas" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/IMG_3628.nsp-94jpeg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4039-swieto-patronalne-caritas" title="Święto patronalne Caritas" target="_self">Święto patronalne Caritas</a></h4><p class="nspText tleft fnull">W Archikatedrze Chrystusa Króla modlili się pracownicy, podopieczni i wolontariusze Caritas Archidiecezji Katowickiej.
 </p>]]></content>
     </entry>
 </feed>
