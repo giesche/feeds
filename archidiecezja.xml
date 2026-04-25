@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-25T06:50:01.678Z</updated>
+    <updated>2026-04-25T18:02:25.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dyspensa od pokarmów mięsnych w Metropolii Górnośląskiej w piątek 1 maja]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4060-dyspensa-od-pokarmow-miesnych-w-metropolii-gornoslaskiej-w-piatek-1-maja</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4060-dyspensa-od-pokarmow-miesnych-w-metropolii-gornoslaskiej-w-piatek-1-maja"/>
+        <updated>2026-04-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-04-2026</p><a href="/o-diecezji/aktualnosci/4060-dyspensa-od-pokarmow-miesnych-w-metropolii-gornoslaskiej-w-piatek-1-maja" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/abp_przybylski_dyspensansp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4060-dyspensa-od-pokarmow-miesnych-w-metropolii-gornoslaskiej-w-piatek-1-maja" title="Dyspensa od pokarmów mięsnych w Metropolii Górnośląskiej w piątek 1 maja" target="_self">Dyspensa od pokarmów mięsnych w Metropolii Górnośląskiej w piątek 1 maja</a></h4><p class="nspText tleft fnull">
+Publikujemy dekret abp. Andrzeja Przybylskiego.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Andrzej Przybylski: Pierwszym seminarium jest rodzina]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4059-abp-andrzej-przybylski-pierwszym-seminarium-jest-rodzina</id>
@@ -58,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga"/>
         <updated>2026-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyk_radioemnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga" title="Bp Adam Wodarczyk: Trzeba usłyszeć głos Boga" target="_self">Bp Adam Wodarczyk: Trzeba usłyszeć głos Boga</a></h4><p class="nspText tleft fnull">O mocy Słowa Bożego, miłosierdziu i odwadze, by odpowiedzieć na powołanie, bp Adam Wodarczyk mówi w Rozmowie Poranka Radia eM.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Połączenie wiary i życiowej pasji]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4049-polaczenie-wiary-i-zyciowej-pasji</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4049-polaczenie-wiary-i-zyciowej-pasji"/>
-        <updated>2026-04-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-04-2026</p><a href="/o-diecezji/aktualnosci/4049-polaczenie-wiary-i-zyciowej-pasji" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPmotornsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4049-polaczenie-wiary-i-zyciowej-pasji" title="Połączenie wiary i życiowej pasji" target="_self">Połączenie wiary i życiowej pasji</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski spotkał się z członkami Katolickiego Bractwa Motocyklowego im. św. Krzysztofa.
 </p>]]></content>
     </entry>
 </feed>
