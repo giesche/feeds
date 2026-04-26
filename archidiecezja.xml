@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-26T07:09:51.169Z</updated>
+    <updated>2026-04-26T18:03:33.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Konferencja "Razem w Chrystusie. Na drogach (ku) jedności chrześcijan"]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4061-konferencja-razem-w-chrystusie-na-drogach-ku-jednosci-chrzescijan</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4061-konferencja-razem-w-chrystusie-na-drogach-ku-jednosci-chrzescijan"/>
+        <updated>2026-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-04-2026</p><a href="/o-diecezji/aktualnosci/4061-konferencja-razem-w-chrystusie-na-drogach-ku-jednosci-chrzescijan" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPkonf.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4061-konferencja-razem-w-chrystusie-na-drogach-ku-jednosci-chrzescijan" title="Konferencja &quot;Razem w Chrystusie. Na drogach (ku) jedności chrześcijan&quot;" target="_self">Konferencja "Razem w Chrystusie. Na drogach (ku) jedności chrześcijan"</a></h4><p class="nspText tleft fnull">Jej prelegenci spotkali się na Wydziale Teologicznym Uniwersytetu Śląskiego. Na zakończenie zaplanowano panel dyskusyjny "Jak Kościoły mogą odnaleźć się we współczesnym świecie?".
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dyspensa od pokarmów mięsnych w Metropolii Górnośląskiej w piątek 1 maja]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4060-dyspensa-od-pokarmow-miesnych-w-metropolii-gornoslaskiej-w-piatek-1-maja</id>
@@ -59,14 +67,6 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek"/>
         <updated>2026-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_przybylek_romannsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek" title="Śp. ks. Roman Przybyłek" target="_self">Śp. ks. Roman Przybyłek</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 69 lat oraz w 45. roku kapłaństwa, zmarł śp. ks. Roman Przybyłek, emerytowany duszpasterz w Polskiej Misji Katolickiej w Niemczech.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Adam Wodarczyk: Trzeba usłyszeć głos Boga]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga"/>
-        <updated>2026-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyk_radioemnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4053-bp-adam-wodarczyk-trzeba-uslyszec-glos-boga" title="Bp Adam Wodarczyk: Trzeba usłyszeć głos Boga" target="_self">Bp Adam Wodarczyk: Trzeba usłyszeć głos Boga</a></h4><p class="nspText tleft fnull">O mocy Słowa Bożego, miłosierdziu i odwadze, by odpowiedzieć na powołanie, bp Adam Wodarczyk mówi w Rozmowie Poranka Radia eM.
 </p>]]></content>
     </entry>
 </feed>
