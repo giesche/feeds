@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-04-28T07:44:44.538Z</updated>
+    <updated>2026-04-28T19:00:43.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -53,7 +53,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026">
       26 kwi 2026
     </time>
   
@@ -115,7 +115,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026" data-tooltip-id="static-tooltip-2">
+    <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026">
       25 kwi 2026
     </time>
   
@@ -178,7 +178,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026" data-tooltip-id="static-tooltip-3">
+    <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026">
       24 kwi 2026
     </time>
   
@@ -240,7 +240,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026" data-tooltip-id="static-tooltip-4">
+    <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026">
       23 kwi 2026
     </time>
   
@@ -301,7 +301,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026" data-tooltip-id="static-tooltip-5">
+    <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026">
       15 kwi 2026
     </time>
   
@@ -363,7 +363,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026" data-tooltip-id="static-tooltip-6">
+    <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026">
       14 kwi 2026
     </time>
   
@@ -424,7 +424,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026" data-tooltip-id="static-tooltip-7">
+    <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026">
       12 kwi 2026
     </time>
   
@@ -486,7 +486,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026" data-tooltip-id="static-tooltip-8">
+    <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026">
       11 kwi 2026
     </time>
   
@@ -548,7 +548,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-9">
+    <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026">
       9 kwi 2026
     </time>
   
@@ -609,7 +609,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-10">
+    <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026">
       8 kwi 2026
     </time>
   
@@ -670,7 +670,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026" data-tooltip-id="static-tooltip-11">
+    <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026">
       7 kwi 2026
     </time>
   
@@ -791,7 +791,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026" data-tooltip-id="static-tooltip-12">
+    <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026">
       4 kwi 2026
     </time>
   
@@ -852,7 +852,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026" data-tooltip-id="static-tooltip-13">
+    <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026">
       3 kwi 2026
     </time>
   
@@ -914,7 +914,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026" data-tooltip-id="static-tooltip-14">
+    <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026">
       30 mar 2026
     </time>
   
@@ -975,7 +975,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026" data-tooltip-id="static-tooltip-15">
+    <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026">
       29 mar 2026
     </time>
   
@@ -1037,7 +1037,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-16">
+    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026">
       20 mar 2026
     </time>
   
@@ -1098,7 +1098,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026" data-tooltip-id="static-tooltip-17">
+    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026">
       6 mar 2026
     </time>
   
@@ -1159,7 +1159,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-18">
+    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026">
       27 lut 2026
     </time>
   
@@ -1221,7 +1221,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-19">
+    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026">
       8 lut 2026
     </time>
   
@@ -1283,7 +1283,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026" data-tooltip-id="static-tooltip-20">
+    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026">
       7 lut 2026
     </time>
   
@@ -1404,7 +1404,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-21">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026">
       16 sty 2026
     </time>
   
@@ -1465,7 +1465,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-22">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026">
       7 sty 2026
     </time>
   
@@ -1527,7 +1527,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-23">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026">
       6 sty 2026
     </time>
   
