@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-27T07:46:02.663Z</updated>
+    <updated>2026-04-28T07:44:44.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ustanowienie Sanktuarium św. Wojciecha w Radzionkowie]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4063-ustanowienie-sanktuarium-sw-wojciecha-w-radzionkowie</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4063-ustanowienie-sanktuarium-sw-wojciecha-w-radzionkowie"/>
+        <updated>2026-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-04-2026</p><a href="/o-diecezji/aktualnosci/4063-ustanowienie-sanktuarium-sw-wojciecha-w-radzionkowie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPradzionkownsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4063-ustanowienie-sanktuarium-sw-wojciecha-w-radzionkowie" title="Ustanowienie Sanktuarium św. Wojciecha w Radzionkowie" target="_self">Ustanowienie Sanktuarium św. Wojciecha w Radzionkowie</a></h4><p class="nspText tleft fnull">Decyzją metropolity katowickiego Kościół pw. św. Wojciecha w Radzionkowie w niedzielę 26 kwietnia został ogłoszony sanktuarium.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konferencja "Razem w Chrystusie. Na drogach (ku) jedności chrześcijan"]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4061-konferencja-razem-w-chrystusie-na-drogach-ku-jednosci-chrzescijan</id>
@@ -59,14 +67,6 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem"/>
         <updated>2026-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAProdzinansp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4051-abp-przybylski-to-co-czasem-wydaje-sie-kleska-jest-zwyciestwem" title="Abp Przybylski: To, co czasem wydaje się klęską, jest zwycięstwem" target="_self">Abp Przybylski: To, co czasem wydaje się klęską, jest zwycięstwem</a></h4><p class="nspText tleft fnull">W Katowicach modlono się za funkcjonariuszy Policji II Rzeczypospolitej, którzy 86 lat temu stracili życie w czasie zbrodni katyńskiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Roman Przybyłek]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek"/>
-        <updated>2026-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-04-2026</p><a href="/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_przybylek_romannsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4052-sp-ks-roman-przybylek" title="Śp. ks. Roman Przybyłek" target="_self">Śp. ks. Roman Przybyłek</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 69 lat oraz w 45. roku kapłaństwa, zmarł śp. ks. Roman Przybyłek, emerytowany duszpasterz w Polskiej Misji Katolickiej w Niemczech.
 </p>]]></content>
     </entry>
 </feed>
