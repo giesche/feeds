@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-28T19:00:43.750Z</updated>
+    <updated>2026-04-29T07:38:03.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Carlsen pokonuje Dudę w Wielkim Finale i wygrywa Chess.com Open 2026 (Chess.com Aktualności)]]></title>
@@ -52,7 +52,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026">
+    <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026" data-tooltip-id="static-tooltip-1">
       26 kwi 2026
     </time>
   
@@ -114,7 +114,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026">
+    <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026" data-tooltip-id="static-tooltip-2">
       25 kwi 2026
     </time>
   
@@ -177,7 +177,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026">
+    <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026" data-tooltip-id="static-tooltip-3">
       24 kwi 2026
     </time>
   
@@ -239,7 +239,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026">
+    <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026" data-tooltip-id="static-tooltip-4">
       23 kwi 2026
     </time>
   
@@ -300,7 +300,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026">
+    <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026" data-tooltip-id="static-tooltip-5">
       15 kwi 2026
     </time>
   
@@ -362,7 +362,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026">
+    <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026" data-tooltip-id="static-tooltip-6">
       14 kwi 2026
     </time>
   
@@ -423,7 +423,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026">
+    <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026" data-tooltip-id="static-tooltip-7">
       12 kwi 2026
     </time>
   
@@ -485,7 +485,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026">
+    <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026" data-tooltip-id="static-tooltip-8">
       11 kwi 2026
     </time>
   
@@ -547,7 +547,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026">
+    <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-9">
       9 kwi 2026
     </time>
   
@@ -608,7 +608,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026">
+    <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-10">
       8 kwi 2026
     </time>
   
@@ -669,7 +669,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026">
+    <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026" data-tooltip-id="static-tooltip-11">
       7 kwi 2026
     </time>
   
@@ -790,7 +790,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026">
+    <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026" data-tooltip-id="static-tooltip-12">
       4 kwi 2026
     </time>
   
@@ -851,7 +851,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026">
+    <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026" data-tooltip-id="static-tooltip-13">
       3 kwi 2026
     </time>
   
@@ -913,7 +913,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026">
+    <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026" data-tooltip-id="static-tooltip-14">
       30 mar 2026
     </time>
   
@@ -974,7 +974,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026">
+    <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026" data-tooltip-id="static-tooltip-15">
       29 mar 2026
     </time>
   
@@ -1036,7 +1036,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026">
+    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-16">
       20 mar 2026
     </time>
   
@@ -1097,7 +1097,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026">
+    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026" data-tooltip-id="static-tooltip-17">
       6 mar 2026
     </time>
   
@@ -1158,7 +1158,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026">
+    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-18">
       27 lut 2026
     </time>
   
@@ -1220,7 +1220,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026">
+    <time datetime="2026-02-08 16:59" v-tooltip="Aktualizacja: 9 lut 2026" data-tooltip-id="static-tooltip-19">
       8 lut 2026
     </time>
   
@@ -1282,7 +1282,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026">
+    <time datetime="2026-02-07 17:58" v-tooltip="Aktualizacja: 7 lut 2026" data-tooltip-id="static-tooltip-20">
       7 lut 2026
     </time>
   
@@ -1403,7 +1403,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026">
+    <time datetime="2026-01-16 03:39" v-tooltip="Aktualizacja: 17 sty 2026" data-tooltip-id="static-tooltip-21">
       16 sty 2026
     </time>
   
@@ -1464,7 +1464,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-07 11:59" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-22">
       7 sty 2026
     </time>
   
@@ -1526,7 +1526,7 @@ Wielki Fin...
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026">
+    <time datetime="2026-01-06 09:24" v-tooltip="Aktualizacja: 8 sty 2026" data-tooltip-id="static-tooltip-23">
       6 sty 2026
     </time>
   
@@ -2307,81 +2307,81 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Przełom w relacjach Microsoft i OpenAI. Multi-cloud i koniec wyłączności (CentrumXP)]]></title>
+        <id>https://giesche.github.io/feeds/all.xml</id>
+        <link href="https://giesche.github.io/feeds/all.xml"/>
+        <updated>2026-04-29T07:37:52.953Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Przełom w relacjach Microsoft i OpenAI. Multi-cloud i koniec wyłączności</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>126</p></div><p class="hyNtP12Spf">Wieloletnie partnerstwo Microsoft i OpenAI przeszło fundamentalną zmianę. Zaktualizowana umowa kończy erę wyłączności, zachowując jednak silne więzi.</p></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft ułatwia usuwanie Copilota z Windows 11. Dostępna nowa metoda (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.907Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft ułatwia usuwanie Copilota z Windows 11. Dostępna nowa metoda</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>294</p></div><p class="hyNtP12Spf">Microsoft zapewnił administratorom i użytkownikom większą kontrolę nad obecnością sztucznej inteligencji w systemie Windows</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.955Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft ułatwia usuwanie Copilota z Windows 11. Dostępna nowa metoda</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>327</p></div><p class="hyNtP12Spf">Microsoft zapewnił administratorom i użytkownikom większą kontrolę nad obecnością sztucznej inteligencji w systemie Windows</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Duże zmiany w OneDrive. Microsoft stawia na agentową AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.908Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Duże zmiany w OneDrive. Microsoft stawia na agentową AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>197</p></div><p class="hyNtP12Spf">Nowości w OneDrive koncentrują się na wykorzystaniu agentowej AI, usprawnieniu współpracy zespołów i rozszerzeniu możliwości administracyjnych</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.957Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Duże zmiany w OneDrive. Microsoft stawia na agentową AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>213</p></div><p class="hyNtP12Spf">Nowości w OneDrive koncentrują się na wykorzystaniu agentowej AI, usprawnieniu współpracy zespołów i rozszerzeniu możliwości administracyjnych</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI wprowadza agenty przestrzeni roboczej do ChatGPT (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.911Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wprowadza agenty przestrzeni roboczej do ChatGPT</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.04.2026, 18:00</p><p><strong>Liczba odsłon: </strong>653</p></div><p class="hyNtP12Spf">Nowe rozwiązanie pozwala zespołom na budowanie i współdzielenie autonomicznych agentów AI, zdolnych do obsługi złożonych, długofalowych procesów</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.958Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wprowadza agenty przestrzeni roboczej do ChatGPT</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.04.2026, 18:00</p><p><strong>Liczba odsłon: </strong>666</p></div><p class="hyNtP12Spf">Nowe rozwiązanie pozwala zespołom na budowanie i współdzielenie autonomicznych agentów AI, zdolnych do obsługi złożonych, długofalowych procesów</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.5 zmieni twoją pracę. Nowy lider biurowej automatyzacji (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.912Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.5 zmieni twoją pracę. Nowy lider biurowej automatyzacji</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.04.2026, 20:15</p><p><strong>Liczba odsłon: </strong>1174</p></div><p class="hyNtP12Spf">OpenAI zaprezentował GPT-5.5 - swój najinteligentniejszy i najbardziej intuicyjny model, który rewolucjonizuje sposób wykonywania pracy na komputerze</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.961Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-5.5 zmieni twoją pracę. Nowy lider biurowej automatyzacji</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.04.2026, 20:15</p><p><strong>Liczba odsłon: </strong>1188</p></div><p class="hyNtP12Spf">OpenAI zaprezentował GPT-5.5 - swój najinteligentniejszy i najbardziej intuicyjny model, który rewolucjonizuje sposób wykonywania pracy na komputerze</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Treści wygenerowane przez AI w Microsoft 365 mają znak wodny. Jak go włączyć lub wyłączyć? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.913Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Treści wygenerowane przez AI w Microsoft 365 mają znak wodny. Jak go włączyć lub wyłączyć?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>450</p></div><p class="hyNtP12Spf">Microsoft wprowadził nowe funkcje dodawania znaku wodnego do treści generowanych przez AI w ekosystemie Microsoft 365. Jak to włączyć lub wyłączyć?</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.963Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Treści wygenerowane przez AI w Microsoft 365 mają znak wodny. Jak go włączyć lub wyłączyć?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>460</p></div><p class="hyNtP12Spf">Microsoft wprowadził nowe funkcje dodawania znaku wodnego do treści generowanych przez AI w ekosystemie Microsoft 365. Jak to włączyć lub wyłączyć?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI wypuścił GPT-Rosalind. Model do zadań specjalnych w biologii (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.922Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wypuścił GPT-Rosalind. Model do zadań specjalnych w biologii</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>539</p></div><p class="hyNtP12Spf">Najnowszy model GPT-Rosalind ma zrewolucjonizować badania nad życiem, biotechnologię, a także proces projektowania leków</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.964Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wypuścił GPT-Rosalind. Model do zadań specjalnych w biologii</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>547</p></div><p class="hyNtP12Spf">Najnowszy model GPT-Rosalind ma zrewolucjonizować badania nad życiem, biotechnologię, a także proces projektowania leków</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Najpierw myśli, potem rysuje. ChatGPT Images 2.0 to przełom w OpenAI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.924Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Najpierw myśli, potem rysuje. ChatGPT Images 2.0 to przełom w OpenAI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.04.2026, 18:30</p><p><strong>Liczba odsłon: </strong>1158</p></div><p class="hyNtP12Spf">Nowy generator obrazów od OpenAI wprowadza funkcje rozumowania, drastyczną poprawę w renderowaniu tekstu i zaawansowaną obsługę wielu języków</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.967Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Najpierw myśli, potem rysuje. ChatGPT Images 2.0 to przełom w OpenAI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.04.2026, 18:30</p><p><strong>Liczba odsłon: </strong>1169</p></div><p class="hyNtP12Spf">Nowy generator obrazów od OpenAI wprowadza funkcje rozumowania, drastyczną poprawę w renderowaniu tekstu i zaawansowaną obsługę wielu języków</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fintool integruje się z Microsoft 365. Agenty AI zastąpią analityków? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.925Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Fintool integruje się z Microsoft 365. Agenty AI zastąpią analityków?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>956</p></div><p class="hyNtP12Spf">Microsoft przejął startup Fintool. Pozwoli to doładować aplikacje Microsoft 365 zaawansowanymi agentami AI do automatyzacji procesów analitycznych</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.968Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Fintool integruje się z Microsoft 365. Agenty AI zastąpią analityków?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>963</p></div><p class="hyNtP12Spf">Microsoft przejął startup Fintool. Pozwoli to doładować aplikacje Microsoft 365 zaawansowanymi agentami AI do automatyzacji procesów analitycznych</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft radzi, jak w pełni wykorzystać potencjał Power Query w Excelu (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.929Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft radzi, jak w pełni wykorzystać potencjał Power Query w Excelu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>21.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>629</p></div><p class="hyNtP12Spf">Microsoft radzi, jak przenieść analitykę na wyższy poziom. Oto pięć komponentów nowoczesnej pracy z Power Query w Excelu</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.969Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft radzi, jak w pełni wykorzystać potencjał Power Query w Excelu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>21.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>640</p></div><p class="hyNtP12Spf">Microsoft radzi, jak przenieść analitykę na wyższy poziom. Oto pięć komponentów nowoczesnej pracy z Power Query w Excelu</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Potężny model Claude Opus 4.7 debiutuje w Microsoft 365 Copilot i Microsoft Foundry (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.929Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Potężny model Claude Opus 4.7 debiutuje w Microsoft 365 Copilot i Microsoft Foundry</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.04.2026, 14:00</p><p><strong>Liczba odsłon: </strong>1101</p></div><p class="hyNtP12Spf">Anthropic wypuścił swój najpotężniejszy jak dotąd model Claude Opus 4.7. Stał się on integralną częścią m.in. Microsoft Foundry i Microsoft 365 Copilot</p></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teams z nową funkcją Video Recap. Szybko nadrobisz zaległości w spotkaniach (CentrumXP)]]></title>
-        <id>https://giesche.github.io/feeds/all.xml</id>
-        <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-04-28T19:00:32.933Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Teams z nową funkcją Video Recap. Szybko nadrobisz zaległości w spotkaniach</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.04.2026, 08:00</p><p><strong>Liczba odsłon: </strong>301</p></div><p class="hyNtP12Spf">Video Recap w Teams zmienia sposób, w jaki użytkownicy wracają do archiwalnych nagrań, oferując dynamiczne i zwięzłe podsumowania wideo</p></div></div>]]></content>
+        <updated>2026-04-29T07:37:52.971Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><span class="" style="display:inline-block"></span></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Potężny model Claude Opus 4.7 debiutuje w Microsoft 365 Copilot i Microsoft Foundry</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>20.04.2026, 14:00</p><p><strong>Liczba odsłon: </strong>1117</p></div><p class="hyNtP12Spf">Anthropic wypuścił swój najpotężniejszy jak dotąd model Claude Opus 4.7. Stał się on integralną częścią m.in. Microsoft Foundry i Microsoft 365 Copilot</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obowiązki i odpowiedzialność kierownictwa w świetle nowej UKSC / NIS2 (Władcy sieci)]]></title>
@@ -2400,7 +2400,7 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/27/obowiazki-i-odpowiedzialnosc-kierownictwa-w-swietle-nowej-uksc-nis2/" rel="bookmark">Obowiązki i&nbsp;odpowiedzialność kierownictwa w&nbsp;świetle nowej UKSC / NIS2</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="27 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-27T12:41:17+02:00">27 kwietnia 2026</time></span>			<span class="post-views">
-				84&nbsp;<i class="icon-eye"></i>			</span>
+				94&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2431,7 +2431,7 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/15/split-tunneling/" rel="bookmark">Split Tunneling&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="15 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-15T10:31:21+02:00">15 kwietnia 2026</time></span>			<span class="post-views">
-				252&nbsp;<i class="icon-eye"></i>			</span>
+				262&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2462,7 +2462,7 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/09/remote-access-vpn-w-opnsense-co-dziala-co-boli-i-kiedy-siegnac-po-cos-innego/" rel="bookmark">Remote Access VPN w&nbsp;OPNsense: Co działa, co boli i&nbsp;kiedy...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="9 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-09T08:10:07+02:00">9 kwietnia 2026</time></span>			<span class="post-views">
-				347&nbsp;<i class="icon-eye"></i>			</span>
+				358&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2493,7 +2493,7 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/02/sieciowka-marzec-2026-admin-days-2026-nis2-cyberatak-na-urzad-miasta/" rel="bookmark">Sieciówka – marzec 2026: Admin Days 2026, NIS2,...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="2 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-02T11:33:12+02:00">2 kwietnia 2026</time></span>			<span class="post-views">
-				397&nbsp;<i class="icon-eye"></i>			</span>
+				406&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
