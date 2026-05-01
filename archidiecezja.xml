@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-04-30T07:42:11.512Z</updated>
+    <updated>2026-05-01T07:41:20.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Śp. ks. prof. Mieczysław Bombik]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4072-sp-ks-prof-mieczyslaw-bombik</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4072-sp-ks-prof-mieczyslaw-bombik"/>
+        <updated>2026-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-04-2026</p><a href="/o-diecezji/aktualnosci/4072-sp-ks-prof-mieczyslaw-bombik" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_bombiknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4072-sp-ks-prof-mieczyslaw-bombik" title="Śp. ks. prof. Mieczysław Bombik" target="_self">Śp. ks. prof. Mieczysław Bombik</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 87 lat, w 64. roku kapłaństwa, zmarł śp. ks. prof. Mieczysław Bombik (rocznik święceń 1962), emerytowany wykładowca akademicki.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Macie wielkie posłannictwo, by pojednywać ludzi z Bogiem i między sobą]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4067-macie-wielkie-poslannictwo-by-pojednywac-ludzi-z-bogiem-i-miedzy-soba</id>
@@ -60,12 +68,5 @@ Publikujemy dekret abp. Andrzeja Przybylskiego.
         <updated>2026-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-04-2026</p><a href="/o-diecezji/aktualnosci/4059-abp-andrzej-przybylski-pierwszym-seminarium-jest-rodzina" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_emnsp-94.jpg" alt="Fot: radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4059-abp-andrzej-przybylski-pierwszym-seminarium-jest-rodzina" title="Abp Andrzej Przybylski: Pierwszym seminarium jest rodzina" target="_self">Abp Andrzej Przybylski: Pierwszym seminarium jest rodzina</a></h4><p class="nspText tleft fnull">Hierarcha apeluje do rodzin o modlitwę nie tylko o powołania „w ogóle”, ale także w intencji własnych dzieci.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powołani przez Boga]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4056-powolani-przez-boga</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4056-powolani-przez-boga"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-04-2026</p><a href="/o-diecezji/aktualnosci/4056-powolani-przez-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.AAPkepTP.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4056-powolani-przez-boga" title="Powołani przez Boga" target="_self">Powołani przez Boga</a></h4><p class="nspText tleft fnull">W sekretariacie Konferencji Episkopatu Polski w Warszawie 23 kwietnia odbyła się konferencja prasowa zapowiadająca 63. Tydzień Modlitw o Powołania w Kościele w Polsce, który rozpocznie się w IV Niedzielę Wielka...</p>]]></content>
     </entry>
 </feed>
