@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-04T08:05:05.782Z</updated>
+    <updated>2026-05-04T19:02:52.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Śp. ks. Zbigniew Biela]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4079-sp-ks-zbigniew-biela</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4079-sp-ks-zbigniew-biela"/>
+        <updated>2026-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-05-2026</p><a href="/o-diecezji/aktualnosci/4079-sp-ks-zbigniew-biela" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_biela_zbigniewnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4079-sp-ks-zbigniew-biela" title="Śp. ks. Zbigniew Biela" target="_self">Śp. ks. Zbigniew Biela</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 63 lat, w 37. roku kapłaństwa, zmarł śp. ks. Zbigniew Biela, kapelan Domu Pomocy Społecznej Święty Florian w Chorzowie i rezydent parafii Świętej Marii Magdaleny w Chorzow...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Świadomi zagrożeń módlmy się o pokój i rozbrojenie ludzkich serc]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4076-swiadomi-zagrozen-modlmy-sie-o-pokoj-i-rozbrojenie-ludzkich-serc</id>
@@ -59,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4067-macie-wielkie-poslannictwo-by-pojednywac-ludzi-z-bogiem-i-miedzy-soba"/>
         <updated>2026-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-04-2026</p><a href="/o-diecezji/aktualnosci/4067-macie-wielkie-poslannictwo-by-pojednywac-ludzi-z-bogiem-i-miedzy-soba" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.diakon_imielinnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4067-macie-wielkie-poslannictwo-by-pojednywac-ludzi-z-bogiem-i-miedzy-soba" title="Macie wielkie posłannictwo, by pojednywać ludzi z Bogiem i między sobą" target="_self">Macie wielkie posłannictwo, by pojednywać ludzi z Bogiem i między sobą</a></h4><p class="nspText tleft fnull">Klaudiusz Kubeczko z parafii Matki Bożej Szkaplerznej w Imielinie przyjął święcenia diakonatu z rąk metropolity katowickiego.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kapłani z całej Polski o duszpasterstwie przedsiębiorców]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4066-kaplani-z-calej-polski-o-duszpasterstwie-przedsiebiorcow</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4066-kaplani-z-calej-polski-o-duszpasterstwie-przedsiebiorcow"/>
-        <updated>2026-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-04-2026</p><a href="/o-diecezji/aktualnosci/4066-kaplani-z-calej-polski-o-duszpasterstwie-przedsiebiorcow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dusz_przedsiebiorcownsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4066-kaplani-z-calej-polski-o-duszpasterstwie-przedsiebiorcow" title="Kapłani z całej Polski o duszpasterstwie przedsiębiorców" target="_self">Kapłani z całej Polski o duszpasterstwie przedsiębiorców</a></h4><p class="nspText tleft fnull">W Warszawie odbyło się ogólnopolskie spotkanie kapłanów zaangażowanych w duszpasterstwo przedsiębiorców i pracodawców.
 </p>]]></content>
     </entry>
 </feed>
