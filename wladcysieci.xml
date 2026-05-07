@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-05-07T08:03:00.264Z</updated>
+    <updated>2026-05-07T19:12:34.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
-        <title type="html"><![CDATA[Sieciówka – kwiecień 2026: Admin Days, Bitwarden malware, wyciek danych.]]></title>
+        <title type="html"><![CDATA[Podatności na radarze – kwiecień 2026]]></title>
+        <id>https://wladcysieci.pl/2026/05/07/podatnosci-na-radarze-kwiecien-2026/</id>
+        <link href="https://wladcysieci.pl/2026/05/07/podatnosci-na-radarze-kwiecien-2026/"/>
+        <updated>2026-05-07T11:10:45.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/05/07/podatnosci-na-radarze-kwiecien-2026/" title="Podatności na radarze – kwiecień 2026" rel="bookmark" class="post-img-link">
+	<img alt="Podatności na radarze – kwiecień 2026" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/05/RADAR_KWIECIEN-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/podatnosci/"><span class="category-square" style="background: "></span><span class="category-name">Podatności</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/07/podatnosci-na-radarze-kwiecien-2026/" rel="bookmark">Podatności na&nbsp;radarze – kwiecień 2026</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="7 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-07T13:10:45+02:00">7 maja 2026</time></span>			<span class="post-views">
+				80&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Przygotowaliśmy dla Was najnowsze podsumowanie ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/05/07/podatnosci-na-radarze-kwiecien-2026/" rel="bookmark" title="Czytaj Podatności na radarze – kwiecień 2026">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sieciówka – kwiecień 2026: Admin Days, Bitwarden...]]></title>
         <id>https://wladcysieci.pl/2026/05/04/sieciowka-kwiecien-2026-admin-days-bitwarden-malware-wyciek-danych/</id>
         <link href="https://wladcysieci.pl/2026/05/04/sieciowka-kwiecien-2026-admin-days-bitwarden-malware-wyciek-danych/"/>
         <updated>2026-05-04T08:42:01.000Z</updated>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/05/04/sieciowka-kwiecien-2026-admin-days-bitwarden-malware-wyciek-danych/" title="Sieciówka – kwiecień 2026: Admin Days, Bitwarden malware, wyciek danych." rel="bookmark" class="post-img-link">
 	<img alt="Sieciówka – kwiecień 2026: Admin Days, Bitwarden malware, wyciek danych." width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/04/sieciowka_kwiecien-1-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/04/sieciowka-kwiecien-2026-admin-days-bitwarden-malware-wyciek-danych/" rel="bookmark">Sieciówka – kwiecień 2026: Admin Days, Bitwarden malware, wyciek danych.</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/04/sieciowka-kwiecien-2026-admin-days-bitwarden-malware-wyciek-danych/" rel="bookmark">Sieciówka – kwiecień 2026: Admin Days, Bitwarden...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="4 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-04T10:42:01+02:00">4 maja 2026</time></span>			<span class="post-views">
-				317&nbsp;<i class="icon-eye"></i>			</span>
+				330&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/30/admin-days-za-nami-dziekujemy-za-wasza-obecnosc/" rel="bookmark"><i class="icon-pencil"></i>Admin Days za&nbsp;nami! Dziękujemy za&nbsp;Waszą obecność!</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="30 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-30T13:52:37+02:00">30 kwietnia 2026</time></span>			<span class="post-views">
-				182&nbsp;<i class="icon-eye"></i>			</span>
+				192&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/27/obowiazki-i-odpowiedzialnosc-kierownictwa-w-swietle-nowej-uksc-nis2/" rel="bookmark">Obowiązki i&nbsp;odpowiedzialność kierownictwa w&nbsp;świetle...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="27 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-27T12:41:17+02:00">27 kwietnia 2026</time></span>			<span class="post-views">
-				400&nbsp;<i class="icon-eye"></i>			</span>
+				421&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/04/27/obowiazki-i-odpowiedzialnosc-kierownictwa-w-swietle-nowej-uksc-nis2/" rel="bookmark" title="Czytaj Obowiązki i odpowiedzialność kierownictwa w świetle nowej UKSC / NIS2">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Split Tunneling]]></title>
-        <id>https://wladcysieci.pl/2026/04/15/split-tunneling/</id>
-        <link href="https://wladcysieci.pl/2026/04/15/split-tunneling/"/>
-        <updated>2026-04-15T08:31:21.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/04/15/split-tunneling/" title="Split Tunneling&nbsp;" rel="bookmark" class="post-img-link">
-	<img alt="Split Tunneling&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/04/ChatGPT-Image-14-kwi-2026-11_10_48-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/branza/"><span class="category-square" style="background: #237bdf"></span><span class="category-name">Branża</span></a>			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/sprzet-it/"><span class="category-square" style="background: #8600ce"></span><span class="category-name">Sprzęt IT</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/04/15/split-tunneling/" rel="bookmark">Split Tunneling&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="15 kwietnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-04-15T10:31:21+02:00">15 kwietnia 2026</time></span>			<span class="post-views">
-				358&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Czym jest split tunneling?&nbsp; Kiedy ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/04/15/split-tunneling/" rel="bookmark" title="Czytaj Split Tunneling&nbsp;">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>

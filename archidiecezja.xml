@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-07T08:03:00.269Z</updated>
+    <updated>2026-05-07T19:12:34.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rekolekcje Caritas w Kokoszycach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4084-rekolekcje-caritas-w-kokoszycach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4084-rekolekcje-caritas-w-kokoszycach"/>
+        <updated>2026-05-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-05-2026</p><a href="/o-diecezji/aktualnosci/4084-rekolekcje-caritas-w-kokoszycach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPcarkoko.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4084-rekolekcje-caritas-w-kokoszycach" title="Rekolekcje Caritas w Kokoszycach" target="_self">Rekolekcje Caritas w Kokoszycach</a></h4><p class="nspText tleft fnull">W dniach 6 i 7 maja w Domu Rekolekcyjnym Archidiecezji Katowickiej w Kokoszycach odbywają się rekolekcje dla pracowników Caritas Archidiecezji Katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rok 2027 Rokiem ks. Franciszka Blachnickiego - zdecydował Senat]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4083-rok-2027-rokiem-ks-franciszka-blachnickiego-zdecydowal-senat</id>
@@ -56,14 +64,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny"/>
         <updated>2026-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-05-2026</p><a href="/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.obdarowaninsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny" title="Rodziny razem na Górze Świętej Anny" target="_self">Rodziny razem na Górze Świętej Anny</a></h4><p class="nspText tleft fnull">Rodziny z całej Polski spotkały się na Górze Świętej Anny podczas XIII „Święta Rodziny”.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie w Cenacolo]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4074-spotkanie-w-cenacolo</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4074-spotkanie-w-cenacolo"/>
-        <updated>2026-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-05-2026</p><a href="/o-diecezji/aktualnosci/4074-spotkanie-w-cenacolo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.cenacolonsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4074-spotkanie-w-cenacolo" title="Spotkanie w Cenacolo" target="_self">Spotkanie w Cenacolo</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski odwiedził wspólnotę Cenacolo w Jastrzębiu-Zdroju.
 </p>]]></content>
     </entry>
 </feed>
