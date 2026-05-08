@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-07T19:12:34.173Z</updated>
+    <updated>2026-05-08T07:04:00.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Podziękowanie za uchwałę Senatu o Roku Księdza Franciszka Blachnickiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4086-podziekowanie-za-uchwale-senatu-o-roku-ksiedza-franciszka-blachnickiego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4086-podziekowanie-za-uchwale-senatu-o-roku-ksiedza-franciszka-blachnickiego"/>
+        <updated>2026-05-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">07-05-2026</p><a href="/o-diecezji/aktualnosci/4086-podziekowanie-za-uchwale-senatu-o-roku-ksiedza-franciszka-blachnickiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.senat_rp26nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4086-podziekowanie-za-uchwale-senatu-o-roku-ksiedza-franciszka-blachnickiego" title="Podziękowanie za uchwałę Senatu o Roku Księdza Franciszka Blachnickiego" target="_self">Podziękowanie za uchwałę Senatu o Roku Księdza Franciszka Blachnickiego</a></h4><p class="nspText tleft fnull">W 2027 roku przypadać będzie 40. rocznica śmierci tego wybitnego kapłana, duszpasterza i wychowawcy młodzieży.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekolekcje Caritas w Kokoszycach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4084-rekolekcje-caritas-w-kokoszycach</id>
@@ -56,14 +64,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4076-swiadomi-zagrozen-modlmy-sie-o-pokoj-i-rozbrojenie-ludzkich-serc"/>
         <updated>2026-05-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-05-2026</p><a href="/o-diecezji/aktualnosci/4076-swiadomi-zagrozen-modlmy-sie-o-pokoj-i-rozbrojenie-ludzkich-serc" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_senior_skworcnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4076-swiadomi-zagrozen-modlmy-sie-o-pokoj-i-rozbrojenie-ludzkich-serc" title="Świadomi zagrożeń módlmy się o pokój i rozbrojenie ludzkich serc" target="_self">Świadomi zagrożeń módlmy się o pokój i rozbrojenie ludzkich serc</a></h4><p class="nspText tleft fnull">Arcybiskup senior Wiktor Skworc sprawował Mszę św. w intencji Ojczyzny w kochłowickiej parafii.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rodziny razem na Górze Świętej Anny]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny"/>
-        <updated>2026-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-05-2026</p><a href="/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.obdarowaninsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4075-rodziny-razem-na-gorze-swietej-anny" title="Rodziny razem na Górze Świętej Anny" target="_self">Rodziny razem na Górze Świętej Anny</a></h4><p class="nspText tleft fnull">Rodziny z całej Polski spotkały się na Górze Świętej Anny podczas XIII „Święta Rodziny”.
 </p>]]></content>
     </entry>
 </feed>
