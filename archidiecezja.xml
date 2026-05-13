@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-12T19:16:13.348Z</updated>
+    <updated>2026-05-13T08:20:54.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowy duszpasterz kobiet w Archidiecezji Katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4098-nowy-duszpasterz-kobiet-w-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4098-nowy-duszpasterz-kobiet-w-archidiecezji-katowickiej"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">12-05-2026</p><a href="/o-diecezji/aktualnosci/4098-nowy-duszpasterz-kobiet-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPdusz_kobiet.nsp-94jpeg" alt="Fot. ks. B. Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4098-nowy-duszpasterz-kobiet-w-archidiecezji-katowickiej" title="Nowy duszpasterz kobiet w Archidiecezji Katowickiej" target="_self">Nowy duszpasterz kobiet w Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">Abp Przybylski mianował nim ks. dr. Kazimierza Musioła, dyrektora Wydziału Duszpasterstwa Rodzin Kurii Metropolitalnej w Katowicach.&nbsp;
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jubileusz 25-lecia kapłaństwa]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4097-jubileusz-25-lecia-kaplanstwa</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium"/>
         <updated>2026-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-05-2026</p><a href="/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOtpsemnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium" title="20-lecie istnienia Towarzystwa Przyjaciół Seminarium" target="_self">20-lecie istnienia Towarzystwa Przyjaciół Seminarium</a></h4><p class="nspText tleft fnull">W sobotę 9 maja w gmachu Wyższego Śląskiego Seminarium Duchownego w Katowicach spotkali się członkowie TPSem.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senat RP uhonorował założyciela Ruchu Światło–Życie]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4089-senat-rp-uhonorowal-zalozyciela-ruchu-swiatlo-zycie</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4089-senat-rp-uhonorowal-zalozyciela-ruchu-swiatlo-zycie"/>
-        <updated>2026-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-05-2026</p><a href="/o-diecezji/aktualnosci/4089-senat-rp-uhonorowal-zalozyciela-ruchu-swiatlo-zycie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyk_radioemnsp-94.jpg" alt="Fot: radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4089-senat-rp-uhonorowal-zalozyciela-ruchu-swiatlo-zycie" title="Senat RP uhonorował założyciela Ruchu Światło–Życie" target="_self">Senat RP uhonorował założyciela Ruchu Światło–Życie</a></h4><p class="nspText tleft fnull">Bp Adam Wodarczyk podkreśla, że to ważna okazja do przypomnienia postaci kapłana.
 </p>]]></content>
     </entry>
 </feed>
