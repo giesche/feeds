@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-13T08:20:54.570Z</updated>
+    <updated>2026-05-13T19:15:36.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bp Wodarczyk: dziecko nie jest jedynie „przyszłością Kościoła”, ale jego rzeczywistością]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4099-bp-wodarczyk-dziecko-nie-jest-jedynie-przyszloscia-kosciola-ale-jego-rzeczywistoscia</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4099-bp-wodarczyk-dziecko-nie-jest-jedynie-przyszloscia-kosciola-ale-jego-rzeczywistoscia"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-05-2026</p><a href="/o-diecezji/aktualnosci/4099-bp-wodarczyk-dziecko-nie-jest-jedynie-przyszloscia-kosciola-ale-jego-rzeczywistoscia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAWradadz.nsp-94jpeg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4099-bp-wodarczyk-dziecko-nie-jest-jedynie-przyszloscia-kosciola-ale-jego-rzeczywistoscia" title="Bp Wodarczyk: dziecko nie jest jedynie „przyszłością Kościoła”, ale jego rzeczywistością" target="_self">Bp Wodarczyk: dziecko nie jest jedynie „przyszłością Kościoła”, ale jego rzeczywistością</a></h4><p class="nspText tleft fnull">W Kurii Metropolitalnej obradowała Archidiecezjalna Rada Duszpasterska przy biskupie katowickim. W ramach spotkania wykład „Dzieci w sercu Kościoła – aktualne wyzwania i kierunki duszpasterstwa dzieci” wygłosił...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nowy duszpasterz kobiet w Archidiecezji Katowickiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4098-nowy-duszpasterz-kobiet-w-archidiecezji-katowickiej</id>
@@ -60,13 +67,5 @@
         <updated>2026-05-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-05-2026</p><a href="/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_kolodziej_henryknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej" title="Śp. ks. Henryk Kołodziej" target="_self">Śp. ks. Henryk Kołodziej</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że 11 maja 2026 roku w wieku 84 lat, w 60. roku kapłaństwa, zmarł śp. ks. Henryk Kołodziej, emerytowany proboszcz parafii Matki Bożej Częstochowskiej w Rybniku-Ochojcu.
 ...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20-lecie istnienia Towarzystwa Przyjaciół Seminarium]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium"/>
-        <updated>2026-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-05-2026</p><a href="/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOtpsemnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4090-20-lecie-istnienia-towarzystwa-przyjaciol-seminarium" title="20-lecie istnienia Towarzystwa Przyjaciół Seminarium" target="_self">20-lecie istnienia Towarzystwa Przyjaciół Seminarium</a></h4><p class="nspText tleft fnull">W sobotę 9 maja w gmachu Wyższego Śląskiego Seminarium Duchownego w Katowicach spotkali się członkowie TPSem.
-</p>]]></content>
     </entry>
 </feed>
