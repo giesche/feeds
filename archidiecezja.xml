@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-14T08:06:50.994Z</updated>
+    <updated>2026-05-14T19:16:19.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pielgrzymka Osób Chorych i Niepełnosprawnych do Piekar Śl.]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4100-pielgrzymka-osob-chorych-i-niepelnosprawnych-archidiecezji-katowickiej-do-piekar-sl</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4100-pielgrzymka-osob-chorych-i-niepelnosprawnych-archidiecezji-katowickiej-do-piekar-sl"/>
+        <updated>2026-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">13-05-2026</p><a href="/o-diecezji/aktualnosci/4100-pielgrzymka-osob-chorych-i-niepelnosprawnych-archidiecezji-katowickiej-do-piekar-sl" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPchorzypslnsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4100-pielgrzymka-osob-chorych-i-niepelnosprawnych-archidiecezji-katowickiej-do-piekar-sl" title="Pielgrzymka Osób Chorych i Niepełnosprawnych do Piekar Śl." target="_self">Pielgrzymka Osób Chorych i Niepełnosprawnych do Piekar Śl.</a></h4><p class="nspText tleft fnull">Wspólnej modlitwie przewodniczył w środę 13 maja abp Andrzej Przybylski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Wodarczyk: dziecko nie jest jedynie „przyszłością Kościoła”, ale jego rzeczywistością]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4099-bp-wodarczyk-dziecko-nie-jest-jedynie-przyszloscia-kosciola-ale-jego-rzeczywistoscia</id>
@@ -59,13 +67,5 @@
         <updated>2026-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-05-2026</p><a href="/o-diecezji/aktualnosci/4091-pielgrzymka-ziemi-rybnicko-wodzislawskiej-do-studzienki-w-jankowicach-rybnickich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/AAPjankowicensp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4091-pielgrzymka-ziemi-rybnicko-wodzislawskiej-do-studzienki-w-jankowicach-rybnickich" title="Pielgrzymka ziemi rybnicko-wodzisławskiej do Studzienki w Jankowicach Rybnickich" target="_self">Pielgrzymka ziemi rybnicko-wodzisławskiej do Studzienki w Jankowicach Rybnickich</a></h4><p class="nspText tleft fnull">Wspólnej modlitwie przewodniczył w niedzielę 10 maja abp Andrzej Przybylski.&nbsp;
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Henryk Kołodziej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej"/>
-        <updated>2026-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-05-2026</p><a href="/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_kolodziej_henryknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4093-sp-ks-henryk-kolodziej" title="Śp. ks. Henryk Kołodziej" target="_self">Śp. ks. Henryk Kołodziej</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że 11 maja 2026 roku w wieku 84 lat, w 60. roku kapłaństwa, zmarł śp. ks. Henryk Kołodziej, emerytowany proboszcz parafii Matki Bożej Częstochowskiej w Rybniku-Ochojcu.
-...</p>]]></content>
     </entry>
 </feed>
