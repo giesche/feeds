@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-05-18T08:56:31.384Z</updated>
+    <updated>2026-05-18T19:11:36.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Autonomiczny proces fuzzingu pod nadzorem LLM]]></title>
+        <id>https://cert.pl/posts/2026/05/autonomiczny-fuzzing/</id>
+        <link href="https://cert.pl/posts/2026/05/autonomiczny-fuzzing/"/>
+        <updated>2026-05-18T19:11:07.811Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>14 maja 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/fuzzing/">#fuzzing</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/05/autonomiczny-fuzzing/" class="post-outer-container">
+            <h4>Autonomiczny proces fuzzingu pod nadzorem LLM</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/05/fuzz-thumbnail.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Fuzzing to technika automatycznego testowania oprogramowania polegająca na podawaniu losowych lub celowo zniekształconych danych wejściowych w celu wykrywania błędów i luk bezpieczeństwa. Od lat pozostaje jedną z najskuteczniejszych metod ich znajdowania, ale ma jedną wadę - wymaga wielu godzin przygotowań przed uruchomieniem. W ramach Centrum Cyberbezpieczeństwa NASK budujemy system, który tę …</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raport roczny z działalności CERT Polska w 2025 roku]]></title>
         <id>https://cert.pl/posts/2026/04/raport-roczny-2025/</id>
@@ -275,37 +304,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>W ostatnich miesiącach CERT Polska zaobserwowało nowe próbki złośliwego oprogramowania mobilnego związane z atakiem NFC Relay (NGate) wymierzonym w użytkowników polskich banków.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dawka informacji o cyberzagrożeniach – premiera raportów miesięcznych CERT Polska]]></title>
-        <id>https://cert.pl/posts/2025/10/raport-miesieczny-09/</id>
-        <link href="https://cert.pl/posts/2025/10/raport-miesieczny-09/"/>
-        <updated>2025-11-14T15:37:06.529Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>15 października 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/raport-miesieczny/">#raport miesieczny</a></span>
-                <span><a href="./tag/csirt-nask/">#csirt nask</a></span>
-                <span><a href="./tag/raport/">#raport</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/10/raport-miesieczny-09/" class="post-outer-container">
-            <h4>Dawka informacji o cyberzagrożeniach – premiera raportów miesięcznych CERT Polska</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/10/raport-csirt-nask/thumbnail.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Opublikowaliśmy właśnie pierwszy raport miesięczny, podsumowujący nasze działania i obserwacje za wrzesień 2025. To początek nowej formuły komunikacji – chcemy regularnie informować o najważniejszych incydentach, trendach i aktywnościach zespołu.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>

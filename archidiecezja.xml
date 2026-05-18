@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-18T08:56:31.379Z</updated>
+    <updated>2026-05-18T19:11:36.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski do małżonków: Jesteście znakiem Boga na ziemi]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4112-abp-przybylski-do-malzonkow-jestescie-znakiem-boga-na-ziemi</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4112-abp-przybylski-do-malzonkow-jestescie-znakiem-boga-na-ziemi"/>
+        <updated>2026-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-05-2026</p><a href="/o-diecezji/aktualnosci/4112-abp-przybylski-do-malzonkow-jestescie-znakiem-boga-na-ziemi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.jubileusze26nsp-94.jpg" alt="Fot: Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4112-abp-przybylski-do-malzonkow-jestescie-znakiem-boga-na-ziemi" title="Abp Przybylski do małżonków: Jesteście znakiem Boga na ziemi" target="_self">Abp Przybylski do małżonków: Jesteście znakiem Boga na ziemi</a></h4><p class="nspText tleft fnull">W niedzielne popołudnie katowicka Archikatedra Chrystusa Króla wypełniła się po brzegi rodzinami.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Wodarczyk o s. Dulcissimie: Jej życie było ukryte, ale bardzo owocne]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4111-bp-wodarczyk-o-s-dulcissimie-jej-zycie-bylo-ukryte-ale-bardzo-owocne</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach"/>
         <updated>2026-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOdiakpaniowkinsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach" title="Święcenia diakonatu w Paniówkach" target="_self">Święcenia diakonatu w Paniówkach</a></h4><p class="nspText tleft fnull">Aleksander Ciba został wyświęcony na diakona stałego przez bp. Grzegorza Olszowskiego w piątek 15 maja.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Andrzej Przybylski: Dać światu księdza znaczy czasem więcej niż wybudować katedrę]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4104-abp-andrzej-przybylski-dac-swiatu-ksiedza-znaczy-czasem-wiecej-niz-wybudowac-katedre</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4104-abp-andrzej-przybylski-dac-swiatu-ksiedza-znaczy-czasem-wiecej-niz-wybudowac-katedre"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4104-abp-andrzej-przybylski-dac-swiatu-ksiedza-znaczy-czasem-wiecej-niz-wybudowac-katedre" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_przybylski_emnsp-94.jpg" alt="Fot: radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4104-abp-andrzej-przybylski-dac-swiatu-ksiedza-znaczy-czasem-wiecej-niz-wybudowac-katedre" title="Abp Andrzej Przybylski: Dać światu księdza znaczy czasem więcej niż wybudować katedrę" target="_self">Abp Andrzej Przybylski: Dać światu księdza znaczy czasem więcej niż wybudować katedrę</a></h4><p class="nspText tleft fnull">Przed archidiecezją katowicką wyjątkowy weekend: święcenia kapłańskie, inauguracja XIX Metropolitalnego Święta Rodziny i jubileusze małżeńskie.
 </p>]]></content>
     </entry>
 </feed>
