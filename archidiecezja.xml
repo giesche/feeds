@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-18T19:11:36.860Z</updated>
+    <updated>2026-05-19T08:42:27.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bp Witalij Krywicki z wizytą u abp. Andrzeja Przybylskiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4113-bp-witalij-krywicki-z-wizyta-u-abp-andrzeja-przybylskiego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4113-bp-witalij-krywicki-z-wizyta-u-abp-andrzeja-przybylskiego"/>
+        <updated>2026-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-05-2026</p><a href="/o-diecezji/aktualnosci/4113-bp-witalij-krywicki-z-wizyta-u-abp-andrzeja-przybylskiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_krywickinsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4113-bp-witalij-krywicki-z-wizyta-u-abp-andrzeja-przybylskiego" title="Bp Witalij Krywicki z wizytą u abp. Andrzeja Przybylskiego" target="_self">Bp Witalij Krywicki z wizytą u abp. Andrzeja Przybylskiego</a></h4><p class="nspText tleft fnull">– Serdecznie dziękuję za to, że po raz kolejny odpowiedzieliście na potrzeby Ukrainy, która już od ponad czterech lat cierpi i walczy.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski do małżonków: Jesteście znakiem Boga na ziemi]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4112-abp-przybylski-do-malzonkow-jestescie-znakiem-boga-na-ziemi</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga"/>
         <updated>2026-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.diakoninsp-94.jpg" alt="Fot: Ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga" title="Abp Przybylski do diakonów: będziecie narzędziami w ręku Boga" target="_self">Abp Przybylski do diakonów: będziecie narzędziami w ręku Boga</a></h4><p class="nspText tleft fnull">Metropolita Katowicki spotkał się w Brennej z diakonami przeżywającymi rekolekcje przed przyjęciem święceń prezbiteratu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Święcenia diakonatu w Paniówkach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/BGOdiakpaniowkinsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4105-swiecenia-diakonatu-w-paniowkach" title="Święcenia diakonatu w Paniówkach" target="_self">Święcenia diakonatu w Paniówkach</a></h4><p class="nspText tleft fnull">Aleksander Ciba został wyświęcony na diakona stałego przez bp. Grzegorza Olszowskiego w piątek 15 maja.
 </p>]]></content>
     </entry>
 </feed>
