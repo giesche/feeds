@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-05-19T08:42:27.862Z</updated>
+    <updated>2026-05-19T19:25:32.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
                 </div>
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
-                        <p>Fuzzing to technika automatycznego testowania oprogramowania polegająca na podawaniu losowych lub celowo zniekształconych danych wejściowych w celu wykrywania błędów i luk bezpieczeństwa. Od lat pozostaje jedną z najskuteczniejszych metod ich znajdowania, ale ma jedną wadę - wymaga wielu godzin przygotowań przed uruchomieniem. W ramach Centrum Cyberbezpieczeństwa NASK budujemy system, który tę …</p>
+                        <p>Projekt CCN jest dofinansowany ze środków Europejskiego Funduszu Rozwoju Regionalnego oraz ze środków Budżetu Państwa w ramach Programu Fundusze Europejskie na Rozwój Cyfrowy 2021-2027. Fuzzing to technika automatycznego testowania oprogramowania polegająca na podawaniu losowych lub celowo zniekształconych danych wejściowych w celu wykrywania błędów i luk bezpieczeństwa. Od lat pozostaje jedną …</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
