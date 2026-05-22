@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-22T08:36:42.548Z</updated>
+    <updated>2026-05-22T19:11:10.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spotkanie szkół św. Jana Pawła II Archidiecezji Katowickiej w Rybniku]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4115-spotkanie-szkol-sw-jana-pawla-ii-archidiecezji-katowickiej-w-rybniku</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4115-spotkanie-szkol-sw-jana-pawla-ii-archidiecezji-katowickiej-w-rybniku"/>
+        <updated>2026-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-05-2026</p><a href="/o-diecezji/aktualnosci/4115-spotkanie-szkol-sw-jana-pawla-ii-archidiecezji-katowickiej-w-rybniku" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.szkoly_jp2nsp-94.jpg" alt="Fot: Wacław Troszka"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4115-spotkanie-szkol-sw-jana-pawla-ii-archidiecezji-katowickiej-w-rybniku" title="Spotkanie szkół św. Jana Pawła II Archidiecezji Katowickiej w Rybniku" target="_self">Spotkanie szkół św. Jana Pawła II Archidiecezji Katowickiej w Rybniku</a></h4><p class="nspText tleft fnull">21 maja w Bazylice św. Antoniego w Rybnik odbyło się doroczne spotkanie szkół noszących imię św. Jana Pawła II.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Witalij Krywicki z wizytą u abp. Andrzeja Przybylskiego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4113-bp-witalij-krywicki-z-wizyta-u-abp-andrzeja-przybylskiego</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4107-biskupi-metropolii-gornoslaskiej-obradowali-w-rudach-raciborskich"/>
         <updated>2026-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4107-biskupi-metropolii-gornoslaskiej-obradowali-w-rudach-raciborskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.biskupi_spotkaniensp-94.jpg" alt="Fot: Ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4107-biskupi-metropolii-gornoslaskiej-obradowali-w-rudach-raciborskich" title="Biskupi Metropolii Górnośląskiej obradowali w Rudach Raciborskich" target="_self">Biskupi Metropolii Górnośląskiej obradowali w Rudach Raciborskich</a></h4><p class="nspText tleft fnull">Spotkanie odbyło w piątek 15 maja w pocysterskim klasztorze w Rudach leżącym na terenie Diecezji Gliwickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski do diakonów: będziecie narzędziami w ręku Boga]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-05-2026</p><a href="/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.diakoninsp-94.jpg" alt="Fot: Ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4106-abp-przybylski-do-diakonow-bedziecie-narzedziami-w-reku-boga" title="Abp Przybylski do diakonów: będziecie narzędziami w ręku Boga" target="_self">Abp Przybylski do diakonów: będziecie narzędziami w ręku Boga</a></h4><p class="nspText tleft fnull">Metropolita Katowicki spotkał się w Brennej z diakonami przeżywającymi rekolekcje przed przyjęciem święceń prezbiteratu.
 </p>]]></content>
     </entry>
 </feed>
