@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-24T08:03:03.251Z</updated>
+    <updated>2026-05-24T18:35:24.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Siedmiu paulinów przyjęło święcenia prezbiteratu na Jasnej Górze]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4118-siedmiu-paulinow-przyjelo-swiecenia-prezbiteratu-na-jasnej-gorze</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4118-siedmiu-paulinow-przyjelo-swiecenia-prezbiteratu-na-jasnej-gorze"/>
+        <updated>2026-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-05-2026</p><a href="/o-diecezji/aktualnosci/4118-siedmiu-paulinow-przyjelo-swiecenia-prezbiteratu-na-jasnej-gorze" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.swiecenia_paulininsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4118-siedmiu-paulinow-przyjelo-swiecenia-prezbiteratu-na-jasnej-gorze" title="Siedmiu paulinów przyjęło święcenia prezbiteratu na Jasnej Górze" target="_self">Siedmiu paulinów przyjęło święcenia prezbiteratu na Jasnej Górze</a></h4><p class="nspText tleft fnull">W sobotę, 23 maja, w Bazylice Jasnogórskiej abp Andrzej Przybylski udzielił święceń prezbiteratu siedmiu diakonom Zakonu Ojców Paulinów.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Śląskie dla Ukrainy]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4117-slaskie-dla-ukrainy</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4110-inauguracja-xix-metropolitalnego-swieta-rodziny"/>
         <updated>2026-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-05-2026</p><a href="/o-diecezji/aktualnosci/4110-inauguracja-xix-metropolitalnego-swieta-rodziny" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.swieto_rodzinynsp-94.jpg" alt="Fot: ks. Bogdan Kania"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4110-inauguracja-xix-metropolitalnego-swieta-rodziny" title="Inauguracja XIX Metropolitalnego Święta Rodziny" target="_self">Inauguracja XIX Metropolitalnego Święta Rodziny</a></h4><p class="nspText tleft fnull">Wydarzenie co roku integruje mieszkańców regionu wokół wartości rodzinnych, wspólnotowych i międzypokoleniowych.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl.]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich"/>
-        <updated>2026-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-05-2026</p><a href="/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.zaproszenie_metropolity_piekarynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich" title="Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl." target="_self">Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl.</a></h4><p class="nspText tleft fnull">- Niech z najważniejszego sanktuarium Górnego Śląska wybrzmi przesłanie wiary, miłości i sprawiedliwości społecznej – napisał do wiernych archidiecezji katowickiej.
 </p>]]></content>
     </entry>
 </feed>
