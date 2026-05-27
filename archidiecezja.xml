@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-26T19:33:22.439Z</updated>
+    <updated>2026-05-27T08:51:43.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowe Prezydium Forum Niezależnych Rozgłośni Katolickich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-05-2026</p><a href="/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.lomza26nsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich" title="Nowe Prezydium Forum Niezależnych Rozgłośni Katolickich" target="_self">Nowe Prezydium Forum Niezależnych Rozgłośni Katolickich</a></h4><p class="nspText tleft fnull">Ks. Rafał Skitek, dyrektor Radia eM z archidiecezji katowickiej, został przewodniczącym Forum.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Śp. ks. Ryszard Anczok]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4125-sp-ks-ryszard-anczok</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4117-slaskie-dla-ukrainy"/>
         <updated>2026-05-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">23-05-2026</p><a href="/o-diecezji/aktualnosci/4117-slaskie-dla-ukrainy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ukrainansp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4117-slaskie-dla-ukrainy" title="Śląskie dla Ukrainy" target="_self">Śląskie dla Ukrainy</a></h4><p class="nspText tleft fnull">Delegacja Województwa Śląskiego oraz przedstawiciele Archidiecezji Katowickiej odwiedzili Lwów i Krzemieniec.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gdybyśmy więcej Ducha wzywali, więcej pokoju i jedności między nami by było]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4116-gdybysmy-wiecej-ducha-wzywali-wiecej-pokoju-i-jednosci-miedzy-nami-by-bylo</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4116-gdybysmy-wiecej-ducha-wzywali-wiecej-pokoju-i-jednosci-miedzy-nami-by-bylo"/>
-        <updated>2026-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">22-05-2026</p><a href="/o-diecezji/aktualnosci/4116-gdybysmy-wiecej-ducha-wzywali-wiecej-pokoju-i-jednosci-miedzy-nami-by-bylo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyk_radioemnsp-94.jpg" alt="Fot: radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4116-gdybysmy-wiecej-ducha-wzywali-wiecej-pokoju-i-jednosci-miedzy-nami-by-bylo" title="Gdybyśmy więcej Ducha wzywali, więcej pokoju i jedności między nami by było" target="_self">Gdybyśmy więcej Ducha wzywali, więcej pokoju i jedności między nami by było</a></h4><p class="nspText tleft fnull">Jak rozpoznać, że Duch Święty naprawdę działa w naszym życiu? Bp Adam Wodarczyk w Rozmowie Poranka Radia eM.
 </p>]]></content>
     </entry>
 </feed>
