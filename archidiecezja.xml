@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-29T08:55:02.723Z</updated>
+    <updated>2026-05-29T19:45:35.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowi administratorzy i proboszczowie [aktualizacja]]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2"/>
+        <updated>2026-05-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-05-2026</p><a href="/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.proboszczowiensp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2" title="Nowi administratorzy i proboszczowie [aktualizacja]" target="_self">Nowi administratorzy i proboszczowie [aktualizacja]</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski wręczył dekrety nowym administratorom i proboszczom.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ks. Adam Pawlaszczyk nowym kanclerzem Kurii]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4127-ks-adam-pawlaszczyk-nowym-kanclerzem-kurii</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4120-by-stawac-sie-swiatlem"/>
         <updated>2026-05-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-05-2026</p><a href="/o-diecezji/aktualnosci/4120-by-stawac-sie-swiatlem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dzieci_mnsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4120-by-stawac-sie-swiatlem" title="By stawać się światłem" target="_self">By stawać się światłem</a></h4><p class="nspText tleft fnull">Dzień Urodzin Ruchu Dzieci Maryi w archidiecezji katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duch Święty nie jest darem dla wybranych]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4119-duch-swiety-nie-jest-darem-dla-wybranych</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4119-duch-swiety-nie-jest-darem-dla-wybranych"/>
-        <updated>2026-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-05-2026</p><a href="/o-diecezji/aktualnosci/4119-duch-swiety-nie-jest-darem-dla-wybranych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.zeslanie26nsp-94.jpg" alt="Fot. Antoni Winiarski"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4119-duch-swiety-nie-jest-darem-dla-wybranych" title="Duch Święty nie jest darem dla wybranych" target="_self">Duch Święty nie jest darem dla wybranych</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski przewodniczył Mszy i wygłosił homilię w Wigilię Uroczystości Zesłania Ducha Świętego w Katedrze Chrystusa Króla.
 </p>]]></content>
     </entry>
 </feed>
