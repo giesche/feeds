@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-05-30T18:37:35.447Z</updated>
+    <updated>2026-05-31T08:25:31.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[We wspólnocie franciszkańskiej odbyły się święcenia diakonatu i prezbiteratu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4131-we-wspolnocie-franciszkanskiej-odbyly-sie-swiecenia-diakonatu-i-prezbiteratu</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4131-we-wspolnocie-franciszkanskiej-odbyly-sie-swiecenia-diakonatu-i-prezbiteratu"/>
+        <updated>2026-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-05-2026</p><a href="/o-diecezji/aktualnosci/4131-we-wspolnocie-franciszkanskiej-odbyly-sie-swiecenia-diakonatu-i-prezbiteratu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.swicenia_frnsp-94.jpg" alt="Fot. Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4131-we-wspolnocie-franciszkanskiej-odbyly-sie-swiecenia-diakonatu-i-prezbiteratu" title="We wspólnocie franciszkańskiej odbyły się święcenia diakonatu i prezbiteratu" target="_self">We wspólnocie franciszkańskiej odbyły się święcenia diakonatu i prezbiteratu</a></h4><p class="nspText tleft fnull">Podczas liturgii sprawowanej w Bazylice pw. św. Ludwika IX, króla i Wniebowzięcia NMP w Katowicach-Panewnikach br. Joseph Waithaka z Kenii oraz br. Nehemiasz Michalski przyjęli święcenia z rąk abp. Andrzeja Prz...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[31 maja: Pielgrzymka Mężczyzn i młodzieńców do Piekar Śląskich]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4121-31-maja-pielgrzymka-mezczyzn-i-mlodziencow-do-piekar-slaskich</id>
@@ -60,13 +67,5 @@
         <updated>2026-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-05-2026</p><a href="/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.lomza26nsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4123-nowe-prezydium-forum-niezaleznych-rozglosni-katolickich" title="Nowe Prezydium Forum Niezależnych Rozgłośni Katolickich" target="_self">Nowe Prezydium Forum Niezależnych Rozgłośni Katolickich</a></h4><p class="nspText tleft fnull">Ks. Rafał Skitek, dyrektor Radia eM z archidiecezji katowickiej, został przewodniczącym Forum.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Śp. ks. Ryszard Anczok]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4125-sp-ks-ryszard-anczok</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4125-sp-ks-ryszard-anczok"/>
-        <updated>2026-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-05-2026</p><a href="/o-diecezji/aktualnosci/4125-sp-ks-ryszard-anczok" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_anczok_ryszard_2026nsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4125-sp-ks-ryszard-anczok" title="Śp. ks. Ryszard Anczok" target="_self">Śp. ks. Ryszard Anczok</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że 26 maja 2026 roku w wieku 82 lat, w 58. roku kapłaństwa, zmarł śp. ks. Ryszard Anczok, emerytowany proboszcz parafii Najświętszego Serca Pana Jezusa w Pszowie-Krzyżkowicach.
-...</p>]]></content>
     </entry>
 </feed>
