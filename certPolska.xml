@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-06-02T09:46:16.877Z</updated>
+    <updated>2026-06-02T20:23:57.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zaufanie liczone w tysiącach – moje.cert.pl]]></title>
+        <id>https://cert.pl/posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/</id>
+        <link href="https://cert.pl/posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/"/>
+        <updated>2026-06-02T20:23:24.651Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>02 czerwca 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/informacja/">#informacja</a></span>
+                <span><a href="./tag/mojecertpl/">#moje.cert.pl</a></span>
+                <span><a href="./tag/skanowanie/">#skanowanie</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/" class="post-outer-container">
+            <h4>Zaufanie liczone w tysiącach – moje.cert.pl</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/06/moje.cert.pl/moje.cert.pl.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Z moje.cert.pl korzysta już ponad 20 tysięcy użytkowników. Świadomość potencjalnych podatności i załatanie ich zanim zostaną wykorzystane do nadużyć, to jeden z podstawowych elementów dbania o bezpieczeństwo domeny.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRA – nowe obowiązki dla producentów oprogramowania i korzyści dla użytkowników]]></title>
         <id>https://cert.pl/posts/2026/05/cra-dobre-praktyki/</id>
@@ -274,36 +305,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Zespół CERT Polska przedstawia raport z analizy incydentu w sektorze energii, do którego doszło 29 grudnia 2025 roku. Ataki miały charakter destrukcyjny i były wymierzone w farmy wiatrowe i fotowoltaiczne, dużą elektrociepłownię oraz przedsiębiorstwo z sektora produkcyjnego. Publikacja ma na celu podniesienie świadomości na temat ryzyka związanego z dywersją w cyberprzestrzeni.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publiczne sieci Wi-Fi – czy jest się czego bać?]]></title>
-        <id>https://cert.pl/posts/2025/12/publiczne-sieci-wifi/</id>
-        <link href="https://cert.pl/posts/2025/12/publiczne-sieci-wifi/"/>
-        <updated>2025-12-13T17:37:42.903Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>13 grudnia 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/informacja/">#informacja</a></span>
-                <span><a href="./tag/zagrozenie/">#zagrożenie</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/12/publiczne-sieci-wifi/" class="post-outer-container">
-            <h4>Publiczne sieci Wi-Fi – czy jest się czego bać?</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/12/publiczne-sieci-wifi/thumbnail.jpeg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Jak to jest z tym publicznym Wi-Fi? W internecie wciąż możecie trafić na informacje, że korzystanie z takiej otwartej sieci w kawiarni, hotelu lub na lotnisku, to proszenie się o kłopoty, bo hakerzy mogą w ten sposób wykraść hasła i dane. I owszem tak BYŁO. Sprawdźmy dlaczego publiczne sieci nie niosą już dziś takich zagrożeń.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>

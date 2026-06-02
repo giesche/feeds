@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-02T09:46:17.059Z</updated>
+    <updated>2026-06-02T20:23:57.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Niemann zwycięzcą Super Rapid & Blitz Poland 2026 (Chess.com Aktualności)]]></title>
@@ -1545,6 +1545,37 @@ Wielki Fin...
                 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zaufanie liczone w tysiącach – moje.cert.pl (CERT POLSKA)]]></title>
+        <id>https://cert.pl/posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/</id>
+        <link href="https://cert.pl/posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/"/>
+        <updated>2026-06-02T20:23:24.651Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>02 czerwca 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/informacja/">#informacja</a></span>
+                <span><a href="./tag/mojecertpl/">#moje.cert.pl</a></span>
+                <span><a href="./tag/skanowanie/">#skanowanie</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/" class="post-outer-container">
+            <h4>Zaufanie liczone w tysiącach – moje.cert.pl</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/06/moje.cert.pl/moje.cert.pl.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Z moje.cert.pl korzysta już ponad 20 tysięcy użytkowników. Świadomość potencjalnych podatności i załatanie ich zanim zostaną wykorzystane do nadużyć, to jeden z podstawowych elementów dbania o bezpieczeństwo domeny.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CRA – nowe obowiązki dla producentów oprogramowania i korzyści dla użytkowników (CERT POLSKA)]]></title>
         <id>https://cert.pl/posts/2026/05/cra-dobre-praktyki/</id>
         <link href="https://cert.pl/posts/2026/05/cra-dobre-praktyki/"/>
@@ -1813,36 +1844,6 @@ Wielki Fin...
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Zespół CERT Polska przedstawia raport z analizy incydentu w sektorze energii, do którego doszło 29 grudnia 2025 roku. Ataki miały charakter destrukcyjny i były wymierzone w farmy wiatrowe i fotowoltaiczne, dużą elektrociepłownię oraz przedsiębiorstwo z sektora produkcyjnego. Publikacja ma na celu podniesienie świadomości na temat ryzyka związanego z dywersją w cyberprzestrzeni.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publiczne sieci Wi-Fi – czy jest się czego bać? (CERT POLSKA)]]></title>
-        <id>https://cert.pl/posts/2025/12/publiczne-sieci-wifi/</id>
-        <link href="https://cert.pl/posts/2025/12/publiczne-sieci-wifi/"/>
-        <updated>2025-12-13T17:37:42.903Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>13 grudnia 2025</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/informacja/">#informacja</a></span>
-                <span><a href="./tag/zagrozenie/">#zagrożenie</a></span>
-            </div>
-        </div>
-        <a href="./posts/2025/12/publiczne-sieci-wifi/" class="post-outer-container">
-            <h4>Publiczne sieci Wi-Fi – czy jest się czego bać?</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/12/publiczne-sieci-wifi/thumbnail.jpeg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Jak to jest z tym publicznym Wi-Fi? W internecie wciąż możecie trafić na informacje, że korzystanie z takiej otwartej sieci w kawiarni, hotelu lub na lotnisku, to proszenie się o kłopoty, bo hakerzy mogą w ten sposób wykraść hasła i dane. I owszem tak BYŁO. Sprawdźmy dlaczego publiczne sieci nie niosą już dziś takich zagrożeń.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
@@ -2259,6 +2260,14 @@ Wielki Fin...
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem (Archidiecezja Katowicka)]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-05-2026</p><a href="/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_majowensp-94.jpg" alt="Fot. Henryk Przondziono/ Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem" title="Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem" target="_self">Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem</a></h4><p class="nspText tleft fnull">Popołudniowemu nabożeństwu majowemu na piekarskiej kalwarii przewodniczył bp Grzegorz Suchodolski.
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leon XIV pozdrowił uczestników pielgrzymki do Piekar Śląskich (Archidiecezja Katowicka)]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4135-leon-xiv-pozdrowil-uczestnikow-pielgrzymki-do-piekar-slaskich</id>
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4135-leon-xiv-pozdrowil-uczestnikow-pielgrzymki-do-piekar-slaskich"/>
@@ -2313,89 +2322,81 @@ Wielki Fin...
 </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl. (Archidiecezja Katowicka)]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich"/>
-        <updated>2026-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-05-2026</p><a href="/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.zaproszenie_metropolity_piekarynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4109-abp-andrzej-przybylski-zaprasza-na-pielgrzymke-do-piekar-slaskich" title="Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl." target="_self">Abp Andrzej Przybylski zaprasza na pielgrzymkę do Piekar Śl.</a></h4><p class="nspText tleft fnull">- Niech z najważniejszego sanktuarium Górnego Śląska wybrzmi przesłanie wiary, miłości i sprawiedliwości społecznej – napisał do wiernych archidiecezji katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ogrom nowości w Microsoft 365 Copilot. Podsumowanie maja i czerwcowe premiery (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.157Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Ogrom nowości w Microsoft 365 Copilot. Podsumowanie maja i czerwcowe premiery"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ogrom nowości w Microsoft 365 Copilot. Podsumowanie maja i czerwcowe premiery</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>2.06.2026, 08:00</p><p><strong>Liczba odsłon: </strong>121</p></div><p class="hyNtP12Spf">Majowa aktualizacja Microsoft 365 Copilot przynosi zatrzęsienie zmian zwiększających produktywność i bezpieczeństwo w firmach. Sprawdź podsumowanie!</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.351Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Ogrom nowości w Microsoft 365 Copilot. Podsumowanie maja i czerwcowe premiery"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ogrom nowości w Microsoft 365 Copilot. Podsumowanie maja i czerwcowe premiery</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>2.06.2026, 08:00</p><p><strong>Liczba odsłon: </strong>195</p></div><p class="hyNtP12Spf">Majowa aktualizacja Microsoft 365 Copilot przynosi zatrzęsienie zmian zwiększających produktywność i bezpieczeństwo w firmach. Sprawdź podsumowanie!</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Claude Opus 4.8 trafił do Copilota w Microsoft 365 (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.164Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Anthropic Claude Opus 4.8 trafił do Copilota w Microsoft 365"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Anthropic Claude Opus 4.8 trafił do Copilota w Microsoft 365</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.06.2026, 08:00</p><p><strong>Liczba odsłon: </strong>230</p></div><p class="hyNtP12Spf">Gigant z Redmond stawia na jeszcze większą swobodę wyboru w Microsoft 365 Copilot. Do portfolio dostępnych modeli dołączył Claude Opus 4.8.</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.352Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Anthropic Claude Opus 4.8 trafił do Copilota w Microsoft 365"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Anthropic Claude Opus 4.8 trafił do Copilota w Microsoft 365</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>1.06.2026, 08:00</p><p><strong>Liczba odsłon: </strong>259</p></div><p class="hyNtP12Spf">Gigant z Redmond stawia na jeszcze większą swobodę wyboru w Microsoft 365 Copilot. Do portfolio dostępnych modeli dołączył Claude Opus 4.8.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Co nowego w Excelu? Majowa aktualizacja przynosi zmiany w obsłudze Copilota (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.164Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Co nowego w Excelu? Majowa aktualizacja przynosi zmiany w obsłudze Copilota"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Co nowego w Excelu? Majowa aktualizacja przynosi zmiany w obsłudze Copilota</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.05.2026, 12:00</p><p><strong>Liczba odsłon: </strong>216</p></div><p class="hyNtP12Spf">Microsoft opublikował najnowszą, majową listę zmian w programuie Excel. Nowości koncentrują się na głębszej integracji z asystentem AI</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.380Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Co nowego w Excelu? Majowa aktualizacja przynosi zmiany w obsłudze Copilota"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Co nowego w Excelu? Majowa aktualizacja przynosi zmiany w obsłudze Copilota</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>31.05.2026, 12:00</p><p><strong>Liczba odsłon: </strong>233</p></div><p class="hyNtP12Spf">Microsoft opublikował najnowszą, majową listę zmian w programuie Excel. Nowości koncentrują się na głębszej integracji z asystentem AI</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft wprowadza nowy design do Copilota. Co się zmienilo? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.165Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft wprowadza nowy design do Copilota. Co się zmienilo?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza nowy design do Copilota. Co się zmienilo?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.05.2026, 12:00</p><p><strong>Liczba odsłon: </strong>212</p></div><p class="hyNtP12Spf">Microsoft wprowadza w życie założenia nowego "Copilot Design System". Nowe rozwiązania graficzne i funkcjonalne trafiają już do pierwszych użytkowników</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.382Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft wprowadza nowy design do Copilota. Co się zmienilo?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza nowy design do Copilota. Co się zmienilo?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>30.05.2026, 12:00</p><p><strong>Liczba odsłon: </strong>233</p></div><p class="hyNtP12Spf">Microsoft wprowadza w życie założenia nowego "Copilot Design System". Nowe rozwiązania graficzne i funkcjonalne trafiają już do pierwszych użytkowników</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot przeszedł kluczowy audyt bezpieczeństwa z doskonałym wynikiem (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.167Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft 365 Copilot przeszedł kluczowy audyt bezpieczeństwa z doskonałym wynikiem"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft 365 Copilot przeszedł kluczowy audyt bezpieczeństwa z doskonałym wynikiem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>992</p></div><p class="hyNtP12Spf">Kontrola przeprowadzona przez niezależnego audytora zakończyła się doskonałym rezultatem. Nie wykazano żadnych niezgodności ani obszarów do poprawy.</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.384Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft 365 Copilot przeszedł kluczowy audyt bezpieczeństwa z doskonałym wynikiem"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft 365 Copilot przeszedł kluczowy audyt bezpieczeństwa z doskonałym wynikiem</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>1002</p></div><p class="hyNtP12Spf">Kontrola przeprowadzona przez niezależnego audytora zakończyła się doskonałym rezultatem. Nie wykazano żadnych niezgodności ani obszarów do poprawy.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MAI-Image-2.5 rewolucjonizuje grafikę. Microsoft rzuca wyzwanie OpenAI i Google (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.168Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="MAI-Image-2.5 rewolucjonizuje grafikę. Microsoft rzuca wyzwanie OpenAI i Google"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">MAI-Image-2.5 rewolucjonizuje grafikę. Microsoft rzuca wyzwanie OpenAI i Google</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>771</p></div><p class="hyNtP12Spf">Microsoft oficjalnie zaprezentował MAI-Image-2.5 - swój najnowszy i najbardziej zaawansowany model AI do generowania obrazów</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.385Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="MAI-Image-2.5 rewolucjonizuje grafikę. Microsoft rzuca wyzwanie OpenAI i Google"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">MAI-Image-2.5 rewolucjonizuje grafikę. Microsoft rzuca wyzwanie OpenAI i Google</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>784</p></div><p class="hyNtP12Spf">Microsoft oficjalnie zaprezentował MAI-Image-2.5 - swój najnowszy i najbardziej zaawansowany model AI do generowania obrazów</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copilot Notebooks zmieni twoje notatki w arkusze Excela i infografiki (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.169Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Copilot Notebooks zmieni twoje notatki w arkusze Excela i infografiki"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot Notebooks zmieni twoje notatki w arkusze Excela i infografiki</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.05.2026, 20:30</p><p><strong>Liczba odsłon: </strong>320</p></div><p class="hyNtP12Spf">Zmiany obejmują gruntowne odświeżenie wizualne notesów Copilota, ich integrację z ekosystemem aplikacji M365 oraz nowe możliwości przekształcania danych</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.386Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Copilot Notebooks zmieni twoje notatki w arkusze Excela i infografiki"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Copilot Notebooks zmieni twoje notatki w arkusze Excela i infografiki</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>27.05.2026, 20:30</p><p><strong>Liczba odsłon: </strong>326</p></div><p class="hyNtP12Spf">Zmiany obejmują gruntowne odświeżenie wizualne notesów Copilota, ich integrację z ekosystemem aplikacji M365 oraz nowe możliwości przekształcania danych</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowy plan Microsoftu na AI. Copilot zmieni się nie do poznania? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.171Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Nowy plan Microsoftu na AI. Copilot zmieni się nie do poznania?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy plan Microsoftu na AI. Copilot zmieni się nie do poznania?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.05.2026, 20:00</p><p><strong>Liczba odsłon: </strong>427</p></div><p class="hyNtP12Spf">Copilot Design System dąży do świadomości kontekstowej, w której AI będzie autonomicznie wspierać działania użytkownika i dostosowywać się do jego potrzeb</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.388Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Nowy plan Microsoftu na AI. Copilot zmieni się nie do poznania?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Nowy plan Microsoftu na AI. Copilot zmieni się nie do poznania?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.05.2026, 20:00</p><p><strong>Liczba odsłon: </strong>436</p></div><p class="hyNtP12Spf">Copilot Design System dąży do świadomości kontekstowej, w której AI będzie autonomicznie wspierać działania użytkownika i dostosowywać się do jego potrzeb</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak skutecznie wykorzystać AI w dużych kancelariach prawnych? (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.172Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Jak skutecznie wykorzystać AI w dużych kancelariach prawnych?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Jak skutecznie wykorzystać AI w dużych kancelariach prawnych?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>415</p></div><p class="hyNtP12Spf">AI staje się dziś realnym narzędziem, które może przyspieszyć pracę zespołów prawnych, usprawnić analizę dokumentów i ograniczyć czas poświęcany na powtarzalne zadania.</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.389Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Jak skutecznie wykorzystać AI w dużych kancelariach prawnych?"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Jak skutecznie wykorzystać AI w dużych kancelariach prawnych?</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.05.2026, 08:00</p><p><strong>Liczba odsłon: </strong>421</p></div><p class="hyNtP12Spf">AI staje się dziś realnym narzędziem, które może przyspieszyć pracę zespołów prawnych, usprawnić analizę dokumentów i ograniczyć czas poświęcany na powtarzalne zadania.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bezpieczeństwo agentów AI z nowymi narzędziami Open Source od Microsoft (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.173Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Bezpieczeństwo agentów AI z nowymi narzędziami Open Source od Microsoft"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Bezpieczeństwo agentów AI z nowymi narzędziami Open Source od Microsoft</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.05.2026, 14:00</p><p><strong>Liczba odsłon: </strong>488</p></div><p class="hyNtP12Spf">RAMPART oraz Clarity, dostępne teraz jako Open Source, pozwalają inżynierom na testowanie agentów AI na wczesnych etapach cyklu życia oprogramowania</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.390Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Bezpieczeństwo agentów AI z nowymi narzędziami Open Source od Microsoft"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Bezpieczeństwo agentów AI z nowymi narzędziami Open Source od Microsoft</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>23.05.2026, 14:00</p><p><strong>Liczba odsłon: </strong>497</p></div><p class="hyNtP12Spf">RAMPART oraz Clarity, dostępne teraz jako Open Source, pozwalają inżynierom na testowanie agentów AI na wczesnych etapach cyklu życia oprogramowania</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Word, Excel i PowerPoint zmieniają sposób dostępu do AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-06-02T09:46:05.174Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Word, Excel i PowerPoint zmieniają sposób dostępu do AI"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Word, Excel i PowerPoint zmieniają sposób dostępu do AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.05.2026, 15:00</p><p><strong>Liczba odsłon: </strong>404</p></div><p class="hyNtP12Spf">Aby ułatwić szybki dostęp do AI, Microsoft wzbogaca Worda, Excela oraz PowerPointa o nowy, bardziej widoczny element UI: dynamiczny przycisk akcji.</p></div></div>]]></content>
+        <updated>2026-06-02T20:23:45.391Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Word, Excel i PowerPoint zmieniają sposób dostępu do AI"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Word, Excel i PowerPoint zmieniają sposób dostępu do AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>22.05.2026, 15:00</p><p><strong>Liczba odsłon: </strong>406</p></div><p class="hyNtP12Spf">Aby ułatwić szybki dostęp do AI, Microsoft wzbogaca Worda, Excela oraz PowerPointa o nowy, bardziej widoczny element UI: dynamiczny przycisk akcji.</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sieciówka – maj 2026: Warsztaty Powershell, cyberatak, nowy kurs AI (Władcy sieci)]]></title>
@@ -2414,7 +2415,7 @@ Wielki Fin...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/01/sieciowka-maj-2026-warsztaty-powershell-cyberatak-nowy-kurs-ai/" rel="bookmark">Sieciówka – maj 2026: Warsztaty Powershell, cyberatak, nowy kurs AI</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="1 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-01T13:04:07+02:00">1 czerwca 2026</time></span>			<span class="post-views">
-				177&nbsp;<i class="icon-eye"></i>			</span>
+				195&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2445,7 +2446,7 @@ Wielki Fin...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/26/trzy-linie-obrony-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-uksc/" rel="bookmark">Trzy linie obrony na&nbsp;gruncie Ustawy o&nbsp;krajowym systemie...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="26 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-26T09:24:07+02:00">26 maja 2026</time></span>			<span class="post-views">
-				416&nbsp;<i class="icon-eye"></i>			</span>
+				426&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2476,7 +2477,7 @@ Wielki Fin...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/" rel="bookmark">Czy Kali Linux jest dla admina?</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="21 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-21T09:36:43+02:00">21 maja 2026</time></span>			<span class="post-views">
-				358&nbsp;<i class="icon-eye"></i>			</span>
+				360&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2507,7 +2508,7 @@ Wielki Fin...
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/12/praktyczny-kubernetes-cz-6-monitoring-i-observability-prometheus-grafana-logi-i-metryki-w-klastrze/" rel="bookmark">Praktyczny Kubernetes cz.6 – Monitoring i...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="12 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-12T10:46:25+02:00">12 maja 2026</time></span>			<span class="post-views">
-				264&nbsp;<i class="icon-eye"></i>			</span>
+				271&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
