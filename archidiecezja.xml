@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-02T20:23:57.415Z</updated>
+    <updated>2026-06-03T10:18:17.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zmiany personalne w Archidiecezji Katowickiej [aktualizacja]]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2"/>
+        <updated>2026-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-06-2026</p><a href="/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dekretynsp-94.jpg" alt="Fot: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2" title="Zmiany personalne w Archidiecezji Katowickiej [aktualizacja]" target="_self">Zmiany personalne w Archidiecezji Katowickiej [aktualizacja]</a></h4><p class="nspText tleft fnull">Księża wikariusze otrzymali dekrety kierujące ich do posługi w nowych parafiach. Uroczyste wręczenie dekretów odbyło się w kaplicy Wyższego Śląskiego Seminarium Duchownego w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem</id>
@@ -57,14 +65,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2"/>
         <updated>2026-05-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-05-2026</p><a href="/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.proboszczowiensp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4128-nowi-administratorzy-i-proboszczowie-2" title="Nowi administratorzy i proboszczowie [aktualizacja]" target="_self">Nowi administratorzy i proboszczowie [aktualizacja]</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski wręczył dekrety nowym administratorom i proboszczom.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31 maja: Pielgrzymka Mężczyzn i młodzieńców do Piekar Śląskich]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4121-31-maja-pielgrzymka-mezczyzn-i-mlodziencow-do-piekar-slaskich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4121-31-maja-pielgrzymka-mezczyzn-i-mlodziencow-do-piekar-slaskich"/>
-        <updated>2026-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-05-2026</p><a href="/o-diecezji/aktualnosci/4121-31-maja-pielgrzymka-mezczyzn-i-mlodziencow-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.pielgrzymka_1200x700nsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4121-31-maja-pielgrzymka-mezczyzn-i-mlodziencow-do-piekar-slaskich" title="31 maja: Pielgrzymka Mężczyzn i młodzieńców do Piekar Śląskich" target="_self">31 maja: Pielgrzymka Mężczyzn i młodzieńców do Piekar Śląskich</a></h4><p class="nspText tleft fnull">Głównym celebransem i kaznodzieją pielgrzymki będzie bp Krzysztof Nykiel z Pentencjarii Apostolskiej w Watykanie.
 </p>]]></content>
     </entry>
 </feed>
