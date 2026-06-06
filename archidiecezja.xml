@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-06T08:05:35.589Z</updated>
+    <updated>2026-06-06T18:46:51.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Dyspensa w piątek po Uroczystości Bożego Ciała]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4148-dyspensa-w-piatek-po-uroczystosci-bozego-ciala</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4148-dyspensa-w-piatek-po-uroczystosci-bozego-ciala"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-06-2026</p><a href="/o-diecezji/aktualnosci/4148-dyspensa-w-piatek-po-uroczystosci-bozego-ciala" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.informacja_o_dyspensiensp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4148-dyspensa-w-piatek-po-uroczystosci-bozego-ciala" title="Dyspensa w piątek po Uroczystości Bożego Ciała" target="_self">Dyspensa w piątek po Uroczystości Bożego Ciała</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski udziela dyspensy od wstrzemięźliwości od pokarmów mięsnych w piątek, 5 czerwca 2026 roku.
-</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Katowice. Centralna procesja Bożego Ciała]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4147-katowice-centralna-procesja-bozego-ciala</id>
@@ -67,6 +59,14 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2"/>
         <updated>2026-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-06-2026</p><a href="/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dekretynsp-94.jpg" alt="Fot: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4137-zmiany-personalne-w-archidiecezji-katowickiej-2" title="Zmiany personalne w Archidiecezji Katowickiej [aktualizacja]" target="_self">Zmiany personalne w Archidiecezji Katowickiej [aktualizacja]</a></h4><p class="nspText tleft fnull">Księża wikariusze otrzymali dekrety kierujące ich do posługi w nowych parafiach. Uroczyste wręczenie dekretów odbyło się w kaplicy Wyższego Śląskiego Seminarium Duchownego w Katowicach.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-05-2026</p><a href="/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_majowensp-94.jpg" alt="Fot. Henryk Przondziono/ Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4136-bp-suchodolski-w-piekarach-chrzescijanin-nigdy-nie-jest-tylko-sluchaczem" title="Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem" target="_self">Bp Suchodolski w Piekarach: Chrześcijanin nigdy nie jest tylko słuchaczem</a></h4><p class="nspText tleft fnull">Popołudniowemu nabożeństwu majowemu na piekarskiej kalwarii przewodniczył bp Grzegorz Suchodolski.
 </p>]]></content>
     </entry>
 </feed>
