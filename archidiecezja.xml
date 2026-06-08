@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-08T10:00:38.559Z</updated>
+    <updated>2026-06-08T19:39:49.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wspólnota seminaryjna pielgrzymowała na Jurę Krakowsko-Częstochowską]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4150-wspolnota-seminaryjna-pielgrzymowala-na-jure-krakowsko-czestochowska</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4150-wspolnota-seminaryjna-pielgrzymowala-na-jure-krakowsko-czestochowska"/>
+        <updated>2026-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">07-06-2026</p><a href="/o-diecezji/aktualnosci/4150-wspolnota-seminaryjna-pielgrzymowala-na-jure-krakowsko-czestochowska" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.spotnsp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4150-wspolnota-seminaryjna-pielgrzymowala-na-jure-krakowsko-czestochowska" title="Wspólnota seminaryjna pielgrzymowała na Jurę Krakowsko-Częstochowską" target="_self">Wspólnota seminaryjna pielgrzymowała na Jurę Krakowsko-Częstochowską</a></h4><p class="nspText tleft fnull">Uczestnicy wyjazdu nawiedzili fraternię „Orientale Lumen” w malowniczo położonym Choroniu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pochodzący ze Śląska męczennicy salezjanie zostaną beatyfikowani]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4149-pochodzacy-ze-slaska-meczennicy-salezjanie-zostana-beatyfikowani</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4140-boze-cialo-w-karowicach-srodmiesciu"/>
         <updated>2026-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-06-2026</p><a href="/o-diecezji/aktualnosci/4140-boze-cialo-w-karowicach-srodmiesciu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Monstrancjansp-94.jpg" alt="Foto:  Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4140-boze-cialo-w-karowicach-srodmiesciu" title="Boże Ciało w Katowicach-Śródmieściu" target="_self">Boże Ciało w Katowicach-Śródmieściu</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zaprasza do uczestnictwa w Uroczystości Najświętszego Ciała i Krwi Chrystusa w Katowicach-Śródmieściu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[„Przekażcie sobie znak pokoju” – spotkanie przedstawicieli trzech religii]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4139-przekazcie-sobie-znak-pokoju-spotkanie-przedstawicieli-trzech-religii</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4139-przekazcie-sobie-znak-pokoju-spotkanie-przedstawicieli-trzech-religii"/>
-        <updated>2026-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-06-2026</p><a href="/o-diecezji/aktualnosci/4139-przekazcie-sobie-znak-pokoju-spotkanie-przedstawicieli-trzech-religii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.spotkaniensp-94.jpg" alt="Fot. Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4139-przekazcie-sobie-znak-pokoju-spotkanie-przedstawicieli-trzech-religii" title="„Przekażcie sobie znak pokoju” – spotkanie przedstawicieli trzech religii" target="_self">„Przekażcie sobie znak pokoju” – spotkanie przedstawicieli trzech religii</a></h4><p class="nspText tleft fnull">Pod takim hasłem w Centrum Kultury Dialogu w Katowicach odbyło się spotkanie w ramach Dnia Judaizmu i Chrześcijaństwa zorganizowanego wśród muzułmanów.
 </p>]]></content>
     </entry>
 </feed>
