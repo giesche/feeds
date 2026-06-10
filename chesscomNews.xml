@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-06-10T09:03:52.930Z</updated>
+    <updated>2026-06-10T19:52:06.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
 
                       <span class="post-preview-meta-content">
                                 
-    <time datetime="2026-06-09 11:10" v-tooltip="Aktualizacja: 9 cze 2026" data-tooltip-id="static-tooltip-1">
+    <time datetime="2026-06-09 11:10" v-tooltip="Aktualizacja: 10 cze 2026" data-tooltip-id="static-tooltip-1">
       9 cze 2026
     </time>
   
