@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-06-09T19:33:20.131Z</updated>
+    <updated>2026-06-10T09:03:52.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Podatności na radarze – maj 2026]]></title>
+        <id>https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/</id>
+        <link href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/"/>
+        <updated>2026-06-10T06:40:20.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" title="Podatności na&nbsp;radarze – maj 2026" rel="bookmark" class="post-img-link">
+	<img alt="Podatności na&nbsp;radarze – maj 2026" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/06/WS_Podatnosci_MAJ-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/alerty/"><span class="category-square" style="background: "></span><span class="category-name">ALERTY</span></a>			<a href="https://wladcysieci.pl/category/bez-kategorii/"><span class="category-square" style="background: #848ef9"></span><span class="category-name">Bez kategorii</span></a>			<a href="https://wladcysieci.pl/category/podatnosci/"><span class="category-square" style="background: "></span><span class="category-name">Podatności</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" rel="bookmark">Podatności na&nbsp;radarze – maj 2026</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="10 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-10T08:40:20+02:00">10 czerwca 2026</time></span>			<span class="post-views">
+				73&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Cześć,&nbsp; przygotowaliśmy najnowsze podsumowanie z&nbsp;...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" rel="bookmark" title="Czytaj Podatności na&nbsp;radarze – maj 2026">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narzędzia Kali Linux dla administratora cz. 1]]></title>
         <id>https://wladcysieci.pl/2026/06/09/narzedzia-kali-linux-dla-administratora-cz-1/</id>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/06/09/narzedzia-kali-linux-dla-administratora-cz-1/" title="Narzędzia Kali Linux dla administratora cz. 1" rel="bookmark" class="post-img-link">
 	<img alt="Narzędzia Kali Linux dla administratora cz. 1" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/06/WS_Kali_linux_part1-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: "></span><span class="category-name">PORADNIKI</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/09/narzedzia-kali-linux-dla-administratora-cz-1/" rel="bookmark"><i class="icon-pencil"></i>Narzędzia Kali Linux dla administratora cz. 1</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="9 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-09T10:17:38+02:00">9 czerwca 2026</time></span>			<span class="post-views">
-				136&nbsp;<i class="icon-eye"></i>			</span>
+				165&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/01/sieciowka-maj-2026-warsztaty-powershell-cyberatak-nowy-kurs-ai/" rel="bookmark">Sieciówka – maj 2026: Warsztaty Powershell,...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="1 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-01T13:04:07+02:00">1 czerwca 2026</time></span>			<span class="post-views">
-				264&nbsp;<i class="icon-eye"></i>			</span>
+				270&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/26/trzy-linie-obrony-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-uksc/" rel="bookmark">Trzy linie obrony na&nbsp;gruncie Ustawy o&nbsp;krajowym systemie...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="26 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-26T09:24:07+02:00">26 maja 2026</time></span>			<span class="post-views">
-				537&nbsp;<i class="icon-eye"></i>			</span>
+				543&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/05/26/trzy-linie-obrony-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-uksc/" rel="bookmark" title="Czytaj Trzy linie obrony na gruncie Ustawy o krajowym systemie cyberbezpieczeństwa (UKSC)">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czy Kali Linux jest dla admina?]]></title>
-        <id>https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/</id>
-        <link href="https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/"/>
-        <updated>2026-05-21T07:36:43.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/" title="Czy Kali Linux jest dla admina?" rel="bookmark" class="post-img-link">
-	<img alt="Czy Kali Linux jest dla admina?" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/05/Wladcy_sieci_Kali_Linux-1-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/infrastruktura-it/"><span class="category-square" style="background: #9b5077"></span><span class="category-name">Infrastruktura IT</span></a>			<a href="https://wladcysieci.pl/category/recenzje/"><span class="category-square" style="background: "></span><span class="category-name">RECENZJE</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/" rel="bookmark">Czy Kali Linux jest dla admina?</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Alina Kobyłecka</span><span class="post-date" itemprop="dateCreated" datetime="21 maja 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-05-21T09:36:43+02:00">21 maja 2026</time></span>			<span class="post-views">
-				409&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>(Dla niecierpliwych jest ulubiona przez ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/05/21/czy-kali-linux-jest-dla-admina/" rel="bookmark" title="Czytaj Czy Kali Linux jest dla admina?">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
