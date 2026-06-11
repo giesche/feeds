@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-11T09:49:34.016Z</updated>
+    <updated>2026-06-11T19:57:20.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Śp. ks. Jan Paweł Sołtysik]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4159-sp-ks-jan-pawel-soltysik</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4159-sp-ks-jan-pawel-soltysik"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-06-2026</p><a href="/o-diecezji/aktualnosci/4159-sp-ks-jan-pawel-soltysik" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/Zmarli.ks_jan_pawel_sołtysiknsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4159-sp-ks-jan-pawel-soltysik" title="Śp. ks. Jan Paweł Sołtysik" target="_self">Śp. ks. Jan Paweł Sołtysik</a></h4><p class="nspText tleft fnull">Z przykrością zawiadamiamy, że w wieku 86 lat oraz w 63. roku kapłaństwa, zmarł śp. ks. Jan Paweł Sołtysik, emerytowany proboszcz parafii Najświętszego Serca Pana Jezusa w Chorzowie Batorym.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W Łomży trwa 405. Zebranie Plenarne Konferencji Episkopatu Polski]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4156-w-lomzy-trwa-405-zebranie-plenarne-konferencji-episkopatu-polski</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4147-katowice-centralna-procesja-bozego-ciala"/>
         <updated>2026-06-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-06-2026</p><a href="/o-diecezji/aktualnosci/4147-katowice-centralna-procesja-bozego-ciala" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bc02nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4147-katowice-centralna-procesja-bozego-ciala" title="Katowice. Centralna procesja Bożego Ciała" target="_self">Katowice. Centralna procesja Bożego Ciała</a></h4><p class="nspText tleft fnull">Wierni przeszli z Kościoła pw. Świętych Apostołów Piotra i Pawła do Archikatedry Chrystusa Króla.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Marek Szkudło: Uroczystość Bożego Ciała jest świętem drogi]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4146-bp-marek-szkudlo-uroczystosc-bozego-ciala-jest-swietem-drogi</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4146-bp-marek-szkudlo-uroczystosc-bozego-ciala-jest-swietem-drogi"/>
-        <updated>2026-06-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-06-2026</p><a href="/o-diecezji/aktualnosci/4146-bp-marek-szkudlo-uroczystosc-bozego-ciala-jest-swietem-drogi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bc01nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4146-bp-marek-szkudlo-uroczystosc-bozego-ciala-jest-swietem-drogi" title="Bp Marek Szkudło: Uroczystość Bożego Ciała jest świętem drogi" target="_self">Bp Marek Szkudło: Uroczystość Bożego Ciała jest świętem drogi</a></h4><p class="nspText tleft fnull">Homilia bp. Marka Szkudły wygłoszona podczas Mszy św. w uroczystość Najświętszego Ciała i Krwi Chrystusa w katowickiej katedrze Chrystusa Króla.
 </p>]]></content>
     </entry>
 </feed>

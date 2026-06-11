@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chess.com/pl/news</id>
     <title>Chess.com Aktualności</title>
-    <updated>2026-06-11T09:49:34.023Z</updated>
+    <updated>2026-06-11T19:57:20.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chess.com/bundles/web/favicons/favicon.46041f2d.ico</icon>
     <entry>
@@ -26,16 +26,21 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/nathanielgreen" title="NathanielGreen">
-                      NathanielGreen
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/nathanielgreen">
+      NathanielGreen
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -50,14 +55,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-06-09 11:10" v-tooltip="Aktualizacja: 10 cze 2026" data-tooltip-id="static-tooltip-1">
-      9 cze 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-06-09 11:10" v-tooltip="Aktualizacja: 10 cze 2026" data-tooltip-id="static-tooltip-1">
+        9 cze 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -87,17 +90,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -112,14 +120,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-05-09 07:53" v-tooltip="Aktualizacja: 9 maj 2026" data-tooltip-id="static-tooltip-2">
-      9 maj 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-05-09 07:53" v-tooltip="Aktualizacja: 9 maj 2026" data-tooltip-id="static-tooltip-2">
+        9 maj 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -149,17 +155,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -174,14 +185,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-05-08 14:50" v-tooltip="Aktualizacja: 9 maj 2026" data-tooltip-id="static-tooltip-3">
-      8 maj 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-05-08 14:50" v-tooltip="Aktualizacja: 9 maj 2026" data-tooltip-id="static-tooltip-3">
+        8 maj 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -211,17 +220,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -236,14 +250,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-05-07 09:40" v-tooltip="Aktualizacja: 8 maj 2026" data-tooltip-id="static-tooltip-4">
-      7 maj 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-05-07 09:40" v-tooltip="Aktualizacja: 8 maj 2026" data-tooltip-id="static-tooltip-4">
+        7 maj 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -273,17 +285,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -298,14 +315,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-05-06 13:18" v-tooltip="Aktualizacja: 7 maj 2026" data-tooltip-id="static-tooltip-5">
-      6 maj 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-05-06 13:18" v-tooltip="Aktualizacja: 7 maj 2026" data-tooltip-id="static-tooltip-5">
+        6 maj 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -335,17 +350,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -360,14 +380,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-05-05 10:41" v-tooltip="Aktualizacja: 5 maj 2026" data-tooltip-id="static-tooltip-6">
-      5 maj 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-05-05 10:41" v-tooltip="Aktualizacja: 5 maj 2026" data-tooltip-id="static-tooltip-6">
+        5 maj 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -397,17 +415,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -422,14 +445,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026" data-tooltip-id="static-tooltip-7">
-      26 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-26 10:28" v-tooltip="Aktualizacja: 27 kwi 2026" data-tooltip-id="static-tooltip-7">
+        26 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -459,17 +480,22 @@
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -484,14 +510,12 @@
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026" data-tooltip-id="static-tooltip-8">
-      25 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-25 11:24" v-tooltip="Aktualizacja: 26 kwi 2026" data-tooltip-id="static-tooltip-8">
+        25 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -522,17 +546,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -547,14 +576,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026" data-tooltip-id="static-tooltip-9">
-      24 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-24 12:23" v-tooltip="Aktualizacja: 25 kwi 2026" data-tooltip-id="static-tooltip-9">
+        24 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -584,17 +611,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -609,14 +641,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026" data-tooltip-id="static-tooltip-10">
-      23 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-23 15:21" v-tooltip="Aktualizacja: 24 kwi 2026" data-tooltip-id="static-tooltip-10">
+        23 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -646,16 +676,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -670,14 +705,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026" data-tooltip-id="static-tooltip-11">
-      15 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-15 10:37" v-tooltip="Aktualizacja: 15 kwi 2026" data-tooltip-id="static-tooltip-11">
+        15 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -707,17 +740,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -732,14 +770,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026" data-tooltip-id="static-tooltip-12">
-      14 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-14 14:28" v-tooltip="Aktualizacja: 14 kwi 2026" data-tooltip-id="static-tooltip-12">
+        14 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -769,16 +805,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -793,14 +834,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026" data-tooltip-id="static-tooltip-13">
-      12 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-12 11:53" v-tooltip="Aktualizacja: 12 kwi 2026" data-tooltip-id="static-tooltip-13">
+        12 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -830,17 +869,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -855,14 +899,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026" data-tooltip-id="static-tooltip-14">
-      11 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-11 11:39" v-tooltip="Aktualizacja: 11 kwi 2026" data-tooltip-id="static-tooltip-14">
+        11 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -892,17 +934,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -917,14 +964,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-15">
-      9 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-09 10:55" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-15">
+        9 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -954,16 +999,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -978,14 +1028,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-16">
-      8 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-08 11:52" v-tooltip="Aktualizacja: 9 kwi 2026" data-tooltip-id="static-tooltip-16">
+        8 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1015,16 +1063,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1039,14 +1092,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026" data-tooltip-id="static-tooltip-17">
-      7 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-07 11:26" v-tooltip="Aktualizacja: 7 kwi 2026" data-tooltip-id="static-tooltip-17">
+        7 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1076,16 +1127,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1100,13 +1156,11 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                <time datetime="2026-04-05 15:21">
-      5 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          <time datetime="2026-04-05 15:21">
+        5 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1136,16 +1190,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1160,14 +1219,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026" data-tooltip-id="static-tooltip-18">
-      4 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-04 15:55" v-tooltip="Aktualizacja: 5 kwi 2026" data-tooltip-id="static-tooltip-18">
+        4 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1197,16 +1254,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1221,14 +1283,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026" data-tooltip-id="static-tooltip-19">
-      3 kwi 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-04-03 14:50" v-tooltip="Aktualizacja: 3 kwi 2026" data-tooltip-id="static-tooltip-19">
+        3 kwi 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1258,17 +1318,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin" title="AnthonyLevin">
-                      AnthonyLevin
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/anthonylevin">
+      AnthonyLevin
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1283,14 +1348,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026" data-tooltip-id="static-tooltip-20">
-      30 mar 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-03-30 05:44" v-tooltip="Aktualizacja: 31 mar 2026" data-tooltip-id="static-tooltip-20">
+        30 mar 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1320,16 +1383,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty" title="Colin_McGourty">
-                      Colin_McGourty
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/colin_mcgourty">
+      Colin_McGourty
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1344,14 +1412,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026" data-tooltip-id="static-tooltip-21">
-      29 mar 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-03-29 16:30" v-tooltip="Aktualizacja: 30 mar 2026" data-tooltip-id="static-tooltip-21">
+        29 mar 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1381,17 +1447,22 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                                          <span class="post-preview-meta-title">NM</span>
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/coachjkane" title="CoachJKane">
-                      CoachJKane
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+          <span class="post-preview-meta-title">NM</span>
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/coachjkane">
+      CoachJKane
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1406,14 +1477,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-22">
-      20 mar 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-03-20 14:01" v-tooltip="Aktualizacja: 25 mar 2026" data-tooltip-id="static-tooltip-22">
+        20 mar 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1443,16 +1512,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/nathanielgreen" title="NathanielGreen">
-                      NathanielGreen
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/nathanielgreen">
+      NathanielGreen
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1467,14 +1541,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026" data-tooltip-id="static-tooltip-23">
-      6 mar 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-03-06 11:40" v-tooltip="Aktualizacja: 7 mar 2026" data-tooltip-id="static-tooltip-23">
+        6 mar 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
@@ -1504,16 +1576,21 @@ Wielki Fin...
 
                 <div class="post-preview-meta">
                   <div class="post-preview-meta-component">
-                    
                                                               
-                    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/chesscom" title="CHESScom">
-                      CHESScom
-                    </a>
-
-                    <div class="post-preview-meta-time">
-                      <span class="post-preview-meta-separator">|</span>
-
                         
+  <div class="post-preview-meta-item">
+    
+    <a class="post-preview-meta-username" href="https://www.chess.com/pl/news/member/chesscom">
+      CHESScom
+    </a>
+  </div>
+
+
+                      
+    
+    
+  <div class="post-preview-meta-item">
+      
   
   
     
@@ -1528,14 +1605,12 @@ Wielki Fin...
           </span>
   
 
-                      <span class="post-preview-meta-content">
-                                
-    <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-24">
-      27 lut 2026
-    </time>
-  
-                      </span>
-                    </div>
+          
+      <time datetime="2026-02-27 07:00" v-tooltip="Aktualizacja: 3 mar 2026" data-tooltip-id="static-tooltip-24">
+        27 lut 2026
+      </time>
+      </div>
+
 
                                       </div>
                 </div>
