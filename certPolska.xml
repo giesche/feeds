@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-06-11T19:57:20.686Z</updated>
+    <updated>2026-06-12T09:41:01.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kampania phishingowa grupy UNC1151/Ghostwriter na pocztę Gmail]]></title>
+        <id>https://cert.pl/posts/2026/06/UNC1151-kampania-gmail/</id>
+        <link href="https://cert.pl/posts/2026/06/UNC1151-kampania-gmail/"/>
+        <updated>2026-06-12T09:40:30.384Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>12 czerwca 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/phishing/">#phishing</a></span>
+                <span><a href="./tag/zagrozenie/">#zagrożenie</a></span>
+                <span><a href="./tag/atak/">#atak</a></span>
+                <span><a href="./tag/unc1151/">#unc1151</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/06/UNC1151-kampania-gmail/" class="post-outer-container">
+            <h4>Kampania phishingowa grupy UNC1151/Ghostwriter na pocztę Gmail</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/06/unc-thumb.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>W ostatnim czasie obserwujemy ataki grupy UNC1151/Ghostwriter na pocztę Gmail. Grupa ta od kilku lat regularnie atakuje skrzynki pocztowe polskich obywateli, ale ataki te w przeszłości dotyczyły innych dostawców poczty. Wykorzystywane techniki z biegiem czasu ulegają zmianie, ale motyw przewodni używanych wiadomości, jak i cel pozostają takie same.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zaufanie liczone w tysiącach – moje.cert.pl]]></title>
         <id>https://cert.pl/posts/2026/06/zaufanie-liczone-w-tysiacach-moje.cert.pl/</id>
@@ -274,37 +306,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Ponad pół miliona podatności udało się znaleźć dzięki udostępnieniu serwisu moje.cert.pl. To darmowe narzędzie, z którego korzysta już niemal 16 tysięcy użytkowników. To też ponad 19 tysięcy stron, które należą do instytucji, firm i osób prywatnych, których administratorzy podjęli działania na rzecz bezpieczeństwa swojego, a nierzadko także swoich klientów.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raport z incydentu w sektorze energii z 29 grudnia 2025 roku]]></title>
-        <id>https://cert.pl/posts/2026/01/raport-incydent-sektor-energii-2025/</id>
-        <link href="https://cert.pl/posts/2026/01/raport-incydent-sektor-energii-2025/"/>
-        <updated>2026-01-30T17:57:56.269Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>30 stycznia 2026</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-                <span><a href="./tag/raport/">#raport</a></span>
-                <span><a href="./tag/incydent/">#incydent</a></span>
-                <span><a href="./tag/energia/">#energia</a></span>
-            </div>
-        </div>
-        <a href="./posts/2026/01/raport-incydent-sektor-energii-2025/" class="post-outer-container">
-            <h4>Raport z incydentu w sektorze energii z 29 grudnia 2025 roku</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/docs/covers/CERT_Polska_Raport_Incydent_Sektor_Energii_2025.pdf.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Zespół CERT Polska przedstawia raport z analizy incydentu w sektorze energii, do którego doszło 29 grudnia 2025 roku. Ataki miały charakter destrukcyjny i były wymierzone w farmy wiatrowe i fotowoltaiczne, dużą elektrociepłownię oraz przedsiębiorstwo z sektora produkcyjnego. Publikacja ma na celu podniesienie świadomości na temat ryzyka związanego z dywersją w cyberprzestrzeni.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
