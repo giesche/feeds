@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-19T19:13:34.686Z</updated>
+    <updated>2026-06-20T08:31:38.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Posiedzenie Rady Kapłańskiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4172-posiedzenie-rady-kaplanskiej-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4172-posiedzenie-rady-kaplanskiej-2"/>
+        <updated>2026-06-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">19-06-2026</p><a href="/o-diecezji/aktualnosci/4172-posiedzenie-rady-kaplanskiej-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rada_kaplanskansp-94.jpg" alt="Fot: Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4172-posiedzenie-rady-kaplanskiej-2" title="Posiedzenie Rady Kapłańskiej" target="_self">Posiedzenie Rady Kapłańskiej</a></h4><p class="nspText tleft fnull">18 czerwca 2026 r. odbyło się kolejne posiedzenie Rady Kapłańskiej Archidiecezji Katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Odnowiony archidiecezjalny Dom Formacyjno-Wypoczynkowy „Jawornik” otwarty i pobłogosławiony]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4171-nowy-archidiecezjalny-dom-formacyjno-wypoczynkowy-jawornik-otwarty-i-poblogoslawiony</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4164-abp-przybylski-do-dzieci-pierwszokomunijnych-zostancie-robotnikami-pana-jezusa"/>
         <updated>2026-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-06-2026</p><a href="/o-diecezji/aktualnosci/4164-abp-przybylski-do-dzieci-pierwszokomunijnych-zostancie-robotnikami-pana-jezusa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.1komuniansp-94.jpg" alt="Fot: Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4164-abp-przybylski-do-dzieci-pierwszokomunijnych-zostancie-robotnikami-pana-jezusa" title="Abp Przybylski do dzieci pierwszokomunijnych: Zostańcie robotnikami Pana Jezusa" target="_self">Abp Przybylski do dzieci pierwszokomunijnych: Zostańcie robotnikami Pana Jezusa</a></h4><p class="nspText tleft fnull">Najmłodsi, którzy w tym roku po raz pierwszy przyjęli Komunię św., spotkali się w Panewnikach u ojców franciszkanów.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski do kadr rekolekcyjnych Ruchu Dzieci Maryi: Bądźcie pewni, że Bóg was posyła]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4163-abp-przybylski-do-kadr-rekolekcyjnych-ruchu-dzieci-maryi-badzcie-pewni-ze-bog-was-posyla</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4163-abp-przybylski-do-kadr-rekolekcyjnych-ruchu-dzieci-maryi-badzcie-pewni-ze-bog-was-posyla"/>
-        <updated>2026-06-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-06-2026</p><a href="/o-diecezji/aktualnosci/4163-abp-przybylski-do-kadr-rekolekcyjnych-ruchu-dzieci-maryi-badzcie-pewni-ze-bog-was-posyla" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rozeslaniensp-94.jpg" alt="Fot: Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4163-abp-przybylski-do-kadr-rekolekcyjnych-ruchu-dzieci-maryi-badzcie-pewni-ze-bog-was-posyla" title="Abp Przybylski do kadr rekolekcyjnych Ruchu Dzieci Maryi: Bądźcie pewni, że Bóg was posyła" target="_self">Abp Przybylski do kadr rekolekcyjnych Ruchu Dzieci Maryi: Bądźcie pewni, że Bóg was posyła</a></h4><p class="nspText tleft fnull">Nabożeństwo rozesłania stanowi przygotowanie do wakacyjnych wyjazdów formacyjnych.
 </p>]]></content>
     </entry>
 </feed>
