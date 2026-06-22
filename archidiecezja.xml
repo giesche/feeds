@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-21T18:58:21.356Z</updated>
+    <updated>2026-06-22T11:12:03.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XIV Gra Miejska „Św. Jan Paweł II naszym Przewodnikiem” pod hasłem „Pokój i dobro”]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4177-xiv-gra-miejska-sw-jan-pawel-ii-naszym-przewodnikiem-pod-haslem-pokoj-i-dobro</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4177-xiv-gra-miejska-sw-jan-pawel-ii-naszym-przewodnikiem-pod-haslem-pokoj-i-dobro"/>
+        <updated>2026-06-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-06-2026</p><a href="/o-diecezji/aktualnosci/4177-xiv-gra-miejska-sw-jan-pawel-ii-naszym-przewodnikiem-pod-haslem-pokoj-i-dobro" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.gransp-94.jpg" alt="Fot: Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4177-xiv-gra-miejska-sw-jan-pawel-ii-naszym-przewodnikiem-pod-haslem-pokoj-i-dobro" title="XIV Gra Miejska „Św. Jan Paweł II naszym Przewodnikiem” pod hasłem „Pokój i dobro”" target="_self">XIV Gra Miejska „Św. Jan Paweł II naszym Przewodnikiem” pod hasłem „Pokój i dobro”</a></h4><p class="nspText tleft fnull">W wydarzeniu uczestniczyło ponad 300 osób skupionych w rekordowej liczbie 51 drużyn.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jubileusze ślubów zakonnych Sióstr Elżbietanek w Katowicach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4178-jubileusze-slubow-zakonnych-siostr-elzbietanek-w-katowicach</id>
@@ -60,13 +68,5 @@
         <updated>2026-06-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-06-2026</p><a href="/o-diecezji/aktualnosci/4171-nowy-archidiecezjalny-dom-formacyjno-wypoczynkowy-jawornik-otwarty-i-poblogoslawiony" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.jaworniknsp-94.jpg" alt="Fot: Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4171-nowy-archidiecezjalny-dom-formacyjno-wypoczynkowy-jawornik-otwarty-i-poblogoslawiony" title=" Odnowiony archidiecezjalny Dom Formacyjno-Wypoczynkowy „Jawornik” otwarty i pobłogosławiony" target="_self"> Odnowiony archidiecezjalny Dom Formacyjno-Wypoczynkowy „Jawornik” otwarty i pobłogosławiony</a></h4><p class="nspText tleft fnull">Odnowiony ośrodek w Wiśle-Jaworniku rozpoczyna nowy etap działalności.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozpoczęcie procesu beatyfikacyjnego ks. Pawła Kontnego w archidiecezji katowickiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4170-rozpoczecie-procesu-beatyfikacyjnego-ks-pawla-kontnego-w-archidiecezji-katowickiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4170-rozpoczecie-procesu-beatyfikacyjnego-ks-pawla-kontnego-w-archidiecezji-katowickiej"/>
-        <updated>2026-06-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-06-2026</p><a href="/o-diecezji/aktualnosci/4170-rozpoczecie-procesu-beatyfikacyjnego-ks-pawla-kontnego-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_ledzinynsp-94.jpg" alt="Fot: Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4170-rozpoczecie-procesu-beatyfikacyjnego-ks-pawla-kontnego-w-archidiecezji-katowickiej" title="Rozpoczęcie procesu beatyfikacyjnego ks. Pawła Kontnego w archidiecezji katowickiej" target="_self">Rozpoczęcie procesu beatyfikacyjnego ks. Pawła Kontnego w archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">Uroczystą sesją zainaugurowano w archidiecezji katowickiej proces beatyfikacyjny Sługi Bożego ks. Pawła Kontnego ze zgromadzenia Towarzystwa Chrystusowego dla Polonii Zagranicznej, zwanego chrystusowcami.
-...</p>]]></content>
     </entry>
 </feed>
