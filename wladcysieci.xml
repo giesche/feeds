@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-06-22T20:19:12.605Z</updated>
+    <updated>2026-06-23T08:42:38.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
@@ -22,7 +22,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/18/praktyczny-kubernetes-cz-7-storage-i-persistent-volumes/" rel="bookmark">Praktyczny Kubernetes cz.7 – Storage i&nbsp;Persistent Volumes&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="18 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-18T09:31:30+02:00">18 czerwca 2026</time></span>			<span class="post-views">
-				150&nbsp;<i class="icon-eye"></i>			</span>
+				153&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +53,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" rel="bookmark">Podatności na&nbsp;radarze – maj 2026</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="10 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-10T08:40:20+02:00">10 czerwca 2026</time></span>			<span class="post-views">
-				205&nbsp;<i class="icon-eye"></i>			</span>
+				207&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
