@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-23T19:24:10.213Z</updated>
+    <updated>2026-06-24T08:38:52.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[29 czerwca w Watykanie: Paliusze dla trzech polskich metropolitów]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4182-29-czerwca-w-watykanie-paliusze-dla-trzech-polskich-metropolitow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4182-29-czerwca-w-watykanie-paliusze-dla-trzech-polskich-metropolitow"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-06-2026</p><a href="/o-diecezji/aktualnosci/4182-29-czerwca-w-watykanie-paliusze-dla-trzech-polskich-metropolitow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.paliuszensp-94.jpg" alt="Fot: episkopat.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4182-29-czerwca-w-watykanie-paliusze-dla-trzech-polskich-metropolitow" title="29 czerwca w Watykanie: Paliusze dla trzech polskich metropolitów" target="_self">29 czerwca w Watykanie: Paliusze dla trzech polskich metropolitów</a></h4><p class="nspText tleft fnull">W uroczystość świętych Apostołów Piotra i Pawła, 29 czerwca, Ojciec Święty Leon XIV pobłogosławi paliusze i nałoży je nowym metropolitom z całego świata. Wśród nich będą trzej metropolici z Polski: kard. Konrad...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dziękujemy, że jesteście ludźmi sumienia i poświęcenia]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4180-dziekujemy-ze-jestescie-ludzmi-sumienia-i-poswiecenia</id>
@@ -58,14 +65,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4174-bp-wodarczyk-o-sl-b-ks-pawel-kontnym-stanal-w-obronie-godnosci-kobiet"/>
         <updated>2026-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-06-2026</p><a href="/o-diecezji/aktualnosci/4174-bp-wodarczyk-o-sl-b-ks-pawel-kontnym-stanal-w-obronie-godnosci-kobiet" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_wodarczyk_radioemnsp-94.jpg" alt="Fot: radioem.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4174-bp-wodarczyk-o-sl-b-ks-pawel-kontnym-stanal-w-obronie-godnosci-kobiet" title="Bp Wodarczyk o Sł. B. Ks. Paweł Kontnym: stanął w obronie godności kobiet" target="_self">Bp Wodarczyk o Sł. B. Ks. Paweł Kontnym: stanął w obronie godności kobiet</a></h4><p class="nspText tleft fnull">To świadectwo pozostaje aktualne w każdym czasie – podkreślił bp Adam Wodarczyk na antenie Radia eM.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekolekcje dla mężczyzn w kryzysie bezdomności w Nierodzimiu]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4173-rekolekcje-dla-mezczyzn-w-kryzysie-bezdomnosci-w-nierodzimiu</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4173-rekolekcje-dla-mezczyzn-w-kryzysie-bezdomnosci-w-nierodzimiu"/>
-        <updated>2026-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">19-06-2026</p><a href="/o-diecezji/aktualnosci/4173-rekolekcje-dla-mezczyzn-w-kryzysie-bezdomnosci-w-nierodzimiu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.nierodzimnsp-94.jpg" alt="Fot: Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4173-rekolekcje-dla-mezczyzn-w-kryzysie-bezdomnosci-w-nierodzimiu" title="Rekolekcje dla mężczyzn w kryzysie bezdomności w Nierodzimiu" target="_self">Rekolekcje dla mężczyzn w kryzysie bezdomności w Nierodzimiu</a></h4><p class="nspText tleft fnull">W dniach 15–19 czerwca br. w Nierodzimiu odbyły się rekolekcje dla osób w kryzysie bezdomności.
 </p>]]></content>
     </entry>
 </feed>
