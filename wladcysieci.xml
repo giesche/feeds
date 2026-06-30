@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-06-30T08:41:06.788Z</updated>
+    <updated>2026-06-30T19:15:57.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sieciówka – czerwiec: Powershell, cyberatak, zapraszamy na webinar!]]></title>
+        <id>https://wladcysieci.pl/2026/06/30/sieciowka-czerwiec-powershell-cyberatak-zapraszamy-na-webinar/</id>
+        <link href="https://wladcysieci.pl/2026/06/30/sieciowka-czerwiec-powershell-cyberatak-zapraszamy-na-webinar/"/>
+        <updated>2026-06-30T12:56:39.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/06/30/sieciowka-czerwiec-powershell-cyberatak-zapraszamy-na-webinar/" title="Sieciówka – czerwiec: Powershell, cyberatak, zapraszamy na webinar!" rel="bookmark" class="post-img-link">
+	<img alt="Sieciówka – czerwiec: Powershell, cyberatak, zapraszamy na webinar!" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/06/WS_Sieciowka_czerwiec-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/30/sieciowka-czerwiec-powershell-cyberatak-zapraszamy-na-webinar/" rel="bookmark">Sieciówka – czerwiec: Powershell, cyberatak, zapraszamy na&nbsp;webinar!</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Angelika Jastrząb</span><span class="post-date" itemprop="dateCreated" datetime="30 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-30T14:56:39+02:00">30 czerwca 2026</time></span>			<span class="post-views">
+				46&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Cześć! Jak się macie? Zanim ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/06/30/sieciowka-czerwiec-powershell-cyberatak-zapraszamy-na-webinar/" rel="bookmark" title="Czytaj Sieciówka – czerwiec: Powershell, cyberatak, zapraszamy na webinar!">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jakie systemy IT i jakie usługi podlegają ustawie o KSC?]]></title>
         <id>https://wladcysieci.pl/2026/06/30/jakie-systemy-it-i-jakie-uslugi-podlegaja-ustawie-o-ksc/</id>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/06/30/jakie-systemy-it-i-jakie-uslugi-podlegaja-ustawie-o-ksc/" title="Jakie systemy IT i jakie usługi podlegają ustawie o KSC?&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="Jakie systemy IT i jakie usługi podlegają ustawie o KSC?&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/06/WS_Jakie-systemy-UKSC1-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/prawo-w-it/"><span class="category-square" style="background: #5a1df4"></span><span class="category-name">Prawo w IT</span></a>			<a href="https://wladcysieci.pl/category/zarzadzanie-it/"><span class="category-square" style="background: #2121d3"></span><span class="category-name">Zarządzanie IT</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/30/jakie-systemy-it-i-jakie-uslugi-podlegaja-ustawie-o-ksc/" rel="bookmark">Jakie systemy IT i&nbsp;jakie usługi podlegają ustawie o&nbsp;KSC?&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="30 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-30T08:55:50+02:00">30 czerwca 2026</time></span>			<span class="post-views">
-				19&nbsp;<i class="icon-eye"></i>			</span>
+				124&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/26/monitoring-windows-i-ad-z-wazuh-i-zabbix-webinar/" rel="bookmark">Monitoring Windows i&nbsp;AD z&nbsp;Wazuh i&nbsp;Zabbix – WEBINAR</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Patrycja Botwina</span><span class="post-date" itemprop="dateCreated" datetime="26 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-26T08:16:52+02:00">26 czerwca 2026</time></span>			<span class="post-views">
-				113&nbsp;<i class="icon-eye"></i>			</span>
+				123&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/18/praktyczny-kubernetes-cz-7-storage-i-persistent-volumes/" rel="bookmark">Praktyczny Kubernetes cz.7 – Storage i&nbsp;Persistent...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="18 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-18T09:31:30+02:00">18 czerwca 2026</time></span>			<span class="post-views">
-				213&nbsp;<i class="icon-eye"></i>			</span>
+				215&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/06/18/praktyczny-kubernetes-cz-7-storage-i-persistent-volumes/" rel="bookmark" title="Czytaj Praktyczny Kubernetes cz.7 – Storage i Persistent Volumes&nbsp;">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podatności na radarze – maj 2026]]></title>
-        <id>https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/</id>
-        <link href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/"/>
-        <updated>2026-06-10T06:40:20.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" title="Podatności na&nbsp;radarze – maj 2026" rel="bookmark" class="post-img-link">
-	<img alt="Podatności na&nbsp;radarze – maj 2026" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/06/WS_Podatnosci_MAJ-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/alerty/"><span class="category-square" style="background: #f73100"></span><span class="category-name">ALERTY</span></a>			<a href="https://wladcysieci.pl/category/podatnosci/"><span class="category-square" style="background: #f400c7"></span><span class="category-name">Podatności</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" rel="bookmark">Podatności na&nbsp;radarze – maj 2026</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="10 czerwca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-06-10T08:40:20+02:00">10 czerwca 2026</time></span>			<span class="post-views">
-				243&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Cześć,&nbsp; przygotowaliśmy najnowsze podsumowanie z&nbsp;...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/06/10/podatnosci-na-radarze-maj-2026/" rel="bookmark" title="Czytaj Podatności na&nbsp;radarze – maj 2026">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>

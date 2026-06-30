@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-06-30T08:41:06.789Z</updated>
+    <updated>2026-06-30T19:15:57.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Papież Leon XIV nałożył paliusz abp. Andrzejowi Przybylskiemu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu"/>
+        <updated>2026-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.palusz_2026nsp-94.jpg" alt="Fot: Vatican News "></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu" title="Papież Leon XIV nałożył paliusz abp. Andrzejowi Przybylskiemu" target="_self">Papież Leon XIV nałożył paliusz abp. Andrzejowi Przybylskiemu</a></h4><p class="nspText tleft fnull">Uroczystość odbyła się w Bazylice św. Piotra w Watykanie o poranku 29 czerwca. To czwarty paliusz jaki w historii otrzymał ordynariusz archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metropolici w Ambasadzie RP przy Stolicy Apostolskiej]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4187-slowo-arcybiskupa-metropolity-katowickiego-na-czas-wakacji"/>
         <updated>2026-06-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-06-2026</p><a href="/o-diecezji/aktualnosci/4187-slowo-arcybiskupa-metropolity-katowickiego-na-czas-wakacji" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.slowo_abpnsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4187-slowo-arcybiskupa-metropolity-katowickiego-na-czas-wakacji" title="Słowo Arcybiskupa Metropolity Katowickiego na czas wakacji" target="_self">Słowo Arcybiskupa Metropolity Katowickiego na czas wakacji</a></h4><p class="nspText tleft fnull">Na wakacyjnych szlakach nie zapomnijcie o niedzielnej Mszy świętej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bóg działa w ich życiu]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4186-bog-dziala-w-ich-zyciu</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4186-bog-dziala-w-ich-zyciu"/>
-        <updated>2026-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-06-2026</p><a href="/o-diecezji/aktualnosci/4186-bog-dziala-w-ich-zyciu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.neo1nsp-94.jpg" alt="Fot: Biuro Prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4186-bog-dziala-w-ich-zyciu" title="Bóg działa w ich życiu" target="_self">Bóg działa w ich życiu</a></h4><p class="nspText tleft fnull">W czwartek, 25 czerwca, w bazylice św. Marii Magdaleny w Tychach odbyło się uroczyste zakończenie i podsumowanie roku formacyjnego wspólnot Drogi Neokatechumenalnej.
 </p>]]></content>
     </entry>
 </feed>
