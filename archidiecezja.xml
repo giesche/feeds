@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-05T08:24:11.657Z</updated>
+    <updated>2026-07-05T18:35:24.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Komunikat Metropolity Katowickiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4200-komunikat-metropolity-katowickiego-2</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4200-komunikat-metropolity-katowickiego-2"/>
+        <updated>2026-07-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-07-2026</p><a href="/o-diecezji/aktualnosci/4200-komunikat-metropolity-katowickiego-2" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.komunikat_metropolitynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4200-komunikat-metropolity-katowickiego-2" title="Komunikat Metropolity Katowickiego" target="_self">Komunikat Metropolity Katowickiego</a></h4><p class="nspText tleft fnull">Komunikat dotyczący statusu kanonicznego Bractwa Kapłańskiego Świętego Piusa X (FSSPX) oraz jego działalności na terenie archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski: Jedność z papieżem nie wynika z naszej opcji czy demokratycznego wyboru]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4199-abp-przybylski-jednosc-z-papiezem-nie-wynika-z-naszej-opcji-czy-demokratycznego-wyboru</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.metropolicie3nsp-94.jpg" alt="Fot: Vatican News"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie" title="Tworzyć jedną owczarnię" target="_self">Tworzyć jedną owczarnię</a></h4><p class="nspText tleft fnull">O znaczeniu paliusza opowiedział abp Andrzej Przybylski, metropolita katowicki.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polscy metropolici na czuwaniu w Rzymie przed włożeniem paliuszy]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4195-polscy-metropolici-na-czuwaniu-w-rzymie-przed-wlozeniem-paliuszy</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4195-polscy-metropolici-na-czuwaniu-w-rzymie-przed-wlozeniem-paliuszy"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4195-polscy-metropolici-na-czuwaniu-w-rzymie-przed-wlozeniem-paliuszy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.paliusze5nsp-94.jpg" alt="Fot: Vatican News"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4195-polscy-metropolici-na-czuwaniu-w-rzymie-przed-wlozeniem-paliuszy" title="Polscy metropolici na czuwaniu w Rzymie przed włożeniem paliuszy" target="_self">Polscy metropolici na czuwaniu w Rzymie przed włożeniem paliuszy</a></h4><p class="nspText tleft fnull">Wszyscy trzej metropolici otrzymają w uroczystość Świętych Apostołów Piotra i Pawła z rąk papieża Leona XIV paliusz, znak jedności z biskupem Rzymu.
 </p>]]></content>
     </entry>
 </feed>
