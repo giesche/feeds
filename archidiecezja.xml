@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-10T08:47:22.479Z</updated>
+    <updated>2026-07-10T18:56:35.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rozpoczęła się pielgrzymka z Wiednia do Rzymu śladami św. Stanisława Kostki]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4201-rozpoczela-sie-pielgrzymka-z-wiednia-do-rzymu-sladami-sw-stanislawa-kostki</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4201-rozpoczela-sie-pielgrzymka-z-wiednia-do-rzymu-sladami-sw-stanislawa-kostki"/>
+        <updated>2026-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-07-2026</p><a href="/o-diecezji/aktualnosci/4201-rozpoczela-sie-pielgrzymka-z-wiednia-do-rzymu-sladami-sw-stanislawa-kostki" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.wiedennsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4201-rozpoczela-sie-pielgrzymka-z-wiednia-do-rzymu-sladami-sw-stanislawa-kostki" title="Rozpoczęła się pielgrzymka z Wiednia do Rzymu śladami św. Stanisława Kostki" target="_self">Rozpoczęła się pielgrzymka z Wiednia do Rzymu śladami św. Stanisława Kostki</a></h4><p class="nspText tleft fnull">Pielgrzymkę zainaugurowano modlitwą w kaplicy św. Stanisława Kostki w Wiedniu.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Komunikat Metropolity Katowickiego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4200-komunikat-metropolity-katowickiego-2</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ambasadansp-94.jpg" alt="Fot: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej" title="Metropolici w Ambasadzie RP przy Stolicy Apostolskiej" target="_self">Metropolici w Ambasadzie RP przy Stolicy Apostolskiej</a></h4><p class="nspText tleft fnull">Na zaproszenie ambasadora Rzeczypospolitej Polskiej przy Stolicy Apostolskiej, Adama Kwiatkowskiego, nowi metropolici wraz z gośćmi spotkali się w siedzibie ambasady w Rzymie.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tworzyć jedną owczarnię]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.metropolicie3nsp-94.jpg" alt="Fot: Vatican News"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4191-tworzyc-jedna-owczarnie" title="Tworzyć jedną owczarnię" target="_self">Tworzyć jedną owczarnię</a></h4><p class="nspText tleft fnull">O znaczeniu paliusza opowiedział abp Andrzej Przybylski, metropolita katowicki.
 </p>]]></content>
     </entry>
 </feed>
