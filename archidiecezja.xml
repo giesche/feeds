@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-11T07:23:06.171Z</updated>
+    <updated>2026-07-11T18:13:54.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia"/>
+        <updated>2026-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-07-2026</p><a href="/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kokotek_festiwal1nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia" title="Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia" target="_self">Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia</a></h4><p class="nspText tleft fnull">Ponad tysiąc młodych przyjechało do Kokotka, aby uczestniczyć w tegorocznej edycji Festiwalu Życia.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rozpoczęła się pielgrzymka z Wiednia do Rzymu śladami św. Stanisława Kostki]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4201-rozpoczela-sie-pielgrzymka-z-wiednia-do-rzymu-sladami-sw-stanislawa-kostki</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu"/>
         <updated>2026-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.palusz_2026nsp-94.jpg" alt="Fot: Vatican News "></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4192-papiez-leon-xiv-nalozyl-paliusz-abp-andrzejowi-przybylskiemu" title="Papież Leon XIV nałożył paliusz abp. Andrzejowi Przybylskiemu" target="_self">Papież Leon XIV nałożył paliusz abp. Andrzejowi Przybylskiemu</a></h4><p class="nspText tleft fnull">Uroczystość odbyła się w Bazylice św. Piotra w Watykanie o poranku 29 czerwca. To czwarty paliusz jaki w historii otrzymał ordynariusz archidiecezji katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metropolici w Ambasadzie RP przy Stolicy Apostolskiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej"/>
-        <updated>2026-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-06-2026</p><a href="/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ambasadansp-94.jpg" alt="Fot: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4194-metropolici-w-ambasadzie-rp-przy-stolicy-apostolskiej" title="Metropolici w Ambasadzie RP przy Stolicy Apostolskiej" target="_self">Metropolici w Ambasadzie RP przy Stolicy Apostolskiej</a></h4><p class="nspText tleft fnull">Na zaproszenie ambasadora Rzeczypospolitej Polskiej przy Stolicy Apostolskiej, Adama Kwiatkowskiego, nowi metropolici wraz z gośćmi spotkali się w siedzibie ambasady w Rzymie.
 </p>]]></content>
     </entry>
 </feed>
