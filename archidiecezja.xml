@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-21T07:53:25.227Z</updated>
+    <updated>2026-07-21T18:48:08.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Szkaplerzna szkoła maryjna]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4214-szkaplerzna-szkola-maryjna</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4214-szkaplerzna-szkola-maryjna"/>
+        <updated>2026-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-07-2026</p><a href="/o-diecezji/aktualnosci/4214-szkaplerzna-szkola-maryjna" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_czernansp-94.jpg" alt="Fot. Karmelici Bosi Czerna"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4214-szkaplerzna-szkola-maryjna" title="Szkaplerzna szkoła maryjna" target="_self">Szkaplerzna szkoła maryjna</a></h4><p class="nspText tleft fnull">Eucharystii podczas 28. Ogólnopolskiego Spotkania Rodziny Szkaplerznej w Czernej przewodniczył abp Andrzej Przybylski.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Przyjmijcie ten szkaplerz]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4213-przyjmijcie-ten-szkaplerz</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4205-wakacyjne-rekolekcje-dla-700-dzieci-maryi"/>
         <updated>2026-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-07-2026</p><a href="/o-diecezji/aktualnosci/4205-wakacyjne-rekolekcje-dla-700-dzieci-maryi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.reko_dmnsp-94.jpg" alt="Fot: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4205-wakacyjne-rekolekcje-dla-700-dzieci-maryi" title="Wakacyjne rekolekcje dla 700 Dzieci Maryi" target="_self">Wakacyjne rekolekcje dla 700 Dzieci Maryi</a></h4><p class="nspText tleft fnull">Podczas tegorocznych wakacji Ruch Dzieci Maryi Archidiecezji Katowickiej przygotował 19 turnusów rekolekcji.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">10-07-2026</p><a href="/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kokotek_festiwal1nsp-94.jpg" alt="Fot. Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4204-modlitwa-muzyka-i-bog-w-kokotku-trwa-festiwal-zycia" title="Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia" target="_self">Modlitwa, muzyka i Bóg. W Kokotku trwa Festiwal Życia</a></h4><p class="nspText tleft fnull">Ponad tysiąc młodych przyjechało do Kokotka, aby uczestniczyć w tegorocznej edycji Festiwalu Życia.
 </p>]]></content>
     </entry>
 </feed>
