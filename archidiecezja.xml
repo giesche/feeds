@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-25T18:13:58.216Z</updated>
+    <updated>2026-07-26T07:54:32.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Modlitwa o nowe powołania w drodze z młodzieżą]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-07-2026</p><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.mlodzi_w_drodzensp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" title="Modlitwa o nowe powołania w drodze z młodzieżą" target="_self">Modlitwa o nowe powołania w drodze z młodzieżą</a></h4><p class="nspText tleft fnull">W piątek, 24 lipca, abp Andrzej Przybylski wraz z młodzieżą oazową pielgrzymował z Pszowa do Kokoszyc, modląc się o nowe powołania do służby Bożej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Msza święta dziękczynna]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4211-abp-przybylski-do-ministrantow-jestescie-slugami-najwiekszego-cudu"/>
         <updated>2026-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-07-2026</p><a href="/o-diecezji/aktualnosci/4211-abp-przybylski-do-ministrantow-jestescie-slugami-najwiekszego-cudu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.mini26nsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4211-abp-przybylski-do-ministrantow-jestescie-slugami-najwiekszego-cudu" title="Abp Przybylski do ministrantów: Jesteście sługami największego cudu" target="_self">Abp Przybylski do ministrantów: Jesteście sługami największego cudu</a></h4><p class="nspText tleft fnull">14 turnusów rekolekcji ministranckich na tegoroczne wakacje przygotowało Duszpasterstwo Ministrantów Archidiecezji Katowickiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Szkudło do oazowiczów: W tym niespokojnym świecie wspólnota jest ostoją, w której uczymy się pokoju]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4210-bp-szkudlo-do-oazowiczow-w-tym-niespokojnym-swiecie-wspolnota-jest-ostoja-w-ktorej-uczymy-sie-pokoju</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4210-bp-szkudlo-do-oazowiczow-w-tym-niespokojnym-swiecie-wspolnota-jest-ostoja-w-ktorej-uczymy-sie-pokoju"/>
-        <updated>2026-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">15-07-2026</p><a href="/o-diecezji/aktualnosci/4210-bp-szkudlo-do-oazowiczow-w-tym-niespokojnym-swiecie-wspolnota-jest-ostoja-w-ktorej-uczymy-sie-pokoju" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_szkudlo_oazansp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4210-bp-szkudlo-do-oazowiczow-w-tym-niespokojnym-swiecie-wspolnota-jest-ostoja-w-ktorej-uczymy-sie-pokoju" title="Bp Szkudło do oazowiczów: W tym niespokojnym świecie wspólnota jest ostoją, w której uczymy się pokoju" target="_self">Bp Szkudło do oazowiczów: W tym niespokojnym świecie wspólnota jest ostoją, w której uczymy się pokoju</a></h4><p class="nspText tleft fnull">Grupy oazowe przeżywające swoje rekolekcje spotkały się na Dniu Wspólnoty.
 </p>]]></content>
     </entry>
 </feed>
