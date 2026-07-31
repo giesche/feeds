@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-07-30T18:53:57.967Z</updated>
+    <updated>2026-07-31T08:15:20.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bp Olszowski: Jesteśmy tak jak Maria, Marta, Łazarz, przyjaciółmi Pana Jezusa]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4227-bp-olszowski-jestesmy-tak-jak-maria-marta-lazarz-przyjaciolmi-pana-jezusa</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4227-bp-olszowski-jestesmy-tak-jak-maria-marta-lazarz-przyjaciolmi-pana-jezusa"/>
+        <updated>2026-07-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-07-2026</p><a href="/o-diecezji/aktualnosci/4227-bp-olszowski-jestesmy-tak-jak-maria-marta-lazarz-przyjaciolmi-pana-jezusa" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rybnickansp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4227-bp-olszowski-jestesmy-tak-jak-maria-marta-lazarz-przyjaciolmi-pana-jezusa" title="Bp Olszowski: Jesteśmy tak jak Maria, Marta, Łazarz, przyjaciółmi Pana Jezusa" target="_self">Bp Olszowski: Jesteśmy tak jak Maria, Marta, Łazarz, przyjaciółmi Pana Jezusa</a></h4><p class="nspText tleft fnull">Uczestnicy 81. Pieszej Rybnickiej Archidiecezjalnej Pielgrzymki na Jasną Górę ruszyli w drogę.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oaza w Rzymie: tutaj Kościół staje się doświadczeniem]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4226-oaza-w-rzymie-tutaj-kosciol-staje-sie-doswiadczeniem</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-07-2026</p><a href="/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kannsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna" title="Msza święta dziękczynna" target="_self">Msza święta dziękczynna</a></h4><p class="nspText tleft fnull">W kaplicy Kurii Metropolitalnej odprawiono Mszę św. dziękczynną w intencji ks. dr. Tomasza Wojtala.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Na Taborze z młodymi]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4218-na-taborze-z-mlodymi</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4218-na-taborze-z-mlodymi"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-07-2026</p><a href="/o-diecezji/aktualnosci/4218-na-taborze-z-mlodymi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.tabornsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4218-na-taborze-z-mlodymi" title="Na Taborze z młodymi" target="_self">Na Taborze z młodymi</a></h4><p class="nspText tleft fnull">W Mórkowie trwa Spotkanie Formacyjne Młodych „Góra Tabor” z udziałem ponad 160 osób z Polski, Niemiec i Francji, które odwiedził abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
