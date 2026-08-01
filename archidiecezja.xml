@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-01T07:41:59.816Z</updated>
+    <updated>2026-08-01T18:28:05.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[List pasterski Arcybiskupa Metropolity Katowickiego na sierpień 2026]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4228-list-pasterski-arcybiskupa-metropolity-katowickiego-na-sierpien-2026</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4228-list-pasterski-arcybiskupa-metropolity-katowickiego-na-sierpien-2026"/>
+        <updated>2026-07-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-07-2026</p><a href="/o-diecezji/aktualnosci/4228-list-pasterski-arcybiskupa-metropolity-katowickiego-na-sierpien-2026" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.list_pasterski_metropolitynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4228-list-pasterski-arcybiskupa-metropolity-katowickiego-na-sierpien-2026" title="List pasterski Arcybiskupa Metropolity Katowickiego na sierpień 2026" target="_self">List pasterski Arcybiskupa Metropolity Katowickiego na sierpień 2026</a></h4><p class="nspText tleft fnull">List do odczytania w kościołach i kaplicach archidiecezji katowickiej w niedzielę 2 sierpnia.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Olszowski: Jesteśmy tak jak Maria, Marta, Łazarz, przyjaciółmi Pana Jezusa]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4227-bp-olszowski-jestesmy-tak-jak-maria-marta-lazarz-przyjaciolmi-pana-jezusa</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza"/>
         <updated>2026-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-07-2026</p><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.mlodzi_w_drodzensp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" title="Modlitwa o nowe powołania w drodze z młodzieżą" target="_self">Modlitwa o nowe powołania w drodze z młodzieżą</a></h4><p class="nspText tleft fnull">W piątek, 24 lipca, abp Andrzej Przybylski wraz z młodzieżą oazową pielgrzymował z Pszowa do Kokoszyc, modląc się o nowe powołania do służby Bożej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Msza święta dziękczynna]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">24-07-2026</p><a href="/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kannsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4219-msza-swieta-dziekczynna" title="Msza święta dziękczynna" target="_self">Msza święta dziękczynna</a></h4><p class="nspText tleft fnull">W kaplicy Kurii Metropolitalnej odprawiono Mszę św. dziękczynną w intencji ks. dr. Tomasza Wojtala.
 </p>]]></content>
     </entry>
 </feed>
