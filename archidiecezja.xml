@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-05T08:01:05.072Z</updated>
+    <updated>2026-08-05T19:00:17.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski: Razem weźmy odpowiedzialność za Kościół]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol"/>
+        <updated>2026-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">01-08-2026</p><a href="/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rybnicka26nsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol" title="Abp Przybylski: Razem weźmy odpowiedzialność za Kościół" target="_self">Abp Przybylski: Razem weźmy odpowiedzialność za Kościół</a></h4><p class="nspText tleft fnull">Uczestnicy 81. Pieszej Rybnickiej Archidiecezjalnej Pielgrzymki dotarli na Jasną Górę.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[List pasterski Arcybiskupa Metropolity Katowickiego na sierpień 2026]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4228-list-pasterski-arcybiskupa-metropolity-katowickiego-na-sierpien-2026</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu"/>
         <updated>2026-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-07-2026</p><a href="/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.waknsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu" title="Wakacje – czas duchowego wzrostu" target="_self">Wakacje – czas duchowego wzrostu</a></h4><p class="nspText tleft fnull">W ostatnim czasie arcybiskup Andrzej Przybylski spotkał się z uczestnikami kilku turnusów rekolekcyjnych.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modlitwa o nowe powołania w drodze z młodzieżą]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-07-2026</p><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.mlodzi_w_drodzensp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4220-modlitwa-o-nowe-powolania-w-drodze-z-mlodzieza" title="Modlitwa o nowe powołania w drodze z młodzieżą" target="_self">Modlitwa o nowe powołania w drodze z młodzieżą</a></h4><p class="nspText tleft fnull">W piątek, 24 lipca, abp Andrzej Przybylski wraz z młodzieżą oazową pielgrzymował z Pszowa do Kokoszyc, modląc się o nowe powołania do służby Bożej.
 </p>]]></content>
     </entry>
 </feed>
