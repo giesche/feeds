@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-05T19:00:17.141Z</updated>
+    <updated>2026-08-06T07:59:39.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Proszę o świętość dla kapłanów]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow"/>
+        <updated>2026-08-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-08-2026</p><a href="/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kosznsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow" title="Proszę o świętość dla kapłanów" target="_self">Proszę o świętość dla kapłanów</a></h4><p class="nspText tleft fnull">We wtorek, 4 sierpnia, we wspomnienie św. Jana Marii Vianneya, Proboszcza z Ars, abp Andrzej Przybylski przewodniczył Eucharystii w Sanktuarium św. Jana Marii Vianneya w Mzykach.&nbsp;
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Przybylski: Razem weźmy odpowiedzialność za Kościół]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4222-bp-olszowski-do-pielgrzymow-bliskosc-jezusa-jest-czesto-lekarstwem-na-nasz-bol"/>
         <updated>2026-07-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-07-2026</p><a href="/o-diecezji/aktualnosci/4222-bp-olszowski-do-pielgrzymow-bliskosc-jezusa-jest-czesto-lekarstwem-na-nasz-bol" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.chorzy_pszownsp-94.jpg" alt="Fot. Marta Sudnik-Paluch /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4222-bp-olszowski-do-pielgrzymow-bliskosc-jezusa-jest-czesto-lekarstwem-na-nasz-bol" title="Bp Olszowski do pielgrzymów: Bliskość Jezusa jest często lekarstwem na nasz ból" target="_self">Bp Olszowski do pielgrzymów: Bliskość Jezusa jest często lekarstwem na nasz ból</a></h4><p class="nspText tleft fnull">Uczestnicy Pielgrzymki Osób Starszych i Chorych zgromadzili się na modlitwie przed obrazem Matki Bożej Uśmiechniętej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wakacje – czas duchowego wzrostu]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-07-2026</p><a href="/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.waknsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4221-wakacje-czas-duchowego-wzrostu" title="Wakacje – czas duchowego wzrostu" target="_self">Wakacje – czas duchowego wzrostu</a></h4><p class="nspText tleft fnull">W ostatnim czasie arcybiskup Andrzej Przybylski spotkał się z uczestnikami kilku turnusów rekolekcyjnych.
 </p>]]></content>
     </entry>
 </feed>
