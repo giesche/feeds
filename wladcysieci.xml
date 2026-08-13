@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-08-13T06:54:50.962Z</updated>
+    <updated>2026-08-13T18:15:46.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
-        <title type="html"><![CDATA[Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)]]></title>
+        <title type="html"><![CDATA[Praktyczny Kubernetes cz.8 – Produkcyjne podejście w kontekście bazy danych z przykładami]]></title>
+        <id>https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/</id>
+        <link href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/"/>
+        <updated>2026-08-13T07:17:15.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/" title="Praktyczny Kubernetes cz.8 – Produkcyjne podejście w kontekście bazy danych z przykładami&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="Praktyczny Kubernetes cz.8 – Produkcyjne podejście w kontekście bazy danych z przykładami&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_kobernetes8-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/konteneryzacja/"><span class="category-square" style="background: #f6ff00"></span><span class="category-name">Konteneryzacja</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/" rel="bookmark"><i class="icon-pencil"></i>Praktyczny Kubernetes cz.8 – Produkcyjne podejście w&nbsp;kontekście bazy danych z&nbsp;przykładami&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="13 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-13T09:17:15+02:00">13 sierpnia 2026</time></span>			<span class="post-views">
+				62&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>W&nbsp;tej części naszej serii ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/" rel="bookmark" title="Czytaj Praktyczny Kubernetes cz.8 – Produkcyjne podejście w kontekście bazy danych z przykładami&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audyt bezpieczeństwa na gruncie ustawy o Krajowym...]]></title>
         <id>https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/</id>
         <link href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/"/>
         <updated>2026-08-06T09:52:12.000Z</updated>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" title="Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_audyt_UKSC-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/prawo-w-it/"><span class="category-square" style="background: #5a1df4"></span><span class="category-name">Prawo w IT</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" rel="bookmark">Audyt bezpieczeństwa na&nbsp;gruncie ustawy o&nbsp;Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" rel="bookmark">Audyt bezpieczeństwa na&nbsp;gruncie ustawy o&nbsp;Krajowym...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="6 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-06T11:52:12+02:00">6 sierpnia 2026</time></span>			<span class="post-views">
-				188&nbsp;<i class="icon-eye"></i>			</span>
+				202&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/03/podatnosci-na-radarze-lipiec-2026/" rel="bookmark">Podatności na&nbsp;radarze – lipiec 2026</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="3 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-03T10:47:39+02:00">3 sierpnia 2026</time></span>			<span class="post-views">
-				193&nbsp;<i class="icon-eye"></i>			</span>
+				195&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/07/31/sieciowka-lipiec-cyberatak-ai-onkologia-na-celowniku-dzien-admina/" rel="bookmark">Sieciówka – lipiec: cyberatak AI, onkologia na...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">admin</span><span class="post-date" itemprop="dateCreated" datetime="31 lipca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-07-31T08:16:00+02:00">31 lipca 2026</time></span>			<span class="post-views">
-				219&nbsp;<i class="icon-eye"></i>			</span>
+				230&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/07/31/sieciowka-lipiec-cyberatak-ai-onkologia-na-celowniku-dzien-admina/" rel="bookmark" title="Czytaj Sieciówka – lipiec: cyberatak AI, onkologia na celowniku, Dzień Admina">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zjawisko Shadow AI w ekosystemach korporacyjnych]]></title>
-        <id>https://wladcysieci.pl/2026/07/28/zjawisko-shadow-ai-w-ekosystemach-korporacyjnych/</id>
-        <link href="https://wladcysieci.pl/2026/07/28/zjawisko-shadow-ai-w-ekosystemach-korporacyjnych/"/>
-        <updated>2026-07-28T07:03:15.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/07/28/zjawisko-shadow-ai-w-ekosystemach-korporacyjnych/" title="Zjawisko Shadow AI w ekosystemach korporacyjnych&nbsp;" rel="bookmark" class="post-img-link">
-	<img alt="Zjawisko Shadow AI w ekosystemach korporacyjnych&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/07/WS_shadow-AI-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/07/28/zjawisko-shadow-ai-w-ekosystemach-korporacyjnych/" rel="bookmark">Zjawisko Shadow AI w&nbsp;ekosystemach korporacyjnych&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Oliwia Jaskólska</span><span class="post-date" itemprop="dateCreated" datetime="28 lipca 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-07-28T09:03:15+02:00">28 lipca 2026</time></span>			<span class="post-views">
-				459&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Shadow AI: definicja i&nbsp;skala ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/07/28/zjawisko-shadow-ai-w-ekosystemach-korporacyjnych/" rel="bookmark" title="Czytaj Zjawisko Shadow AI w ekosystemach korporacyjnych&nbsp;">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
