@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-13T18:15:46.293Z</updated>
+    <updated>2026-08-14T06:51:42.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abp Przybylski: nie może nas zabraknąć w Piekarach]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4234-abp-przybylski-nie-moze-nas-zabraknac-w-piekarach</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4234-abp-przybylski-nie-moze-nas-zabraknac-w-piekarach"/>
+        <updated>2026-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-08-2026</p><a href="/o-diecezji/aktualnosci/4234-abp-przybylski-nie-moze-nas-zabraknac-w-piekarach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.zaproszenie_metropolity_piekarynsp-94.jpg" alt=""></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4234-abp-przybylski-nie-moze-nas-zabraknac-w-piekarach" title="Abp Przybylski: nie może nas zabraknąć w Piekarach" target="_self">Abp Przybylski: nie może nas zabraknąć w Piekarach</a></h4><p class="nspText tleft fnull">Do Piekar przyjdźmy jako wspólnota całej archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekolekcje wakacyjne w Beskidach]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4233-rekolekcje-dzieci-maryi-i-ministrantow</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4226-oaza-w-rzymie-tutaj-kosciol-staje-sie-doswiadczeniem"/>
         <updated>2026-07-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-07-2026</p><a href="/o-diecezji/aktualnosci/4226-oaza-w-rzymie-tutaj-kosciol-staje-sie-doswiadczeniem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.oaza_rzymnsp-94.jpg" alt="Fot. vaticannews.va"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4226-oaza-w-rzymie-tutaj-kosciol-staje-sie-doswiadczeniem" title="Oaza w Rzymie: tutaj Kościół staje się doświadczeniem" target="_self">Oaza w Rzymie: tutaj Kościół staje się doświadczeniem</a></h4><p class="nspText tleft fnull">30. uczestników rekolekcji trzeciego stopnia Ruchu Światło-Życie przeżywa w Rzymie czas formacji pod hasłem „Mater Ecclesia – Ecclesia Mater”.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozpoczynam dzień od ucałowania krzyża]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4225-rozpoczynam-dzien-od-ucalowania-krzyza</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4225-rozpoczynam-dzien-od-ucalowania-krzyza"/>
-        <updated>2026-07-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-07-2026</p><a href="/o-diecezji/aktualnosci/4225-rozpoczynam-dzien-od-ucalowania-krzyza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ciesznsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4225-rozpoczynam-dzien-od-ucalowania-krzyza" title="Rozpoczynam dzień od ucałowania krzyża" target="_self">Rozpoczynam dzień od ucałowania krzyża</a></h4><p class="nspText tleft fnull">W poniedziałek, 27 lipca, abp Andrzej Przybylski odwiedził młodzież uczestniczącą w rekolekcjach Ruchu Światło-Życie – Oazie Nowego Życia I stopnia w Cieszynie.
 </p>]]></content>
     </entry>
 </feed>
