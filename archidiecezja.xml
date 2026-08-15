@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-15T05:49:47.919Z</updated>
+    <updated>2026-08-15T17:43:20.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kaszubska pielgrzymka w Piekarach Śląskich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4240-kaszubska-pielgrzymka-w-piekarach-slaskich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4240-kaszubska-pielgrzymka-w-piekarach-slaskich"/>
+        <updated>2026-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-08-2026</p><a href="/o-diecezji/aktualnosci/4240-kaszubska-pielgrzymka-w-piekarach-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kaszubnsp-94.jpg" alt="Fot: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4240-kaszubska-pielgrzymka-w-piekarach-slaskich" title="Kaszubska pielgrzymka w Piekarach Śląskich" target="_self">Kaszubska pielgrzymka w Piekarach Śląskich</a></h4><p class="nspText tleft fnull">Szli 21 dni, pokonali 700 km - wszystko po to, aby na zakończenie pielgrzymowania pokłonić się Śląskiej Gospodyni.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Andrzej Przybylski: odważmy się przejrzeć w "Zwierciadle Sprawiedliwości"]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4239-abp-andrzej-przybylski-odwazmy-sie-przejrzec-w-zwierciadle-sprawiedliwosci</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow"/>
         <updated>2026-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">05-08-2026</p><a href="/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kosznsp-94.jpg" alt="Fot. Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4230-prosze-o-swietosc-dla-kaplanow" title="Proszę o świętość dla kapłanów" target="_self">Proszę o świętość dla kapłanów</a></h4><p class="nspText tleft fnull">We wtorek, 4 sierpnia, we wspomnienie św. Jana Marii Vianneya, Proboszcza z Ars, abp Andrzej Przybylski przewodniczył Eucharystii w Sanktuarium św. Jana Marii Vianneya w Mzykach.&nbsp;
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski: Razem weźmy odpowiedzialność za Kościół]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol"/>
-        <updated>2026-08-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">01-08-2026</p><a href="/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rybnicka26nsp-94.jpg" alt="Fot. Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4229-abp-przybylski-razem-wezmy-odpowiedzialnosc-za-kosciol" title="Abp Przybylski: Razem weźmy odpowiedzialność za Kościół" target="_self">Abp Przybylski: Razem weźmy odpowiedzialność za Kościół</a></h4><p class="nspText tleft fnull">Uczestnicy 81. Pieszej Rybnickiej Archidiecezjalnej Pielgrzymki dotarli na Jasną Górę.
 </p>]]></content>
     </entry>
 </feed>
