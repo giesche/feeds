@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-18T05:55:26.918Z</updated>
+    <updated>2026-08-18T17:55:18.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Prof. Wojciech Świątkiewicz 33. laureatem nagrody „Lux ex Silesia"]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4250-prof-wojciech-swiatkiewicz-laureatem-nagrody-lux-ex-silesia</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4250-prof-wojciech-swiatkiewicz-laureatem-nagrody-lux-ex-silesia"/>
+        <updated>2026-08-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-08-2026</p><a href="/o-diecezji/aktualnosci/4250-prof-wojciech-swiatkiewicz-laureatem-nagrody-lux-ex-silesia" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.swiatkiewicznsp-94.jpg" alt="Foto: Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4250-prof-wojciech-swiatkiewicz-laureatem-nagrody-lux-ex-silesia" title="Prof. Wojciech Świątkiewicz 33. laureatem nagrody „Lux ex Silesia&quot;" target="_self">Prof. Wojciech Świątkiewicz 33. laureatem nagrody „Lux ex Silesia"</a></h4><p class="nspText tleft fnull">Tegoroczny laureat jest socjologiem, profesorem nauk humanistycznych, specjalistą w zakresie socjologii kultury, regionu, religii i rodziny.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uroczystość św. Jacka. Poznaliśmy laureata tegorocznej nagrody „Lux ex Silesia”]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4249-uroczystosc-sw-jacka-poznamy-laureata-tegorocznej-nagrody-lux-ex-silesia</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4243-slaskie-kobiety-czerpia-sile-od-ciebie-maryjo"/>
         <updated>2026-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-08-2026</p><a href="/o-diecezji/aktualnosci/4243-slaskie-kobiety-czerpia-sile-od-ciebie-maryjo" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_k_3nsp-94.jpg" alt="Fot: Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4243-slaskie-kobiety-czerpia-sile-od-ciebie-maryjo" title="Śląskie kobiety czerpią siłę od Ciebie, Maryjo" target="_self">Śląskie kobiety czerpią siłę od Ciebie, Maryjo</a></h4><p class="nspText tleft fnull">W imieniu wszystkich kobiet na piekarskim wzgórzu głos zabrała Izolda Czmok-Nowak.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piekary kobiet 2026. Pątniczki w drodze]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4242-piekary-kobiet-2026-patniczki-w-drodze</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4242-piekary-kobiet-2026-patniczki-w-drodze"/>
-        <updated>2026-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-08-2026</p><a href="/o-diecezji/aktualnosci/4242-piekary-kobiet-2026-patniczki-w-drodze" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_k1nsp-94.jpg" alt="Fot: Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4242-piekary-kobiet-2026-patniczki-w-drodze" title="Piekary kobiet 2026. Pątniczki w drodze" target="_self">Piekary kobiet 2026. Pątniczki w drodze</a></h4><p class="nspText tleft fnull">Pieszo, ale także na rowerach czy autokarami, każdy sposób jest dobry, aby wziąć udział w tegorocznej pielgrzymce stanowej.
 </p>]]></content>
     </entry>
 </feed>
