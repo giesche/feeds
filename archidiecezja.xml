@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-22T05:51:54.304Z</updated>
+    <updated>2026-08-22T17:44:12.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ruda Śląska – Halemba na Jasnej Górze]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze"/>
+        <updated>2026-08-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-08-2026</p><a href="/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.halemba26nsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze" title="Ruda Śląska – Halemba na Jasnej Górze" target="_self">Ruda Śląska – Halemba na Jasnej Górze</a></h4><p class="nspText tleft fnull">Parafianie z rudzkich parafii: Matki Bożej Różańcowej, Bożego Narodzenia z Halemby oraz Podwyższenia Krzyża Świętego z Kłodnicy pielgrzymowali na Jasną Górę.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ks. Nocoń: Eucharystia najgłębszym zjednoczeniem z Chrystusem]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4252-ks-nocon-eucharystia-najglebszym-zjednoczeniem-z-chrystusem</id>
@@ -58,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4247-wiernosc-i-obecnosc-rozwazanie-bp-jacka-kicinskiego-cmf-podczas-pielgrzymkowych-nieszporow"/>
         <updated>2026-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-08-2026</p><a href="/o-diecezji/aktualnosci/4247-wiernosc-i-obecnosc-rozwazanie-bp-jacka-kicinskiego-cmf-podczas-pielgrzymkowych-nieszporow" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_k_11nsp-94.jpg" alt="Fot: Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4247-wiernosc-i-obecnosc-rozwazanie-bp-jacka-kicinskiego-cmf-podczas-pielgrzymkowych-nieszporow" title="Bp Kiciński: Kobieta jest ciepłem Kościoła i całego społeczeństwa" target="_self">Bp Kiciński: Kobieta jest ciepłem Kościoła i całego społeczeństwa</a></h4><p class="nspText tleft fnull">– Kobieta jest ciepłem Kościoła. Trzeba dziś dodać, że nie tylko Kościoła, ale i całego społeczeństwa – powiedział bp Jacek Kiciński CMF w Piekarach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papież do kobiet w Piekarach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4246-papiez-do-kobiet-w-piekarach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4246-papiez-do-kobiet-w-piekarach"/>
-        <updated>2026-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-08-2026</p><a href="/o-diecezji/aktualnosci/4246-papiez-do-kobiet-w-piekarach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.papa_piekary_knsp-94.jpg" alt="Fot: vaticannews.va"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4246-papiez-do-kobiet-w-piekarach" title="Papież do kobiet w Piekarach" target="_self">Papież do kobiet w Piekarach</a></h4><p class="nspText tleft fnull">Leon XIV pozdrowił uczestniczki Pielgrzymki Kobiet i Dziewcząt do sanktuarium Matki Bożej Piekarskiej.
 </p>]]></content>
     </entry>
 </feed>
