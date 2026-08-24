@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-08-24T06:01:51.760Z</updated>
+    <updated>2026-08-24T17:56:32.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[UEBA od środka – jak AI buduje profile użytkowników i hostów]]></title>
+        <id>https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/</id>
+        <link href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/"/>
+        <updated>2026-08-24T11:31:50.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" title="UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_UEBA-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" rel="bookmark">UEBA od&nbsp;środka – jak AI buduje profile użytkowników i&nbsp;hostów&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Rafał Gołębiowski</span><span class="post-date" itemprop="dateCreated" datetime="24 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-24T13:31:50+02:00">24 sierpnia 2026</time></span>			<span class="post-views">
+				69&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Wraz z&nbsp;rosnącą liczbą danych ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" rel="bookmark" title="Czytaj UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Znamy zwycięzców konkursu z okazji Dnia Admina]]></title>
         <id>https://wladcysieci.pl/2026/08/21/znamy-zwyciezcow-konkursu-z-okazji-dnia-admina/</id>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/08/21/znamy-zwyciezcow-konkursu-z-okazji-dnia-admina/" title="Znamy zwycięzców konkursu z okazji Dnia Admina" rel="bookmark" class="post-img-link">
 	<img alt="Znamy zwycięzców konkursu z okazji Dnia Admina" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_artykul_wyniki_konkursu-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/konkursy/"><span class="category-square" style="background: #f9c04d"></span><span class="category-name">Konkursy</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/21/znamy-zwyciezcow-konkursu-z-okazji-dnia-admina/" rel="bookmark">Znamy zwycięzców konkursu z&nbsp;okazji Dnia Admina</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">admin</span><span class="post-date" itemprop="dateCreated" datetime="21 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-21T12:28:28+02:00">21 sierpnia 2026</time></span>			<span class="post-views">
-				157&nbsp;<i class="icon-eye"></i>			</span>
+				170&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/17/akademia-wladcow-sieci-2026-juz-w-pazdzierniku/" rel="bookmark"><i class="icon-pencil"></i>Akademia Władców Sieci 2026 – już w&nbsp;październiku!</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Patrycja Botwina</span><span class="post-date" itemprop="dateCreated" datetime="17 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-17T12:49:41+02:00">17 sierpnia 2026</time></span>			<span class="post-views">
-				195&nbsp;<i class="icon-eye"></i>			</span>
+				210&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/" rel="bookmark"><i class="icon-pencil"></i>Praktyczny Kubernetes cz.8 – Produkcyjne podejście w...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="13 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-13T09:17:15+02:00">13 sierpnia 2026</time></span>			<span class="post-views">
-				176&nbsp;<i class="icon-eye"></i>			</span>
+				187&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/08/13/praktyczny-kubernetes-cz-8-produkcyjne-podejscie-w-kontekscie-bazy-danych-z-przykladami/" rel="bookmark" title="Czytaj Praktyczny Kubernetes cz.8 – Produkcyjne podejście w kontekście bazy danych z przykładami&nbsp;">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audyt bezpieczeństwa na gruncie ustawy o Krajowym...]]></title>
-        <id>https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/</id>
-        <link href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/"/>
-        <updated>2026-08-06T09:52:12.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" title="Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;" rel="bookmark" class="post-img-link">
-	<img alt="Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_audyt_UKSC-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/prawo-w-it/"><span class="category-square" style="background: #5a1df4"></span><span class="category-name">Prawo w IT</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" rel="bookmark">Audyt bezpieczeństwa na&nbsp;gruncie ustawy o&nbsp;Krajowym...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="6 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-06T11:52:12+02:00">6 sierpnia 2026</time></span>			<span class="post-views">
-				510&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>1. Konteksty audytowe&nbsp; Ustawa o&nbsp;...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/08/06/audyt-bezpieczenstwa-na-gruncie-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-ksc/" rel="bookmark" title="Czytaj Audyt bezpieczeństwa na gruncie ustawy o Krajowym Systemie Cyberbezpieczeństwa (KSC)&nbsp;&nbsp;">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
