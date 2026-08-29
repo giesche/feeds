@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-29T11:43:49.225Z</updated>
+    <updated>2026-08-29T19:51:48.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rok od nominacji abp. Andrzeja Przybylskiego na metropolitę katowickiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4264-rok-od-nominacji-abp-andrzeja-przybylskiego-na-metropolite-katowickiego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4264-rok-od-nominacji-abp-andrzeja-przybylskiego-na-metropolite-katowickiego"/>
+        <updated>2026-08-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-08-2026</p><a href="/o-diecezji/aktualnosci/4264-rok-od-nominacji-abp-andrzeja-przybylskiego-na-metropolite-katowickiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_rocznicansp-94.jpg" alt="Foto: Roman Koszowski /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4264-rok-od-nominacji-abp-andrzeja-przybylskiego-na-metropolite-katowickiego" title="Rok od nominacji abp. Andrzeja Przybylskiego na metropolitę katowickiego" target="_self">Rok od nominacji abp. Andrzeja Przybylskiego na metropolitę katowickiego</a></h4><p class="nspText tleft fnull">29 sierpnia 2025 roku papież Leon XIV mianował bp. Andrzeja Przybylskiego, dotychczasowego biskupa pomocniczego archidiecezji częstochowskiej, arcybiskupem metropolitą katowickim.&nbsp;
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wezwani po imieniu – młodzi dotarli na Jasną Górę]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4263-wezwani-po-imieniu-mlodzi-dotarli-na-jasna-gore</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich"/>
         <updated>2026-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">22-08-2026</p><a href="/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.zaproszenie_metropolity_piekarynsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich" title="Zaproszenie na pielgrzymkę duchowieństwa do Piekar Śląskich" target="_self">Zaproszenie na pielgrzymkę duchowieństwa do Piekar Śląskich</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zaprasza prezbiterów, diakonów i kleryków archidiecezji katowickiej – 29 sierpnia 2026 r.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruda Śląska – Halemba na Jasnej Górze]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze"/>
-        <updated>2026-08-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-08-2026</p><a href="/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.halemba26nsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4253-ruda-slaska-halemba-na-jasnej-gorze" title="Ruda Śląska – Halemba na Jasnej Górze" target="_self">Ruda Śląska – Halemba na Jasnej Górze</a></h4><p class="nspText tleft fnull">Parafianie z rudzkich parafii: Matki Bożej Różańcowej, Bożego Narodzenia z Halemby oraz Podwyższenia Krzyża Świętego z Kłodnicy pielgrzymowali na Jasną Górę.
 </p>]]></content>
     </entry>
 </feed>
