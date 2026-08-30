@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-30T10:34:53.208Z</updated>
+    <updated>2026-08-30T19:56:41.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Okna z widokiem na Boga. Pielgrzymka kapłanów do Piekar Śląskich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4265-okna-z-widokiem-na-boga-pielgrzymka-kaplanow-do-piekar-slaskich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4265-okna-z-widokiem-na-boga-pielgrzymka-kaplanow-do-piekar-slaskich"/>
+        <updated>2026-08-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">29-08-2026</p><a href="/o-diecezji/aktualnosci/4265-okna-z-widokiem-na-boga-pielgrzymka-kaplanow-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piel_kapnsp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4265-okna-z-widokiem-na-boga-pielgrzymka-kaplanow-do-piekar-slaskich" title="Okna z widokiem na Boga. Pielgrzymka kapłanów do Piekar Śląskich" target="_self">Okna z widokiem na Boga. Pielgrzymka kapłanów do Piekar Śląskich</a></h4><p class="nspText tleft fnull">Biskupi, prezbiterzy, diakoni i alumni archidiecezji katowickiej modlili się wspólnie 29 sierpnia w Sanktuarium Matki Sprawiedliwości i Miłości Społecznej w Piekarach Śląskich.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rok od nominacji abp. Andrzeja Przybylskiego na metropolitę katowickiego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4264-rok-od-nominacji-abp-andrzeja-przybylskiego-na-metropolite-katowickiego</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4257-wezwani-po-imieniu-mlodzi-wyruszyli-na-jasna-gore"/>
         <updated>2026-08-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-08-2026</p><a href="/o-diecezji/aktualnosci/4257-wezwani-po-imieniu-mlodzi-wyruszyli-na-jasna-gore" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.orlensp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4257-wezwani-po-imieniu-mlodzi-wyruszyli-na-jasna-gore" title="&quot;Wezwani po imieniu&quot;. Młodzi wyruszyli na Jasną Górę" target="_self">"Wezwani po imieniu". Młodzi wyruszyli na Jasną Górę</a></h4><p class="nspText tleft fnull">We wtorkowy poranek pielgrzymów pobłogosławił bp Marek Szkudło. Przed nimi trzy dni wędrówki Szlakiem Orlich Gniazd.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaproszenie na pielgrzymkę duchowieństwa do Piekar Śląskich]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich"/>
-        <updated>2026-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">22-08-2026</p><a href="/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/banery.zaproszenie_metropolity_piekarynsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4254-zaproszenie-na-pielgrzymke-duchowienstwa-do-piekar-slaskich" title="Zaproszenie na pielgrzymkę duchowieństwa do Piekar Śląskich" target="_self">Zaproszenie na pielgrzymkę duchowieństwa do Piekar Śląskich</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski zaprasza prezbiterów, diakonów i kleryków archidiecezji katowickiej – 29 sierpnia 2026 r.
 </p>]]></content>
     </entry>
 </feed>
