@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-08-31T21:59:24.266Z</updated>
+    <updated>2026-09-01T10:19:46.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Liturgia to nie służba znakom, ale żywemu Bogu]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4267-liturgia-to-nie-sluzba-znakom-ale-zywemu-bogu</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4267-liturgia-to-nie-sluzba-znakom-ale-zywemu-bogu"/>
+        <updated>2026-08-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">31-08-2026</p><a href="/o-diecezji/aktualnosci/4267-liturgia-to-nie-sluzba-znakom-ale-zywemu-bogu" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ministrancinsp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4267-liturgia-to-nie-sluzba-znakom-ale-zywemu-bogu" title="Liturgia to nie służba znakom, ale żywemu Bogu" target="_self">Liturgia to nie służba znakom, ale żywemu Bogu</a></h4><p class="nspText tleft fnull">Powakacyjną pielgrzymkę do Archikatedry Chrystusa Króla w Katowicach w poniedziałek 31 sierpnia przeżywali ministranci archidiecezji katowickiej.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wojewódzkie dożynki w gminie Godów]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4266-wojewodzkie-dozynki-w-gminie-godow</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4259-o-ducha-pojednania-miedzy-polakami-i-ukraincami"/>
         <updated>2026-08-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-08-2026</p><a href="/o-diecezji/aktualnosci/4259-o-ducha-pojednania-miedzy-polakami-i-ukraincami" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kep_apelnsp-94.jpg" alt="Foto: KEP"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4259-o-ducha-pojednania-miedzy-polakami-i-ukraincami" title="O ducha pojednania między Polakami i Ukraińcami" target="_self">O ducha pojednania między Polakami i Ukraińcami</a></h4><p class="nspText tleft fnull">Apel biskupów o budowanie relacji polsko-ukraińskich w duchu prawdy, przebaczenia i miłości.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Na Jasnej Górze obradowała Rada Stała KEP]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4258-na-jasnej-gorze-obradowala-rada-stala-kep</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4258-na-jasnej-gorze-obradowala-rada-stala-kep"/>
-        <updated>2026-08-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-08-2026</p><a href="/o-diecezji/aktualnosci/4258-na-jasnej-gorze-obradowala-rada-stala-kep" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.rada_stalansp-94.jpg" alt="Foto: KEP"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4258-na-jasnej-gorze-obradowala-rada-stala-kep" title="Na Jasnej Górze obradowała Rada Stała KEP" target="_self">Na Jasnej Górze obradowała Rada Stała KEP</a></h4><p class="nspText tleft fnull">W przeddzień uroczystości Najświętszej Maryi Panny Częstochowskiej, 25 sierpnia, odbyło się na Jasnej Górze spotkanie Rady Stałej Biskupów.
 </p>]]></content>
     </entry>
 </feed>
