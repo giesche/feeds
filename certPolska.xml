@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-09-02T10:08:36.434Z</updated>
+    <updated>2026-09-02T19:57:11.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowości od CERT Polska - premiera wiedza.cert.pl i nowa funkcja w moje.cert.pl]]></title>
+        <id>https://cert.pl/posts/2026/09/nowosci-cert-polska/</id>
+        <link href="https://cert.pl/posts/2026/09/nowosci-cert-polska/"/>
+        <updated>2026-09-02T19:56:41.312Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>02 września 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+            </div>
+        </div>
+        <a href="./posts/2026/09/nowosci-cert-polska/" class="post-outer-container">
+            <h4>Nowości od CERT Polska - premiera wiedza.cert.pl i nowa funkcja w moje.cert.pl</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/09/premiera-thumb.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>W CERT Polska stale rozwijamy dostępne narzędzia i tworzymy nowe rozwiązania, które pomagają zapobiegać incydentom, a kiedy już do nich dojdzie - skutecznie reagować. Dziś swoją premierę ma serwis wiedza.cert.pl, czyli kompendium wiedzy o zagrożeniach, incydentach i metodach prewencji. W moje.cert.pl również pojawia się nowa funkcjonalność związana z podatnościami.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uzupełnienie raportu z incydentu w sektorze energii w grudniu 2025 roku]]></title>
         <id>https://cert.pl/posts/2026/08/uzupelnienie-raportu-incydent-sektor-energii-2025/</id>
@@ -276,37 +304,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>Zespół CERT Polska świętuje 30-lecie swojej działalności. Przez trzy dekady zmieniło się niemal wszystko. Internet, z którego w latach 90. korzystała niewielka grupa użytkowników, dziś jest podstawową przestrzenią, dzięki której funkcjonuje wiele aspektów naszego życia. Wraz z jego rozwojem pojawiają się jednak nowe zagrożenia, co jeszcze lepiej pokazuje dlaczego potrzebujemy zespołów takich jak nasz.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClickFix w akcji: jak fake captcha może zaszyfrować całą firmę]]></title>
-        <id>https://cert.pl/posts/2026/02/fake-captcha-in-action/</id>
-        <link href="https://cert.pl/posts/2026/02/fake-captcha-in-action/"/>
-        <updated>2026-02-17T18:11:29.792Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>17 lutego 2026</span>
-                <span>
-                    <a href="./author/jaroslaw-jedynak/">Jarosław Jedynak</a>
-                </span>
-                <span><a href="./tag/malware/">#malware</a></span>
-                <span><a href="./tag/analysis/">#analysis</a></span>
-                <span><a href="./tag/dfir/">#dfir</a></span>
-            </div>
-        </div>
-        <a href="./posts/2026/02/fake-captcha-in-action/" class="post-outer-container">
-            <h4>ClickFix w akcji: jak fake captcha może zaszyfrować całą firmę</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2025/10/fakecaptcha-thumb.jpg" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Pomogliśmy dużej organizacji w analizie infekcji malware spowodowanej przez Fake CAPTCHA. W tym raporcie podsumowujemy nasze obserwacje oraz publikujemy szczegółową analizę znalezionego złośliwego oprogramowania.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
