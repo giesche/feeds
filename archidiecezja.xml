@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-05T19:12:40.560Z</updated>
+    <updated>2026-09-06T09:34:04.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bp Szkudło w Lourdes: Choroba nie jest wyrokiem]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-09-2026</p><a href="/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.lourdes_bp_szkudlonsp-94.jpg" alt="Foto: Katarzyna Widera-Podsiadło /Radio eM"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem" title="Bp Szkudło w Lourdes: Choroba nie jest wyrokiem" target="_self">Bp Szkudło w Lourdes: Choroba nie jest wyrokiem</a></h4><p class="nspText tleft fnull">Pielgrzymka chorych, osób z niepełnosprawnościami, ich rodzin i opiekunów z archidiecezji katowickiej do Lourdes potrwa od 4 do 9 września.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Słowo Arcybiskupa na rozpoczęcie roku szkolnego i duszpasterskiego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4277-slowo-arcybiskupa-na-rozpoczecie-roku-szkolnego-i-duszpasterskiego</id>
@@ -60,13 +68,5 @@
         <updated>2026-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-09-2026</p><a href="/o-diecezji/aktualnosci/4271-w-katowicach-o-ekumenizmie-dialogu-miedzyreligijnym-i-pokoju" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ekumenizmnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4271-w-katowicach-o-ekumenizmie-dialogu-miedzyreligijnym-i-pokoju" title="W Katowicach o ekumenizmie, dialogu międzyreligijnym i pokoju" target="_self">W Katowicach o ekumenizmie, dialogu międzyreligijnym i pokoju</a></h4><p class="nspText tleft fnull">We wtorek, 2 września, w parafii Świętych Apostołów Piotra i Pawła w Katowicach odbyło się spotkanie przedstawicieli różnych Kościołów i wspólnot religijnych.
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nowy rok szkolny rozpoczęty. Abp Andrzej Przybylski: sama wiedza nie wystarczy]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4269-nowy-rok-szkolny-rozpoczety-abp-andrzej-przybylski-sama-wiedza-nie-wystarczy</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4269-nowy-rok-szkolny-rozpoczety-abp-andrzej-przybylski-sama-wiedza-nie-wystarczy"/>
-        <updated>2026-09-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">02-09-2026</p><a href="/o-diecezji/aktualnosci/4269-nowy-rok-szkolny-rozpoczety-abp-andrzej-przybylski-sama-wiedza-nie-wystarczy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.nrsnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4269-nowy-rok-szkolny-rozpoczety-abp-andrzej-przybylski-sama-wiedza-nie-wystarczy" title="Nowy rok szkolny rozpoczęty. Abp Andrzej Przybylski: sama wiedza nie wystarczy" target="_self">Nowy rok szkolny rozpoczęty. Abp Andrzej Przybylski: sama wiedza nie wystarczy</a></h4><p class="nspText tleft fnull">– Można mieć ogromną wiedzę, ale bez mądrości trudno sobie w życiu poradzić – powiedział abp Andrzej Przybylski podczas Mszy św. inaugurującej nowy rok szkolny i katechetyczny w Wodzisławiu Śląskim-Radlinie.
-...</p>]]></content>
     </entry>
 </feed>

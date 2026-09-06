@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cert.pl/</id>
     <title>CERT POLSKA</title>
-    <updated>2026-09-05T19:12:40.569Z</updated>
+    <updated>2026-09-06T09:34:04.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cert.pl/theme/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Krytyczne podatności w MikroTik RouterOS są aktywnie wykorzystywane. Zalecana pilna aktualizacja]]></title>
+        <id>https://cert.pl/posts/2026/09/podatnosci-w-mikrotik-routeros-aktywnie-wykorzystywane/</id>
+        <link href="https://cert.pl/posts/2026/09/podatnosci-w-mikrotik-routeros-aktywnie-wykorzystywane/"/>
+        <updated>2026-09-06T09:33:34.669Z</updated>
+        <content type="html"><![CDATA[<div class="post-top-wrapper">
+            <div class="top">
+                <span>05 września 2026</span>
+                <span>
+                    <a href="./author/cert-polska/">CERT Polska</a>
+                </span>
+                <span><a href="./tag/ostrzezenie/">#ostrzeżenie</a></span>
+                <span><a href="./tag/podatnosc/">#podatność</a></span>
+                <span><a href="./tag/mikrotik/">#mikrotik</a></span>
+                <span><a href="./tag/routeros/">#routeros</a></span>
+            </div>
+        </div>
+        <a href="./posts/2026/09/podatnosci-w-mikrotik-routeros-aktywnie-wykorzystywane/" class="post-outer-container">
+            <h4>Krytyczne podatności w MikroTik RouterOS są aktywnie wykorzystywane. Zalecana pilna aktualizacja</h4>
+            <div class="grid-x post-container">
+                <div class="large-4 medium-4 small-12">
+                    <img src="/uploads/2026/09/mikrotik_logo.png" class="post-image" alt="Article thumbnail">
+                </div>
+                <div class="large-8 medium-8">
+                    <div class="post-excerpt">
+                        <p>Zespół CERT Polska zidentyfikował i skoordynował ujawnienie sześciu podatności w MikroTik RouterOS, w tym dwóch krytycznych. Podatności te są już aktywnie wykorzystywane do przejmowania urządzeń, których usługa SSH jest dostępna z internetu. Zalecamy pilną aktualizację urządzeń do poprawionych wersji oraz weryfikację konfiguracji pod kątem śladów kompromitacji.</p>
+                        <span class="more">Czytaj więcej</span>
+                    </div>
+                </div>
+            </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nowości od CERT Polska - premiera wiedza.cert.pl i nowa funkcja w moje.cert.pl]]></title>
         <id>https://cert.pl/posts/2026/09/nowosci-cert-polska/</id>
@@ -276,34 +308,6 @@
                 <div class="large-8 medium-8">
                     <div class="post-excerpt">
                         <p>CERT Polska przeanalizował próbkę szkodliwego oprogramowania wykorzystującego wizerunek banku SGB, pochodzącą z kampanii FvncBot wycelowanej w polskich odbiorców. Złośliwa aplikacja instaluje dodatkowe moduły, przekonuje ofiarę do uruchomienia funkcji ułatwień dostępu, a&nbsp;następnie łączy zainfekowane urządzenie z serwerem wydającym przypisane do tego urządzenia dane logowania.</p>
-                        <span class="more">Czytaj więcej</span>
-                    </div>
-                </div>
-            </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERT Polska ma 30 lat]]></title>
-        <id>https://cert.pl/posts/2026/03/30-lat-cert-polska/</id>
-        <link href="https://cert.pl/posts/2026/03/30-lat-cert-polska/"/>
-        <updated>2026-03-11T18:07:42.515Z</updated>
-        <content type="html"><![CDATA[<div class="post-top-wrapper">
-            <div class="top">
-                <span>11 marca 2026</span>
-                <span>
-                    <a href="./author/cert-polska/">CERT Polska</a>
-                </span>
-            </div>
-        </div>
-        <a href="./posts/2026/03/30-lat-cert-polska/" class="post-outer-container">
-            <h4>CERT Polska ma 30 lat</h4>
-            <div class="grid-x post-container">
-                <div class="large-4 medium-4 small-12">
-                    <img src="/uploads/2026/03/30-lat-cert-polska-thumb.png" class="post-image" alt="Article thumbnail">
-                </div>
-                <div class="large-8 medium-8">
-                    <div class="post-excerpt">
-                        <p>Zespół CERT Polska świętuje 30-lecie swojej działalności. Przez trzy dekady zmieniło się niemal wszystko. Internet, z którego w latach 90. korzystała niewielka grupa użytkowników, dziś jest podstawową przestrzenią, dzięki której funkcjonuje wiele aspektów naszego życia. Wraz z jego rozwojem pojawiają się jednak nowe zagrożenia, co jeszcze lepiej pokazuje dlaczego potrzebujemy zespołów takich jak nasz.</p>
                         <span class="more">Czytaj więcej</span>
                     </div>
                 </div>
