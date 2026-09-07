@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-07T10:34:37.109Z</updated>
+    <updated>2026-09-07T20:41:35.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ukazywać piękno Kościoła]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4280-ukazywac-piekno-kosciola</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4280-ukazywac-piekno-kosciola"/>
+        <updated>2026-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-09-2026</p><a href="/o-diecezji/aktualnosci/4280-ukazywac-piekno-kosciola" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ukazywacnsp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4280-ukazywac-piekno-kosciola" title="Ukazywać piękno Kościoła" target="_self">Ukazywać piękno Kościoła</a></h4><p class="nspText tleft fnull">Członkowie Ruchu Światło-Życie w Archikatedrze Chrystusa Króla w Katowicach w niedzielę 6 września przeżywali swój Dzień Wspólnoty.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Andrzej Przybylski spotkał się z abp. Stanislavem Přibylem]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4279-abp-andrzej-przybylski-spotkal-sie-z-abp-stanislavem-pribylem</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-09-2026</p><a href="/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.poligrafnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie" title="Abp Przybylski: szkoła ma pomagać dobrze przeżyć życie" target="_self">Abp Przybylski: szkoła ma pomagać dobrze przeżyć życie</a></h4><p class="nspText tleft fnull">100-lecie Zespołu Szkół Poligraficzno-Mechanicznych w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imieniny ks. bp. Grzegorza Olszowskiego]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4270-imieniny-ks-bp-grzegorza-olszowskiego</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4270-imieniny-ks-bp-grzegorza-olszowskiego"/>
-        <updated>2026-09-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-09-2026</p><a href="/o-diecezji/aktualnosci/4270-imieniny-ks-bp-grzegorza-olszowskiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_grzegorz_imieninynsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4270-imieniny-ks-bp-grzegorza-olszowskiego" title="Imieniny ks. bp. Grzegorza Olszowskiego" target="_self">Imieniny ks. bp. Grzegorza Olszowskiego</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski przewodniczył w kaplicy Kurii Metropolitalnej w Katowicach Mszy św. sprawowanej w intencji bp. Grzegorza Olszowskiego z okazji jego imienin.
 </p>]]></content>
     </entry>
 </feed>
