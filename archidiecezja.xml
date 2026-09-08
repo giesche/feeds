@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-07T20:41:35.943Z</updated>
+    <updated>2026-09-08T09:54:51.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[75. rocznica poświęcenia kościoła Wniebowzięcia NMP w Przełajce]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4282-75-rocznica-poswiecenia-kosciola-wniebowziecia-nmp-w-przelajce</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4282-75-rocznica-poswiecenia-kosciola-wniebowziecia-nmp-w-przelajce"/>
+        <updated>2026-09-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">07-09-2026</p><a href="/o-diecezji/aktualnosci/4282-75-rocznica-poswiecenia-kosciola-wniebowziecia-nmp-w-przelajce" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.przelajkansp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4282-75-rocznica-poswiecenia-kosciola-wniebowziecia-nmp-w-przelajce" title="75. rocznica poświęcenia kościoła Wniebowzięcia NMP w Przełajce" target="_self">75. rocznica poświęcenia kościoła Wniebowzięcia NMP w Przełajce</a></h4><p class="nspText tleft fnull">- Co by to było, gdyby nie było Kościoła? – pytał abp Andrzej Przybylski podczas Mszy św. z okazji 75. rocznicy poświęcenia kościoła Wniebowzięcia Najświętszej Maryi Panny w Przełajce.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukazywać piękno Kościoła]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4280-ukazywac-piekno-kosciola</id>
@@ -60,13 +68,5 @@
         <updated>2026-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-09-2026</p><a href="/o-diecezji/aktualnosci/4272-bp-adam-wodarczyk-polska-nie-jest-wlasnoscia-zadnej-partii" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.jastrzebiensp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4272-bp-adam-wodarczyk-polska-nie-jest-wlasnoscia-zadnej-partii" title="Bp Adam Wodarczyk: Polska nie jest własnością żadnej partii" target="_self">Bp Adam Wodarczyk: Polska nie jest własnością żadnej partii</a></h4><p class="nspText tleft fnull">Bp Adam Wodarczyk przewodniczył w kościele NMP Matki Kościoła w Jastrzębiu-Zdroju Mszy św. za Ojczyznę, sprawowanej w 46. rocznicę podpisania Porozumienia Jastrzębskiego i powstania NSZZ „Solidarność”.
 ...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Przybylski: szkoła ma pomagać dobrze przeżyć życie]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie"/>
-        <updated>2026-09-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-09-2026</p><a href="/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.poligrafnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4275-abp-przybylski-szkola-ma-pomagac-dobrze-przezyc-zycie" title="Abp Przybylski: szkoła ma pomagać dobrze przeżyć życie" target="_self">Abp Przybylski: szkoła ma pomagać dobrze przeżyć życie</a></h4><p class="nspText tleft fnull">100-lecie Zespołu Szkół Poligraficzno-Mechanicznych w Katowicach.
-</p>]]></content>
     </entry>
 </feed>
