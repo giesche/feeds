@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-10T19:55:41.373Z</updated>
+    <updated>2026-09-11T09:54:20.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ks. prof. Jerzy Myszor laureatem nagrody „Świadek Historii” IPN]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4287-swiadek-historii-dla-ks-prof-jerzego-myszora</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4287-swiadek-historii-dla-ks-prof-jerzego-myszora"/>
+        <updated>2026-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">09-09-2026</p><a href="/o-diecezji/aktualnosci/4287-swiadek-historii-dla-ks-prof-jerzego-myszora" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.ks_myszornsp-94.jpg" alt="Foto: Henryk Przondziono /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4287-swiadek-historii-dla-ks-prof-jerzego-myszora" title="Ks. prof. Jerzy Myszor laureatem nagrody „Świadek Historii” IPN" target="_self">Ks. prof. Jerzy Myszor laureatem nagrody „Świadek Historii” IPN</a></h4><p class="nspText tleft fnull">9 września w Filharmonii Śląskiej w Katowicach odbyła się uroczystość uhonorowania laureatów IV edycji Nagrody Honorowej IPN "Świadek Historii" przyznawanej przez Oddział Instytutu Pamięci Narodowej w Katowicac...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abp Andrzej Przybylski zawierzył archidiecezję katowicką Matce Bożej w Lourdes]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4286-abp-andrzej-przybylski-zawierzyl-archidiecezje-katowicka-matce-bozej-w-lourdes</id>
@@ -59,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4279-abp-andrzej-przybylski-spotkal-sie-z-abp-stanislavem-pribylem"/>
         <updated>2026-09-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-09-2026</p><a href="/o-diecezji/aktualnosci/4279-abp-andrzej-przybylski-spotkal-sie-z-abp-stanislavem-pribylem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_pragansp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4279-abp-andrzej-przybylski-spotkal-sie-z-abp-stanislavem-pribylem" title="Abp Andrzej Przybylski spotkał się z abp. Stanislavem Přibylem" target="_self">Abp Andrzej Przybylski spotkał się z abp. Stanislavem Přibylem</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się dwa miesiące po otrzymaniu przez obu arcybiskupów paliuszy, było również okazją do wymiany doświadczeń z pierwszych miesięcy posługi pasterskiej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bp Szkudło w Lourdes: Choroba nie jest wyrokiem]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem"/>
-        <updated>2026-09-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-09-2026</p><a href="/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.lourdes_bp_szkudlonsp-94.jpg" alt="Foto: Katarzyna Widera-Podsiadło /Radio eM"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4278-bp-szkudlo-w-lourdes-choroba-nie-jest-wyrokiem" title="Bp Szkudło w Lourdes: Choroba nie jest wyrokiem" target="_self">Bp Szkudło w Lourdes: Choroba nie jest wyrokiem</a></h4><p class="nspText tleft fnull">Pielgrzymka chorych, osób z niepełnosprawnościami, ich rodzin i opiekunów z archidiecezji katowickiej do Lourdes potrwa od 4 do 9 września.
 </p>]]></content>
     </entry>
 </feed>
