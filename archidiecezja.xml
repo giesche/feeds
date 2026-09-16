@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-15T20:20:40.577Z</updated>
+    <updated>2026-09-16T10:09:53.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Msza św. w intencji mieszkańców miasta Katowice]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4301-msza-sw-w-intencji-mieszkancow-miasta-katowice</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4301-msza-sw-w-intencji-mieszkancow-miasta-katowice"/>
+        <updated>2026-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-09-2026</p><a href="/o-diecezji/aktualnosci/4301-msza-sw-w-intencji-mieszkancow-miasta-katowice" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_katowice26nsp-94.jpg" alt="Foto: Krzysztof Gawor/Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4301-msza-sw-w-intencji-mieszkancow-miasta-katowice" title="Msza św. w intencji mieszkańców miasta Katowice" target="_self">Msza św. w intencji mieszkańców miasta Katowice</a></h4><p class="nspText tleft fnull">– Termometrem dobra i postępu miasta nie są tylko wieżowce i wielkie budowle. Są nim również szpitale, hospicja i cała społeczna opieka – mówił abp Andrzej Przybylski 13 września w archikatedrze Chrystusa Króla...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urodziny Leona XIV: co przyniósł kolejny rok życia Papieża?]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4300-urodziny-leona-xiv-co-przyniosl-kolejny-rok-zycia-papieza</id>
@@ -58,14 +65,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4297-nie-tylko-gasic-pozary-dzien-skupienia-doradcow-zycia-rodzinnego"/>
         <updated>2026-09-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">12-09-2026</p><a href="/o-diecezji/aktualnosci/4297-nie-tylko-gasic-pozary-dzien-skupienia-doradcow-zycia-rodzinnego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.doradcynsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4297-nie-tylko-gasic-pozary-dzien-skupienia-doradcow-zycia-rodzinnego" title="Nie tylko gasić pożary – Dzień Skupienia Doradców Życia Rodzinnego" target="_self">Nie tylko gasić pożary – Dzień Skupienia Doradców Życia Rodzinnego</a></h4><p class="nspText tleft fnull">W kościele akademickim i w gmachu Wydziału Teologicznego Uniwersytetu Śląskiego w Katowicach odbył się Dzień Skupienia Doradców Życia Rodzinnego.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8. rocznica sakry biskupiej bp. Grzegorza Olszowskiego]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4292-8-rocznica-sakry-biskupiej-bp-grzegorza-olszowskiego</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4292-8-rocznica-sakry-biskupiej-bp-grzegorza-olszowskiego"/>
-        <updated>2026-09-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">11-09-2026</p><a href="/o-diecezji/aktualnosci/4292-8-rocznica-sakry-biskupiej-bp-grzegorza-olszowskiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_olszowskinsp-94.jpg" alt="Foto: Archiwum prywatne"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4292-8-rocznica-sakry-biskupiej-bp-grzegorza-olszowskiego" title="8. rocznica sakry biskupiej bp. Grzegorza Olszowskiego" target="_self">8. rocznica sakry biskupiej bp. Grzegorza Olszowskiego</a></h4><p class="nspText tleft fnull">W sobotę 12 września w Uroczystość Matki Boskiej Piekarskiej przypada 8. rocznica święceń biskupich bp. Grzegorza Olszowskiego.
 </p>]]></content>
     </entry>
 </feed>

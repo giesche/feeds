@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-09-15T20:20:40.553Z</updated>
+    <updated>2026-09-16T10:09:53.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
-        <title type="html"><![CDATA[Akt o cyberodporności (CRA)  – podstawowe informacje]]></title>
+        <title type="html"><![CDATA[Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD]]></title>
+        <id>https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/</id>
+        <link href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/"/>
+        <updated>2026-09-16T08:12:12.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" title="Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_Kobernetes_9-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/konteneryzacja/"><span class="category-square" style="background: #f6ff00"></span><span class="category-name">Konteneryzacja</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" rel="bookmark">Praktyczny Kubernetes cz.9 – CI/CD i&nbsp;GitOps z&nbsp;ArgoCD&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="16 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-16T10:12:12+02:00">16 września 2026</time></span>			<span class="post-views">
+				74&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Żeby zrozumieć GitOps, musimy cofnąć ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" rel="bookmark" title="Czytaj Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akt o cyberodporności (CRA)  – podstawowe...]]></title>
         <id>https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/</id>
         <link href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/"/>
         <updated>2026-09-03T11:14:05.000Z</updated>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" title="Akt o cyberodporności (CRA)&nbsp; – podstawowe informacje&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="Akt o cyberodporności (CRA)&nbsp; – podstawowe informacje&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_CRA-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" rel="bookmark">Akt o&nbsp;cyberodporności (CRA)&nbsp; – podstawowe informacje&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" rel="bookmark">Akt o&nbsp;cyberodporności (CRA)&nbsp; – podstawowe...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="3 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-03T13:14:05+02:00">3 września 2026</time></span>			<span class="post-views">
-				568&nbsp;<i class="icon-eye"></i>			</span>
+				573&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" rel="bookmark">Podatności na&nbsp;radarze – sierpień</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="2 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-02T11:46:53+02:00">2 września 2026</time></span>			<span class="post-views">
-				235&nbsp;<i class="icon-eye"></i>			</span>
+				237&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/" rel="bookmark">Sieciówka: sierpień 2026 – Akademia Władców...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Chrzan</span><span class="post-date" itemprop="dateCreated" datetime="31 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-31T09:50:31+02:00">31 sierpnia 2026</time></span>			<span class="post-views">
-				323&nbsp;<i class="icon-eye"></i>			</span>
+				325&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/" rel="bookmark" title="Czytaj Sieciówka: sierpień 2026 – Akademia Władców Sieci, AI ACT, Wyciek danych">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEBA od środka – jak AI buduje profile użytkowników...]]></title>
-        <id>https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/</id>
-        <link href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/"/>
-        <updated>2026-08-24T11:31:50.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" title="UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;" rel="bookmark" class="post-img-link">
-	<img alt="UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_UEBA-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" rel="bookmark">UEBA od&nbsp;środka – jak AI buduje profile użytkowników...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Rafał Gołębiowski</span><span class="post-date" itemprop="dateCreated" datetime="24 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-24T13:31:50+02:00">24 sierpnia 2026</time></span>			<span class="post-views">
-				313&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Wraz z&nbsp;rosnącą liczbą danych ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/08/24/ueba-od-srodka-jak-ai-buduje-profile-uzytkownikow-i-hostow/" rel="bookmark" title="Czytaj UEBA od środka – jak AI buduje profile użytkowników i hostów&nbsp;">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
