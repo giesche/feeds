@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-19T19:27:25.272Z</updated>
+    <updated>2026-09-20T09:56:13.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dzień Jedności wspólnot Odnowy w Duchu Świętym w Archidiecezji Katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4308-dzien-jednosci-wspolnot-odnowy-w-duchu-swietym-w-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4308-dzien-jednosci-wspolnot-odnowy-w-duchu-swietym-w-archidiecezji-katowickiej"/>
+        <updated>2026-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">19-09-2026</p><a href="/o-diecezji/aktualnosci/4308-dzien-jednosci-wspolnot-odnowy-w-duchu-swietym-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.odnowansp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4308-dzien-jednosci-wspolnot-odnowy-w-duchu-swietym-w-archidiecezji-katowickiej" title="Dzień Jedności wspólnot Odnowy w Duchu Świętym w Archidiecezji Katowickiej" target="_self">Dzień Jedności wspólnot Odnowy w Duchu Świętym w Archidiecezji Katowickiej</a></h4><p class="nspText tleft fnull">W spotkaniu uczestniczyli członkowie wspólnot działających w różnych parafiach archidiecezji.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Adam Wodarczyk: misjonarzem nie jest się indywidualnie, tylko w żywej wspólnocie]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4307-bp-adam-wodarczyk-misjonarzem-nie-jest-sie-indywidualnie-tylko-w-zywej-wspolnocie</id>
@@ -59,12 +67,5 @@
         <updated>2026-09-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">14-09-2026</p><a href="/o-diecezji/aktualnosci/4300-urodziny-leona-xiv-co-przyniosl-kolejny-rok-zycia-papieza" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.papaLeonnsp-94.jpg" alt="Foto: vaticannews.va"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4300-urodziny-leona-xiv-co-przyniosl-kolejny-rok-zycia-papieza" title="Urodziny Leona XIV: co przyniósł kolejny rok życia Papieża?" target="_self">Urodziny Leona XIV: co przyniósł kolejny rok życia Papieża?</a></h4><p class="nspText tleft fnull">Pierwsze podróże apostolskie, historyczne wizyty, encyklika o sztucznej inteligencji oraz nieustanne apele o pokój – tak wyglądał miniony rok życia Leona XIV. 14 września Papież kończy 71 lat.
 ...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Każda rodzina jest święta". Pielgrzymka rodzin do Matki Bożej Piekarskiej]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4304-kazda-rodzina-jest-swieta-pielgrzymka-rodzin-do-matki-bozej-piekarskiej</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4304-kazda-rodzina-jest-swieta-pielgrzymka-rodzin-do-matki-bozej-piekarskiej"/>
-        <updated>2026-09-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">16-09-2026</p><a href="/o-diecezji/aktualnosci/4304-kazda-rodzina-jest-swieta-pielgrzymka-rodzin-do-matki-bozej-piekarskiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piekary_rodzinnsp-94.jpg" alt="Foto: Magdalena Lubecka /Foto Lubecki"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4304-kazda-rodzina-jest-swieta-pielgrzymka-rodzin-do-matki-bozej-piekarskiej" title="&quot;Każda rodzina jest święta&quot;. Pielgrzymka rodzin do Matki Bożej Piekarskiej" target="_self">"Każda rodzina jest święta". Pielgrzymka rodzin do Matki Bożej Piekarskiej</a></h4><p class="nspText tleft fnull">- Rodzina jest miejscem, w którym przekazywana jest wiara, pamięć i tożsamość kolejnych pokoleń - mówił podczas pielgrzymki rodzin do Matki Bożej Piekarskiej ks. dr Mirosław Godziek, proboszcz i kustosz piekars...</p>]]></content>
     </entry>
 </feed>
