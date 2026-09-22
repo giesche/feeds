@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-09-21T21:10:27.414Z</updated>
+    <updated>2026-09-22T10:10:38.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall]]></title>
+        <id>https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/</id>
+        <link href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/"/>
+        <updated>2026-09-22T08:03:40.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" title="Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall&nbsp;&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall&nbsp;&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_AIvsDLP-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" rel="bookmark">Wyciek do&nbsp;AI: Gdzie kończy się DLP, a&nbsp;zaczyna AI Firewall&nbsp;&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Oliwia Jaskólska</span><span class="post-date" itemprop="dateCreated" datetime="22 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-22T10:03:40+02:00">22 września 2026</time></span>			<span class="post-views">
+				87&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Wraz z&nbsp;gwałtowną adaptacją narzędzi ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" rel="bookmark" title="Czytaj Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall&nbsp;&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD]]></title>
         <id>https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/</id>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" title="Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="Praktyczny Kubernetes cz.9 – CI/CD i GitOps z ArgoCD&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_Kobernetes_9-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/konteneryzacja/"><span class="category-square" style="background: #f6ff00"></span><span class="category-name">Konteneryzacja</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" rel="bookmark">Praktyczny Kubernetes cz.9 – CI/CD i&nbsp;GitOps z&nbsp;ArgoCD&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="16 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-16T10:12:12+02:00">16 września 2026</time></span>			<span class="post-views">
-				193&nbsp;<i class="icon-eye"></i>			</span>
+				196&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" rel="bookmark">Akt o&nbsp;cyberodporności (CRA)&nbsp; – podstawowe...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="3 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-03T13:14:05+02:00">3 września 2026</time></span>			<span class="post-views">
-				605&nbsp;<i class="icon-eye"></i>			</span>
+				612&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" rel="bookmark">Podatności na&nbsp;radarze – sierpień</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="2 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-02T11:46:53+02:00">2 września 2026</time></span>			<span class="post-views">
-				269&nbsp;<i class="icon-eye"></i>			</span>
+				271&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" rel="bookmark" title="Czytaj Podatności na radarze – sierpień">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sieciówka: sierpień 2026 – Akademia Władców...]]></title>
-        <id>https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/</id>
-        <link href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/"/>
-        <updated>2026-08-31T07:50:31.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/" title="Sieciówka: sierpień 2026 – Akademia Władców Sieci, AI ACT, Wyciek danych" rel="bookmark" class="post-img-link">
-	<img alt="Sieciówka: sierpień 2026 – Akademia Władców Sieci, AI ACT, Wyciek danych" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/08/WS_Sieciowka_sierpien-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/" rel="bookmark">Sieciówka: sierpień 2026 – Akademia Władców...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Angelika Chrzan</span><span class="post-date" itemprop="dateCreated" datetime="31 sierpnia 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-08-31T09:50:31+02:00">31 sierpnia 2026</time></span>			<span class="post-views">
-				403&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Cześć i&nbsp;czołem! Wakacje powoli ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/08/31/sieciowka-sierpien-2026-akademia-wladcow-sieci-ai-act-wyciek-danych/" rel="bookmark" title="Czytaj Sieciówka: sierpień 2026 – Akademia Władców Sieci, AI ACT, Wyciek danych">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
