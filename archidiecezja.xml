@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-22T10:10:38.615Z</updated>
+    <updated>2026-09-22T20:19:50.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jest nowy dyrektor Muzeum Archidiecezjalnego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4314-jest-nowy-dyrektor-muzeum-archidiecezjalnego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4314-jest-nowy-dyrektor-muzeum-archidiecezjalnego"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-09-2026</p><a href="/o-diecezji/aktualnosci/4314-jest-nowy-dyrektor-muzeum-archidiecezjalnego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dyr_muzeumnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4314-jest-nowy-dyrektor-muzeum-archidiecezjalnego" title="Jest nowy dyrektor Muzeum Archidiecezjalnego" target="_self">Jest nowy dyrektor Muzeum Archidiecezjalnego</a></h4><p class="nspText tleft fnull">Abp Andrzej Przybylski mianował ks. dr. Leszka Makówkę, przewodniczącego Archidiecezjalnej Komisji Architektury i Sztuki Sakralnej, dyrektorem Muzeum Archidiecezjalnego w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 lat biskupiej posługi bp. Dariusza Kałuży]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4313-10-lat-biskupiej-poslugi-bp-dariusza-kaluzy</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4306-to-byla-piekna-przygoda-teraz-czas-na-jej-owoce"/>
         <updated>2026-09-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">18-09-2026</p><a href="/o-diecezji/aktualnosci/4306-to-byla-piekna-przygoda-teraz-czas-na-jej-owoce" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.wtlnsp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4306-to-byla-piekna-przygoda-teraz-czas-na-jej-owoce" title="To była piękna przygoda. Teraz czas na jej owoce!" target="_self">To była piękna przygoda. Teraz czas na jej owoce!</a></h4><p class="nspText tleft fnull">Tegoroczni absolwenci Wydziału Teologicznego wspólnie dziękowali za czas nauki.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dożynki w ośrodku Caritas w Borowej Wsi]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4305-dozynki-w-osrodku-caritas-w-borowej-wsi</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4305-dozynki-w-osrodku-caritas-w-borowej-wsi"/>
-        <updated>2026-09-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">17-09-2026</p><a href="/o-diecezji/aktualnosci/4305-dozynki-w-osrodku-caritas-w-borowej-wsi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.borowa_wiesnsp-94.jpg" alt="Foto: Agnieszka Huf"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4305-dozynki-w-osrodku-caritas-w-borowej-wsi" title="Dożynki w ośrodku Caritas w Borowej Wsi" target="_self">Dożynki w ośrodku Caritas w Borowej Wsi</a></h4><p class="nspText tleft fnull">– Żeby naprawdę nikomu nie zabrakło chleba – życzył uczestnikom dożynek abp Andrzej Przybylski.
 </p>]]></content>
     </entry>
 </feed>
