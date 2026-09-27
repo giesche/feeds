@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-09-26T20:01:40.001Z</updated>
+    <updated>2026-09-27T10:39:29.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Pielgrzymi z Piotrowic w Fatimie. Modlitwa w rocznicę poświęcenia kościoła]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4322-pielgrzymi-z-piotrowic-w-fatimie-modlitwa-w-rocznice-poswiecenia-kosciola</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4322-pielgrzymi-z-piotrowic-w-fatimie-modlitwa-w-rocznice-poswiecenia-kosciola"/>
-        <updated>2026-09-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">26-09-2026</p><a href="/o-diecezji/aktualnosci/4322-pielgrzymi-z-piotrowic-w-fatimie-modlitwa-w-rocznice-poswiecenia-kosciola" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.piotronsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4322-pielgrzymi-z-piotrowic-w-fatimie-modlitwa-w-rocznice-poswiecenia-kosciola" title="Pielgrzymi z Piotrowic w Fatimie. Modlitwa w rocznicę poświęcenia kościoła" target="_self">Pielgrzymi z Piotrowic w Fatimie. Modlitwa w rocznicę poświęcenia kościoła</a></h4><p class="nspText tleft fnull">Parafianie i pielgrzymi z parafii Matki Bożej Fatimskiej w Katowicach-Piotrowicach od 23 do 30 września pielgrzymują do Fatimy. Towarzyszy im abp Andrzej Przybylski, który rok temu poświęcił ich świątynię.
-...</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Bp Grzegorz Olszowski: „Nie możemy lukrować rzeczywistości. Trzeba stawać w prawdzie"]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4318-bp-grzegorz-olszowski-nie-mozemy-lukrowac-rzeczywistosci-trzeba-stawac-w-prawdzie</id>
@@ -67,6 +59,14 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4313-10-lat-biskupiej-poslugi-bp-dariusza-kaluzy"/>
         <updated>2026-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">21-09-2026</p><a href="/o-diecezji/aktualnosci/4313-10-lat-biskupiej-poslugi-bp-dariusza-kaluzy" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bpkaluzansp-94.jpg" alt="Foto: Jacek Cisło"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4313-10-lat-biskupiej-poslugi-bp-dariusza-kaluzy" title="10 lat biskupiej posługi bp. Dariusza Kałuży" target="_self">10 lat biskupiej posługi bp. Dariusza Kałuży</a></h4><p class="nspText tleft fnull">W kościele Matki Bożej Szkaplerznej w Brzeźcach bp Dariusz Kałuża, przewodniczył Mszy św. z okazji 10. rocznicy przyjęcia sakry biskupiej.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dzień Wspólnoty Dzieci Maryi]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4311-dzien-wspolnoty-dzieci-maryi-3</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4311-dzien-wspolnoty-dzieci-maryi-3"/>
+        <updated>2026-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">20-09-2026</p><a href="/o-diecezji/aktualnosci/4311-dzien-wspolnoty-dzieci-maryi-3" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dziecim26nsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4311-dzien-wspolnoty-dzieci-maryi-3" title="Dzień Wspólnoty Dzieci Maryi" target="_self">Dzień Wspólnoty Dzieci Maryi</a></h4><p class="nspText tleft fnull">- Bądźcie pomocnikami Jezusa w Jego winnicy – powiedział abp Andrzej Przybylski podczas Mszy sprawowanej w Katedrze Chrystusa Króla w Katowicach.
 </p>]]></content>
     </entry>
 </feed>
