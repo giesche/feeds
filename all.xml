@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giesche.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-29T11:28:51.720Z</updated>
+    <updated>2026-09-29T21:29:41.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[🥇 Uzbekistan i Chiny wygrywają, przypieczętowując złoto. Polki tuż za podium (Chess.com Aktualności)]]></title>
@@ -2002,6 +2002,20 @@
         <content type="html"><![CDATA[<div class="themeum-latest-featured-post-item common-post-item"><a href="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/"><div class="overlay black yes"></div></a><a href="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/"><div class="common-post-item-in" style="height:253px;background: url(https://www.oaza.pl/wp-content/uploads/Plakat-CDS-263x253.jpg) no-repeat;background-size: cover;"></div></a><div class="newedge-post-share-social"><a href="#" data-type="facebook" data-url="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/" data-title="Formacyjne Spotkania Społeczne – IV edycja 2026" data-description="Formacyjne Spotkania Społeczne – IV edycja 2026" data-media="https://www.oaza.pl/wp-content/uploads/Plakat-CDS.jpg" class="prettySocial fa fa-facebook"></a><a href="#" data-type="twitter" data-url="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/" data-description="Formacyjne Spotkania Społeczne – IV edycja 2026" data-via="" class="prettySocial fa fa-twitter"></a><a href="#" data-type="googleplus" data-url="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/" data-description="Formacyjne Spotkania Społeczne – IV edycja 2026" class="prettySocial fa fa-google-plus"></a><a href="#" data-type="pinterest" data-url="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/" data-description="Formacyjne Spotkania Społeczne – IV edycja 2026" data-media="https://www.oaza.pl/wp-content/uploads/Plakat-CDS.jpg" class="prettySocial fa fa-pinterest"></a><a href="#" data-type="linkedin" data-url="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/" data-title="Formacyjne Spotkania Społeczne – IV edycja 2026" data-description="Formacyjne Spotkania Społeczne – IV edycja 2026" data-via="" data-media="https://www.oaza.pl/wp-content/uploads/Plakat-CDS.jpg" class="prettySocial fa fa-linkedin"></a><div class="share-icon"><i class="fa fa-share-alt"></i></div></div><a href="#sign-in" class="bookmark logout-bookmark" data-toggle="modal" data-target="#sign-in"></a><div class="common-post-item-intro"><span class="entry-category blue"></span><h3 class="entry-title"><a href="https://www.oaza.pl/formacyjne-spotkania-spoleczne-iv-edycja/">Formacyjne Spotkania Społeczne – IV edycja 2026</a></h3></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Szkoła Uczniów Chrystusa (Katowice Oaza)]]></title>
+        <id>https://katowiceoaza.pl/szkola-uczniow-chrystusa/</id>
+        <link href="https://katowiceoaza.pl/szkola-uczniow-chrystusa/"/>
+        <updated>2026-09-28T21:35:05.000Z</updated>
+        <content type="html"><![CDATA[<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">
+
+
+<figure class="wp-block-post-featured-image"><img width="940" height="788" src="https://katowiceoaza.pl/wp-content/uploads/2026/09/Szkola-Uczniow-Chrystusa-post.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/09/Szkola-Uczniow-Chrystusa-post.png 940w, https://katowiceoaza.pl/wp-content/uploads/2026/09/Szkola-Uczniow-Chrystusa-post-300x251.png 300w, https://katowiceoaza.pl/wp-content/uploads/2026/09/Szkola-Uczniow-Chrystusa-post-768x644.png 768w" sizes="auto, (max-width: 940px) 100vw, 940px"></figure>
+
+<h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/szkola-uczniow-chrystusa/" target="_self">Szkoła Uczniów Chrystusa</a></h2>
+
+<div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-09-28T23:35:05+02:00">28 września 2026</time></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zaproszenie od Muza Dei (Katowice Oaza)]]></title>
         <id>https://katowiceoaza.pl/zaproszenie-od-muza-dei/</id>
         <link href="https://katowiceoaza.pl/zaproszenie-od-muza-dei/"/>
@@ -2070,58 +2084,6 @@
 <h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/wazny-czlowiek-wazne-dzielo/" target="_self">Ważny człowiek, ważne dzieło!</a></h2>
 
 <div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-03-07T09:46:07+01:00">7 marca 2026</time></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission (im)Possible – kilka słów od Diakonii Misyjnej (Katowice Oaza)]]></title>
-        <id>https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej/</id>
-        <link href="https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej/"/>
-        <updated>2026-03-02T18:52:08.000Z</updated>
-        <content type="html"><![CDATA[<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">
-
-
-<figure class="wp-block-post-featured-image"><img width="1080" height="1350" src="https://katowiceoaza.pl/wp-content/uploads/2026/03/projekt-bez-nazwy-3.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/03/projekt-bez-nazwy-3.png 1080w, https://katowiceoaza.pl/wp-content/uploads/2026/03/projekt-bez-nazwy-3-240x300.png 240w, https://katowiceoaza.pl/wp-content/uploads/2026/03/projekt-bez-nazwy-3-819x1024.png 819w, https://katowiceoaza.pl/wp-content/uploads/2026/03/projekt-bez-nazwy-3-768x960.png 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px"></figure>
-
-<h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej/" target="_self">Mission (im)Possible – kilka słów od Diakonii Misyjnej</a></h2>
-
-<div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-03-02T19:52:08+01:00">2 marca 2026</time></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Szkoła Uczniów Chrystusa (Katowice Oaza)]]></title>
-        <id>https://katowiceoaza.pl/szkola-uczniow-chrystusa/</id>
-        <link href="https://katowiceoaza.pl/szkola-uczniow-chrystusa/"/>
-        <updated>2026-09-28T21:35:05.000Z</updated>
-        <content type="html"><![CDATA[<h2 class="wp-block-post-title"><a href="https://katowiceoaza.pl/szkola-uczniow-chrystusa/" target="_self">Szkoła Uczniów Chrystusa</a></h2>
-
-
-<div class="wp-block-columns has-light-background-color has-background is-layout-flex wp-container-core-columns-is-layout-34d4f77b wp-block-columns-is-layout-flex" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%"><div class="wp-block-post-author has-small-font-size"><div class="wp-block-post-author__avatar"><img alt="" src="https://secure.gravatar.com/avatar/19fb0916900ba4afc025117c653e6013b4f19e4803e0a81ab4cc45921931a988?s=48&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/19fb0916900ba4afc025117c653e6013b4f19e4803e0a81ab4cc45921931a988?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48" loading="lazy" decoding="async"></div><div class="wp-block-post-author__content"><p class="wp-block-post-author__byline">Autor</p><p class="wp-block-post-author__name">Redakcja</p></div></div></div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"><div class="taxonomy-category wp-block-post-terms has-small-font-size"><a href="https://katowiceoaza.pl/category/newsy/" rel="tag">Aktualności</a></div></div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%"><div style="font-size:0.8rem;font-style:normal;font-weight:300" class="has-text-align-right wp-block-post-date"><time datetime="2026-09-28T23:35:05+02:00">28 września 2026</time></div></div>
-</div>
-
-
-
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-952ccc31 wp-block-columns-is-layout-flex" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:30%"></div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:70%"><div style="font-size:0.9rem;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px" class="single-post-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Zapraszamy wszystkie osoby po ONŻ III, które szukają swojego miejsca na spotkanie wspólnoty. Zapewniamy radość, kawę i modlitwę. Czego chcieć więcej?! Spotykamy się za każdym razem w Domu na ul. Różyckiego 8. Terminy naszych spotkań: 28.09 – Świętowanie – pierwsze spotkanie Modlitwa i Agapa czyli 19:00 i 19:25&nbsp;&nbsp; 26.10 – Kawa i modlitwa czyli 19:00… </p></div>
-
-
-<div class="wp-block-group is-content-justification-right is-nowrap is-layout-flex wp-container-core-group-is-layout-b48010d7 wp-block-group-is-layout-flex"><a style="border-radius:20px;border-width:0px;padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px" class="wp-block-read-more has-text-color has-background-color has-background has-primary-background-color" href="https://katowiceoaza.pl/szkola-uczniow-chrystusa/" target="_self">Dowiedz się więcej<span class="screen-reader-text">: Szkoła Uczniów Chrystusa</span></a></div>
-</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌿 Pielgrzymka KWC do Gietrzwałdu – 26 września 2026. (Katowice Oaza)]]></title>
@@ -2273,6 +2235,44 @@
 <hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[35 Wielkanocny Dzień Wspólnoty DK EMAUS. (Katowice Oaza)]]></title>
+        <id>https://katowiceoaza.pl/35-wielkanocny-dzien-wspolnoty-dk-emaus/</id>
+        <link href="https://katowiceoaza.pl/35-wielkanocny-dzien-wspolnoty-dk-emaus/"/>
+        <updated>2026-03-25T09:10:51.000Z</updated>
+        <content type="html"><![CDATA[<h2 class="wp-block-post-title"><a href="https://katowiceoaza.pl/35-wielkanocny-dzien-wspolnoty-dk-emaus/" target="_self">35 Wielkanocny Dzień Wspólnoty DK EMAUS.</a></h2>
+
+
+<div class="wp-block-columns has-light-background-color has-background is-layout-flex wp-container-core-columns-is-layout-34d4f77b wp-block-columns-is-layout-flex" style="padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%"><div class="wp-block-post-author has-small-font-size"><div class="wp-block-post-author__avatar"><img alt="" src="https://secure.gravatar.com/avatar/cd4adeb6ae16d32f046deb60dba0a750e010094531377eb47c1c4c647c6c8187?s=48&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cd4adeb6ae16d32f046deb60dba0a750e010094531377eb47c1c4c647c6c8187?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48" loading="lazy" decoding="async"></div><div class="wp-block-post-author__content"><p class="wp-block-post-author__byline">Autor</p><p class="wp-block-post-author__name">Para Diecezjalna DK</p></div></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%"><div class="taxonomy-category wp-block-post-terms has-small-font-size"><a href="https://katowiceoaza.pl/category/newsy/" rel="tag">Aktualności</a><span class="wp-block-post-terms__separator">, </span><a href="https://katowiceoaza.pl/category/aktualnosci-dk/" rel="tag">Aktualności Domowego Kościoła</a></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%"><div style="font-size:0.8rem;font-style:normal;font-weight:300" class="has-text-align-right wp-block-post-date"><time datetime="2026-03-25T10:10:51+01:00">25 marca 2026</time></div></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-952ccc31 wp-block-columns-is-layout-flex" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:30%"><figure class="alignwide wp-block-post-featured-image"><a href="https://katowiceoaza.pl/35-wielkanocny-dzien-wspolnoty-dk-emaus/" target="_self"><img width="1131" height="1599" src="https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="35 Wielkanocny Dzień Wspólnoty DK EMAUS." style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b.jpg 1131w, https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b-212x300.jpg 212w, https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b-724x1024.jpg 724w, https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b-768x1086.jpg 768w, https://katowiceoaza.pl/wp-content/uploads/2026/03/3076aa52-eb35-4c40-8395-a93e3a6d109b-1086x1536.jpg 1086w" sizes="auto, (max-width: 1131px) 100vw, 1131px"></a></figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:70%"><div style="font-size:0.9rem;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px" class="single-post-excerpt wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt"> </p></div>
+
+
+<div class="wp-block-group is-content-justification-right is-nowrap is-layout-flex wp-container-core-group-is-layout-b48010d7 wp-block-group-is-layout-flex"><a style="border-radius:20px;border-width:0px;padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px" class="wp-block-read-more has-text-color has-background-color has-background has-primary-background-color" href="https://katowiceoaza.pl/35-wielkanocny-dzien-wspolnoty-dk-emaus/" target="_self">Dowiedz się więcej<span class="screen-reader-text">: 35 Wielkanocny Dzień Wspólnoty DK EMAUS.</span></a></div>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (Katowice Oaza)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
@@ -2391,84 +2391,115 @@
 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Premiera GPT-6.1 Astra odwołana. Testy wykazały coś dziwnego (CentrumXP)]]></title>
+        <id>https://giesche.github.io/feeds/all.xml</id>
+        <link href="https://giesche.github.io/feeds/all.xml"/>
+        <updated>2026-09-29T21:29:29.352Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Premiera GPT-6.1 Astra odwołana. Testy wykazały coś dziwnego"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Premiera GPT-6.1 Astra odwołana. Testy wykazały coś dziwnego</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.09.2026, 16:20</p><p><strong>Liczba odsłon: </strong>118</p></div><p class="hyNtP12Spf">OpenAI podjął decyzję o wstrzymaniu premiery potężnego GPT-6.1 Astra. Model wykazywał skłonność do ukrywania swoich działań i przekraczania uprawnień</p></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft zmienia interfejs Teams. Dostęp do Copilota będzie prostszy (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.107Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft zmienia interfejs Teams. Dostęp do Copilota będzie prostszy"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft zmienia interfejs Teams. Dostęp do Copilota będzie prostszy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>130</p></div><p class="hyNtP12Spf">Microsoft zapowiedział zmiany w sposobie obsługi Copilota w Teams. Oto, jakie zmiany w interfejsie pojawią się w październiku</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.365Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft zmienia interfejs Teams. Dostęp do Copilota będzie prostszy"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft zmienia interfejs Teams. Dostęp do Copilota będzie prostszy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>29.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>220</p></div><p class="hyNtP12Spf">Microsoft zapowiedział zmiany w sposobie obsługi Copilota w Teams. Oto, jakie zmiany w interfejsie pojawią się w październiku</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ewolucja cennika Copilota. Microsoft stawia na model hybrydowy (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.109Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Ewolucja cennika Copilota. Microsoft stawia na model hybrydowy"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ewolucja cennika Copilota. Microsoft stawia na model hybrydowy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>209</p></div><p class="hyNtP12Spf">Microsoft ogłosił ewolucję modelu płatności za Copilota, łącząc stały abonament miesięczny z opłatami za faktyczne zużycie. Które funkcje im podlegają?</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.368Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Ewolucja cennika Copilota. Microsoft stawia na model hybrydowy"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Ewolucja cennika Copilota. Microsoft stawia na model hybrydowy</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>28.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>221</p></div><p class="hyNtP12Spf">Microsoft ogłosił ewolucję modelu płatności za Copilota, łącząc stały abonament miesięczny z opłatami za faktyczne zużycie. Które funkcje im podlegają?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft zmienia Copilota. Wchodzą nowe moduły Home, Code i Autopilot (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.111Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft zmienia Copilota. Wchodzą nowe moduły Home, Code i Autopilot"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft zmienia Copilota. Wchodzą nowe moduły Home, Code i Autopilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.09.2026, 12:00</p><p><strong>Liczba odsłon: </strong>394</p></div><p class="hyNtP12Spf">Microsoft gruntownie przebudowuje Copilota, wprowadzając moduły Home, Code oraz Autopilot. Rozwiązanie łączy codzienne narzędzia z zaawansowanymi agentami AI</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.369Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft zmienia Copilota. Wchodzą nowe moduły Home, Code i Autopilot"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft zmienia Copilota. Wchodzą nowe moduły Home, Code i Autopilot</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>26.09.2026, 12:00</p><p><strong>Liczba odsłon: </strong>407</p></div><p class="hyNtP12Spf">Microsoft gruntownie przebudowuje Copilota, wprowadzając moduły Home, Code oraz Autopilot. Rozwiązanie łączy codzienne narzędzia z zaawansowanymi agentami AI</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Claude Opus 5.5 i GPT-6 Sol w Wordzie i Excelu. Oto nowa jakość pracy z AI (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.112Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Claude Opus 5.5 i GPT-6 Sol w Wordzie i Excelu. Oto nowa jakość pracy z AI"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Claude Opus 5.5 i GPT-6 Sol w Wordzie i Excelu. Oto nowa jakość pracy z AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>701</p></div><p class="hyNtP12Spf">Potężne modele Claude Opus 5.5 od Anthropic oraz GPT-6 Sol od OpenAI są już dostępne w Microsoft 365 Copilot oraz Microsoft Foundry</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.370Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Claude Opus 5.5 i GPT-6 Sol w Wordzie i Excelu. Oto nowa jakość pracy z AI"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Claude Opus 5.5 i GPT-6 Sol w Wordzie i Excelu. Oto nowa jakość pracy z AI</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>25.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>728</p></div><p class="hyNtP12Spf">Potężne modele Claude Opus 5.5 od Anthropic oraz GPT-6 Sol od OpenAI są już dostępne w Microsoft 365 Copilot oraz Microsoft Foundry</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-6 Sol i Luna już są. OpenAI stawia na wydajność i niższe koszty (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.112Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="GPT-6 Sol i Luna już są. OpenAI stawia na wydajność i niższe koszty"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-6 Sol i Luna już są. OpenAI stawia na wydajność i niższe koszty</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.09.2026, 16:00</p><p><strong>Liczba odsłon: </strong>450</p></div><p class="hyNtP12Spf">OpenAI wprowadza nowe warianty modelu GPT-6: Sol oraz Luna. Są one już dostępne w dla użytkowników Copilota i Microsoft Foundry</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.375Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="GPT-6 Sol i Luna już są. OpenAI stawia na wydajność i niższe koszty"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">GPT-6 Sol i Luna już są. OpenAI stawia na wydajność i niższe koszty</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>24.09.2026, 16:00</p><p><strong>Liczba odsłon: </strong>467</p></div><p class="hyNtP12Spf">OpenAI wprowadza nowe warianty modelu GPT-6: Sol oraz Luna. Są one już dostępne w dla użytkowników Copilota i Microsoft Foundry</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wbudowana przeglądarka w Copilocie. Strony otworzysz bezpośrednio w oknie czatu (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.113Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Wbudowana przeglądarka w Copilocie. Strony otworzysz bezpośrednio w oknie czatu"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Wbudowana przeglądarka w Copilocie. Strony otworzysz bezpośrednio w oknie czatu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>21.09.2026, 17:00</p><p><strong>Liczba odsłon: </strong>410</p></div><p class="hyNtP12Spf">Microsoft wprowadza do aplikacji Copilot dla systemów Windows i macOS wbudowaną przeglądarkę internetową. Umożliwia otwieranie stron w panelu bocznym</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.375Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Wbudowana przeglądarka w Copilocie. Strony otworzysz bezpośrednio w oknie czatu"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Wbudowana przeglądarka w Copilocie. Strony otworzysz bezpośrednio w oknie czatu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>21.09.2026, 17:00</p><p><strong>Liczba odsłon: </strong>414</p></div><p class="hyNtP12Spf">Microsoft wprowadza do aplikacji Copilot dla systemów Windows i macOS wbudowaną przeglądarkę internetową. Umożliwia otwieranie stron w panelu bocznym</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Koniec z ręcznym formatowaniem slajdów. Copilot zaba o spójność w PowerPoint (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.114Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Koniec z ręcznym formatowaniem slajdów. Copilot zaba o spójność w PowerPoint"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Koniec z ręcznym formatowaniem slajdów. Copilot zaba o spójność w PowerPoint</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.09.2026, 16:20</p><p><strong>Liczba odsłon: </strong>397</p></div><p class="hyNtP12Spf">Praca nad prezentacją w PowerPoint często skupia się na ręcznym dopasowywaniu szablonów, fontów i kolorów. Problem ten rozwiązują nowe narzędzia AI</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.377Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Koniec z ręcznym formatowaniem slajdów. Copilot zaba o spójność w PowerPoint"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Koniec z ręcznym formatowaniem slajdów. Copilot zaba o spójność w PowerPoint</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>19.09.2026, 16:20</p><p><strong>Liczba odsłon: </strong>399</p></div><p class="hyNtP12Spf">Praca nad prezentacją w PowerPoint często skupia się na ręcznym dopasowywaniu szablonów, fontów i kolorów. Problem ten rozwiązują nowe narzędzia AI</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kiedy koniec wsparcia dla Office 2021? Microsoft podał ostateczną datę (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.118Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Kiedy koniec wsparcia dla Office 2021? Microsoft podał ostateczną datę"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Kiedy koniec wsparcia dla Office 2021? Microsoft podał ostateczną datę</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.09.2026, 08:40</p><p><strong>Liczba odsłon: </strong>515</p></div><p class="hyNtP12Spf">Microsoft wyznaczył ostateczną datę wsparcia dla pakietu Office 2021 LTSC. Co dalej?</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.379Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Kiedy koniec wsparcia dla Office 2021? Microsoft podał ostateczną datę"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Kiedy koniec wsparcia dla Office 2021? Microsoft podał ostateczną datę</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>18.09.2026, 08:40</p><p><strong>Liczba odsłon: </strong>518</p></div><p class="hyNtP12Spf">Microsoft wyznaczył ostateczną datę wsparcia dla pakietu Office 2021 LTSC. Co dalej?</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft wprowadza bezwzględny kodeks dla AI. Ludzie na pierwszym miejscu (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.118Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft wprowadza bezwzględny kodeks dla AI. Ludzie na pierwszym miejscu"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza bezwzględny kodeks dla AI. Ludzie na pierwszym miejscu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>17.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>1015</p></div><p class="hyNtP12Spf">W odpowiedzi na rosnące zagrożenie Microsoft przedstawił nowy kodeks. Wyznacza on twarde, niepodlegające negocjacjom zasady bezpiecznego rozwijania AI</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.380Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="Microsoft wprowadza bezwzględny kodeks dla AI. Ludzie na pierwszym miejscu"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">Microsoft wprowadza bezwzględny kodeks dla AI. Ludzie na pierwszym miejscu</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>17.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>1018</p></div><p class="hyNtP12Spf">W odpowiedzi na rosnące zagrożenie Microsoft przedstawił nowy kodeks. Wyznacza on twarde, niepodlegające negocjacjom zasady bezpiecznego rozwijania AI</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI wstrzymuje debiut giełdowy. Ryzyko wyginięcia jest za duże (CentrumXP)]]></title>
         <id>https://giesche.github.io/feeds/all.xml</id>
         <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.119Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="OpenAI wstrzymuje debiut giełdowy. Ryzyko wyginięcia jest za duże"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wstrzymuje debiut giełdowy. Ryzyko wyginięcia jest za duże</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>15.09.2026, 21:37</p><p><strong>Liczba odsłon: </strong>731</p></div><p class="hyNtP12Spf">Sam Altman wykluczył debiut giełdowy OpenAI w 2026 r. ze względu na ryzyko egzystencjalne związane z rozwojem sztucznej inteligencji</p></div></div>]]></content>
+        <updated>2026-09-29T21:29:29.382Z</updated>
+        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="OpenAI wstrzymuje debiut giełdowy. Ryzyko wyginięcia jest za duże"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wstrzymuje debiut giełdowy. Ryzyko wyginięcia jest za duże</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>15.09.2026, 21:37</p><p><strong>Liczba odsłon: </strong>735</p></div><p class="hyNtP12Spf">Sam Altman wykluczył debiut giełdowy OpenAI w 2026 r. ze względu na ryzyko egzystencjalne związane z rozwojem sztucznej inteligencji</p></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI wypuścił nowego agenta. Sztuczna inteligencja przeanalizuje twoje dane (CentrumXP)]]></title>
-        <id>https://giesche.github.io/feeds/all.xml</id>
-        <link href="https://giesche.github.io/feeds/all.xml"/>
-        <updated>2026-09-29T11:28:43.124Z</updated>
-        <content type="html"><![CDATA[<div class="portal-entry-card MW752nEYWM IY50o4qOhh icgZvwHoOK"><div class="T2WD2nNbi4"><span class=" lazy-load-image-background blur" style="color:transparent;display:inline-block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" alt="OpenAI wypuścił nowego agenta. Sztuczna inteligencja przeanalizuje twoje dane"></span></div><div class="Q0sWZ6mCKt"><h3 class="wpPFxnOUGc">OpenAI wypuścił nowego agenta. Sztuczna inteligencja przeanalizuje twoje dane</h3><div class="jxnowhmyOZ" data-testid="entry-info"><p><strong>Autor: </strong>Krzysztof Sulikowski</p><p><strong>Opublikowano: </strong>14.09.2026, 08:00</p><p><strong>Liczba odsłon: </strong>792</p></div><p class="hyNtP12Spf">OpenAI wprowadza nowe narzędzie dla biznesu. "Data agent" pozwala osobom bez wiedzy technicznej analizować dane firmowe i tworzyć pulpity w Power BI</p></div></div>]]></content>
+        <title type="html"><![CDATA[Hardening konfiguracji (Władcy sieci)]]></title>
+        <id>https://wladcysieci.pl/2026/09/29/hardening-konfiguracji/</id>
+        <link href="https://wladcysieci.pl/2026/09/29/hardening-konfiguracji/"/>
+        <updated>2026-09-29T12:59:20.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/09/29/hardening-konfiguracji/" title="Hardening konfiguracji" rel="bookmark" class="post-img-link">
+	<img alt="Hardening konfiguracji" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_hardening-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>			<a href="https://wladcysieci.pl/category/sieci/"><span class="category-square" style="background: #2537aa"></span><span class="category-name">Sieci</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/29/hardening-konfiguracji/" rel="bookmark">Hardening konfiguracji</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Piotr Wojciechowski</span><span class="post-date" itemprop="dateCreated" datetime="29 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-29T14:59:20+02:00">29 września 2026</time></span>			<span class="post-views">
+				146&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>Hardening konfiguracji urządzeń sieciowych ma ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/09/29/hardening-konfiguracji/" rel="bookmark" title="Czytaj Hardening konfiguracji">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall (Władcy sieci)]]></title>
+        <title type="html"><![CDATA[Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI... (Władcy sieci)]]></title>
         <id>https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/</id>
         <link href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/"/>
         <updated>2026-09-22T08:03:40.000Z</updated>
@@ -2477,14 +2508,14 @@
 			<a href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" title="Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall&nbsp;&nbsp;" rel="bookmark" class="post-img-link">
 	<img alt="Wyciek do AI: Gdzie kończy się DLP, a zaczyna AI Firewall&nbsp;&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_AIvsDLP-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/ai/"><span class="category-square" style="background: #007d96"></span><span class="category-name">AI</span></a>			<a href="https://wladcysieci.pl/category/bezpieczenstwo/"><span class="category-square" style="background: #94a40a"></span><span class="category-name">Bezpieczeństwo</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" rel="bookmark">Wyciek do&nbsp;AI: Gdzie kończy się DLP, a&nbsp;zaczyna AI Firewall&nbsp;&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/22/wyciek-do-ai-gdzie-konczy-sie-dlp-a-zaczyna-ai-firewall/" rel="bookmark">Wyciek do&nbsp;AI: Gdzie kończy się DLP, a&nbsp;zaczyna AI...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Oliwia Jaskólska</span><span class="post-date" itemprop="dateCreated" datetime="22 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-22T10:03:40+02:00">22 września 2026</time></span>			<span class="post-views">
-				283&nbsp;<i class="icon-eye"></i>			</span>
+				291&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2515,7 +2546,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/16/praktyczny-kubernetes-cz-9-ci-cd-i-gitops-z-argocd/" rel="bookmark">Praktyczny Kubernetes cz.9 – CI/CD i&nbsp;GitOps z&nbsp;ArgoCD&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="16 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-16T10:12:12+02:00">16 września 2026</time></span>			<span class="post-views">
-				239&nbsp;<i class="icon-eye"></i>			</span>
+				244&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2546,7 +2577,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" rel="bookmark">Akt o&nbsp;cyberodporności (CRA)&nbsp; – podstawowe...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Miroslaw Gumularz</span><span class="post-date" itemprop="dateCreated" datetime="3 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-03T13:14:05+02:00">3 września 2026</time></span>			<span class="post-views">
-				650&nbsp;<i class="icon-eye"></i>			</span>
+				653&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -2556,37 +2587,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/09/03/akt-o-cyberodpornosci-cra-podstawowe-informacje/" rel="bookmark" title="Czytaj Akt o cyberodporności (CRA)&nbsp; – podstawowe informacje&nbsp;">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podatności na radarze – sierpień (Władcy sieci)]]></title>
-        <id>https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/</id>
-        <link href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/"/>
-        <updated>2026-09-02T09:46:53.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" title="Podatności na radarze – sierpień" rel="bookmark" class="post-img-link">
-	<img alt="Podatności na radarze – sierpień" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_Podatnosci_sierpien-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/alerty/"><span class="category-square" style="background: #f73100"></span><span class="category-name">ALERTY</span></a>			<a href="https://wladcysieci.pl/category/podatnosci/"><span class="category-square" style="background: #f400c7"></span><span class="category-name">Podatności</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" rel="bookmark">Podatności na&nbsp;radarze – sierpień</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="2 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-02T11:46:53+02:00">2 września 2026</time></span>			<span class="post-views">
-				306&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Przedstawiamy najnowsze podsumowanie z&nbsp;bazy ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/09/02/podatnosci-na-radarze-sierpien/" rel="bookmark" title="Czytaj Podatności na radarze – sierpień">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
