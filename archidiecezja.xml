@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-10-01T21:59:30.431Z</updated>
+    <updated>2026-10-02T11:13:44.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Powołani do drogi]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4328-powolani-do-drogi</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4328-powolani-do-drogi"/>
+        <updated>2026-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-09-2026</p><a href="/o-diecezji/aktualnosci/4328-powolani-do-drogi" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.inaunsp-94.jpg" alt="Foto: Krzysztof Błażyca/Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4328-powolani-do-drogi" title="Powołani do drogi" target="_self">Powołani do drogi</a></h4><p class="nspText tleft fnull">Uroczysta Eucharystia inaugurująca nowy rok formacyjny w Wyższym Śląskim Seminarium Duchownym została odprawiona w środę, 30 września.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponad 500 krzyży dla zmarłych osób bezdomnych]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4329-ponad-500-krzyzy-dla-zmarlych-osob-bezdomnych</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4318-bp-grzegorz-olszowski-nie-mozemy-lukrowac-rzeczywistosci-trzeba-stawac-w-prawdzie"/>
         <updated>2026-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-09-2026</p><a href="/o-diecezji/aktualnosci/4318-bp-grzegorz-olszowski-nie-mozemy-lukrowac-rzeczywistosci-trzeba-stawac-w-prawdzie" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.bp_olszowski26nsp-94.jpg" alt="youtube.pl"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4318-bp-grzegorz-olszowski-nie-mozemy-lukrowac-rzeczywistosci-trzeba-stawac-w-prawdzie" title="Bp Grzegorz Olszowski: „Nie możemy lukrować rzeczywistości. Trzeba stawać w prawdzie&quot;" target="_self">Bp Grzegorz Olszowski: „Nie możemy lukrować rzeczywistości. Trzeba stawać w prawdzie"</a></h4><p class="nspText tleft fnull">– Bóg nie zniewala człowieka, bo nie da się przymusić do miłowania – mówił na antenie Radia eM bp Grzegorz Olszowski, odnosząc się do tragedii w Jarosławiu.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotkanie przełożonych męskich wspólnot zakonnych w Tychach]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4320-spotkanie-przelozonych-meskich-wspolnot-zakonnych-w-tychach</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4320-spotkanie-przelozonych-meskich-wspolnot-zakonnych-w-tychach"/>
-        <updated>2026-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">25-09-2026</p><a href="/o-diecezji/aktualnosci/4320-spotkanie-przelozonych-meskich-wspolnot-zakonnych-w-tychach" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.zakonynsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4320-spotkanie-przelozonych-meskich-wspolnot-zakonnych-w-tychach" title="Spotkanie przełożonych męskich wspólnot zakonnych w Tychach" target="_self">Spotkanie przełożonych męskich wspólnot zakonnych w Tychach</a></h4><p class="nspText tleft fnull">Po dwuletniej przerwie przełożeni męskich wspólnot życia konsekrowanego spotkali się w kościele św. Franciszka i św. Klary w Tychach.
 </p>]]></content>
     </entry>
 </feed>
