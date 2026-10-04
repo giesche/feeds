@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-10-03T20:04:29.075Z</updated>
+    <updated>2026-10-04T11:12:30.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rok od ingresu abp. Andrzeja Przybylskiego]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4332-rok-od-ingresu-abp-andrzeja-przybylskiego</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4332-rok-od-ingresu-abp-andrzeja-przybylskiego"/>
+        <updated>2026-10-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">03-10-2026</p><a href="/o-diecezji/aktualnosci/4332-rok-od-ingresu-abp-andrzeja-przybylskiego" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.abp_ingres01nsp-94.jpg" alt="Foto: Roman Koszowski/ Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4332-rok-od-ingresu-abp-andrzeja-przybylskiego" title="Rok od ingresu abp. Andrzeja Przybylskiego" target="_self">Rok od ingresu abp. Andrzeja Przybylskiego</a></h4><p class="nspText tleft fnull">„Franciszku, odbuduj mój Kościół!” – tymi słowami rozpoczął homilię abp Andrzej Przybylski podczas ingresu do katedry Chrystusa Króla w Katowicach.
+</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[„Potrzebujemy pomocy, która jest spoza nas”. Abp Przybylski w Centrum Zdrowia Dziecka]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4331-potrzebujemy-pomocy-ktora-jest-spoza-nas-abp-przybylski-w-centrum-zdrowia-dziecka</id>
@@ -59,14 +67,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych"/>
         <updated>2026-09-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-09-2026</p><a href="/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kancelariensp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych" title="Kancelarie na Taborze. Rekolekcje pracowników kancelarii parafialnych" target="_self">Kancelarie na Taborze. Rekolekcje pracowników kancelarii parafialnych</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się od 25 do 27 września br. w Ośrodku Spotkań i Formacji w Brennej.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ks. prof. Jerzy Myszor otrzymał statuetkę im. bł. ks. Józefa Czempiela]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4324-ks-prof-jerzy-myszor-otrzymal-statuetke-im-bl-ks-jozefa-czempiela</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4324-ks-prof-jerzy-myszor-otrzymal-statuetke-im-bl-ks-jozefa-czempiela"/>
-        <updated>2026-09-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">27-09-2026</p><a href="/o-diecezji/aktualnosci/4324-ks-prof-jerzy-myszor-otrzymal-statuetke-im-bl-ks-jozefa-czempiela" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.Ksmyszor_statuetkansp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4324-ks-prof-jerzy-myszor-otrzymal-statuetke-im-bl-ks-jozefa-czempiela" title="Ks. prof. Jerzy Myszor otrzymał statuetkę im. bł. ks. Józefa Czempiela" target="_self">Ks. prof. Jerzy Myszor otrzymał statuetkę im. bł. ks. Józefa Czempiela</a></h4><p class="nspText tleft fnull">W niedzielę 27 września historyk Kościoła na Górnym Śląsku otrzymał Honorową Statuetkę im. bł. ks. Józefa Czempiela.
 </p>]]></content>
     </entry>
 </feed>
