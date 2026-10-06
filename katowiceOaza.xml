@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://katowiceoaza.pl/</id>
     <title>Katowice Oaza</title>
-    <updated>2026-10-05T23:15:20.716Z</updated>
+    <updated>2026-10-06T12:09:37.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://katowiceoaza.pl/wp-content/uploads/2022/06/logo_icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Informator Październikowy po DWMiO]]></title>
+        <id>https://katowiceoaza.pl/informator-pazdziernikowy-po-dwmio/</id>
+        <link href="https://katowiceoaza.pl/informator-pazdziernikowy-po-dwmio/"/>
+        <updated>2026-10-06T08:34:39.000Z</updated>
+        <content type="html"><![CDATA[<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">
+
+
+<figure class="wp-block-post-featured-image"><img width="1774" height="887" src="https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026.png 1774w, https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026-300x150.png 300w, https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026-1024x512.png 1024w, https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026-768x384.png 768w, https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026-1536x768.png 1536w, https://katowiceoaza.pl/wp-content/uploads/2026/10/informator_2026-1320x660.png 1320w" sizes="auto, (max-width: 1774px) 100vw, 1774px"></figure>
+
+<h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/informator-pazdziernikowy-po-dwmio/" target="_self">Informator Październikowy po DWMiO</a></h2>
+
+<div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-10-06T10:34:39+02:00">6 października 2026</time></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Szkoła Uczniów Chrystusa]]></title>
         <id>https://katowiceoaza.pl/szkola-uczniow-chrystusa/</id>
@@ -74,20 +88,6 @@
 <h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/mission-impossible-kilka-slow-od-diakonii-misyjnej-2/" target="_self">Mission (im)Possible – kilka słów od Diakonii Misyjnej</a></h2>
 
 <div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-03-24T20:09:06+01:00">24 marca 2026</time></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ważny człowiek, ważne dzieło!]]></title>
-        <id>https://katowiceoaza.pl/wazny-czlowiek-wazne-dzielo/</id>
-        <link href="https://katowiceoaza.pl/wazny-czlowiek-wazne-dzielo/"/>
-        <updated>2026-03-07T08:46:07.000Z</updated>
-        <content type="html"><![CDATA[<hr class="wp-block-separator has-text-color has-light-color has-alpha-channel-opacity has-light-background-color has-background is-style-wide">
-
-
-<figure class="wp-block-post-featured-image"><img width="1536" height="2048" src="https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" loading="lazy" srcset="https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04.jpeg 1536w, https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04-225x300.jpeg 225w, https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04-768x1024.jpeg 768w, https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04-1152x1536.jpeg 1152w, https://katowiceoaza.pl/wp-content/uploads/2026/03/whatsapp-image-2026-03-07-at-09.13.04-1320x1760.jpeg 1320w" sizes="auto, (max-width: 1536px) 100vw, 1536px"></figure>
-
-<h2 class="wp-block-post-title has-small-font-size"><a href="https://katowiceoaza.pl/wazny-czlowiek-wazne-dzielo/" target="_self">Ważny człowiek, ważne dzieło!</a></h2>
-
-<div style="font-size:0.8rem" class="wp-block-post-date"><time datetime="2026-03-07T09:46:07+01:00">7 marca 2026</time></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spotkanie animatorów kręgów – Tychy.]]></title>

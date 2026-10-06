@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-10-05T23:15:20.738Z</updated>
+    <updated>2026-10-06T12:09:37.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nauczyciele pielgrzymowali do Piekar Śląskich]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4333-nauczyciele-pielgrzymowali-do-piekar-slaskich</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4333-nauczyciele-pielgrzymowali-do-piekar-slaskich"/>
+        <updated>2026-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">04-10-2026</p><a href="/o-diecezji/aktualnosci/4333-nauczyciele-pielgrzymowali-do-piekar-slaskich" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.naucznsp-94.jpg" alt="Foto: Bazylika w Piekarach Śl."></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4333-nauczyciele-pielgrzymowali-do-piekar-slaskich" title="Nauczyciele pielgrzymowali do Piekar Śląskich" target="_self">Nauczyciele pielgrzymowali do Piekar Śląskich</a></h4><p class="nspText tleft fnull">Nauczyciele, wychowawcy, katecheci i pracownicy oświaty uczestniczyli 3 października w XX Archidiecezjalnej Pielgrzymce Nauczycieli do Sanktuarium Matki Sprawiedliwości i Miłości Społecznej w Piekarach Śląskich...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rok od ingresu abp. Andrzeja Przybylskiego]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4332-rok-od-ingresu-abp-andrzeja-przybylskiego</id>
@@ -59,14 +66,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4325-biskupi-metropolii-katowickiej-o-powolaniach-odnowie-parafii-i-spolecznym-glosie-kosciola"/>
         <updated>2026-09-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-09-2026</p><a href="/o-diecezji/aktualnosci/4325-biskupi-metropolii-katowickiej-o-powolaniach-odnowie-parafii-i-spolecznym-glosie-kosciola" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.biskupinsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4325-biskupi-metropolii-katowickiej-o-powolaniach-odnowie-parafii-i-spolecznym-glosie-kosciola" title="Biskupi metropolii katowickiej o powołaniach, odnowie parafii i społecznym głosie Kościoła" target="_self">Biskupi metropolii katowickiej o powołaniach, odnowie parafii i społecznym głosie Kościoła</a></h4><p class="nspText tleft fnull">Zebranie odbyło się w poniedziałek, 28 września, w Kurii Metropolitalnej w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kancelarie na Taborze. Rekolekcje pracowników kancelarii parafialnych]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych"/>
-        <updated>2026-09-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">28-09-2026</p><a href="/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.kancelariensp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4326-kancelarie-na-taborze-rekolekcje-pracownikow-kancelarii-parafialnych" title="Kancelarie na Taborze. Rekolekcje pracowników kancelarii parafialnych" target="_self">Kancelarie na Taborze. Rekolekcje pracowników kancelarii parafialnych</a></h4><p class="nspText tleft fnull">Spotkanie odbyło się od 25 do 27 września br. w Ośrodku Spotkań i Formacji w Brennej.
 </p>]]></content>
     </entry>
 </feed>
