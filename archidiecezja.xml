@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://archidiecezjakatowicka.pl/</id>
     <title>Archidiecezja Katowicka</title>
-    <updated>2026-10-06T21:47:23.258Z</updated>
+    <updated>2026-10-07T11:54:16.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://archidiecezjakatowicka.pl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nowi proboszczowie w archidiecezji katowickiej]]></title>
+        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4336-nowi-proboszczowie-w-archidiecezji-katowickiej</id>
+        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4336-nowi-proboszczowie-w-archidiecezji-katowickiej"/>
+        <updated>2026-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">06-10-2026</p><a href="/o-diecezji/aktualnosci/4336-nowi-proboszczowie-w-archidiecezji-katowickiej" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.deknsp-94.jpg" alt="Foto: Tomasz Nocoń /Foto Gość"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4336-nowi-proboszczowie-w-archidiecezji-katowickiej" title="Nowi proboszczowie w archidiecezji katowickiej" target="_self">Nowi proboszczowie w archidiecezji katowickiej</a></h4><p class="nspText tleft fnull">W kaplicy Kurii Metropolitalnej w Katowicach abp Andrzej Przybylski, metropolita katowicki, wręczył dekrety duchownym, którzy dotychczas pełnili funkcję administratorów parafii, a dziś zostali mianowani ich pro...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Młodzi ze „Studni Jakuba” spotkali się z abp. Andrzejem Przybylskim]]></title>
         <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4335-mlodzi-ze-studni-jakuba-spotkali-sie-z-abp-andrzejem-przybylskim</id>
@@ -58,14 +65,6 @@
         <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4329-ponad-500-krzyzy-dla-zmarlych-osob-bezdomnych"/>
         <updated>2026-09-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-09-2026</p><a href="/o-diecezji/aktualnosci/4329-ponad-500-krzyzy-dla-zmarlych-osob-bezdomnych" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.dlabezdomnychnsp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4329-ponad-500-krzyzy-dla-zmarlych-osob-bezdomnych" title="Ponad 500 krzyży dla zmarłych osób bezdomnych" target="_self">Ponad 500 krzyży dla zmarłych osób bezdomnych</a></h4><p class="nspText tleft fnull">Ponad 500 drewnianych krzyży stanęło 30 września na grobach osób bezdomnych i ubogich na cmentarzu komunalnym w Katowicach.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abp Andrzej Przybylski: Polska potrzebuje Bożego ducha]]></title>
-        <id>https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4327-abp-andrzej-przybylski-polska-potrzebuje-bozego-ducha</id>
-        <link href="https://archidiecezjakatowicka.pl/o-diecezji/aktualnosci/4327-abp-andrzej-przybylski-polska-potrzebuje-bozego-ducha"/>
-        <updated>2026-09-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p class="nspInfo nspInfo1 tright fnull">30-09-2026</p><a href="/o-diecezji/aktualnosci/4327-abp-andrzej-przybylski-polska-potrzebuje-bozego-ducha" class="nspImageWrapper tleft fnull gkResponsive" style="margin:0;" target="_self"><img class="nspImage" src="https://archidiecezjakatowicka.pl/modules/mod_news_pro_gk5/cache/2026.zapolskensp-94.jpg" alt="Foto: Biuro prasowe"></a><h4 class="nspHeader tleft fnull has-image"><a href="/o-diecezji/aktualnosci/4327-abp-andrzej-przybylski-polska-potrzebuje-bozego-ducha" title="Abp Andrzej Przybylski: Polska potrzebuje Bożego ducha" target="_self">Abp Andrzej Przybylski: Polska potrzebuje Bożego ducha</a></h4><p class="nspText tleft fnull">Modlitwa za Polskę sprawowana jest w każdy ostatni wtorek miesiąca&nbsp;w parafii Podwyższenia Krzyża Świętego w Katowicach-Brynowie.
 </p>]]></content>
     </entry>
 </feed>
