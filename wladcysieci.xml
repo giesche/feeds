@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wladcysieci.pl/</id>
     <title>Władcy sieci</title>
-    <updated>2026-10-13T21:55:19.773Z</updated>
+    <updated>2026-10-14T10:24:24.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wladcysieci.pl/wp-content/uploads/2020/04/96x96-150x150.png</icon>
     <entry>
-        <title type="html"><![CDATA[Najnowszy raport o polskim rynku cyfrowym: 74 mld złotych i dominacja zagranicznych technologii]]></title>
+        <title type="html"><![CDATA[Praktyczny Kubernetes cz.10 – Instalacja i konfiguracja ArgoCD]]></title>
+        <id>https://wladcysieci.pl/2026/10/14/praktyczny-kubernetes-cz-10-instalacja-i-konfiguracja-argocd/</id>
+        <link href="https://wladcysieci.pl/2026/10/14/praktyczny-kubernetes-cz-10-instalacja-i-konfiguracja-argocd/"/>
+        <updated>2026-10-14T06:31:59.000Z</updated>
+        <content type="html"><![CDATA[<div class="single-inner-content">
+        <figure class="featured-image post-img">
+			<a href="https://wladcysieci.pl/2026/10/14/praktyczny-kubernetes-cz-10-instalacja-i-konfiguracja-argocd/" title="Praktyczny Kubernetes cz.10 – Instalacja i konfiguracja ArgoCD&nbsp;" rel="bookmark" class="post-img-link">
+	<img alt="Praktyczny Kubernetes cz.10 – Instalacja i konfiguracja ArgoCD&nbsp;" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/10/WS_Kubernetes_10-270x180.png">		</a>
+	</figure>                        <div class="post-list">
+                                        <header class="article-header">
+                    
+                        <div class="post-meta post-meta-categories">
+                            			<a href="https://wladcysieci.pl/category/konteneryzacja/"><span class="category-square" style="background: #f6ff00"></span><span class="category-name">Konteneryzacja</span></a>			<a href="https://wladcysieci.pl/category/poradniki/"><span class="category-square" style="background: #9177e5"></span><span class="category-name">PORADNIKI</span></a>                        </div>
+
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/10/14/praktyczny-kubernetes-cz-10-instalacja-i-konfiguracja-argocd/" rel="bookmark">Praktyczny Kubernetes cz.10 – Instalacja i&nbsp;konfiguracja ArgoCD&nbsp;</a></h2>                            <div class="post-meta post-meta-details">
+                        <span class="post-author post-author__no-links">Arkadiusz Zug</span><span class="post-date" itemprop="dateCreated" datetime="14 października 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-10-14T08:31:59+02:00">14 października 2026</time></span>			<span class="post-views">
+				84&nbsp;<i class="icon-eye"></i>			</span>
+		                        </div>
+                                            </header>
+                        <div class="post-wrap-content post-content ">
+            <div class="post-content-text">
+                                        <p>W&nbsp;poprzednim artykule omawiałem czym ...</p>
+                                </div>
+                    </div>
+                            <footer>
+                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/10/14/praktyczny-kubernetes-cz-10-instalacja-i-konfiguracja-argocd/" rel="bookmark" title="Czytaj Praktyczny Kubernetes cz.10 – Instalacja i konfiguracja ArgoCD&nbsp;">Czytaj całość</a>
+                            </footer>
+                    </div><!-- End post-list -->
+            </div><!-- End single-inner-content -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Najnowszy raport o polskim rynku cyfrowym: 74 mld...]]></title>
         <id>https://wladcysieci.pl/2026/10/08/najnowszy-raport-o-polskim-rynku-cyfrowym-74-mld-zlotych-i-dominacja-zagranicznych-technologii/</id>
         <link href="https://wladcysieci.pl/2026/10/08/najnowszy-raport-o-polskim-rynku-cyfrowym-74-mld-zlotych-i-dominacja-zagranicznych-technologii/"/>
         <updated>2026-10-08T12:56:05.000Z</updated>
@@ -15,14 +46,14 @@
 			<a href="https://wladcysieci.pl/2026/10/08/najnowszy-raport-o-polskim-rynku-cyfrowym-74-mld-zlotych-i-dominacja-zagranicznych-technologii/" title="Najnowszy raport o polskim rynku cyfrowym: 74 mld złotych i dominacja zagranicznych technologii" rel="bookmark" class="post-img-link">
 	<img alt="Najnowszy raport o polskim rynku cyfrowym: 74 mld złotych i dominacja zagranicznych technologii" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/10/WS_AIvsDLP-270x180.png">		</a>
 	</figure>                        <div class="post-list">
-                                        <header class="article-header">
+                                        <header class="article-header header-no-author">
                     
                         <div class="post-meta post-meta-categories">
                             			<a href="https://wladcysieci.pl/category/badanie/"><span class="category-square" style="background: #3f3f3f"></span><span class="category-name">Badanie</span></a>			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>                        </div>
 
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/10/08/najnowszy-raport-o-polskim-rynku-cyfrowym-74-mld-zlotych-i-dominacja-zagranicznych-technologii/" rel="bookmark">Najnowszy raport o&nbsp;polskim rynku cyfrowym: 74 mld złotych i&nbsp;dominacja zagranicznych technologii</a></h2>                            <div class="post-meta post-meta-details">
+                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/10/08/najnowszy-raport-o-polskim-rynku-cyfrowym-74-mld-zlotych-i-dominacja-zagranicznych-technologii/" rel="bookmark">Najnowszy raport o&nbsp;polskim rynku cyfrowym: 74 mld...</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Angelika Chrzan</span><span class="post-date" itemprop="dateCreated" datetime="8 października 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-10-08T14:56:05+02:00">8 października 2026</time></span>			<span class="post-views">
-				155&nbsp;<i class="icon-eye"></i>			</span>
+				168&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -53,7 +84,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/10/05/podatnosci-na-radarze-wrzesien/" rel="bookmark">Podatności na&nbsp;radarze – wrzesień</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="5 października 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-10-05T09:13:40+02:00">5 października 2026</time></span>			<span class="post-views">
-				359&nbsp;<i class="icon-eye"></i>			</span>
+				363&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -84,7 +115,7 @@
 
                         <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/10/01/ksc-po-3-pazdziernika-2026-r/" rel="bookmark"><i class="icon-pencil"></i>KSC po&nbsp;3 października 2026 r.</a></h2>                            <div class="post-meta post-meta-details">
                         <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="1 października 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-10-01T10:45:38+02:00">1 października 2026</time></span>			<span class="post-views">
-				545&nbsp;<i class="icon-eye"></i>			</span>
+				556&nbsp;<i class="icon-eye"></i>			</span>
 		                        </div>
                                             </header>
                         <div class="post-wrap-content post-content ">
@@ -94,37 +125,6 @@
                     </div>
                             <footer>
                                     <a class="post-read-more" href="https://wladcysieci.pl/2026/10/01/ksc-po-3-pazdziernika-2026-r/" rel="bookmark" title="Czytaj KSC po 3 października 2026 r.">Czytaj całość</a>
-                            </footer>
-                    </div><!-- End post-list -->
-            </div><!-- End single-inner-content -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sieciówka: wrzesień 2026 – Fałszywa reklama,...]]></title>
-        <id>https://wladcysieci.pl/2026/09/30/sieciowka-wrzesien-2026-falszywa-reklama-cyberatak-nis2-akademia-wladcow-sieci/</id>
-        <link href="https://wladcysieci.pl/2026/09/30/sieciowka-wrzesien-2026-falszywa-reklama-cyberatak-nis2-akademia-wladcow-sieci/"/>
-        <updated>2026-09-30T07:33:28.000Z</updated>
-        <content type="html"><![CDATA[<div class="single-inner-content">
-        <figure class="featured-image post-img">
-			<a href="https://wladcysieci.pl/2026/09/30/sieciowka-wrzesien-2026-falszywa-reklama-cyberatak-nis2-akademia-wladcow-sieci/" title="Sieciówka: wrzesień 2026 – Fałszywa reklama, cyberatak, NIS2, Akademia Władców Sieci" rel="bookmark" class="post-img-link">
-	<img alt="Sieciówka: wrzesień 2026 – Fałszywa reklama, cyberatak, NIS2, Akademia Władców Sieci" width="270" height="180" src="https://wladcysieci.pl/wp-content/uploads/2026/09/WS_Sieciowka_wrzesien-270x180.png">		</a>
-	</figure>                        <div class="post-list">
-                                        <header class="article-header header-no-author">
-                    
-                        <div class="post-meta post-meta-categories">
-                            			<a href="https://wladcysieci.pl/category/newsy/"><span class="category-square" style="background: #ea6500"></span><span class="category-name">NEWSY</span></a>			<a href="https://wladcysieci.pl/category/sieciowka/"><span class="category-square" style="background: #db239a"></span><span class="category-name">Sieciówka</span></a>                        </div>
-
-                        <h2 class="post-title"><a class="post-title" href="https://wladcysieci.pl/2026/09/30/sieciowka-wrzesien-2026-falszywa-reklama-cyberatak-nis2-akademia-wladcow-sieci/" rel="bookmark">Sieciówka: wrzesień 2026 – Fałszywa reklama,...</a></h2>                            <div class="post-meta post-meta-details">
-                        <span class="post-author post-author__no-links">Redakcja Władców Sieci</span><span class="post-date" itemprop="dateCreated" datetime="30 września 2026"><span class="date-separator"></span> <time class="entry-date published" datetime="2026-09-30T09:33:28+02:00">30 września 2026</time></span>			<span class="post-views">
-				423&nbsp;<i class="icon-eye"></i>			</span>
-		                        </div>
-                                            </header>
-                        <div class="post-wrap-content post-content ">
-            <div class="post-content-text">
-                                        <p>Cześć! Przed nami kolejny artykuł ...</p>
-                                </div>
-                    </div>
-                            <footer>
-                                    <a class="post-read-more" href="https://wladcysieci.pl/2026/09/30/sieciowka-wrzesien-2026-falszywa-reklama-cyberatak-nis2-akademia-wladcow-sieci/" rel="bookmark" title="Czytaj Sieciówka: wrzesień 2026 – Fałszywa reklama, cyberatak, NIS2, Akademia Władców Sieci">Czytaj całość</a>
                             </footer>
                     </div><!-- End post-list -->
             </div><!-- End single-inner-content -->]]></content>
